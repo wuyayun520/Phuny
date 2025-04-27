@@ -13,7 +13,7 @@
 	<key>provisioningProfiles</key>
 	<dict>
 		<key>com.RT5322Z7U7</key>
-		<string>comRT5322Z7U7_dis_20250427</string>
+		<string>com.RT5322Z7U7_dis_20250427</string>
 	</dict>
 	<key>signingCertificate</key>
 	<string>Apple Distribution</string>
