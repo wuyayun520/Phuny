@@ -1,0 +1,109 @@
+{
+    "userdata": [
+        {
+            "userId": "101",
+            "nickname": "Alya Windlight",
+            "userphoto": "assets/images/alluser/cos/cc_1/photo.jpg",
+            "usericonbg": "assets/images/alluser/cos/cc_1/userbg.jpg",
+            "introduction": "I'm Alia and I come from an ancient family of booksellers. Love literature and the sea, and be passionate about the study of ancient books. During the day, I work in the family library, and at dusk, I always stroll along the seaside to enjoy the afterglow of the setting sun. Gentle and reserved yet tenacious, I am willing to illuminate the path ahead with the light of knowledge.",
+            "post":[
+                {
+                    "postId": "101_1",
+                    "title": "Between Literature and Ocean: Alya's Dual World",
+                    "content": "Today I'm sharing my Alya Windlight cosplay. The first photo presents her as a literary guardian in her family library, immersed in the ocean of ancient wisdom; free and full of dreams. Two settings, one soul, interpreting the perfect blend of knowledge and nature. Thanks to photographer @SunsetVision for capturing these precious moments",
+                    "imag": "assets/images/alluser/cos/cc_1/post.jpg"
+                }
+            ]
+        },
+        {
+            "userId": "102",
+            "nickname": "Cirilla of Cintra",
+            "userphoto": "assets/images/alluser/cos/cc_2/photo.jpg",
+            "usericonbg": "assets/images/alluser/cos/cc_2/userbg.jpg",
+            "introduction": "I'm Ciri, a noble-born child of destiny from Cintra. Possessing the bloodline of ancient elves and the ability to travel through time and space. After experiencing hardship and separation, she was adopted by the witcher Geralt. I am both a warrior and a survivor, learning swordsmanship and magic. The journey of seeking myself and my family has never ceased.",
+            "post":[
+                {
+                    "postId": "102_1",
+                    "title": "Two Sides of Ciri: Where Modern Meets Fantasy",
+                    "content": "Sharing my dual-style Ciri cosplay! The first photo shows her after traveling to the modern world, maintaining her determination in a simple white outfit;  Thanks to photographer @WitcherVision for perfectly capturing the character's duality - one soul traversing different worlds and eras.",
+                    "imag": "assets/images/alluser/cos/cc_2/post.jpg"
+                }
+            ]
+        },
+        {
+            "userId": "103",
+            "nickname": "Jill Valentine",
+            "userphoto": "assets/images/alluser/cos/cc_3/photo.jpg",
+            "usericonbg": "assets/images/alluser/cos/cc_3/userbg.jpg",
+            "introduction": "I'm Jill Valentine, a former member of the S.T.A.R.S. Special Forces and a survivor of the Raccoon City disaster. Having experienced countless dangers, I continue to fight against threats and protect those in need. Proficient in firearms and survival skills, always ready to face danger. Even in the darkest moments, I will persist in fighting until the very last moment, believing in a better future.",
+            "post":[
+                {
+                    "postId": "103_1",
+                    "title": "Jill's Two Worlds: From Forest to Neon",
+                    "content": "Today I'm sharing my Jill Valentine dual-scene cosplay! The first photo shows her casual exploration outfit in the forest, with her fisherman hat and always on alert;Two environments, one warrior soul. Thanks to photographer @RE_Studios for perfectly capturing the character's essence!",
+                    "imag": "assets/images/alluser/cos/cc_3/post.jpg"
+                }
+            ]
+        },
+        {
+            "userId": "104",
+            "nickname": "Eila Silvia",
+            "userphoto": "assets/images/alluser/cos/cc_4/photo.jpg",
+            "usericonbg": "assets/images/alluser/cos/cc_4/userbg.jpg",
+            "introduction": "I'm Ella Sylvia, a contemporary art curator and critic. Living at the junction of elegance and avant-garde, I am passionate about Gothic aesthetics and avant-garde art. During the day, he is active in the city's top art galleries, and at night, he wanders in the ocean of literature and philosophy. I am renowned for my acute aesthetic vision and critical thinking, seeking the profound meanings hidden behind art.",
+            "post":[
+                {
+                    "postId": "104_1",
+                    "title": "Dual Artistry: The Day and Night of Aesthetics",
+                    "content": "Sharing my Eila Silvia cosplay! This set showcases her dual life: a refined curator in art galleries and an avant-garde soul in urban nightlife. The black and white palette with lace details reflects her love for gothic aesthetics, while the book and coffee in her hands symbolize her thirst for knowledge and urban living. Thanks to photographer @GothicLens for perfectly capturing the character's mysterious aura and inner depth.",
+                    "imag": "assets/images/alluser/cos/cc_4/post.jpg"
+                }
+            ]
+        },
+        {
+            "userId": "105",
+            "nickname": "Elina Lindblom",
+            "userphoto": "assets/images/alluser/cos/cc_5/photo.jpg",
+            "usericonbg": "assets/images/alluser/cos/cc_5/userbg.jpg",
+            "introduction": "I am Elina Lindblom, forest guardian and herbalist. The ancestral wisdom of nature flows through my veins, allowing me to hear plant whispers and forest breaths. I gather herbs, brew potions, and protect my homeland from outside threats. Don't be fooled by my youthful appearance—my soul is as steady and wise as the ancient forest, forever breathing in harmony with nature.",
+            "post":[
+                {
+                    "postId": "105_1",
+                    "title": "Forest Maiden: Between Nature and Danger",
+                    "content": "Finally completed my Elina Lindblom forest guardian cosplay! This set showcases her dual life: on one hand, a gentle maiden preparing herbal drinks at her cabin; on the other, a warrior constantly vigilant against forest dangers. The copper braids and freckle details present the character's natural affinity, while the leather equipment symbolizes her resilience and fighting spirit. Thanks to photographer @ForestLight for capturing the character's mysterious quality under dappled sunlight!",
+                    "imag": "assets/images/alluser/cos/cc_5/post.jpg"
+                }
+            ]
+        },
+        {
+            "userId": "106",
+            "nickname": "Isabella Rosario",
+            "userphoto": "assets/images/alluser/cos/cc_6/photo.jpg",
+            "usericonbg": "assets/images/alluser/cos/cc_6/userbg.jpg",
+            "introduction": "I am Isabella Rosario, an antique book collector and mystic researcher. By day, I enjoy fruits and flowers in the sunlight; by night, I immerse myself in the secrets of ancient texts. My family has guarded lost knowledge for generations, knowledge that connects the real world with the supernatural. Beneath my gentle and elegant appearance lies an endless desire to explore unknown truths.",
+            "post":[
+                {
+                    "postId": "106_1",
+                    "title": "The Mysterious Lady: A Dual Life in Light and Shadow",
+                    "content": "Completed my Isabella Rosario cosplay! This set showcases her dual life: by day, an elegant noblewoman enjoying sweet fruits on a sunny balcony; by night, a mysterious scholar intensely studying ancient magical texts by candlelight. The black curls and lace details display her classical beauty, while the contrasting light and dark settings symbolize her identity spanning two worlds. Thanks to photographer @MysticLens for capturing the character's mysterious charm and inner depth!",
+                    "imag": "assets/images/alluser/cos/cc_6/post.jpg"
+                }
+            ]
+        },
+        {
+            "userId": "107",
+            "nickname": "Alina Forestlight",
+            "userphoto": "assets/images/alluser/cos/cc_7/photo.jpg",
+            "usericonbg": "assets/images/alluser/cos/cc_7/userbg.jpg",
+            "introduction": "I am Alina, an elven maiden living at the forest edge. I cherish every inch of life in nature and can communicate with plants and animals. My days are spent gathering fruits and herbs, caring for woodland creatures. Though blessed with a millennium lifespan, I maintain curiosity and innocence toward the world. As a forest guardian, I protect this ancestral sanctuary with gentleness and wisdom.",
+            "post":[
+                {
+                    "postId": "107_1",
+                    "title": "Forest Elf: The Blend of Tradition and Modernity",
+                    "content": "Presenting my Alina Forestlight cosplay! This set displays the dual life of an elven maiden: one showing her in traditional attire having a picnic in the forest; the other depicting her adaptation to modern life, wearing simple clothing while walking with her loyal golden retriever companion. The delicate pointed ears, golden braids, and blue elements run through both looks, symbolizing her timeless elven essence spanning ancient and modern times. Thanks to photographer @ElvenGlory for capturing the elven charm in sunlight!",
+                    "imag": "assets/images/alluser/cos/cc_7/post.jpg"
+                }
+            ]
+        }
+    ]
+}

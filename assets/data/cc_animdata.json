@@ -1,0 +1,79 @@
+{
+    "userdata": [
+        {
+            "userId": "301",
+            "nickname": "Lia Chen",
+            "userphoto": "assets/images/alluser/anim/cc_1/photo.jpg",
+            "usericonbg": "assets/images/alluser/anim/cc_1/userbg.jpg",
+            "introduction": "I am Lia Chen, a young art designer in the big city. By day, I work at a renowned design firm; by night, I draw illustrations and write stories at home. I enjoy strolling city streets at dawn or dusk, capturing inspiration from changing light and shadows. My work blends Eastern and Western aesthetics, just like my dual cultural background. I believe the most beautiful stories hide in ordinary life, and every corner of the city holds moments worth telling.",
+            "post":[
+                {
+                    "postId": "301_1",
+                    "title": "City Girl: Professional Life Through Changing Seasons",
+                    "content": "Sharing my tribute to Lia Chen from the animated film 'City Stories'! These images showcase her professional life through different city seasons: one showing her confidently walking on winter streets in a long coat; the other presenting her relaxed pace in early summer, with sunlight casting dappled shadows through leaves onto city streets. Lia's sharp professional attire and warm gaze perfectly interpret this urban woman's elegance and resilience. This animation is famous for its delicate scene depictions and vivid lighting effects, I absolutely love it!",
+                    "imag": "assets/images/alluser/anim/cc_1/post.jpg"
+                }
+            ]
+        },
+        {
+            "userId": "302",
+            "nickname": "Sophia Alpine",
+            "userphoto": "assets/images/alluser/anim/cc_2/photo.jpg",
+            "usericonbg": "assets/images/alluser/anim/cc_2/userbg.jpg",
+            "introduction": "I am Sophia, a picture book author and illustrator living in a mountain town. I adore the natural beauty brought by seasonal changes, seeking creative inspiration between valleys and forests. Every morning, I take walks on cobblestone paths with my thermos, listening to birdsong and stream sounds. My works blend fairy tale elements with real life, just like me—yearning for magical worlds while cherishing every inch of land beneath my feet and every ordinary moment.",
+            "post":[
+                {
+                    "postId": "302_1",
+                    "title": "Mountain Valley Girl: Warm Tones Through Seasons",
+                    "content": "Sharing my favorite character Sophia from the animated film 'Alpine Stories'! These images showcase her life in a mountain town across different seasons: one shows her at the transition of autumn to winter, wrapped in a warm sweater and scarf, strolling on misty cobblestone paths with a hot drink; the other depicts spring-summer, with her wearing a bright floral patterned jacket, walking in front of an open-air café surrounded by mountain peaks. The pleated skirt, scarf, and coffee cup are her signature elements, while the warm, soft color tones perfectly present this animation's artistic style. The delicate portrayal of mountain town life in this work is truly captivating!",
+                    "imag": "assets/images/alluser/anim/cc_2/post.jpg"
+                }
+            ]
+        },
+        {
+            "userId": "303",
+            "nickname": "Emma Seasong",
+            "userphoto": "assets/images/alluser/anim/cc_3/photo.jpg",
+            "usericonbg": "assets/images/alluser/anim/cc_3/userbg.jpg",
+            "introduction": "I am Emma Seasong, a watercolor artist from a seaside town. I love visiting the harbor at sunset to feel the changing light on water. My creative inspiration comes from the ocean, sailboats, and warm sunset tones. By day, I teach watercolor classes in my small seaside shop; in the evening, I paint fishing boats returning to harbor from the wooden pier. I believe beauty exists in life's subtle details, and my mission is to capture these fleeting moments with my brush.",
+            "post":[
+                {
+                    "postId": "303_1",
+                    "title": "Harbor Girl: The Artist in Warm Twilight",
+                    "content": "Sharing my favorite character Emma Seasong from the animated film \"Light of the Bay\"! These images capture her serene moments at the harbor during sunset: one shows her leaning against the pier railing in a soft knit sweater and comfortable pants, admiring distant sailboats; the other features her standing by the dock with sunlight gently illuminating her profile, holding her signature small leather bag. The animators created an intoxicating atmosphere with golden-toned light and soft water reflections, perfectly showcasing this young artist's gentle connection with the ocean. The film's treatment of light and shadow is absolutely beautiful!",
+                    "imag": "assets/images/alluser/anim/cc_3/post.jpg"
+                }
+            ]
+        },
+        {
+            "userId": "304",
+            "nickname": "Mei Neon",
+            "userphoto": "assets/images/alluser/anim/cc_4/photo.jpg",
+            "usericonbg": "assets/images/alluser/anim/cc_4/userbg.jpg",
+            "introduction": "I am Mei Neon, a freelance photographer living in a futuristic Asian-styled metropolis. Night is my domain, where I ride my customized electric scooter through streets glittering with neon lights, capturing the city's most authentic moments. I love holographic projections, neon lights, and rain-reflective pavements. My photography blends retro and futuristic elements, just like my style—a perfect combination of bright transparent jackets and luminous components. In this sleepless city, I am a collector of light and shadow.",
+            "post":[
+                {
+                    "postId": "304_1",
+                    "title": "Neon Rider: Night Explorer of the Future City",
+                    "content": "Sharing my favorite character Mei from the animated film 'Neon City'! These images showcase her night life in a futuristic Asian-styled city: riding her glowing electric scooter through colorful neon streets. One photo displays her wearing a transparent yellow jacket over fluorescent digital-patterned clothing; the other shows her in a holographic reflective jacket, confidently moving forward under the city's intertwining red and blue lights. The film's treatment of neon reflections on wet pavement is stunning, while Mei's cool, free-spirited, and energetic personality is perfectly presented through these scenes. The visual innovation in this animation is truly unforgettable!",
+                    "imag": "assets/images/alluser/anim/cc_4/post.jpg"
+                }
+            ]
+        },
+        {
+            "userId": "305",
+            "nickname": "Isabella Autumn",
+            "userphoto": "assets/images/alluser/anim/cc_5/photo.jpg",
+            "usericonbg": "assets/images/alluser/anim/cc_5/userbg.jpg",
+            "introduction": "I am Isabella, a young fashion design student living in Brooklyn. I adore autumn's colors and atmosphere, always seeking inspiration in leaf-strewn neighborhoods. My design style blends retro and modern elements, just like my outfits—comfortable and loose yet fashionable. On weekends, I enjoy strolling through yellow-leaved streets, taking photos, or sketching in vintage cafés. I believe true style comes from balancing confidence and comfort.",
+            "post":[
+                {
+                    "postId": "305_1",
+                    "title": "Autumn Girl: Fashion Stroll Through Brooklyn",
+                    "content": "Sharing my beloved character Isabella from the animated film City Seasons'! These images perfectly capture her street fashion on golden autumn days in Brooklyn: one shows her wearing a beige loose blazer with a light yellow knit top, paired with light wide-leg pants, confidently standing on a leaf-covered street; the other depicts her in a light blue denim jacket with high-waisted jeans, strolling through alleys bathed in golden sunlight. The animators' handling of autumn light is stunning, with warm golden tones perfectly highlighting the character's vitality and fashion sense. This work's portrayal of city life and seasonal changes always warms my heart!",
+                    "imag": "assets/images/alluser/anim/cc_5/post.jpg"
+                }
+            ]
+        }
+    ]
+}
