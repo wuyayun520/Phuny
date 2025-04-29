@@ -36,45 +36,45 @@ class _BalanceScreenState extends State<BalanceScreen> {
   
   // Product data mapping - Maps our product IDs to their categories and quantities
   final Map<String, Map<String, dynamic>> _productMapping = {
-    'asweetecoin_6': {'category': 0, 'quantity': 5},
-    'phuny1_15': {'category': 0, 'quantity': 15},
-    'phuny1_19': {'category': 0, 'quantity': 19},
-    'phuny2_6': {'category': 1, 'quantity': 6},
-    'phuny2_19': {'category': 1, 'quantity': 19},
-    'phuny2_29': {'category': 1, 'quantity': 29},
-    'phuny3_8': {'category': 2, 'quantity': 8},
-    'phuny3_19': {'category': 2, 'quantity': 19},
-    'phuny3_39': {'category': 2, 'quantity': 39},
-    'phuny4_8': {'category': 3, 'quantity': 8},
-    'phuny4_19': {'category': 3, 'quantity': 19},
-    'phuny4_39': {'category': 3, 'quantity': 39},
+    'Phuny1_5': {'category': 0, 'quantity': 5},
+    'Phuny1_15': {'category': 0, 'quantity': 15},
+    'Phuny1_19': {'category': 0, 'quantity': 19},
+    'Phuny2_6': {'category': 1, 'quantity': 6},
+    'Phuny2_19': {'category': 1, 'quantity': 19},
+    'Phuny2_29': {'category': 1, 'quantity': 29},
+    'Phuny3_8': {'category': 2, 'quantity': 8},
+    'Phuny3_19': {'category': 2, 'quantity': 19},
+    'Phuny3_39': {'category': 2, 'quantity': 39},
+    'Phuny4_8': {'category': 3, 'quantity': 8},
+    'Phuny4_19': {'category': 3, 'quantity': 19},
+    'Phuny4_39': {'category': 3, 'quantity': 39},
   };
   
   // Product data for UI display
   final List<List<Map<String, dynamic>>> _productsDisplay = [
     // Post Updates products - Category 0
     [
-      {'id': 'asweetecoin_6', 'price': 5.99, 'quantity': 5},
-      {'id': 'phuny1_15', 'price': 15.99, 'quantity': 15},
-      {'id': 'phuny1_19', 'price': 19.99, 'quantity': 19},
+      {'id': 'Phuny1_5', 'price': 5.99, 'quantity': 5},
+      {'id': 'Phuny1_15', 'price': 15.99, 'quantity': 15},
+      {'id': 'Phuny1_19', 'price': 19.99, 'quantity': 19},
     ],
     // Send Message products - Category 1
     [
-      {'id': 'phuny2_6', 'price': 6.99, 'quantity': 6},
-      {'id': 'phuny2_19', 'price': 19.99, 'quantity': 19},
-      {'id': 'phuny2_29', 'price': 29.99, 'quantity': 29},
+      {'id': 'Phuny2_6', 'price': 6.99, 'quantity': 6},
+      {'id': 'Phuny2_19', 'price': 19.99, 'quantity': 19},
+      {'id': 'Phuny2_29', 'price': 29.99, 'quantity': 29},
     ],
     // Send Pictures products - Category 2
     [
-      {'id': 'phuny3_8', 'price': 8.99, 'quantity': 8},
-      {'id': 'phuny3_19', 'price': 19.99, 'quantity': 19},
-      {'id': 'phuny3_39', 'price': 39.99, 'quantity': 39},
+      {'id': 'Phuny3_8', 'price': 8.99, 'quantity': 8},
+      {'id': 'Phuny3_19', 'price': 19.99, 'quantity': 19},
+      {'id': 'Phuny3_39', 'price': 39.99, 'quantity': 39},
     ],
     // Send Voice products - Category 3
     [
-      {'id': 'phuny4_8', 'price': 8.99, 'quantity': 8},
-      {'id': 'phuny4_19', 'price': 19.99, 'quantity': 19},
-      {'id': 'phuny4_39', 'price': 39.99, 'quantity': 39},
+      {'id': 'Phuny4_8', 'price': 8.99, 'quantity': 8},
+      {'id': 'Phuny4_19', 'price': 19.99, 'quantity': 19},
+      {'id': 'Phuny4_39', 'price': 39.99, 'quantity': 39},
     ],
   ];
 

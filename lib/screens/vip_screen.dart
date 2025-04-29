@@ -32,16 +32,16 @@ class _VipScreenState extends State<VipScreen> {
   
   // Subscription product IDs
   final List<String> _subscriptionIds = [
-    'loungeplus_50',    // Monthly - $19.99
-    'SubNew2_29', // Quarterly - $29.99
-    'SubNew3_69', // Yearly - $69.99
+    'PhunySub1_19',    // Monthly - $19.99
+    'PhunySub2_29', // Quarterly - $29.99
+    'PhunySub3_69', // Yearly - $69.99
   ];
   
   // Subscription display data
   final List<Map<String, dynamic>> _subscriptionPlans = [
-    {'period': 'Monthly', 'price': 19.99, 'id': 'loungeplus_50', 'save': ''},
-    {'period': 'Quarterly', 'price': 29.99, 'id': 'SubNew2_29', 'save': 'Save 50%'},
-    {'period': 'Yearly', 'price': 69.99, 'id': 'SubNew3_69', 'save': 'Save 70%'},
+    {'period': 'Monthly', 'price': 19.99, 'id': 'PhunySub1_19', 'save': ''},
+    {'period': 'Quarterly', 'price': 29.99, 'id': 'PhunySub2_29', 'save': 'Save 50%'},
+    {'period': 'Yearly', 'price': 69.99, 'id': 'PhunySub3_69', 'save': 'Save 70%'},
   ];
 
   // 添加一个变量来跟踪正在处理中的订阅ID
