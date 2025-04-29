@@ -4,6 +4,49 @@ import 'dart:math';
 import 'package:flutter/services.dart';
 import 'user_detail_screen.dart';
 import 'chat_screen.dart';
+import 'package:shared_preferences/shared_preferences.dart';
+
+// 自定义ScrollPhysics，根据VIP状态决定是否允许滑动
+class SwipeLimitScrollPhysics extends ScrollPhysics {
+  final bool Function() canSwipeCallback;
+  
+  const SwipeLimitScrollPhysics({
+    required this.canSwipeCallback,
+    ScrollPhysics? parent,
+  }) : super(parent: parent);
+  
+  @override
+  SwipeLimitScrollPhysics applyTo(ScrollPhysics? ancestor) {
+    return SwipeLimitScrollPhysics(
+      canSwipeCallback: canSwipeCallback,
+      parent: buildParent(ancestor),
+    );
+  }
+  
+  @override
+  bool shouldAcceptUserOffset(ScrollMetrics position) {
+    return canSwipeCallback();
+  }
+  
+  @override
+  double applyPhysicsToUserOffset(ScrollMetrics position, double offset) {
+    if (!canSwipeCallback()) {
+      return 0.0; // 不允许滑动时，抵消所有偏移
+    }
+    return super.applyPhysicsToUserOffset(position, offset);
+  }
+  
+  @override
+  double applyBoundaryConditions(ScrollMetrics position, double value) {
+    if (!canSwipeCallback()) {
+      // 不允许滑动时，防止页面移动
+      if (value != position.pixels) {
+        return value - position.pixels;
+      }
+    }
+    return super.applyBoundaryConditions(position, value);
+  }
+}
 
 class MatchScreen extends StatefulWidget {
   const MatchScreen({super.key});
@@ -24,6 +67,11 @@ class _MatchScreenState extends State<MatchScreen> {
   // 页面控制器
   late PageController _pageController;
 
+  // VIP状态和滑动计数
+  bool _isVip = false;
+  int _swipeCount = 0;
+  final int _dailyLimit = 1;
+  
   @override
   void initState() {
     super.initState();
@@ -31,13 +79,40 @@ class _MatchScreenState extends State<MatchScreen> {
       initialPage: 0,
       viewportFraction: 0.75, // 调整为0.75，使左右卡片与中间卡片的距离更一致
     );
+    _checkAndResetDailySwipes();
     _loadAllUserData();
+    _loadSwipeStatus();
   }
 
   @override
   void dispose() {
     _pageController.dispose();
     super.dispose();
+  }
+
+  // 检查并重置每日滑动次数
+  Future<void> _checkAndResetDailySwipes() async {
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      final lastResetDate = prefs.getString('last_swipe_reset_date');
+      final today = DateTime.now().toString().split(' ')[0]; // 只保留日期部分 YYYY-MM-DD
+      
+      // 如果是新的一天，重置滑动计数
+      if (lastResetDate != today) {
+        // 在SharedPreferences中重置
+        await prefs.setInt('daily_swipe_count', 0);
+        await prefs.setString('last_swipe_reset_date', today);
+        
+        // 更新内存中的状态
+        setState(() {
+          _swipeCount = 0;
+        });
+        
+        debugPrint('每日滑动次数已重置');
+      }
+    } catch (e) {
+      debugPrint('检查并重置每日滑动次数出错: $e');
+    }
   }
 
   // 加载所有用户数据
@@ -95,9 +170,62 @@ class _MatchScreenState extends State<MatchScreen> {
     }
   }
 
+  // 加载滑动状态
+  Future<void> _loadSwipeStatus() async {
+    final prefs = await SharedPreferences.getInstance();
+    setState(() {
+      _isVip = prefs.getBool('user_is_vip') ?? false;
+      _swipeCount = prefs.getInt('daily_swipe_count') ?? 0; 
+    });
+  }
+  
+  // 增加滑动计数并保存
+  Future<void> _incrementSwipeCount() async {
+    if (_isVip) return; // VIP用户不计数
+    
+    setState(() {
+      _swipeCount++;
+    });
+    
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.setInt('daily_swipe_count', _swipeCount);
+    
+    debugPrint('当前滑动次数: $_swipeCount, 每日限制: $_dailyLimit');
+    
+    // 如果刚好达到限制，显示提示
+    if (_swipeCount == _dailyLimit) {
+      Future.delayed(const Duration(milliseconds: 300), () {
+        _showVipPrompt('You have used your free daily swipe');
+      });
+    }
+  }
+  
+  // 检查是否可以滑动
+  bool _canSwipe() {
+    if (_isVip) return true;
+    return _swipeCount < _dailyLimit;
+  }
+
   // 处理卡片左滑拒绝
-  void _handleReject() {
+  void _handleReject() async {
     if (_displayUsers.isEmpty) return;
+
+    // 检查是否可以滑动
+    if (!_canSwipe()) {
+      _showVipPrompt('Daily swipe limit reached');
+      return;
+    }
+    
+    // 非VIP用户增加滑动计数
+    if (!_isVip) {
+      await _incrementSwipeCount();
+      
+      // 如果增加计数后达到限制，不允许继续操作但显示提示
+      if (!_canSwipe()) {
+        _showVipPrompt('You have used your free daily swipe');
+        return;
+      }
+    }
     
     debugPrint('拒绝按钮被点击，移除用户: ${_displayUsers[_currentIndex]['nickname']}');
     
@@ -134,16 +262,44 @@ class _MatchScreenState extends State<MatchScreen> {
   }
 
   // 处理卡片右滑喜欢
-  void _handleLike() {
+  void _handleLike() async {
     if (_displayUsers.isEmpty) return;
     
-    // 翻到下一页
-    _pageController.nextPage(
-      duration: const Duration(milliseconds: 300), 
-      curve: Curves.easeOut
-    );
+    // 检查是否可以滑动
+    if (!_canSwipe()) {
+      _showVipPrompt('Daily swipe limit reached');
+      return;
+    }
     
-    // 这里可以添加匹配成功的逻辑
+    // 非VIP用户增加滑动计数
+    if (!_isVip) {
+      await _incrementSwipeCount();
+      
+      // 如果增加计数后达到限制，不允许翻页但显示提示
+      if (!_canSwipe()) {
+        _showVipPrompt('You have used your free daily swipe');
+        return;
+      }
+    }
+    
+    // 当前是否为最后一页
+    final bool isLastPage = _currentIndex >= _displayUsers.length - 1;
+    
+    if (isLastPage) {
+      // 如果是最后一页，显示提示
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(
+          content: Text('No more profiles to show'),
+          duration: Duration(seconds: 2),
+        ),
+      );
+    } else {
+      // 翻到下一页
+      _pageController.nextPage(
+        duration: const Duration(milliseconds: 300), 
+        curve: Curves.easeOut
+      );
+    }
   }
 
   // 发送问候消息
@@ -178,6 +334,106 @@ class _MatchScreenState extends State<MatchScreen> {
       MaterialPageRoute(
         builder: (context) => ChatScreen(userData: chatUserData),
       ),
+    );
+  }
+
+  // 显示VIP提示对话框
+  void _showVipPrompt(String title) {
+    showDialog(
+      context: context,
+      builder: (BuildContext context) {
+        return AlertDialog(
+          title: Text(title, style: const TextStyle(fontWeight: FontWeight.bold)),
+          content: Column(
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              Container(
+                width: 70,
+                height: 70,
+                decoration: BoxDecoration(
+                  color: const Color(0xFFF5D0FE),
+                  borderRadius: BorderRadius.circular(35),
+                ),
+                child: const Icon(
+                  Icons.workspace_premium,
+                  color: Color(0xFFEE71F9),
+                  size: 40,
+                ),
+              ),
+              const SizedBox(height: 16),
+              const Text(
+                'You\'ve reached your daily limit of 1 free swipe.',
+                textAlign: TextAlign.center,
+                style: TextStyle(fontSize: 16),
+              ),
+              const SizedBox(height: 16),
+              const Text(
+                'Upgrade to VIP for:',
+                textAlign: TextAlign.center,
+                style: TextStyle(fontSize: 14, fontWeight: FontWeight.bold),
+              ),
+              const SizedBox(height: 8),
+              const Row(
+                children: [
+                  Icon(Icons.swap_horiz, size: 16, color: Color(0xFFEE71F9)),
+                  SizedBox(width: 8),
+                  Expanded(
+                    child: Text('Unlimited Card Sliding', style: TextStyle(fontSize: 14)),
+                  ),
+                ],
+              ),
+              const SizedBox(height: 4),
+              const Row(
+                children: [
+                  Icon(Icons.face, size: 16, color: Color(0xFFEE71F9)),
+                  SizedBox(width: 8),
+                  Expanded(
+                    child: Text('Unlimited Avatar Changes', style: TextStyle(fontSize: 14)),
+                  ),
+                ],
+              ),
+              const SizedBox(height: 4),
+              const Row(
+                children: [
+                  Icon(Icons.block, size: 16, color: Color(0xFFEE71F9)),
+                  SizedBox(width: 8),
+                  Expanded(
+                    child: Text('Ad-Free Experience', style: TextStyle(fontSize: 14)),
+                  ),
+                ],
+              ),
+            ],
+          ),
+          shape: RoundedRectangleBorder(
+            borderRadius: BorderRadius.circular(20),
+          ),
+          actions: [
+            TextButton(
+              onPressed: () {
+                Navigator.of(context).pop();
+              },
+              style: TextButton.styleFrom(
+                foregroundColor: Colors.grey,
+              ),
+              child: const Text('Not now'),
+            ),
+            ElevatedButton(
+              onPressed: () {
+                Navigator.of(context).pop();
+                Navigator.pushNamed(context, '/vip');
+              },
+              style: ElevatedButton.styleFrom(
+                backgroundColor: const Color(0xFFEE71F9),
+                foregroundColor: Colors.white,
+                shape: RoundedRectangleBorder(
+                  borderRadius: BorderRadius.circular(10),
+                ),
+              ),
+              child: const Text('Upgrade to VIP'),
+            ),
+          ],
+        );
+      },
     );
   }
 
@@ -241,25 +497,74 @@ class _MatchScreenState extends State<MatchScreen> {
                   ],
                 ),
               )
-            : PageView.builder(
-                controller: _pageController,
-                itemCount: _displayUsers.length,
-                onPageChanged: (index) {
-                  setState(() {
-                    _currentIndex = index;
-                  });
+            : GestureDetector(
+                onHorizontalDragEnd: (details) async {
+                  // 计算有效滑动 - 需要一定的速度才算有效滑动
+                  final bool isValidSwipe = details.primaryVelocity != null && 
+                                           details.primaryVelocity!.abs() > 300;
+                  
+                  // 如果不是有效滑动，则不处理
+                  if (!isValidSwipe) return;
+                  
+                  // 检查是否允许滑动
+                  if (!_canSwipe()) {
+                    // 非VIP用户且已达到限制，显示提示
+                    _showVipPrompt('Daily swipe limit reached');
+                    return;
+                  }
+                  
+                  // 有效滑动且非VIP用户，增加计数
+                  if (!_isVip) {
+                    await _incrementSwipeCount();
+                  }
+                  
+                  // 根据滑动方向处理拒绝或喜欢
+                  if (details.primaryVelocity! > 0) {
+                    // 向右滑动 - 处理喜欢
+                    _handleLike();
+                  } else {
+                    // 向左滑动 - 处理拒绝
+                    _handleReject();
+                  }
                 },
-                itemBuilder: (context, index) {
-                  final bool isCurrentItem = index == _currentIndex;
-                  return AnimatedContainer(
-                    duration: const Duration(milliseconds: 300),
-                    curve: Curves.easeOutQuint,
-                    transform: Matrix4.identity()
-                      ..scale(isCurrentItem ? 1.0 : 0.9) // 当前卡片放大，其他卡片缩小
-                      ..translate(0.0, isCurrentItem ? 0.0 : 10.0), // 当前卡片上移，其他卡片下移
-                    child: _buildUserCard(_displayUsers[index]),
-                  );
-                },
+                child: PageView.builder(
+                  controller: _pageController,
+                  physics: SwipeLimitScrollPhysics(canSwipeCallback: _canSwipe),
+                  onPageChanged: (index) async {
+                    // 检查是否有权限翻页 (检查是否可以滑动)
+                    if (!_canSwipe()) {
+                      // 如果无权限滑动，则恢复到上一页
+                      _pageController.animateToPage(
+                        _currentIndex,
+                        duration: const Duration(milliseconds: 300),
+                        curve: Curves.easeOut,
+                      );
+                      _showVipPrompt('Daily swipe limit reached');
+                      return;
+                    }
+                    
+                    // 非VIP用户且页面确实改变了，增加滑动计数
+                    if (!_isVip && index != _currentIndex) {
+                      await _incrementSwipeCount();
+                    }
+                    
+                    setState(() {
+                      _currentIndex = index;
+                    });
+                  },
+                  itemCount: _displayUsers.length,
+                  itemBuilder: (context, index) {
+                    final bool isCurrentItem = index == _currentIndex;
+                    return AnimatedContainer(
+                      duration: const Duration(milliseconds: 300),
+                      curve: Curves.easeOutQuint,
+                      transform: Matrix4.identity()
+                        ..scale(isCurrentItem ? 1.0 : 0.9) // 当前卡片放大，其他卡片缩小
+                        ..translate(0.0, isCurrentItem ? 0.0 : 10.0), // 当前卡片上移，其他卡片下移
+                      child: _buildUserCard(_displayUsers[index]),
+                    );
+                  },
+                ),
               ),
         ),
         

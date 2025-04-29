@@ -6,6 +6,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 import 'user_detail_screen.dart';
 import 'post_detail_screen.dart';
 import 'post_edit_screen.dart';
+import '../utils/credit_manager.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
@@ -29,6 +30,9 @@ class _HomeScreenState extends State<HomeScreen> {
   List<Map<String, dynamic>> _hotCompanions = [];
   
   bool _isLoading = true;
+  
+  // Add CreditManager instance
+  final CreditManager _creditManager = CreditManager();
   
   @override
   void initState() {
@@ -704,16 +708,28 @@ class _HomeScreenState extends State<HomeScreen> {
   
   Widget _buildPostButton() {
     return ElevatedButton(
-      onPressed: () {
-        // 跳转到发帖页面
-        Navigator.push(
-          context,
-          MaterialPageRoute(
-            builder: (context) => PostEditScreen(
-              onPostCreated: _addNewPost,
-            ),
-          ),
+      onPressed: () async {
+        // Check if user has credits for posting
+        final hasCredits = await _creditManager.checkCreditsAndProceed(
+          context, 
+          CreditType.postUpdate
         );
+        
+        if (!hasCredits) {
+          return; // User doesn't have credits, they were redirected to purchase
+        }
+        
+        // If user has credits, navigate to post creation screen
+        if (mounted) {
+          Navigator.push(
+            context,
+            MaterialPageRoute(
+              builder: (context) => PostEditScreen(
+                onPostCreated: _addNewPost,
+              ),
+            ),
+          );
+        }
       },
       style: ElevatedButton.styleFrom(
         backgroundColor: const Color(0xFFEE71F9),

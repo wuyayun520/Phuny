@@ -14,6 +14,8 @@ class UserProfileScreen extends StatefulWidget {
 class _UserProfileScreenState extends State<UserProfileScreen> {
   String _userName = 'User Name';
   String? _userAvatarPath;
+  double _userBalance = 0.0;
+  bool _isVip = false;
   final TextEditingController _nameController = TextEditingController(text: 'User Name');
   final ImagePicker _picker = ImagePicker();
 
@@ -29,6 +31,8 @@ class _UserProfileScreenState extends State<UserProfileScreen> {
       setState(() {
         _userName = prefs.getString('user_name') ?? 'User Name';
         _userAvatarPath = prefs.getString('user_avatar_path');
+        _userBalance = prefs.getDouble('user_balance') ?? 0.0;
+        _isVip = prefs.getBool('user_is_vip') ?? false;
         _nameController.text = _userName;
       });
     } catch (e) {
@@ -43,6 +47,8 @@ class _UserProfileScreenState extends State<UserProfileScreen> {
       if (_userAvatarPath != null) {
         await prefs.setString('user_avatar_path', _userAvatarPath!);
       }
+      await prefs.setDouble('user_balance', _userBalance);
+      await prefs.setBool('user_is_vip', _isVip);
     } catch (e) {
       debugPrint('Error saving user data: $e');
     }
@@ -50,6 +56,16 @@ class _UserProfileScreenState extends State<UserProfileScreen> {
 
   Future<void> _pickImage() async {
     try {
+      // 检查是否为VIP用户
+      final prefs = await SharedPreferences.getInstance();
+      final isVip = prefs.getBool('user_is_vip') ?? false;
+      
+      // 非VIP用户不能更改头像
+      if (!isVip) {
+        _showVipPrompt();
+        return;
+      }
+      
       // 显示选择来源的对话框
       showDialog(
         context: context,
@@ -152,6 +168,7 @@ class _UserProfileScreenState extends State<UserProfileScreen> {
         
         await _saveUserData();
         
+        // VIP用户保存头像成功的提示
         ScaffoldMessenger.of(context).showSnackBar(
           const SnackBar(
             content: Text('Avatar saved successfully'),
@@ -401,6 +418,48 @@ class _UserProfileScreenState extends State<UserProfileScreen> {
                     child: Column(
                       children: [
                         _buildSettingItem(
+                          icon: Icons.account_balance_wallet_outlined,
+                          title: 'Balance',
+                          subtitle: 'Manage your account balance',
+                          onTap: () {
+                            Navigator.pushNamed(context, '/balance');
+                          },
+                          showDivider: true,
+                        ),
+                        
+                        _buildSettingItem(
+                          icon: Icons.workspace_premium,
+                          title: 'VIP Status',
+                          subtitle: _isVip ? 'Active' : 'Become a VIP',
+                          onTap: () {
+                            Navigator.pushNamed(context, '/vip');
+                          },
+                          showDivider: true,
+                          iconColor: _isVip ? Colors.amber : const Color(0xFFEE71F9),
+                          trailing: _isVip 
+                              ? Container(
+                                  padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 4),
+                                  decoration: BoxDecoration(
+                                    color: Colors.amber.withOpacity(0.2),
+                                    borderRadius: BorderRadius.circular(12),
+                                    border: Border.all(color: Colors.amber, width: 1)
+                                  ),
+                                  child: const Text(
+                                    'VIP',
+                                    style: TextStyle(
+                                      color: Colors.amber,
+                                      fontWeight: FontWeight.bold,
+                                    ),
+                                  ),
+                                )
+                              : const Icon(
+                                  Icons.arrow_forward_ios,
+                                  color: Colors.grey,
+                                  size: 16,
+                                ),
+                        ),
+                        
+                        _buildSettingItem(
                           icon: Icons.description_outlined,
                           title: 'Terms of Service',
                           subtitle: 'Read our terms and conditions',
@@ -481,7 +540,22 @@ class _UserProfileScreenState extends State<UserProfileScreen> {
     required String subtitle,
     required VoidCallback onTap,
     required bool showDivider,
+    Color iconColor = const Color(0xFFEE71F9),
+    Widget? trailing,
   }) {
+    // 为VIP状态项显示特殊副标题
+    String displaySubtitle = subtitle;
+    if (title == 'VIP Status' && !_isVip) {
+      // 获取剩余头像更改次数并显示在副标题中
+      final avatarChangeCount = SharedPreferences.getInstance().then((prefs) {
+        final count = prefs.getInt('avatar_change_count') ?? 0;
+        final remainingChanges = 3 - count;
+        setState(() {
+          displaySubtitle = 'Become a VIP (${remainingChanges > 0 ? '$remainingChanges avatar changes left' : 'No avatar changes left'})';
+        });
+      });
+    }
+    
     return Column(
       children: [
         ListTile(
@@ -494,7 +568,7 @@ class _UserProfileScreenState extends State<UserProfileScreen> {
             ),
             child: Icon(
               icon,
-              color: const Color(0xFFEE71F9),
+              color: iconColor,
               size: 24,
             ),
           ),
@@ -507,13 +581,13 @@ class _UserProfileScreenState extends State<UserProfileScreen> {
             ),
           ),
           subtitle: Text(
-            subtitle,
+            title == 'VIP Status' && !_isVip ? displaySubtitle : subtitle,
             style: TextStyle(
               color: Colors.grey[600],
               fontSize: 13,
             ),
           ),
-          trailing: const Icon(
+          trailing: trailing ?? const Icon(
             Icons.arrow_forward_ios,
             color: Colors.grey,
             size: 16,
@@ -593,6 +667,104 @@ class _UserProfileScreenState extends State<UserProfileScreen> {
                 foregroundColor: const Color(0xFFEE71F9),
               ),
               child: const Text('Close'),
+            ),
+          ],
+        );
+      },
+    );
+  }
+
+  // 更新VIP提示对话框文本
+  void _showVipPrompt() {
+    showDialog(
+      context: context,
+      builder: (BuildContext context) {
+        return AlertDialog(
+          title: const Text('VIP Feature', 
+            style: TextStyle(fontWeight: FontWeight.bold, color: Color(0xFF4A4A4A))),
+          content: Column(
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              Container(
+                width: 70,
+                height: 70,
+                decoration: BoxDecoration(
+                  color: const Color(0xFFF5D0FE),
+                  borderRadius: BorderRadius.circular(35),
+                ),
+                child: const Icon(
+                  Icons.face,
+                  color: Color(0xFFEE71F9),
+                  size: 40,
+                ),
+              ),
+              const SizedBox(height: 16),
+              const Text(
+                'Changing avatar is a VIP-only feature',
+                textAlign: TextAlign.center,
+                style: TextStyle(fontSize: 16, color: Color(0xFF4A4A4A)),
+              ),
+              const SizedBox(height: 8),
+              const Text(
+                'Upgrade to VIP for unlimited avatar changes and other benefits!',
+                textAlign: TextAlign.center,
+                style: TextStyle(fontSize: 14, color: Colors.grey),
+              ),
+              const SizedBox(height: 12),
+              const Row(
+                mainAxisSize: MainAxisSize.min,
+                children: [
+                  Icon(Icons.swap_horiz, size: 16, color: Color(0xFFEE71F9)),
+                  SizedBox(width: 8),
+                  Text('Unlimited Card Sliding', style: TextStyle(fontSize: 14)),
+                ],
+              ),
+              const SizedBox(height: 4),
+              const Row(
+                mainAxisSize: MainAxisSize.min,
+                children: [
+                  Icon(Icons.face, size: 16, color: Color(0xFFEE71F9)),
+                  SizedBox(width: 8),
+                  Text('Unlimited Avatar Changes', style: TextStyle(fontSize: 14)),
+                ],
+              ),
+              const SizedBox(height: 4),
+              const Row(
+                mainAxisSize: MainAxisSize.min,
+                children: [
+                  Icon(Icons.block, size: 16, color: Color(0xFFEE71F9)),
+                  SizedBox(width: 8),
+                  Text('Ad-Free Experience', style: TextStyle(fontSize: 14)),
+                ],
+              ),
+            ],
+          ),
+          shape: RoundedRectangleBorder(
+            borderRadius: BorderRadius.circular(20),
+          ),
+          actions: [
+            TextButton(
+              onPressed: () {
+                Navigator.of(context).pop();
+              },
+              style: TextButton.styleFrom(
+                foregroundColor: Colors.grey,
+              ),
+              child: const Text('Later'),
+            ),
+            ElevatedButton(
+              onPressed: () {
+                Navigator.of(context).pop();
+                Navigator.pushNamed(context, '/vip');
+              },
+              style: ElevatedButton.styleFrom(
+                backgroundColor: const Color(0xFFEE71F9),
+                foregroundColor: Colors.white,
+                shape: RoundedRectangleBorder(
+                  borderRadius: BorderRadius.circular(10),
+                ),
+              ),
+              child: const Text('Become VIP'),
             ),
           ],
         );

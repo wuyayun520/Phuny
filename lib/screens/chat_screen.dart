@@ -9,6 +9,7 @@ import 'package:just_audio/just_audio.dart';
 import 'package:audio_session/audio_session.dart';
 import 'dart:ui';
 import 'package:shared_preferences/shared_preferences.dart';
+import '../utils/credit_manager.dart';
 
 // 添加图片详情页
 class ImagePreviewScreen extends StatelessWidget {
@@ -83,6 +84,7 @@ class _ChatScreenState extends State<ChatScreen> {
   final List<ChatMessage> _messages = [];
   bool _isRecording = false;
   final ImagePicker _imagePicker = ImagePicker();
+  final CreditManager _creditManager = CreditManager();
   
   // 录音相关
   final AudioRecorder _recorder = AudioRecorder();
@@ -384,7 +386,7 @@ class _ChatScreenState extends State<ChatScreen> {
                           // 相册按钮
                           IconButton(
                             icon: const Icon(Icons.photo, color: Colors.white70),
-                            onPressed: _pickImageFromGallery,
+                            onPressed: () => _getImage(ImageSource.gallery),
                           ),
                           
                           // 文本输入框
@@ -399,7 +401,7 @@ class _ChatScreenState extends State<ChatScreen> {
                                     border: InputBorder.none,
                                   ),
                                   textCapitalization: TextCapitalization.sentences,
-                                  onSubmitted: (text) => _sendTextMessage(),
+                                  onSubmitted: (text) => _sendMessage(),
                                 )
                               : Center(
                                   child: Text(
@@ -429,7 +431,7 @@ class _ChatScreenState extends State<ChatScreen> {
                           if (!_isRecording && _messageController.text.isNotEmpty)
                             IconButton(
                               icon: const Icon(Icons.send, color: Colors.blue),
-                              onPressed: _sendTextMessage,
+                              onPressed: _sendMessage,
                             ),
                         ],
                       ),
@@ -703,30 +705,48 @@ class _ChatScreenState extends State<ChatScreen> {
   }
 
   // 从相册选择图片
-  Future<void> _pickImageFromGallery() async {
+  Future<void> _getImage(ImageSource source) async {
+    // Check if user has credits to send an image
+    final hasCredits = await _creditManager.checkCreditsAndProceed(
+      context, 
+      CreditType.sendPicture,
+      initialTabIndex: 2
+    );
+    
+    if (!hasCredits) {
+      return; // User doesn't have credits, they were redirected to purchase
+    }
+    
     try {
-      final XFile? pickedImage = await _imagePicker.pickImage(
-        source: ImageSource.gallery,
+      // Pick image
+      final XFile? image = await _imagePicker.pickImage(
+        source: source,
         imageQuality: 70,
       );
       
-      if (pickedImage != null) {
-        setState(() {
-          _addMessage(
-            pickedImage.path,
-            true,
-            messageType: MessageType.image,
-            isLocalImage: true,
-          );
-        });
+      if (image != null) {
+        // Add image message
+        _addMessage(
+          image.path,
+          true,
+          messageType: MessageType.image,
+          isLocalImage: true,
+        );
         
-        _scrollToBottom();
-        _saveChatHistory(); // 保存聊天历史
+        // Consume one credit
+        await _creditManager.consumeCredit(CreditType.sendPicture);
+        
+        // Simulate response
+        _simulateResponse();
+        
+        // Save chat history
+        _saveChatHistory();
       }
     } catch (e) {
-      // 如果选择图片失败，回退到使用随机资源图片
       debugPrint('Error picking image: $e');
-      _useRandomAssetImage();
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(content: Text('Error: $e')),
+      );
     }
   }
   
@@ -753,6 +773,17 @@ class _ChatScreenState extends State<ChatScreen> {
 
   // 开始录音
   Future<void> _startRecording() async {
+    // Check if user has credits to send a voice message
+    final hasCredits = await _creditManager.checkCreditsAndProceed(
+      context, 
+      CreditType.sendVoice,
+      initialTabIndex: 3
+    );
+    
+    if (!hasCredits) {
+      return; // User doesn't have credits, they were redirected to purchase
+    }
+    
     try {
       // 检查并请求录音权限
       if (!await _recorder.hasPermission()) {
@@ -787,6 +818,9 @@ class _ChatScreenState extends State<ChatScreen> {
       
     } catch (e) {
       debugPrint('Error starting recording: $e');
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(content: Text('Error: $e')),
+      );
     }
   }
   
@@ -812,31 +846,40 @@ class _ChatScreenState extends State<ChatScreen> {
 
   // 停止录音并发送
   Future<void> _stopRecording() async {
-    if (!_isRecording) return;
-    
-    try {
-      // 停止录音
-      final path = await _recorder.stop();
-      
-      setState(() {
-        _isRecording = false;
-      });
-      
-      if (path != null && _recordDuration > 0) {
-        // 发送语音消息
-        _addMessage(
-          path,
-          true,
-          messageType: MessageType.voice,
-          isLocalImage: false,
-          duration: _recordDuration,
-        );
+    if (_isRecording) {
+      try {
+        // 停止录音
+        final path = await _recorder.stop();
         
-        _scrollToBottom();
-        _saveChatHistory(); // 保存聊天历史
+        setState(() {
+          _isRecording = false;
+        });
+        
+        if (path != null && _recordDuration > 0) {
+          // 发送语音消息
+          _addMessage(
+            path,
+            true,
+            messageType: MessageType.voice,
+            isLocalImage: false,
+            duration: _recordDuration,
+          );
+          
+          _scrollToBottom();
+          _saveChatHistory(); // 保存聊天历史
+          
+          // Consume one voice credit
+          await _creditManager.consumeCredit(CreditType.sendVoice);
+          
+          // Simulate response
+          _simulateResponse();
+        }
+      } catch (e) {
+        debugPrint('Error stopping recording: $e');
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(content: Text('Error: $e')),
+        );
       }
-    } catch (e) {
-      debugPrint('Error stopping recording: $e');
     }
   }
   
@@ -1091,21 +1134,34 @@ class _ChatScreenState extends State<ChatScreen> {
     );
   }
 
-  // 发送文本消息
-  void _sendTextMessage() {
-    final text = _messageController.text.trim();
+  // Sending a text message with credit check
+  Future<void> _sendMessage() async {
+    final String text = _messageController.text.trim();
     if (text.isEmpty) return;
-
-    // 添加用户消息
+    
+    // Check if user has credits to send a text message
+    final hasCredits = await _creditManager.checkCreditsAndProceed(
+      context, 
+      CreditType.sendMessage
+    );
+    
+    if (!hasCredits) {
+      return; // User doesn't have credits, they were redirected to purchase
+    }
+    
+    // Add user message
     setState(() {
       _addMessage(text, true, messageType: MessageType.text, isLocalImage: false);
       _messageController.clear();
     });
-
-    // 自动滚动到底部
-    _scrollToBottom();
     
-    // 保存聊天历史
+    // Consume one credit
+    await _creditManager.consumeCredit(CreditType.sendMessage);
+    
+    // Add assistant message (simulate response)
+    _simulateResponse();
+    
+    // Save chat history
     _saveChatHistory();
   }
 
@@ -1216,6 +1272,34 @@ class _ChatScreenState extends State<ChatScreen> {
           duration: const Duration(milliseconds: 300),
           curve: Curves.easeOut,
         );
+      }
+    });
+  }
+
+  // Simulate response
+  void _simulateResponse() {
+    // Generate a random response for demo purposes
+    final List<String> responses = [
+      "That's interesting! Tell me more.",
+      "I understand. How are you feeling about that?",
+      "Thanks for sharing that with me.",
+      "I appreciate your message. What else is on your mind?",
+      "I see. Would you like to talk more about this?",
+      "That's a good point. Let me think about that.",
+    ];
+    
+    final random = Random();
+    final responseText = responses[random.nextInt(responses.length)];
+    
+    // Add a slight delay to simulate typing
+    Future.delayed(const Duration(milliseconds: 800), () {
+      if (mounted) {
+        setState(() {
+          _addMessage(responseText, false, messageType: MessageType.text, isLocalImage: false);
+        });
+        
+        _scrollToBottom();
+        _saveChatHistory();
       }
     });
   }

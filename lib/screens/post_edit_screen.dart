@@ -5,6 +5,7 @@ import 'dart:convert';
 import 'package:image_picker/image_picker.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:path_provider/path_provider.dart';
+import '../utils/credit_manager.dart';
 
 class PostEditScreen extends StatefulWidget {
   final Function(Map<String, dynamic>, String) onPostCreated;
@@ -27,6 +28,7 @@ class _PostEditScreenState extends State<PostEditScreen> {
   final GlobalKey<FormState> _formKey = GlobalKey<FormState>();
   final List<String> _categories = ['Cos', 'Games', 'Anime'];
   final ImagePicker _imagePicker = ImagePicker();
+  final CreditManager _creditManager = CreditManager();
   
   // 用户信息
   Map<String, dynamic> _userProfile = {
@@ -258,12 +260,22 @@ class _PostEditScreenState extends State<PostEditScreen> {
       return;
     }
     
-    // 检查是否选择了图片
-    if (_selectedImage == null && _selectedSampleImage == '') {
+    if (_selectedImage == null && _selectedSampleImage.isEmpty) {
       ScaffoldMessenger.of(context).showSnackBar(
-        const SnackBar(content: Text('Please select an image for your post')),
+        const SnackBar(content: Text('Please select an image')),
       );
       return;
+    }
+    
+    // Check if user has credits to create a post
+    final hasCredits = await _creditManager.checkCreditsAndProceed(
+      context, 
+      CreditType.postUpdate,
+      initialTabIndex: 0
+    );
+    
+    if (!hasCredits) {
+      return; // User doesn't have credits, they were redirected to purchase
     }
     
     setState(() {
@@ -328,15 +340,17 @@ class _PostEditScreenState extends State<PostEditScreen> {
       // 调用父组件提供的回调函数，将新帖子添加到对应分类
       widget.onPostCreated(postData, _selectedCategory);
       
-      // 显示成功消息
-      if (mounted) {
+      // After successful post creation, consume one credit
+      final success = await _creditManager.consumeCredit(CreditType.postUpdate);
+      
+      if (success) {
         ScaffoldMessenger.of(context).showSnackBar(
-          const SnackBar(content: Text('Post published successfully!')),
+          const SnackBar(content: Text('Post created successfully!')),
         );
-        
-        // 返回上一页
-        Navigator.pop(context);
       }
+      
+      // 返回上一页
+      Navigator.pop(context);
     } catch (e) {
       debugPrint('Error creating post: $e');
       setState(() {

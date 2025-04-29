@@ -6,6 +6,8 @@ import 'screens/terms_screen.dart';
 import 'screens/privacy_screen.dart';
 import 'screens/about_screen.dart';
 import 'screens/main_screen.dart';
+import 'screens/balance_screen.dart';
+import 'screens/vip_screen.dart';
 import 'dart:developer' as developer;
 
 void main() {
@@ -82,6 +84,18 @@ class _MyAppState extends State<MyApp> {
         '/terms': (context) => const TermsScreen(),
         '/privacy': (context) => const PrivacyScreen(),
         '/about': (context) => const AboutScreen(),
+        '/vip': (context) => const VipScreen(),
+      },
+      onGenerateRoute: (settings) {
+        if (settings.name == '/balance') {
+          final args = settings.arguments as Map<String, dynamic>?;
+          final initialTab = args?['initialTab'] as int? ?? 0;
+          
+          return MaterialPageRoute(
+            builder: (context) => BalanceScreen(initialTabIndex: initialTab),
+          );
+        }
+        return null;
       },
     );
   }
