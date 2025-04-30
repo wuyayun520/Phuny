@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getHyperbolicParameterHelper</key>
+	<string>initializeHyperbolicScopeExtension</string>
+	<key>navigateCurrentTrianglesPool</key>
+	<string>endAutoNodeDecorator</string>
+	<key>setIndependentSpriteDelegate</key>
+	<string>resumeDeclarativeTailStack</string>
+	<key>skipEuclideanCursorProtocol</key>
+	<string>wrapSemanticQueuePool</string>
+	<key>startAssociatedHeapBase</key>
+	<string>trainPrismaticMomentumArray</string>
+</dict>
+</plist>

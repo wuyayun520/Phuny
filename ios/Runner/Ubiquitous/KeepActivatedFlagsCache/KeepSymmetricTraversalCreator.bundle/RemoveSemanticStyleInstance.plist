@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>generateCustomNumberArray</key>
+	<string>getAccessibleSpotInstance</string>
+	<key>getAccordionPolygonCreator</key>
+	<string>setSmallGridGroup</string>
+	<key>getStaticInformationFactory</key>
+	<string>showMissedVariableAdapter</string>
+	<key>setOpaqueHeadArray</key>
+	<string>parseConcreteNumberType</string>
+	<key>updatePermissiveRotationDecorator</key>
+	<string>getDelicateOpacityList</string>
+</dict>
+</plist>

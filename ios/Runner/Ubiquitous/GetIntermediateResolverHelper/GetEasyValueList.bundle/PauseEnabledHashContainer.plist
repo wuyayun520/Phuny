@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>divideDenseParameterHandler</key>
+	<string>setReusableTitleArray</string>
+	<key>finishExplicitQueueOwner</key>
+	<string>upgradePriorLoopCollection</string>
+	<key>getActivatedFrameGroup</key>
+	<string>getPrevDistinctionGroup</string>
+	<key>getCriticalTagGroup</key>
+	<string>reconcileGlobalLayerType</string>
+	<key>offsetIgnoredRectangleCollection</key>
+	<string>restoreDirectlyInterfaceGroup</string>
+	<key>pauseRetainedParameterHandler</key>
+	<string>cancelEasyNormDelegate</string>
+</dict>
+</plist>

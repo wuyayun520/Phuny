@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>executeConcurrentHeadHandler</key>
+	<string>getResilientHeadDecorator</string>
+	<key>getHardBottomList</key>
+	<string>getGeometricRowContainer</string>
+	<key>getSophisticatedTernaryReference</key>
+	<string>getSemanticTempleDelegate</string>
+	<key>playCrudeCoordinatorReference</key>
+	<string>augmentOldHeapImplement</string>
+	<key>replaceSynchronousOpacityFilter</key>
+	<string>skipPublicVisibleHandler</string>
+</dict>
+</plist>

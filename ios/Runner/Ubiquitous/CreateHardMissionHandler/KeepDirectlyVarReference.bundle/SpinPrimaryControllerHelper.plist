@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combineIntuitiveNodeExtension</key>
+	<string>restartAssociatedParameterList</string>
+	<key>createEphemeralTextureExtension</key>
+	<string>getOldScaleImplement</string>
+	<key>initializeIntermediateConstantType</key>
+	<string>setSustainableBufferOwner</string>
+	<key>setBeginnerScalabilityCache</key>
+	<string>getCrudeRectangleInstance</string>
+	<key>startSubtleModuleOwner</key>
+	<string>reconcileIgnoredVarCache</string>
+	<key>wrapEnabledBrushArray</key>
+	<string>getIterativeChartContainer</string>
+</dict>
+</plist>

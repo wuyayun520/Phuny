@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createLostProfileDelegate</key>
+	<string>animateLargeInterpolationFilter</string>
+	<key>erasePrimaryDescriptorFactory</key>
+	<string>playMultiResilienceExtension</string>
+	<key>getDisparateBorderReference</key>
+	<string>setSortedTimelineManager</string>
+	<key>getGlobalSegmentReference</key>
+	<string>endArithmeticBorderBase</string>
+	<key>getLargeImpressionArray</key>
+	<string>endIntuitiveBorderProtocol</string>
+	<key>resumePrimaryMobileObserver</key>
+	<string>requestDenseEntropyProtocol</string>
+	<key>setRelationalVolumeArray</key>
+	<string>embedAssociatedParameterCollection</string>
+	<key>setSemanticBoundDelegate</key>
+	<string>restartMultiBorderType</string>
+</dict>
+</plist>

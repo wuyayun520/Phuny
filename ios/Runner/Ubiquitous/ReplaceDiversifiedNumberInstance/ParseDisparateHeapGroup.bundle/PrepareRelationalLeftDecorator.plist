@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adjustCriticalGridObserver</key>
+	<string>restoreDenseSubpixelInstance</string>
+	<key>getDedicatedFrameFilter</key>
+	<string>prepareAssociatedParamManager</string>
+	<key>getMutableCapacitiesInstance</key>
+	<string>getSemanticScaleBase</string>
+	<key>initializeSymmetricBufferImplement</key>
+	<string>getOldBatchContainer</string>
+	<key>quitIndependentProgressBarObserver</key>
+	<string>quantizerIndependentModuleExtension</string>
+	<key>stopRelationalTagType</key>
+	<string>getLocalPopupType</string>
+</dict>
+</plist>

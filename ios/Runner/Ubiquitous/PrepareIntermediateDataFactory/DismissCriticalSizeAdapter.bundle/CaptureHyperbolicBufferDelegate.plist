@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concatenateLastFlagsReference</key>
+	<string>cancelRapidVarList</string>
+	<key>findUnsortedCoordHelper</key>
+	<string>getAssociatedColorBase</string>
+	<key>getBeginnerSceneFactory</key>
+	<string>keepUsedVarCache</string>
+	<key>getExplicitFrameInstance</key>
+	<string>getGlobalVertexDelegate</string>
+	<key>getRetainedConstantHandler</key>
+	<string>restartUniqueEventInstance</string>
+	<key>getSymmetricSlashAdapter</key>
+	<string>resumeSynchronousSizeObserver</string>
+	<key>prepareDiversifiedBinaryContainer</key>
+	<string>resumeSortedVariableFilter</string>
+	<key>resizeSpecifySkirtDelegate</key>
+	<string>renameSharedTempleHandler</string>
+</dict>
+</plist>

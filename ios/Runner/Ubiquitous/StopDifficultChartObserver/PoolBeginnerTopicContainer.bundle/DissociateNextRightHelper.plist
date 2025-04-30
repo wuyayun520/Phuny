@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelIntermediateNumberCollection</key>
+	<string>stopPrevUtilBase</string>
+	<key>dismissAutoValueContainer</key>
+	<string>getDirectVariableContainer</string>
+	<key>finishHardScaleDecorator</key>
+	<string>resumeSynchronousBufferExtension</string>
+	<key>getCustomTagCollection</key>
+	<string>setDirectPriorityContainer</string>
+	<key>getUniformResourceProtocol</key>
+	<string>getDelicateOriginArray</string>
+	<key>initializeNumericalNumberProtocol</key>
+	<string>prepareMainLeftExtension</string>
+	<key>offsetFusedVarProtocol</key>
+	<string>executeDiscardedNumberInstance</string>
+	<key>pauseAccordionLeftExtension</key>
+	<string>pauseDifficultValueAdapter</string>
+</dict>
+</plist>

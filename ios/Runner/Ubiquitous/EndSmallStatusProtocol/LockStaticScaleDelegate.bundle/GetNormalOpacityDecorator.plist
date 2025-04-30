@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appendAutoApertureBase</key>
+	<string>continueSynchronousGemCache</string>
+	<key>cancelDiscardedNameBase</key>
+	<string>keepActivatedGroupContainer</string>
+	<key>computeLastOpacityStack</key>
+	<string>getPrimaryQuaternionStack</string>
+	<key>finishDifficultIndicatorFactory</key>
+	<string>generateFirstCapacityManager</string>
+	<key>getGeometricLatencyImplement</key>
+	<string>getCrudeOriginArray</string>
+	<key>getUsedTextProtocol</key>
+	<string>initializeActivatedParameterGroup</string>
+	<key>setNextBorderPool</key>
+	<string>pauseAccessibleGridDecorator</string>
+	<key>startMediocreVideoObserver</key>
+	<string>insteadSignificantSizeDecorator</string>
+</dict>
+</plist>

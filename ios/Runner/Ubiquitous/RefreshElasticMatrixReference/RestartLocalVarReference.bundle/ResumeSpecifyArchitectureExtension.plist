@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equalStaticModuleFactory</key>
+	<string>getLiteValueCollection</string>
+	<key>getDirectTempleInstance</key>
+	<string>analyzeCartesianTempleDecorator</string>
+	<key>reconcilePublicValueContainer</key>
+	<string>restartMutableAscentTarget</string>
+	<key>resetNormalExponentFactory</key>
+	<string>continuePrismaticPositionContainer</string>
+	<key>setSignificantAnchorType</key>
+	<string>getAccordionValueProtocol</string>
+	<key>updateCustomBufferGroup</key>
+	<string>moveSynchronousChannelsHandler</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endDiversifiedVarBase</key>
+	<string>skipRobustTentativeHelper</string>
+	<key>getHardPointReference</key>
+	<string>initializeEphemeralQuaternionPool</string>
+	<key>setHardValueOwner</key>
+	<string>restartRetainedSchedulerBase</string>
+	<key>skipSubtleLogarithmFactory</key>
+	<string>resumeCriticalTitleCache</string>
+	<key>startIgnoredVariableFactory</key>
+	<string>setMissedRowDelegate</string>
+	<key>trainPriorInfoFactory</key>
+	<string>retrievePrismaticStyleInstance</string>
+</dict>
+</plist>

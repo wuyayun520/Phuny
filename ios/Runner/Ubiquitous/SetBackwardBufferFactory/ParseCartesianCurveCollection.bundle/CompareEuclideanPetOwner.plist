@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishMissedValueHandler</key>
+	<string>upgradeDirectlyVariableAdapter</string>
+	<key>respondRapidGraphicFilter</key>
+	<string>setEphemeralBufferDecorator</string>
+	<key>revisitPrismaticEdgeContainer</key>
+	<string>writeSubsequentLayoutReference</string>
+	<key>stopAutoProgressBarDelegate</key>
+	<string>keepSmartDescentDelegate</string>
+	<key>syncAccessibleResilienceCreator</key>
+	<string>resumeCommonGramAdapter</string>
+</dict>
+</plist>

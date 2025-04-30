@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueCurrentMaterialImplement</key>
+	<string>setCustomGraphicTarget</string>
+	<key>displaySeamlessConvolutionPool</key>
+	<string>setCustomBufferCreator</string>
+	<key>getSubstantialTextureCollection</key>
+	<string>setNewestObserverCache</string>
+	<key>obtainSharedRightTarget</key>
+	<string>getDiscardedTaskFactory</string>
+	<key>prepareUnactivatedMetadataList</key>
+	<string>aggregateKeyValueCache</string>
+	<key>regulateGreatValueObserver</key>
+	<string>trainSymmetricOpacityCache</string>
+	<key>scheduleUsedSkewXManager</key>
+	<string>setSharedSegmentReference</string>
+	<key>setExplicitIndexDecorator</key>
+	<string>augmentLiteParameterManager</string>
+	<key>setGreatTextType</key>
+	<string>lockLostParamAdapter</string>
+	<key>stopUsedSceneBase</key>
+	<string>setRetainedVarPool</string>
+</dict>
+</plist>

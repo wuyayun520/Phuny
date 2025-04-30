@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>reconcileMultiHashImplement</key>
+	<string>getNextConfigurationDecorator</string>
+	<key>setIndependentEdgeHelper</key>
+	<string>skipOriginalBufferCache</string>
+	<key>setPrevChapterContainer</key>
+	<string>trainKeyCapsuleCollection</string>
+	<key>setSignificantParamFactory</key>
+	<string>limitDiversifiedAccessoryContainer</string>
+</dict>
+</plist>

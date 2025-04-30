@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createTensorLabelHandler</key>
+	<string>getPriorMatrixImplement</string>
+	<key>getDeclarativeFrameBase</key>
+	<string>prepareCustomizedDispatcherManager</string>
+	<key>getElasticStyleManager</key>
+	<string>getSortedLeftInstance</string>
+	<key>resumeCrucialGrainCollection</key>
+	<string>adjustEphemeralModulusList</string>
+	<key>setCartesianParamExtension</key>
+	<string>getEphemeralGroupHandler</string>
+	<key>setConsultativeConfigurationHandler</key>
+	<string>setSymmetricCycleImplement</string>
+	<key>setNumericalSkewYReference</key>
+	<string>setMediumBaseProtocol</string>
+	<key>stopRequiredMendContainer</key>
+	<string>resetDisparatePreviewContainer</string>
+</dict>
+</plist>

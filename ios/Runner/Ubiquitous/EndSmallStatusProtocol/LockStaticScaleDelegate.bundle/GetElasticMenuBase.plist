@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getExplicitViewStack</key>
+	<string>setSmallNormOwner</string>
+	<key>getSeamlessAnimationExtension</key>
+	<string>setSingleTailInstance</string>
+	<key>prepareComprehensiveResolverAdapter</key>
+	<string>releaseHierarchicalFragmentPool</string>
+	<key>setSecondIndexFilter</key>
+	<string>getLostPreviewProtocol</string>
+	<key>setSecondTweakReference</key>
+	<string>restartEuclideanBufferHandler</string>
+</dict>
+</plist>

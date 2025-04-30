@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueConcreteTailFactory</key>
+	<string>resumeUnactivatedBrushCache</string>
+	<key>continueIntermediateVideoProtocol</key>
+	<string>convertRapidCenterContainer</string>
+	<key>drawActivatedVideoBase</key>
+	<string>poolMainPopupExtension</string>
+	<key>initializeHardSkewYHandler</key>
+	<string>setNumericalEfficiencyObserver</string>
+	<key>setNumericalInteractionGroup</key>
+	<string>generateFirstTextureHelper</string>
+	<key>setPermanentDimensionContainer</key>
+	<string>initializeLargeGroupHandler</string>
+</dict>
+</plist>

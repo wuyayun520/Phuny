@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocateOriginalEffectArray</key>
+	<string>shearCriticalChecklistCache</string>
+	<key>augmentRapidMetricsPool</key>
+	<string>setRapidVertexManager</string>
+	<key>cancelProtectedAllocatorStack</key>
+	<string>cancelStaticMusicCreator</string>
+	<key>cleanDiscardedTangentFactory</key>
+	<string>keepTensorValueFactory</string>
+	<key>generateRequiredContractionProtocol</key>
+	<string>skipCommonQueueCreator</string>
+	<key>getReusableSkewXCache</key>
+	<string>getCurrentPolygonAdapter</string>
+	<key>initializeDiscardedReplicaImplement</key>
+	<string>prepareDisparateVisibleStack</string>
+	<key>playPublicProfileGroup</key>
+	<string>refreshSemanticLabelStack</string>
+	<key>startLargeResolverFactory</key>
+	<string>clearBeginnerAllocatorArray</string>
+</dict>
+</plist>

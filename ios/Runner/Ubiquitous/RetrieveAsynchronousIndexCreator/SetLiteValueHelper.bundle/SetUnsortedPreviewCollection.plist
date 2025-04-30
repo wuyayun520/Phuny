@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzeCrucialAscentHelper</key>
+	<string>setPrevParamCreator</string>
+	<key>getAutoBoundArray</key>
+	<string>generateCartesianReductionReference</string>
+	<key>getEnabledCoordOwner</key>
+	<string>getNextIndexOwner</string>
+	<key>restoreConcurrentNumberObserver</key>
+	<string>embedTypicalNumberGroup</string>
+	<key>setSynchronousEvolutionHandler</key>
+	<string>executeSmallValuePool</string>
+	<key>startUnsortedLayoutDelegate</key>
+	<string>keepSemanticThroughputProtocol</string>
+	<key>touchTensorConfidentialityReference</key>
+	<string>pauseOldButtonDelegate</string>
+</dict>
+</plist>

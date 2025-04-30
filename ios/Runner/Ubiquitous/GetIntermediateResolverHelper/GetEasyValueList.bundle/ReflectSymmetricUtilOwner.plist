@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associateAdvancedVariableFactory</key>
+	<string>wrapAutoBufferFactory</string>
+	<key>continueTensorBottomProtocol</key>
+	<string>trainPermanentStatusFilter</string>
+	<key>getOpaqueSampleHelper</key>
+	<string>setPrimaryParamInstance</string>
+	<key>moveComprehensiveParamCache</key>
+	<string>pauseSustainableImpressionDelegate</string>
+	<key>navigateCurrentNumberFilter</key>
+	<string>stopAccordionParamImplement</string>
+	<key>readSortedPreviewProtocol</key>
+	<string>setOpaqueClusterProtocol</string>
+	<key>setStaticVarHelper</key>
+	<string>setGlobalSceneCreator</string>
+	<key>upgradeSmallResolverFilter</key>
+	<string>detachIntermediateBinaryCreator</string>
+</dict>
+</plist>

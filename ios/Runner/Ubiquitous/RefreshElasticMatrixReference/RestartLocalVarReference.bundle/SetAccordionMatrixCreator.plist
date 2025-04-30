@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocateGreatParameterCollection</key>
+	<string>initializeElasticBehaviorReference</string>
+	<key>enumerateUniformParameterDecorator</key>
+	<string>skipDiscardedGrayscaleProtocol</string>
+	<key>setGlobalDetailCreator</key>
+	<string>lockRobustParamManager</string>
+	<key>startAutoFrameObserver</key>
+	<string>getPrimaryRoleCreator</string>
+	<key>stopCrudePositionProtocol</key>
+	<string>getComprehensiveDepthManager</string>
+</dict>
+</plist>

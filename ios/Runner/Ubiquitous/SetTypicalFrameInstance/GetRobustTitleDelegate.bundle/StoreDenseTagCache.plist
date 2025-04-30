@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getIntuitiveCenterAdapter</key>
+	<string>initializeStandaloneVarReference</string>
+	<key>getPermanentAllocatorArray</key>
+	<string>restartEnabledDetailList</string>
+	<key>getSpecifyVariableHandler</key>
+	<string>skipCriticalVarStack</string>
+	<key>setBackwardSpineTarget</key>
+	<string>restartCustomVisibleInstance</string>
+	<key>setConsultativeParamFilter</key>
+	<string>decoupleUniformDispatcherContainer</string>
+	<key>setRelationalTextureFactory</key>
+	<string>setEasyParamType</string>
+	<key>setSingleParticleDelegate</key>
+	<string>seekMainEdgeOwner</string>
+	<key>setSubtleNumberPool</key>
+	<string>getSeamlessBufferTarget</string>
+</dict>
+</plist>

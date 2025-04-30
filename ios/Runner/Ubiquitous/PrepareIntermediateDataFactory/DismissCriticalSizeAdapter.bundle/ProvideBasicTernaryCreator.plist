@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eraseMultiCurveHelper</key>
+	<string>adjustSignificantAscentExtension</string>
+	<key>obtainConcurrentControllerReference</key>
+	<string>getHyperbolicFrameFactory</string>
+	<key>setGeometricConsumptionCreator</key>
+	<string>setActivatedLabelFactory</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dismissRequiredEffectTarget</key>
+	<string>syncMainBrushFactory</string>
+	<key>moveUniformGroupFactory</key>
+	<string>getUsedSpriteBase</string>
+	<key>setCartesianComponentType</key>
+	<string>getPivotalParameterHelper</string>
+	<key>setDensePositionCollection</key>
+	<string>setElasticStyleReference</string>
+</dict>
+</plist>

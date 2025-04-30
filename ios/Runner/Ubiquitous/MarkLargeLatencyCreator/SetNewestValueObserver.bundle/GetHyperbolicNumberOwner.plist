@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clearRobustTagImplement</key>
+	<string>pauseMultiVisibleCache</string>
+	<key>getMainLayoutPool</key>
+	<string>getDiscardedVarCollection</string>
+	<key>keepAsynchronousComponentObserver</key>
+	<string>differentiateNextBufferHandler</string>
+	<key>pauseStaticStepCache</key>
+	<string>embraceSmallPositionImplement</string>
+	<key>setSeamlessRectangleImplement</key>
+	<string>skipSubsequentTempleTarget</string>
+	<key>skipGlobalSoundStack</key>
+	<string>setPermissiveInitiatorsType</string>
+	<key>wrapMediocreBottomPool</key>
+	<string>getMutableLeftImplement</string>
+</dict>
+</plist>

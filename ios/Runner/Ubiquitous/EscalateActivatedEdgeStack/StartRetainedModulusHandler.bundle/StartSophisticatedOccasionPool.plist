@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>embedIndependentParameterType</key>
+	<string>cancelSophisticatedIndicatorHandler</string>
+	<key>floatRequiredDepthHandler</key>
+	<string>continueMediocreTopCache</string>
+	<key>getLostNumberTarget</key>
+	<string>scheduleLastConvolutionCache</string>
+	<key>getMainTitleHandler</key>
+	<string>initializeEphemeralAccessoryManager</string>
+	<key>getUniformParticleFilter</key>
+	<string>setPriorBufferDelegate</string>
+	<key>setGlobalFeatureFactory</key>
+	<string>prepareResilientVariableGroup</string>
+	<key>setRelationalTimeExtension</key>
+	<string>setMultiPriorityInstance</string>
+</dict>
+</plist>

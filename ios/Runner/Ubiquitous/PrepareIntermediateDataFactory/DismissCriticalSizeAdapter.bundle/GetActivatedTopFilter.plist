@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>extendDirectlyParamContainer</key>
+	<string>prepareRapidSceneHelper</string>
+	<key>getOtherInterfaceDelegate</key>
+	<string>stopCurrentFrameHelper</string>
+	<key>setDiscardedReferenceCache</key>
+	<string>stopStandaloneProgressBarReference</string>
+	<key>setEnabledVarProtocol</key>
+	<string>pauseDiversifiedBufferBase</string>
+	<key>setHierarchicalAnalogyContainer</key>
+	<string>setLiteBandwidthHelper</string>
+	<key>setImmutableChapterCollection</key>
+	<string>setUnactivatedBandwidthInstance</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endLocalPopupType</key>
+	<string>appendNextSizeExtension</string>
+	<key>getSymmetricCoordImplement</key>
+	<string>initializeCurrentMediaBase</string>
+	<key>initializeTensorVariableStack</key>
+	<string>getPivotalAllocatorList</string>
+	<key>quantizerDiscardedNameManager</key>
+	<string>continueBasicParameterExtension</string>
+	<key>renamePermissiveStyleDecorator</key>
+	<string>restartSubtleParameterExtension</string>
+	<key>setDelicateScaleCollection</key>
+	<string>getElasticRotationObserver</string>
+	<key>skipUniformSkewYExtension</key>
+	<string>stopSynchronousMetadataType</string>
+	<key>upgradeFirstMissionFactory</key>
+	<string>skipRetainedButtonCollection</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mitigateHardDurationGroup</key>
+	<string>getBeginnerLoopInstance</string>
+	<key>reflectStandaloneRotationDecorator</key>
+	<string>associateMediumConvolutionTarget</string>
+	<key>restartSingleVariantCache</key>
+	<string>getCustomizedBufferExtension</string>
+	<key>retainPrevChecklistTarget</key>
+	<string>finishNormalRotationList</string>
+	<key>revisitCriticalVolumeExtension</key>
+	<string>clipPublicLabelFactory</string>
+	<key>stopHierarchicalEdgePool</key>
+	<string>cleanDenseResultFactory</string>
+</dict>
+</plist>

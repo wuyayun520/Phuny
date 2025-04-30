@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>calculateBackwardVarContainer</key>
+	<string>poolImmutableSignatureContainer</string>
+	<key>detachPrevInstructionHelper</key>
+	<string>retrieveRequiredParamManager</string>
+	<key>parseIndependentSignatureStack</key>
+	<string>restartTypicalSampleExtension</string>
+	<key>pauseSmallVariableFactory</key>
+	<string>getOpaqueInteractionPool</string>
+	<key>provideDirectLoaderObserver</key>
+	<string>cleanSharedScalePool</string>
+	<key>setCommonGraphFilter</key>
+	<string>keepHyperbolicMatrixManager</string>
+	<key>setPivotalSchedulerHelper</key>
+	<string>extendPublicMechanismProtocol</string>
+	<key>setPrimaryInformationDelegate</key>
+	<string>continueDisplayableVolumeOwner</string>
+	<key>setUniformTextureFilter</key>
+	<string>setIterativeBufferManager</string>
+	<key>startSemanticMonsterHandler</key>
+	<string>trainSemanticTopicContainer</string>
+</dict>
+</plist>

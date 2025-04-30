@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueSubsequentMetadataReference</key>
+	<string>analyzeOpaqueStateStack</string>
+	<key>endCartesianThroughputList</key>
+	<string>getGlobalToolContainer</string>
+	<key>finishCustomizedNumberCache</key>
+	<string>wrapCrudeVisibleDelegate</string>
+	<key>getOpaqueVarOwner</key>
+	<string>getSharedResultGroup</string>
+	<key>initializeSmartEquipmentDecorator</key>
+	<string>retainUnsortedValueArray</string>
+	<key>markCrudeParamExtension</key>
+	<string>finishConcurrentBoundFactory</string>
+	<key>setAdvancedBufferFilter</key>
+	<string>setNormalParamContainer</string>
+	<key>setDisparateTaskHelper</key>
+	<string>keepLocalStyleFilter</string>
+</dict>
+</plist>

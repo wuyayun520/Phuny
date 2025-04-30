@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueCrudeDescentOwner</key>
+	<string>getStaticChartContainer</string>
+	<key>endCriticalCoordHelper</key>
+	<string>cloneCriticalBufferImplement</string>
+	<key>endOpaqueDepthHelper</key>
+	<string>getArithmeticValueArray</string>
+	<key>getLargeBottomBase</key>
+	<string>pauseResilientSpotContainer</string>
+	<key>getOriginalFlagsDecorator</key>
+	<string>stopPermissiveTopHandler</string>
+	<key>pauseCommonOpacityTarget</key>
+	<string>setOriginalColorProtocol</string>
+	<key>pausePublicUtilType</key>
+	<string>setUnactivatedBufferDecorator</string>
+	<key>setAgileVariableTarget</key>
+	<string>getRapidParamCreator</string>
+	<key>setKeySkewYExtension</key>
+	<string>wrapPriorEffectExtension</string>
+</dict>
+</plist>

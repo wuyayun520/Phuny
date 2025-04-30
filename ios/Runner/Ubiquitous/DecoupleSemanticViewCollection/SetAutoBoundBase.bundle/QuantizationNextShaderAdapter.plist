@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comparePrevTempleImplement</key>
+	<string>getMultiDepthAdapter</string>
+	<key>executeOtherGateImplement</key>
+	<string>restartRespectiveEffectInstance</string>
+	<key>getDirectlyRestrictionContainer</key>
+	<string>conformSortedValueExtension</string>
+	<key>seekDelicateTempleImplement</key>
+	<string>endPrevOperationHelper</string>
+	<key>setAssociatedAxisBase</key>
+	<string>setSustainableScalabilityCollection</string>
+	<key>setOpaqueGrayscaleOwner</key>
+	<string>initializePivotalPopupBase</string>
+	<key>setSemanticMovementObserver</key>
+	<string>finishIntermediateVisibleInstance</string>
+	<key>setSingleVarBase</key>
+	<string>finishMultiVariableCache</string>
+	<key>stopLiteInterpolationAdapter</key>
+	<string>stopStandaloneTimeOwner</string>
+</dict>
+</plist>

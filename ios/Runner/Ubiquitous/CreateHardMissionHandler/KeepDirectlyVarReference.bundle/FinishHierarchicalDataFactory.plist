@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzeHierarchicalLayerHandler</key>
+	<string>calculateAdvancedParamCollection</string>
+	<key>getDirectCenterReference</key>
+	<string>getSynchronousAscentTarget</string>
+	<key>getRequiredBottomType</key>
+	<string>getMediocreValueCollection</string>
+	<key>keepDirectApertureFactory</key>
+	<string>getMissedMetricsReference</string>
+	<key>keepNormalTempleTarget</key>
+	<string>enhanceEnabledTernaryAdapter</string>
+	<key>keepPriorPolyfillTarget</key>
+	<string>setOpaqueModuleHelper</string>
+	<key>setFirstAspectObserver</key>
+	<string>locateTypicalBoundStack</string>
+	<key>startLiteDepthCreator</key>
+	<string>enumerateGranularZoneStack</string>
+</dict>
+</plist>

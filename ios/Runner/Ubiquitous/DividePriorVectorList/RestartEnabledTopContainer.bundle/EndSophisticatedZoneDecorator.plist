@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cleanGranularModelDelegate</key>
+	<string>restartNewestEdgeDelegate</string>
+	<key>createMainZoneInstance</key>
+	<string>checkLastBufferObserver</string>
+	<key>getRequiredEventContainer</key>
+	<string>resumeUniformPositionFactory</string>
+	<key>setAccessibleEventBase</key>
+	<string>resumeGranularTopCreator</string>
+	<key>setAccessibleIndicatorList</key>
+	<string>clearSpecifyCapacityStack</string>
+	<key>setGeometricCharacterInstance</key>
+	<string>mitigateKeyOriginCollection</string>
+</dict>
+</plist>

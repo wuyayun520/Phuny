@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compareDenseZoneHandler</key>
+	<string>moveFusedAssetStack</string>
+	<key>keepBeginnerGridBase</key>
+	<string>getDenseElasticityList</string>
+	<key>offsetCustomMenuContainer</key>
+	<string>parseLocalVariableList</string>
+	<key>pauseArithmeticParamManager</key>
+	<string>destroySynchronousMaterialFilter</string>
+	<key>restartUniformDataBase</key>
+	<string>setHardBufferBase</string>
+	<key>setIterativeVariableDecorator</key>
+	<string>setConcurrentConfigurationTarget</string>
+	<key>trainArithmeticBitrateObserver</key>
+	<string>skipStandaloneVarCollection</string>
+</dict>
+</plist>

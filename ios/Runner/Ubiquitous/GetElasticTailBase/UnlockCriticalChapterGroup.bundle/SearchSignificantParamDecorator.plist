@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelSubsequentSpriteFilter</key>
+	<string>writeMainInfoGroup</string>
+	<key>drawMultiConfidentialityStack</key>
+	<string>initializeDisplayableSceneHelper</string>
+	<key>finishDifficultPopupProtocol</key>
+	<string>clearSimilarRightGroup</string>
+	<key>getRelationalMultiplicationProtocol</key>
+	<string>pauseSecondBufferImplement</string>
+	<key>removeImmutableRectTarget</key>
+	<string>restartCrucialZoneDelegate</string>
+	<key>skipGlobalBufferStack</key>
+	<string>startRelationalParameterStack</string>
+</dict>
+</plist>

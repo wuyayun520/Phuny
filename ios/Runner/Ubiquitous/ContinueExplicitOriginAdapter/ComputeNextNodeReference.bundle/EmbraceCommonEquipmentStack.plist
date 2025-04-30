@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getAgileReferenceDelegate</key>
+	<string>initializeAgileScopeHelper</string>
+	<key>getCustomizedBufferHandler</key>
+	<string>addCriticalDurationHandler</string>
+	<key>obtainCriticalTrianglesProtocol</key>
+	<string>setSemanticVarBase</string>
+	<key>parseHierarchicalBoundTarget</key>
+	<string>getExplicitZoneFilter</string>
+	<key>setDelicateMetadataArray</key>
+	<string>endSpecifyFeatureObserver</string>
+	<key>shearPermanentRemainderManager</key>
+	<string>setNewestLabelTarget</string>
+	<key>skipCriticalBulletStack</key>
+	<string>locateConcurrentQueueHandler</string>
+</dict>
+</plist>

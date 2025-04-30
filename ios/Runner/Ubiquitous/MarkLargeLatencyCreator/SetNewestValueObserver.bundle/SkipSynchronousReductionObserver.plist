@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipLostGroupFilter</key>
+	<string>pauseIntermediateNodeManager</string>
+	<key>getEasyBorderFilter</key>
+	<string>prepareRequiredParameterManager</string>
+	<key>pauseCustomizedResilienceProtocol</key>
+	<string>finishStandaloneCoordInstance</string>
+	<key>restartPrimaryTimelineProtocol</key>
+	<string>stopAutoBaselineInstance</string>
+</dict>
+</plist>

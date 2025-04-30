@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>differentiateLastShapeAdapter</key>
+	<string>pauseDirectlyLoaderDelegate</string>
+	<key>preparePrimaryLayerHelper</key>
+	<string>getPrevChannelsHelper</string>
+	<key>quantizerLiteIndexPool</key>
+	<string>setNextMenuStack</string>
+	<key>setElasticBorderBase</key>
+	<string>syncCriticalTextFactory</string>
+	<key>setProtectedBufferObserver</key>
+	<string>setMutableDistinctionOwner</string>
+	<key>spinExplicitImageManager</key>
+	<string>setMissedLogarithmHelper</string>
+</dict>
+</plist>

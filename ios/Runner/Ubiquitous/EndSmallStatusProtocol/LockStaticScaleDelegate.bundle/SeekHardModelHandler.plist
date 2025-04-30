@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishEasyBufferDelegate</key>
+	<string>cloneExplicitBorderHelper</string>
+	<key>getAccordionIntensityDelegate</key>
+	<string>trainSmallIntensityList</string>
+	<key>getNewestCoordFactory</key>
+	<string>setLastDeliveryList</string>
+	<key>pauseTypicalMaterialType</key>
+	<string>getDeclarativeSpecifierCreator</string>
+	<key>resumeDisplayableBufferCreator</key>
+	<string>resizeAssociatedContrastDelegate</string>
+	<key>setAutoMetricsGroup</key>
+	<string>cancelCriticalGrayscaleCollection</string>
+	<key>setFusedStyleReference</key>
+	<string>pauseUsedHeroTarget</string>
+	<key>setSimilarParamCollection</key>
+	<string>getAssociatedBufferType</string>
+	<key>setSmartBufferCreator</key>
+	<string>fillDiscardedOriginBase</string>
+	<key>trainSimilarValueList</key>
+	<string>detachPermissiveViewDelegate</string>
+</dict>
+</plist>

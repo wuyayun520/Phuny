@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compareRobustFeatureExtension</key>
+	<string>setLastBufferAdapter</string>
+	<key>getDiscardedMendArray</key>
+	<string>initializeLocalDepthDecorator</string>
+	<key>prepareRelationalTagManager</key>
+	<string>resumeMultiAnimationCache</string>
+	<key>setGeometricStrengthCache</key>
+	<string>stopIndependentConstantDecorator</string>
+	<key>setSymmetricOperationDecorator</key>
+	<string>getRetainedNameReference</string>
+	<key>streamlineSynchronousVarReference</key>
+	<string>skipSharedResolverCache</string>
+</dict>
+</plist>

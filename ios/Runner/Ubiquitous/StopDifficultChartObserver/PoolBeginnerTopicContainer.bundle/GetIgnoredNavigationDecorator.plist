@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>pauseSophisticatedRotationTarget</key>
+	<string>eraseReusableAnchorStack</string>
+	<key>setBackwardVariableObserver</key>
+	<string>getEphemeralSizeObserver</string>
+	<key>setSignificantSymbolProtocol</key>
+	<string>prepareStaticLayoutFactory</string>
+	<key>startComprehensiveButtonStack</key>
+	<string>extendSecondParameterStack</string>
+	<key>stopCartesianRotationExtension</key>
+	<string>setOriginalDepthType</string>
+</dict>
+</plist>

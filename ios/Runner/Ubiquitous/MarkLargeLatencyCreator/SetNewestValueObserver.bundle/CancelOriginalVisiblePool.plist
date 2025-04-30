@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>divideSharedControllerFilter</key>
+	<string>setMissedSpineExtension</string>
+	<key>dropoutDirectTimelineReference</key>
+	<string>startPermanentFeatureFilter</string>
+	<key>getExplicitOpacityObserver</key>
+	<string>initializeCustomizedTitleDelegate</string>
+	<key>setAsynchronousVolumeGroup</key>
+	<string>prepareMultiCoordImplement</string>
+	<key>setMediocreLayerFactory</key>
+	<string>setSophisticatedCycleImplement</string>
+	<key>skipEasyMenuType</key>
+	<string>insteadGranularTempleProtocol</string>
+</dict>
+</plist>

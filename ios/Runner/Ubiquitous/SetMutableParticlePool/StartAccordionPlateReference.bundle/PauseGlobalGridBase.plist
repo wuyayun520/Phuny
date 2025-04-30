@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>divideReusableChallengeObserver</key>
+	<string>scheduleDisplayableCardDelegate</string>
+	<key>getArithmeticAspectObserver</key>
+	<string>getCommonHeadArray</string>
+	<key>poolHyperbolicTrianglesObserver</key>
+	<string>rectifyIterativeResilienceExtension</string>
+	<key>reflectProtectedParamCache</key>
+	<string>getRobustVarCollection</string>
+	<key>restartStaticTailCollection</key>
+	<string>initializeSubstantialCacheType</string>
+	<key>revisitRetainedRoleExtension</key>
+	<string>prepareSingleEventImplement</string>
+	<key>setElasticAxisFactory</key>
+	<string>skipProtectedBorderObserver</string>
+	<key>writeLocalBoundReference</key>
+	<string>refreshKeyNumberHelper</string>
+</dict>
+</plist>

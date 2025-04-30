@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayDiscardedEquipmentDelegate</key>
+	<string>endDedicatedChartObserver</string>
+	<key>eraseAssociatedChapterContainer</key>
+	<string>endLocalCursorContainer</string>
+	<key>finishRequiredVariableGroup</key>
+	<string>getAccessibleDispatcherInstance</string>
+	<key>setNormalEdgeStack</key>
+	<string>appendRobustConstantBase</string>
+	<key>setSynchronousClusterAdapter</key>
+	<string>setSmallRotationPool</string>
+	<key>setUniqueActionType</key>
+	<string>trainRespectiveChartObserver</string>
+	<key>skipSustainableFlagsCache</key>
+	<string>parseBeginnerNameReference</string>
+	<key>storeOriginalEdgeType</key>
+	<string>getSophisticatedButtonContainer</string>
+</dict>
+</plist>

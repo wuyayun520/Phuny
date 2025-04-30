@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>conformIgnoredMissionGroup</key>
+	<string>trainStaticShaderDelegate</string>
+	<key>pauseDelicateVariableOwner</key>
+	<string>getPrismaticTailObserver</string>
+	<key>resumeAccordionSoundOwner</key>
+	<string>rotateOriginalStatusExtension</string>
+	<key>trainLiteParamImplement</key>
+	<string>restartCrucialTaskCreator</string>
+	<key>visitSingleContrastDelegate</key>
+	<string>setPublicParameterImplement</string>
+</dict>
+</plist>

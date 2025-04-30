@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishBackwardBufferExtension</key>
+	<string>continueImmutableInformationAdapter</string>
+	<key>getExplicitTagHandler</key>
+	<string>restartDisplayableScaleTarget</string>
+	<key>getPermanentSkewXStack</key>
+	<string>quantizerOldTitleFactory</string>
+	<key>releaseNewestFlagsExtension</key>
+	<string>setBackwardEdgeCache</string>
+	<key>shearLostRoleGroup</key>
+	<string>getDirectTailObserver</string>
+	<key>spinElasticContractionFactory</key>
+	<string>quitEuclideanAssetInstance</string>
+	<key>stopCurrentMenuProtocol</key>
+	<string>trainConcreteTopicCollection</string>
+</dict>
+</plist>

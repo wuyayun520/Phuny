@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelRobustAllocatorAdapter</key>
+	<string>getFusedResultImplement</string>
+	<key>getDedicatedConfigurationGroup</key>
+	<string>removeHierarchicalVariableBase</string>
+	<key>getPriorParamInstance</key>
+	<string>continueStaticToolDelegate</string>
+	<key>seekActivatedSceneInstance</key>
+	<string>touchAdvancedBoundContainer</string>
+	<key>setProtectedAllocatorFactory</key>
+	<string>initializeOriginalZoneCache</string>
+</dict>
+</plist>

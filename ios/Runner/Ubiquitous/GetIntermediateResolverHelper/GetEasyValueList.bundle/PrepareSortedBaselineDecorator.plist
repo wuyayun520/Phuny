@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelSemanticVarCollection</key>
+	<string>setSimilarChapterHandler</string>
+	<key>getStandaloneColorGroup</key>
+	<string>wrapStaticProvisionFactory</string>
+	<key>getUnactivatedDisclaimerCache</key>
+	<string>revisitNormalControllerCreator</string>
+	<key>provideRobustVectorFactory</key>
+	<string>floatSeamlessReplicaAdapter</string>
+	<key>resumeHierarchicalInitiatorsHelper</key>
+	<string>rotateHyperbolicPolyfillTarget</string>
+</dict>
+</plist>

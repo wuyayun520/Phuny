@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueSemanticFeatureFactory</key>
+	<string>embedDirectlyConfidentialityGroup</string>
+	<key>generateIterativeLatencyAdapter</key>
+	<string>getPrevStyleDecorator</string>
+	<key>getCurrentLatencyContainer</key>
+	<string>computePrimaryGrainBase</string>
+	<key>getLocalValueCache</key>
+	<string>getBackwardElementHelper</string>
+	<key>getNextSchedulerBase</key>
+	<string>setSimilarTempleContainer</string>
+	<key>initializeBasicTextureList</key>
+	<string>getRetainedLayerObserver</string>
+	<key>optimizeTensorInitiativeExtension</key>
+	<string>prepareIgnoredColorManager</string>
+	<key>pausePublicLayoutBase</key>
+	<string>removeCommonCertificateHandler</string>
+</dict>
+</plist>

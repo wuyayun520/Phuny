@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkBackwardAllocatorCollection</key>
+	<string>dismissCommonPlaybackImplement</string>
+	<key>continueLocalLeftCollection</key>
+	<string>allocateMultiResilienceDecorator</string>
+	<key>getAsynchronousChartObserver</key>
+	<string>trainDeclarativeInstructionFactory</string>
+	<key>getGreatLoaderOwner</key>
+	<string>encapsulateLiteVarBase</string>
+	<key>restartCartesianBufferInstance</key>
+	<string>getResilientAllocatorFactory</string>
+	<key>setIgnoredOptimizerContainer</key>
+	<string>prepareCrudeRectangleOwner</string>
+	<key>setIndependentConfigurationProtocol</key>
+	<string>equalCrudeCertificateProtocol</string>
+</dict>
+</plist>

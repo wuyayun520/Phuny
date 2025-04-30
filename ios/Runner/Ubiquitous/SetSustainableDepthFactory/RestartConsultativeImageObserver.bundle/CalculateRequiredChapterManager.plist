@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzeAutoSkinPool</key>
+	<string>drawSemanticReferenceType</string>
+	<key>conformElasticVectorExtension</key>
+	<string>getHardCompositionList</string>
+	<key>getPermissiveSoundManager</key>
+	<string>prepareFirstSkirtExtension</string>
+	<key>lockFusedBottomDelegate</key>
+	<string>analyzeCriticalNumberList</string>
+	<key>restartMediumOpacityImplement</key>
+	<string>getTypicalValueObserver</string>
+	<key>resumePrevParameterBase</key>
+	<string>setNextMenuOwner</string>
+	<key>setMediumConsumptionProtocol</key>
+	<string>setCommonItemCollection</string>
+	<key>transposeCriticalColorCache</key>
+	<string>stopRespectiveDataType</string>
+</dict>
+</plist>

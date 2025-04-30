@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>calculateSecondFrameInstance</key>
+	<string>offsetPrevOccasionObserver</string>
+	<key>getGranularSizeHelper</key>
+	<string>prepareGlobalBoundExtension</string>
+	<key>replaceUsedLoaderArray</key>
+	<string>setRetainedNumberReference</string>
+	<key>setLiteRowGroup</key>
+	<string>trainDiversifiedLogarithmCache</string>
+</dict>
+</plist>

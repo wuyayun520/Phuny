@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endBeginnerNodeFactory</key>
+	<string>adjustIndependentGrainFactory</string>
+	<key>floatEuclideanIndicatorType</key>
+	<string>insteadConcurrentSceneHandler</string>
+	<key>getDiscardedDetailObserver</key>
+	<string>resetGranularSliderCache</string>
+	<key>getKeyValueAdapter</key>
+	<string>parseGeometricTaskBase</string>
+	<key>initializeUnsortedBehaviorCache</key>
+	<string>getIterativeStatusTarget</string>
+	<key>pausePublicScopeDelegate</key>
+	<string>getMediocreStyleGroup</string>
+	<key>visitSemanticValueCreator</key>
+	<string>trainAgileProjectOwner</string>
+</dict>
+</plist>

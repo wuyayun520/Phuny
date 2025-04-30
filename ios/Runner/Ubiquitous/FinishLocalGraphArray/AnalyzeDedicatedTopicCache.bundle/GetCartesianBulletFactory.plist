@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>generateCustomizedGridFactory</key>
+	<string>keepBasicFlagsImplement</string>
+	<key>getHardValueFactory</key>
+	<string>optimizeSmallVolumeHelper</string>
+	<key>pauseSharedVarStack</key>
+	<string>setActivatedIndexType</string>
+	<key>setEasyGateStack</key>
+	<string>displayRobustTailCollection</string>
+</dict>
+</plist>

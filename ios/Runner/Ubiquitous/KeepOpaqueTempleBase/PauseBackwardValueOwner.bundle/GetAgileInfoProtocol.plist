@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>augmentSignificantDepthObserver</key>
+	<string>introspectSemanticProfileGroup</string>
+	<key>finishCrudeVariableOwner</key>
+	<string>continueDirectlyLabelCreator</string>
+	<key>getMissedInterpolationObserver</key>
+	<string>getSeamlessTopicAdapter</string>
+	<key>mitigateMediocreEdgeFactory</key>
+	<string>computeLiteHashCollection</string>
+	<key>replaceDeclarativeSineFactory</key>
+	<string>initializeDenseTailBase</string>
+	<key>startSortedAspectFactory</key>
+	<string>fillIntermediateVarDecorator</string>
+</dict>
+</plist>

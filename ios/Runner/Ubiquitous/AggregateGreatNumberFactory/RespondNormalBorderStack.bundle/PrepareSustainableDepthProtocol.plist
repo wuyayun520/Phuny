@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compareBeginnerBottomPool</key>
+	<string>startAutoScaleHandler</string>
+	<key>conformOriginalScaleReference</key>
+	<string>prepareImmutableFlagsCreator</string>
+	<key>getBackwardSignatureHelper</key>
+	<string>setIntuitiveNumberType</string>
+	<key>pauseAsynchronousBoundFactory</key>
+	<string>setStaticCapsuleImplement</string>
+	<key>scheduleBasicAspectInstance</key>
+	<string>floatBackwardActivityPool</string>
+	<key>trainTypicalHashImplement</key>
+	<string>makeMainFrameInstance</string>
+</dict>
+</plist>

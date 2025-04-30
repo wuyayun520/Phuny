@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>embedNextVisibleContainer</key>
+	<string>setAccessibleVarCollection</string>
+	<key>endDirectPreviewGroup</key>
+	<string>createCrudeDepthManager</string>
+	<key>enumerateHardPointAdapter</key>
+	<string>setSemanticShaderCache</string>
+	<key>getOtherVarInstance</key>
+	<string>dismissFusedCycleImplement</string>
+	<key>getSemanticTextArray</key>
+	<string>displayDifficultParamReference</string>
+	<key>prepareNextFlagsOwner</key>
+	<string>releaseNextTernaryArray</string>
+	<key>upgradePublicVarExtension</key>
+	<string>pauseMainSliderHelper</string>
+</dict>
+</plist>

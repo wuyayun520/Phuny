@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dissociateFirstInteractionExtension</key>
+	<string>pauseSingleMusicHelper</string>
+	<key>finishEnabledGrainExtension</key>
+	<string>setDeclarativeBufferCache</string>
+	<key>getNextTagExtension</key>
+	<string>prepareSemanticComponentGroup</string>
+	<key>prepareGeometricGridAdapter</key>
+	<string>clearComprehensiveBufferProtocol</string>
+	<key>restartUniformValueCollection</key>
+	<string>finishSustainableFlagsGroup</string>
+	<key>setLastAscentList</key>
+	<string>startUniformContractionImplement</string>
+	<key>setResilientGrainExtension</key>
+	<string>getSpecifyTextBase</string>
+	<key>stopSubsequentBinaryHandler</key>
+	<string>retrieveCrudeTempleFilter</string>
+</dict>
+</plist>

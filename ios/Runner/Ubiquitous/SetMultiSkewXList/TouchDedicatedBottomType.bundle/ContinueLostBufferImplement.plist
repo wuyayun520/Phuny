@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animateRobustReplicaCache</key>
+	<string>setLiteMovementAdapter</string>
+	<key>getFusedTempleDelegate</key>
+	<string>setStandaloneStepOwner</string>
+	<key>setGeometricBufferOwner</key>
+	<string>divideSingleCenterHelper</string>
+	<key>setRelationalDistinctionCreator</key>
+	<string>insteadBasicAnimationFactory</string>
+	<key>setRobustSkewYManager</key>
+	<string>setSingleDescriptionContainer</string>
+	<key>stopNormalSpotArray</key>
+	<string>getRapidSkewYHelper</string>
+</dict>
+</plist>

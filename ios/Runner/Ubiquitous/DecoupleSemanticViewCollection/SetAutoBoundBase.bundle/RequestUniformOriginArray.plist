@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishDiversifiedPositionCreator</key>
+	<string>getLastModelCollection</string>
+	<key>initializeRequiredElementGroup</key>
+	<string>getOriginalCoordArray</string>
+	<key>makeAccordionBorderCollection</key>
+	<string>getNumericalAllocatorStack</string>
+	<key>mitigateOtherSkewYHandler</key>
+	<string>wrapGeometricPopupContainer</string>
+	<key>prepareUniqueObjectAdapter</key>
+	<string>finishExplicitTailReference</string>
+	<key>resizeAdvancedFragmentsArray</key>
+	<string>optimizeKeyInitiatorsFilter</string>
+	<key>restartRapidScalabilityGroup</key>
+	<string>cloneMultiSampleList</string>
+</dict>
+</plist>

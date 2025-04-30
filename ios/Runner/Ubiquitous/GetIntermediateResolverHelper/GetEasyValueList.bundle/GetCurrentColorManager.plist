@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>embraceMainBottomExtension</key>
+	<string>limitOriginalMeshInstance</string>
+	<key>exitAdvancedInfoFactory</key>
+	<string>getStaticNameInstance</string>
+	<key>getCartesianComponentHelper</key>
+	<string>getDirectlyParameterFilter</string>
+	<key>getTensorPermutationDelegate</key>
+	<string>continueDisplayableNameObserver</string>
+</dict>
+</plist>

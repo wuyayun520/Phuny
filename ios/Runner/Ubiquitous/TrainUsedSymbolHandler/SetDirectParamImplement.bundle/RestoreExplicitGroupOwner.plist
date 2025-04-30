@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getDifficultStyleBase</key>
+	<string>getPivotalFormatDelegate</string>
+	<key>getDiscardedBoxList</key>
+	<string>continueConcurrentViewDelegate</string>
+	<key>getOriginalGroupReference</key>
+	<string>endCommonGroupBase</string>
+	<key>optimizeKeyHeadTarget</key>
+	<string>startStaticMetadataStack</string>
+	<key>pushPermanentInterfaceFilter</key>
+	<string>endRapidCenterCollection</string>
+	<key>retainAccessibleTimeFactory</key>
+	<string>continueBasicTaskContainer</string>
+	<key>setDifficultSchemaManager</key>
+	<string>rotateRetainedThresholdImplement</string>
+	<key>setIntermediateRangeCollection</key>
+	<string>poolLitePolyfillType</string>
+</dict>
+</plist>

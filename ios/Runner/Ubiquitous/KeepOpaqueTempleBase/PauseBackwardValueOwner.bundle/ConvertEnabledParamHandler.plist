@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocateCustomizedVectorPool</key>
+	<string>keepEphemeralVariableType</string>
+	<key>continueGeometricMatrixHandler</key>
+	<string>startMutableLeftPool</string>
+	<key>endIterativeMenuFactory</key>
+	<string>finishAutoTextureArray</string>
+	<key>endSingleTimelinePool</key>
+	<string>aggregateOldHashGroup</string>
+	<key>makeCommonModuleObserver</key>
+	<string>setSeamlessBufferAdapter</string>
+	<key>restartLastLayerHandler</key>
+	<string>getRequiredAxisBase</string>
+	<key>setBeginnerValueType</key>
+	<string>quantizationEphemeralSizeHandler</string>
+	<key>setUniqueEqualizationDecorator</key>
+	<string>cancelSubtleAlphaCache</string>
+	<key>stopTypicalSchedulerDelegate</key>
+	<string>setResilientIntensityObserver</string>
+</dict>
+</plist>

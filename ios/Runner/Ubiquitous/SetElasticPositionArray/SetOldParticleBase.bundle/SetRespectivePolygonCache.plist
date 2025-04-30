@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concatenateElasticParticleHandler</key>
+	<string>setIgnoredGroupGroup</string>
+	<key>getHardVariantFactory</key>
+	<string>setHardFrameObserver</string>
+	<key>initializeReusableStateType</key>
+	<string>getUnactivatedTagType</string>
+	<key>resumePermanentHashArray</key>
+	<string>setIndependentQuaternionManager</string>
+	<key>setImmutablePrecisionArray</key>
+	<string>setSubsequentConstantBase</string>
+	<key>wrapMultiUsageDelegate</key>
+	<string>setTensorReplicaTarget</string>
+</dict>
+</plist>

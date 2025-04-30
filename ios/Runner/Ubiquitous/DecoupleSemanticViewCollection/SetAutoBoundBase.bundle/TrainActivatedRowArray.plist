@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enumeratePrevBorderTarget</key>
+	<string>mitigateTensorIndexHelper</string>
+	<key>getFirstMetricsDecorator</key>
+	<string>getEasyDispatcherDecorator</string>
+	<key>introspectSynchronousDepthBase</key>
+	<string>trainSingleTangentArray</string>
+	<key>pauseBasicTaskCache</key>
+	<string>stopAdvancedStateHandler</string>
+	<key>prepareSynchronousRotationCache</key>
+	<string>trainMissedDepthBase</string>
+	<key>respondPrismaticPositionReference</key>
+	<string>endDenseBufferList</string>
+</dict>
+</plist>

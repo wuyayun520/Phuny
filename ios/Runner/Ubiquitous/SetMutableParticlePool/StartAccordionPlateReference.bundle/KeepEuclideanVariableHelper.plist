@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fillSustainablePositionContainer</key>
+	<string>setReusableSoundType</string>
+	<key>finishIntermediateFrameObserver</key>
+	<string>setKeyResilienceFilter</string>
+	<key>finishUniqueProvisionExtension</key>
+	<string>endSmallDialogsType</string>
+	<key>initializeOldUtilCache</key>
+	<string>getSophisticatedPositionCache</string>
+	<key>setLastLoaderInstance</key>
+	<string>restartSubtleResolverDecorator</string>
+	<key>stopDisplayableStrokeReference</key>
+	<string>aggregateRapidParticleExtension</string>
+	<key>stopSynchronousTempleReference</key>
+	<string>initializeBackwardDimensionHelper</string>
+</dict>
+</plist>

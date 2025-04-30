@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animateLocalBufferPool</key>
+	<string>getFirstHeroObserver</string>
+	<key>cancelHierarchicalFlagsHandler</key>
+	<string>cancelUniformBoxBase</string>
+	<key>getAccessibleValueContainer</key>
+	<string>setOpaqueNodeObserver</string>
+	<key>getImmutableAnchorFilter</key>
+	<string>startSophisticatedVariableGroup</string>
+	<key>startNewestThresholdInstance</key>
+	<string>continueSustainableParameterList</string>
+	<key>transposeFirstNumberArray</key>
+	<string>getSemanticObserverManager</string>
+	<key>visitRelationalEffectInstance</key>
+	<string>encapsulateExplicitValueStack</string>
+</dict>
+</plist>

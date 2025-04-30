@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getHardResilienceExtension</key>
+	<string>makeCustomOriginFilter</string>
+	<key>initializeSubtleBoundCache</key>
+	<string>getSymmetricWorkflowGroup</string>
+	<key>optimizeLocalTentativePool</key>
+	<string>destroyCriticalRotationArray</string>
+	<key>retainSmartNumberFilter</key>
+	<string>setOtherBehaviorList</string>
+	<key>setAutoValueManager</key>
+	<string>limitIndependentTempleContainer</string>
+	<key>setDirectParamType</key>
+	<string>prepareStandaloneTextList</string>
+	<key>setDiscardedValueAdapter</key>
+	<string>resumeArithmeticVarArray</string>
+	<key>stopNextPlaybackContainer</key>
+	<string>setFirstHashReference</string>
+</dict>
+</plist>

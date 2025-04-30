@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convertAccessibleBottomExtension</key>
+	<string>playDifficultEventList</string>
+	<key>finishDifficultLeftDecorator</key>
+	<string>setUnactivatedTagDecorator</string>
+	<key>getFusedEventProtocol</key>
+	<string>drawSingleColorFilter</string>
+	<key>getRapidEntropyGroup</key>
+	<string>initializeStandaloneEquivalentGroup</string>
+	<key>mitigateSortedMenuTarget</key>
+	<string>endIterativeGramGroup</string>
+	<key>setPivotalLeftDecorator</key>
+	<string>skipCartesianDescriptionContainer</string>
+	<key>wrapSubsequentGraphFilter</key>
+	<string>initializeAsynchronousTextBase</string>
+</dict>
+</plist>

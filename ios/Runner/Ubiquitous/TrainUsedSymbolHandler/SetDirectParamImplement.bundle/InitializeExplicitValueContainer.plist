@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combineSustainableVectorAdapter</key>
+	<string>continueDirectIntegrityCache</string>
+	<key>getDenseSignDelegate</key>
+	<string>trainDiscardedQuaternionList</string>
+	<key>getSustainableTagCache</key>
+	<string>getOpaqueActionList</string>
+	<key>restartConcurrentPlateFactory</key>
+	<string>augmentEphemeralParamType</string>
+	<key>setSustainableSignDecorator</key>
+	<string>getOriginalCubeOwner</string>
+</dict>
+</plist>

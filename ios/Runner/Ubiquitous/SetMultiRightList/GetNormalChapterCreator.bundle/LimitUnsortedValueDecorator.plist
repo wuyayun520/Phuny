@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>computeMainSkewYExtension</key>
+	<string>setHardRightTarget</string>
+	<key>getRequiredBufferAdapter</key>
+	<string>pauseTypicalMeshContainer</string>
+	<key>initializeConsultativeRectanglePool</key>
+	<string>setSecondCenterObserver</string>
+	<key>optimizeCurrentDocumentPool</key>
+	<string>resumeIgnoredTextureFilter</string>
+	<key>setFusedAllocatorTarget</key>
+	<string>convertBeginnerTrajectoryType</string>
+</dict>
+</plist>

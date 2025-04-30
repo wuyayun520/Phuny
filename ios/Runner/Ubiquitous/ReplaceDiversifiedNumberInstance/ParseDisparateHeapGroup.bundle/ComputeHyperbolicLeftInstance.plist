@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>conformSynchronousParamPool</key>
+	<string>getGranularParamList</string>
+	<key>destroyUsedSkewYFactory</key>
+	<string>trainUnsortedVisibleType</string>
+	<key>freeSharedQuaternionHandler</key>
+	<string>startBeginnerScreenDecorator</string>
+	<key>restartElasticSizeHelper</key>
+	<string>getRelationalInterfaceProtocol</string>
+</dict>
+</plist>

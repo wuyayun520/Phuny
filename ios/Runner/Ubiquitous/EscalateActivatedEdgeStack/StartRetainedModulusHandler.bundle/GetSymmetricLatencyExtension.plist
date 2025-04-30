@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipGreatNumberTarget</key>
+	<string>setCriticalSliderCache</string>
+	<key>getSharedFragmentsImplement</key>
+	<string>getGranularQuaternionContainer</string>
+	<key>initializeSeamlessNumberType</key>
+	<string>skipUsedBoxCache</string>
+	<key>startDenseParamCreator</key>
+	<string>visitDiversifiedBinaryCreator</string>
+</dict>
+</plist>

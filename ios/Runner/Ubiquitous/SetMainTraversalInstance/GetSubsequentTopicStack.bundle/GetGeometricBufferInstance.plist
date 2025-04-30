@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clearSmartVariableHandler</key>
+	<string>getEnabledLayerFilter</string>
+	<key>initializeRelationalConstantAdapter</key>
+	<string>getCurrentProfileBase</string>
+	<key>respondIgnoredFeatureFilter</key>
+	<string>finishSemanticElasticityPool</string>
+	<key>setAssociatedDocumentOwner</key>
+	<string>getMultiBufferHandler</string>
+	<key>setNewestBufferInstance</key>
+	<string>startStaticEquipmentInstance</string>
+	<key>trainArithmeticLogImplement</key>
+	<string>getSynchronousImpressionList</string>
+</dict>
+</plist>

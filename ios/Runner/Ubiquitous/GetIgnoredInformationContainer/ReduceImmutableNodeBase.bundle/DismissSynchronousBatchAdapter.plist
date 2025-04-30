@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getBasicParamFilter</key>
+	<string>getIgnoredOperationFactory</string>
+	<key>getLostMapBase</key>
+	<string>enhanceIgnoredSpotAdapter</string>
+	<key>getMissedBufferAdapter</key>
+	<string>startActivatedHeroObserver</string>
+	<key>limitSemanticVariableCollection</key>
+	<string>setResilientPrecisionExtension</string>
+	<key>multiplyRobustTopPool</key>
+	<string>getComprehensivePositionObserver</string>
+	<key>setRespectiveContrastPool</key>
+	<string>setRobustCapsuleTarget</string>
+	<key>startEphemeralBufferArray</key>
+	<string>limitAdvancedHashCollection</string>
+</dict>
+</plist>

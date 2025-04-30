@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getComprehensiveShapeReference</key>
+	<string>analyzeMissedValueCache</string>
+	<key>initializeEnabledOperationList</key>
+	<string>setConcurrentLayoutReference</string>
+	<key>prepareDedicatedLeftReference</key>
+	<string>getIterativeMetricsObserver</string>
+	<key>resumeEuclideanOpacityAdapter</key>
+	<string>getRelationalLabelExtension</string>
+	<key>setIgnoredBottomType</key>
+	<string>setEasyZoneManager</string>
+	<key>setUniqueExponentFilter</key>
+	<string>setLostDepthAdapter</string>
+	<key>unscheduleUnsortedFlagsHelper</key>
+	<string>restartSustainableViewOwner</string>
+</dict>
+</plist>

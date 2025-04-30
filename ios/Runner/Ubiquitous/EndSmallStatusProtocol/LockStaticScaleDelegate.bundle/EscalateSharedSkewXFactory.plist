@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endCrucialCacheHelper</key>
+	<string>getExplicitOpacityDelegate</string>
+	<key>getMediumTitleObserver</key>
+	<string>resumeCriticalSceneFactory</string>
+	<key>keepMultiCoordInstance</key>
+	<string>extendAccordionVariableInstance</string>
+	<key>moveCriticalInteractionProtocol</key>
+	<string>keepPrismaticMetadataInstance</string>
+	<key>restartUnactivatedMissionTarget</key>
+	<string>getOtherBinaryExtension</string>
+	<key>resumeArithmeticMatrixDecorator</key>
+	<string>getAdvancedListenerHandler</string>
+	<key>resumeGranularNumberDecorator</key>
+	<string>embraceActivatedDepthContainer</string>
+	<key>setLocalCoordinatorCreator</key>
+	<string>cancelConsultativeTempleCollection</string>
+</dict>
+</plist>

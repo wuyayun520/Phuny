@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelEuclideanElementHandler</key>
+	<string>wrapUsedInterpolationHandler</string>
+	<key>cancelNextLabelReference</key>
+	<string>skipIgnoredProgressBarType</string>
+	<key>resumeDedicatedNameContainer</key>
+	<string>setLocalMultiplicationExtension</string>
+	<key>setNextReliabilityInstance</key>
+	<string>startMultiFeatureCreator</string>
+</dict>
+</plist>

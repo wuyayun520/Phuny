@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convertPrevDispatcherList</key>
+	<string>stopSecondVariantInstance</string>
+	<key>getAdvancedBufferReference</key>
+	<string>restartProtectedRangeList</string>
+	<key>pauseMutableParamGroup</key>
+	<string>prepareSmartTrajectoryContainer</string>
+	<key>restoreKeyIndexFilter</key>
+	<string>setKeyVarType</string>
+	<key>setPermissiveVarFactory</key>
+	<string>setPrevGraphicExtension</string>
+	<key>setPrismaticPopupObserver</key>
+	<string>rectifyStandaloneTailCollection</string>
+	<key>streamlinePrevStyleType</key>
+	<string>skipDenseTrajectoryBase</string>
+</dict>
+</plist>

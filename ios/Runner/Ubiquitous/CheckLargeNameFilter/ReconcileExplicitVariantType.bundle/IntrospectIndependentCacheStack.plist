@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endConcreteAssetList</key>
+	<string>setTensorGridInstance</string>
+	<key>moveDisplayableSliderDelegate</key>
+	<string>cancelHierarchicalRotationFilter</string>
+	<key>resumeDisplayableMaterialTarget</key>
+	<string>trainExplicitValueFilter</string>
+	<key>skipHierarchicalLoopInstance</key>
+	<string>getSynchronousNormGroup</string>
+	<key>startConsultativeCoordCache</key>
+	<string>getSingleTopObserver</string>
+</dict>
+</plist>

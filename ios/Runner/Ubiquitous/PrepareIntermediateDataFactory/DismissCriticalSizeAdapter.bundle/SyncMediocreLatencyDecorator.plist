@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animateSynchronousBufferImplement</key>
+	<string>finishRobustSkirtCache</string>
+	<key>getNormalMaterialTarget</key>
+	<string>setReusableLoopReference</string>
+	<key>getUnsortedAmortizationContainer</key>
+	<string>skipCustomInitiativeType</string>
+	<key>initializeKeyLoopCollection</key>
+	<string>eraseAsynchronousEdgeInstance</string>
+	<key>initializeRapidTempleFactory</key>
+	<string>combineElasticBorderManager</string>
+	<key>setSemanticGroupCollection</key>
+	<string>getSignificantActivityExtension</string>
+	<key>stopSubtleBorderBase</key>
+	<string>setMutablePaddingGroup</string>
+</dict>
+</plist>

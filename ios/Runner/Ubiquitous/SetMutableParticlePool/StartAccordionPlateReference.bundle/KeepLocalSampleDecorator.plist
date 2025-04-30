@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getAsynchronousPopupObserver</key>
+	<string>cancelDeclarativeSkewXManager</string>
+	<key>getFusedDialogsTarget</key>
+	<string>reflectGranularTopicDecorator</string>
+	<key>getSmallColorDelegate</key>
+	<string>skipEphemeralSegmentCollection</string>
+	<key>initializePermanentDetailFilter</key>
+	<string>prepareIterativePositionManager</string>
+	<key>mitigateLargeActivityHelper</key>
+	<string>removeDiversifiedCatalystCreator</string>
+	<key>preparePrevConfigurationCollection</key>
+	<string>generateDeclarativeTempleExtension</string>
+	<key>renameSophisticatedSkewYProtocol</key>
+	<string>trainProtectedSkewYTarget</string>
+	<key>stopDiscardedNameCollection</key>
+	<string>concatenateRelationalOriginHelper</string>
+	<key>stopGeometricLayoutCreator</key>
+	<string>endLocalVariableManager</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>addConcurrentTextureExtension</key>
+	<string>continueConcurrentTimelineOwner</string>
+	<key>allocateTensorUtilManager</key>
+	<string>getAdvancedButtonDelegate</string>
+	<key>enumerateHardAspectCreator</key>
+	<string>computeIndependentNavigationBase</string>
+	<key>insteadLostRotationGroup</key>
+	<string>setDeclarativeSpriteImplement</string>
+	<key>keepKeyTraversalObserver</key>
+	<string>restartPublicParameterObserver</string>
+	<key>pauseReusableIntensityImplement</key>
+	<string>requestCrucialSkewYManager</string>
+	<key>setCriticalGrainDelegate</key>
+	<string>poolPivotalTopProtocol</string>
+	<key>setElasticConfigurationReference</key>
+	<string>restoreRapidPlaybackCreator</string>
+</dict>
+</plist>

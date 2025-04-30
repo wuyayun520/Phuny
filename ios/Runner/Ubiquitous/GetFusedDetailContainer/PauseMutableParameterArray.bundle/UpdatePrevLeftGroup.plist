@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adjustArithmeticBufferFilter</key>
+	<string>stopHardLossExtension</string>
+	<key>computeCriticalAxisOwner</key>
+	<string>checkElasticBandwidthFactory</string>
+	<key>displaySeamlessContractionType</key>
+	<string>setRobustTextHelper</string>
+	<key>finishAutoColorGroup</key>
+	<string>visitRapidParameterAdapter</string>
+	<key>setAccordionDialogsInstance</key>
+	<string>setSmallNumberPool</string>
+	<key>setCrudeAccessoryCollection</key>
+	<string>lockPrismaticBatchManager</string>
+	<key>setOriginalGraphType</key>
+	<string>combineRobustEvaluationDecorator</string>
+</dict>
+</plist>

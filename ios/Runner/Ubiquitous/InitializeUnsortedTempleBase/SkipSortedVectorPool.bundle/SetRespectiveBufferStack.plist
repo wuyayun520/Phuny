@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concatenateIgnoredTopHelper</key>
+	<string>trainFusedGramCollection</string>
+	<key>exitSharedUnaryPool</key>
+	<string>setExplicitParameterReference</string>
+	<key>optimizeDiscardedParamGroup</key>
+	<string>removeTypicalParameterGroup</string>
+	<key>restartResilientQueueType</key>
+	<string>continueRobustFragmentsCreator</string>
+	<key>setMediumRowContainer</key>
+	<string>getSubsequentActivityDecorator</string>
+</dict>
+</plist>

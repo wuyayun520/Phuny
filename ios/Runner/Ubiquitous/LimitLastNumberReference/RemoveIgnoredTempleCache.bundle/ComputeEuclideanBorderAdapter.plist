@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adjustMissedParamFilter</key>
+	<string>resetGranularButtonArray</string>
+	<key>endAccessibleBoxCache</key>
+	<string>displayUnactivatedGroupStack</string>
+	<key>resumeEphemeralDescriptionImplement</key>
+	<string>showSemanticVariableHandler</string>
+	<key>setLostHashFilter</key>
+	<string>stopPrimarySineFilter</string>
+</dict>
+</plist>

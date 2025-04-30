@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueFirstHeapProtocol</key>
+	<string>startBeginnerNumberBase</string>
+	<key>getIndependentBufferAdapter</key>
+	<string>resumeBasicBufferImplement</string>
+	<key>getNextEfficiencyCollection</key>
+	<string>keepGlobalFeatureList</string>
+	<key>resumeReusableStrengthList</key>
+	<string>setHardTailContainer</string>
+	<key>setCustomFeatureCache</key>
+	<string>skipAsynchronousSkewYDecorator</string>
+	<key>setNormalLayerCollection</key>
+	<string>scheduleStandaloneStampImplement</string>
+	<key>setTypicalMechanismContainer</key>
+	<string>encapsulateStaticValueCollection</string>
+	<key>skipMainSpineInstance</key>
+	<string>getSortedVariableCreator</string>
+</dict>
+</plist>

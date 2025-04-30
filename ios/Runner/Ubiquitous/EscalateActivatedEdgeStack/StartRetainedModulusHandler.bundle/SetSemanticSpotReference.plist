@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cleanBackwardNavigationFilter</key>
+	<string>pauseLargeAnimationPool</string>
+	<key>initializeExplicitRowFilter</key>
+	<string>checkSemanticRightFactory</string>
+	<key>pauseSubtleSkewXPool</key>
+	<string>startArithmeticParameterTarget</string>
+	<key>poolRapidBufferStack</key>
+	<string>setRetainedIndexArray</string>
+	<key>setComprehensiveParameterOwner</key>
+	<string>initializePivotalModuleCache</string>
+	<key>setIntermediateGateObserver</key>
+	<string>restartMultiReplicaFactory</string>
+	<key>setSecondLayerHandler</key>
+	<string>finishAsynchronousBottomArray</string>
+	<key>unlockSymmetricProgressBarHandler</key>
+	<string>compareCartesianDisclaimerExtension</string>
+	<key>writeCartesianAnimationStack</key>
+	<string>setBasicAssetCreator</string>
+</dict>
+</plist>

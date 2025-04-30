@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueHardUnaryDelegate</key>
+	<string>getPermanentTopExtension</string>
+	<key>createSemanticMetadataObserver</key>
+	<string>createAssociatedFrameReference</string>
+	<key>getHierarchicalTempleArray</key>
+	<string>setRequiredArchitectureCollection</string>
+	<key>respondMissedNumberTarget</key>
+	<string>getNewestVariableType</string>
+	<key>setMultiGrayscaleTarget</key>
+	<string>adjustGlobalAspectFactory</string>
+</dict>
+</plist>

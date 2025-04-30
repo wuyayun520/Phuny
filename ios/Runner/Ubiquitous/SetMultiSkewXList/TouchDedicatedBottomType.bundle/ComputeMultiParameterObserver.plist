@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>embedDirectOptimizerStack</key>
+	<string>obtainSingleValuePool</string>
+	<key>setRobustTailDecorator</key>
+	<string>setElasticRemainderHandler</string>
+	<key>skipCustomParameterProtocol</key>
+	<string>setUnsortedSizeDelegate</string>
+	<key>trainKeyVertexDelegate</key>
+	<string>pauseExplicitDialogsAdapter</string>
+</dict>
+</plist>

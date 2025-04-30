@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueExplicitParticleManager</key>
+	<string>cancelPrimaryEffectManager</string>
+	<key>createPriorLoopCache</key>
+	<string>setDiscardedSpecifierFilter</string>
+	<key>getSmallMechanismExtension</key>
+	<string>stopPriorDialogsImplement</string>
+	<key>lockSemanticMaterialCollection</key>
+	<string>skipPivotalGemDelegate</string>
+	<key>pauseIntermediateValueCache</key>
+	<string>stopPublicPopupStack</string>
+	<key>seekLocalCatalystTarget</key>
+	<string>continueMutableAscentArray</string>
+	<key>setPrevInfoCache</key>
+	<string>setProtectedCoordinatorProtocol</string>
+	<key>streamlinePrismaticRecursionCreator</key>
+	<string>dropoutPermissiveNumberDecorator</string>
+	<key>upgradeDirectAllocatorManager</key>
+	<string>finishRespectiveImageDelegate</string>
+</dict>
+</plist>

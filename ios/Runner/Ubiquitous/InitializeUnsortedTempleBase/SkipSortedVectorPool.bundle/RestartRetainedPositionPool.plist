@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelSmartVariableFactory</key>
+	<string>getCommonOpacityObserver</string>
+	<key>fillMediumRemainderManager</key>
+	<string>getConcreteValueFilter</string>
+	<key>getHierarchicalDescriptionFactory</key>
+	<string>getUsedActionList</string>
+	<key>keepCustomizedThresholdList</key>
+	<string>stopPriorTopFilter</string>
+	<key>limitOriginalOpacityDecorator</key>
+	<string>transposeAutoBufferPool</string>
+	<key>restoreLiteStepTarget</key>
+	<string>divideDirectlyVisibleList</string>
+	<key>setFusedEquivalentBase</key>
+	<string>getEnabledEquivalentInstance</string>
+	<key>setPivotalTempleHelper</key>
+	<string>pauseRetainedGraphContainer</string>
+	<key>skipCartesianRightCache</key>
+	<string>restartCurrentProfileHelper</string>
+	<key>stopSemanticProvisionProtocol</key>
+	<string>floatRelationalBufferContainer</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelSecondMissionExtension</key>
+	<string>setLiteSkewXExtension</string>
+	<key>captureHierarchicalDimensionHandler</key>
+	<string>setHierarchicalCoordDecorator</string>
+	<key>continueExplicitImageCreator</key>
+	<string>finishGranularClusterInstance</string>
+	<key>endIntuitiveBoundCreator</key>
+	<string>replacePriorCenterExtension</string>
+	<key>replaceCrudeSpineInstance</key>
+	<string>pausePriorParticleFactory</string>
+	<key>resizeTensorMetadataProtocol</key>
+	<string>resumeLostTrajectoryArray</string>
+	<key>restartSortedVarManager</key>
+	<string>associateLostImageHandler</string>
+	<key>setUniformSpecifierObserver</key>
+	<string>startRelationalMeshCreator</string>
+	<key>stopSharedDescriptionCache</key>
+	<string>prepareAutoBufferHandler</string>
+</dict>
+</plist>

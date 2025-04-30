@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getOldOperationAdapter</key>
+	<string>skipSecondUnaryHandler</string>
+	<key>provideImmutableEquivalentCache</key>
+	<string>parseArithmeticParameterAdapter</string>
+	<key>resumeNumericalValueHandler</key>
+	<string>setSpecifyEdgeCache</string>
+	<key>setDenseVariablePool</key>
+	<string>requestNewestTailExtension</string>
+	<key>setGlobalAmortizationStack</key>
+	<string>getDiscardedResolverCache</string>
+</dict>
+</plist>

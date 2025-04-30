@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>divideDifficultVectorAdapter</key>
+	<string>getPermissiveDimensionType</string>
+	<key>getMainParameterCollection</key>
+	<string>getProtectedBorderReference</string>
+	<key>getNextCubeTarget</key>
+	<string>pauseHierarchicalLogarithmHelper</string>
+	<key>getTensorToleranceHelper</key>
+	<string>continueElasticTailDecorator</string>
+	<key>resizeTensorParticleManager</key>
+	<string>augmentMainFragmentsTarget</string>
+	<key>startAsynchronousNumberDecorator</key>
+	<string>reflectSemanticBinaryAdapter</string>
+	<key>touchHierarchicalDepthStack</key>
+	<string>discoverKeyVariableCollection</string>
+</dict>
+</plist>

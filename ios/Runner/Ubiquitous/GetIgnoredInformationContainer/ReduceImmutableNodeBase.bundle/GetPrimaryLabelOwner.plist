@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>conformActivatedRemainderManager</key>
+	<string>getPrevVisibleObserver</string>
+	<key>executeGranularEffectStack</key>
+	<string>setFusedSkewYDelegate</string>
+	<key>getSynchronousBottomCache</key>
+	<string>trainBeginnerParticleProtocol</string>
+	<key>initializeUsedTitleManager</key>
+	<string>setUsedResultDelegate</string>
+	<key>prepareStaticFlagsOwner</key>
+	<string>encapsulateUniqueOptionManager</string>
+	<key>refreshCartesianNameOwner</key>
+	<string>setDifficultBandwidthAdapter</string>
+	<key>refreshDirectlyTextureImplement</key>
+	<string>setKeyEntropyStack</string>
+</dict>
+</plist>

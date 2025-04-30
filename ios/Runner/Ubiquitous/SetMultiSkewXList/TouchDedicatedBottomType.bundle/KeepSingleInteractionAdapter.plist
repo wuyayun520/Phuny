@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cloneSophisticatedAllocatorStack</key>
+	<string>insteadSharedListenerDecorator</string>
+	<key>endSecondInteractionBase</key>
+	<string>getHyperbolicBufferStack</string>
+	<key>endUnactivatedHeapTarget</key>
+	<string>getSynchronousRangeType</string>
+	<key>finishCommonCapsuleCreator</key>
+	<string>getLostVariableArray</string>
+	<key>getSubstantialMenuContainer</key>
+	<string>writeLiteDetailManager</string>
+	<key>pausePrevOptimizerHelper</key>
+	<string>setRelationalNotationManager</string>
+	<key>restartDiscardedQueueAdapter</key>
+	<string>continueNextVariableArray</string>
+	<key>setHyperbolicTaxonomyHandler</key>
+	<string>spinSecondVarFactory</string>
+	<key>upgradeSpecifyMusicDelegate</key>
+	<string>writeElasticNumberExtension</string>
+</dict>
+</plist>

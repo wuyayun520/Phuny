@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>augmentLargeSceneImplement</key>
+	<string>getGlobalComponentFilter</string>
+	<key>requestLocalDescriptionFactory</key>
+	<string>setPrevSkewYReference</string>
+	<key>setEuclideanNumberList</key>
+	<string>initializeDifficultTopicReference</string>
+	<key>streamlineDeclarativeBoxProtocol</key>
+	<string>setDisplayableValueManager</string>
+</dict>
+</plist>

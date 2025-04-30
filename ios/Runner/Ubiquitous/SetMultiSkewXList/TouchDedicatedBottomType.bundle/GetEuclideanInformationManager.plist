@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocateLastVariableStack</key>
+	<string>getBasicImageList</string>
+	<key>endAutoParameterType</key>
+	<string>continuePrevEventList</string>
+	<key>endSecondNumberStack</key>
+	<string>transposeFirstFrameGroup</string>
+	<key>finishCrudeProjectionTarget</key>
+	<string>setMultiArithmeticReference</string>
+	<key>getPriorParamInstance</key>
+	<string>obtainPermanentCardCreator</string>
+	<key>initializeDiversifiedAspectGroup</key>
+	<string>showAgileBufferInstance</string>
+	<key>resumeRespectiveRightPool</key>
+	<string>getBackwardLeftHandler</string>
+	<key>setGeometricResultOwner</key>
+	<string>aggregateLastDescriptionDelegate</string>
+	<key>setPivotalIntegerOwner</key>
+	<string>keepEnabledBufferInstance</string>
+</dict>
+</plist>

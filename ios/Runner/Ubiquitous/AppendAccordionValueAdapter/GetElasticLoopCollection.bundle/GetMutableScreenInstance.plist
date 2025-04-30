@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelDelicateWorkflowFactory</key>
+	<string>pauseCrudeParameterHelper</string>
+	<key>executeStaticSkewXInstance</key>
+	<string>keepSemanticTrajectoryAdapter</string>
+	<key>finishReusableParameterBase</key>
+	<string>seekBackwardThroughputOwner</string>
+	<key>getAgileTaskTarget</key>
+	<string>restartOtherStyleArray</string>
+	<key>getSpecifyIntegrationDelegate</key>
+	<string>startMutableNavigationCollection</string>
+	<key>getUniformInterfaceDelegate</key>
+	<string>setGlobalActionOwner</string>
+	<key>initializeStandaloneLoaderManager</key>
+	<string>reduceOriginalFramePool</string>
+	<key>mitigateRobustBinaryHandler</key>
+	<string>endRetainedPaddingCache</string>
+	<key>setIndependentEdgeManager</key>
+	<string>prepareRelationalMissionCollection</string>
+</dict>
+</plist>

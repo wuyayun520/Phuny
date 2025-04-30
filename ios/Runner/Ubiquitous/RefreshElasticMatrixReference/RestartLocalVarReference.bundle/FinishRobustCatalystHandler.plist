@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelBasicRecursionFactory</key>
+	<string>prepareRapidDisclaimerList</string>
+	<key>endSharedSliderCreator</key>
+	<string>finishIndependentSliderFilter</string>
+	<key>findSustainableScaleTarget</key>
+	<string>pauseCommonContractionImplement</string>
+	<key>generateConcurrentNumberObserver</key>
+	<string>setUniformNumberCreator</string>
+	<key>setDirectVariableManager</key>
+	<string>conformEphemeralEventFilter</string>
+	<key>skipPrevPrecisionList</key>
+	<string>computeDelicateSizeExtension</string>
+</dict>
+</plist>

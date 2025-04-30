@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accelerateSpecifyOriginTarget</key>
+	<string>setMutableValueOwner</string>
+	<key>getSharedHeapArray</key>
+	<string>clonePermanentTailFilter</string>
+	<key>setStandaloneValueTarget</key>
+	<string>setSymmetricIndicatorFactory</string>
+	<key>syncMissedNameInstance</key>
+	<string>getGlobalHeroCache</string>
+</dict>
+</plist>

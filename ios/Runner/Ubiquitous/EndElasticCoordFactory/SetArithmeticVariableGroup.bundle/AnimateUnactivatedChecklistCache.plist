@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayOpaqueRotationInstance</key>
+	<string>setOpaqueLayerAdapter</string>
+	<key>endHierarchicalTweakArray</key>
+	<string>getLocalVisibleInstance</string>
+	<key>initializeLocalParameterInstance</key>
+	<string>endCommonVariableGroup</string>
+	<key>setDeclarativeDepthList</key>
+	<string>freePivotalResolverDelegate</string>
+	<key>setDisplayableEdgeContainer</key>
+	<string>getComprehensiveVarOwner</string>
+	<key>setSmallItemBase</key>
+	<string>getKeyConstantCreator</string>
+	<key>skipHierarchicalTailReference</key>
+	<string>setResilientNumberDelegate</string>
+	<key>trainPrevOpacityFilter</key>
+	<string>finishEuclideanViewBase</string>
+</dict>
+</plist>

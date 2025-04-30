@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getNewestDepthType</key>
+	<string>getIterativeConfigurationType</string>
+	<key>getPrevDimensionAdapter</key>
+	<string>getMultiLoopReference</string>
+	<key>getSmallValueManager</key>
+	<string>freeIntermediateBottomCache</string>
+	<key>reflectHardColorInstance</key>
+	<string>setActivatedFlagsHelper</string>
+	<key>seekPriorBufferDelegate</key>
+	<string>getDiscardedVisibleCache</string>
+	<key>startMissedZoneHelper</key>
+	<string>resumePublicBufferCreator</string>
+	<key>writeComprehensiveLeftCache</key>
+	<string>getCurrentParamAdapter</string>
+</dict>
+</plist>

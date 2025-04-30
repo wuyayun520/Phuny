@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishLocalTempleHelper</key>
+	<string>finishBeginnerChecklistFactory</string>
+	<key>initializeBasicTextureBase</key>
+	<string>getOriginalParamManager</string>
+	<key>insteadNormalParamImplement</key>
+	<string>getCustomizedBufferCreator</string>
+	<key>rectifyActivatedSymbolProtocol</key>
+	<string>resumeDenseVarHelper</string>
+	<key>setPrismaticSceneHelper</key>
+	<string>getPrimarySignExtension</string>
+	<key>setPublicSchemaHandler</key>
+	<string>multiplyFusedTempleStack</string>
+</dict>
+</plist>

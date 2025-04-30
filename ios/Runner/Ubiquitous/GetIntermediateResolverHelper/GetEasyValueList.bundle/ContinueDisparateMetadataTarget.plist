@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concatenateUniformConfigurationType</key>
+	<string>trainFusedInfoStack</string>
+	<key>erasePivotalMovementList</key>
+	<string>getSharedParamInstance</string>
+	<key>getExplicitSchemaCache</key>
+	<string>skipSignificantBufferTarget</string>
+	<key>getRequiredNumberStack</key>
+	<string>continueOpaqueVariableOwner</string>
+	<key>pauseMainCardBase</key>
+	<string>keepHierarchicalValueImplement</string>
+	<key>preparePrevParticleCollection</key>
+	<string>setKeyEffectReference</string>
+	<key>setSmallCapacityFilter</key>
+	<string>optimizeDiscardedRectangleDelegate</string>
+	<key>setSortedSkewXDelegate</key>
+	<string>getImmutableCoordFilter</string>
+</dict>
+</plist>

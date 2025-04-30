@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getExplicitBufferFactory</key>
+	<string>setDisplayableLogPool</string>
+	<key>restorePriorBorderList</key>
+	<string>obtainKeyQuaternionManager</string>
+	<key>resumeSimilarRouteCache</key>
+	<string>executePublicReferenceProtocol</string>
+	<key>setEnabledVectorCreator</key>
+	<string>startDirectlyScaleReference</string>
+	<key>skipStandaloneDispatcherAdapter</key>
+	<string>trainRapidValueFactory</string>
+</dict>
+</plist>

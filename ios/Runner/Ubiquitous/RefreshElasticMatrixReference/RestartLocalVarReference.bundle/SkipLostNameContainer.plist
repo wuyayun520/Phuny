@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>parseCurrentShaderArray</key>
+	<string>getCriticalNumberFactory</string>
+	<key>playSmallScopeType</key>
+	<string>prepareStandaloneVariableHelper</string>
+	<key>prepareBasicAlphaProtocol</key>
+	<string>pauseAsynchronousNameExtension</string>
+	<key>resumeNewestChartAdapter</key>
+	<string>freeLocalMomentumImplement</string>
+	<key>setExplicitRendererOwner</key>
+	<string>provideEphemeralVisibleManager</string>
+	<key>skipDedicatedTagContainer</key>
+	<string>associateSharedDeliveryObserver</string>
+	<key>stopAsynchronousTopStack</key>
+	<string>allocateDelicateNormPool</string>
+	<key>stopCrucialAllocatorManager</key>
+	<string>getSubsequentVariableHandler</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>extendPermissiveNumberGroup</key>
+	<string>continueUniqueButtonInstance</string>
+	<key>getUnactivatedResultList</key>
+	<string>enumerateMainRotationPool</string>
+	<key>getUsedObjectCache</key>
+	<string>getCartesianBufferAdapter</string>
+	<key>refreshSignificantChapterCache</key>
+	<string>cleanRequiredParameterReference</string>
+	<key>restartSemanticProjectCreator</key>
+	<string>endCurrentVarManager</string>
+	<key>setLocalNodeFactory</key>
+	<string>getCrucialParameterHandler</string>
+	<key>touchUniformNumberCache</key>
+	<string>endPrevComponentGroup</string>
+</dict>
+</plist>

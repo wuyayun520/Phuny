@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueStandaloneVectorDelegate</key>
+	<string>conformRequiredFrameHandler</string>
+	<key>drawProtectedNumberHelper</key>
+	<string>setGranularDocumentStack</string>
+	<key>getExplicitMediaContainer</key>
+	<string>initializeAccordionGrainBase</string>
+	<key>getMainGroupCache</key>
+	<string>getLostColorObserver</string>
+	<key>getOpaqueViewManager</key>
+	<string>getPrevButtonBase</string>
+	<key>prepareDifficultTextProtocol</key>
+	<string>pauseLargePointContainer</string>
+	<key>setConsultativeTempleAdapter</key>
+	<string>getDedicatedGrainArray</string>
+</dict>
+</plist>

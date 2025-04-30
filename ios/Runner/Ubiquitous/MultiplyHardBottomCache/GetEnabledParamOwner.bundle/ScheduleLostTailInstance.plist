@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishEnabledOperationFactory</key>
+	<string>getUnactivatedNumberArray</string>
+	<key>finishUsedPaddingGroup</key>
+	<string>reconcileIgnoredTempleInstance</string>
+	<key>reduceHyperbolicParameterHelper</key>
+	<string>getCurrentScalabilityFactory</string>
+	<key>skipIterativeBulletHelper</key>
+	<string>prepareLargeDispatcherImplement</string>
+	<key>skipLocalParameterContainer</key>
+	<string>getCrudeVisibleObserver</string>
+	<key>unscheduleConcurrentTempleDelegate</key>
+	<string>finishProtectedParamAdapter</string>
+</dict>
+</plist>

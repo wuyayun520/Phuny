@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocateEuclideanBaseTarget</key>
+	<string>holdIgnoredModelAdapter</string>
+	<key>dropoutUnactivatedFragmentsArray</key>
+	<string>setEnabledFragmentsFactory</string>
+	<key>endSemanticParameterFactory</key>
+	<string>escalateSemanticHeadDecorator</string>
+	<key>finishSemanticValueCache</key>
+	<string>limitDenseTopContainer</string>
+	<key>keepSemanticRowHelper</key>
+	<string>restartOtherFeatureStack</string>
+	<key>resumeDiversifiedValueArray</key>
+	<string>setExplicitSpotBase</string>
+	<key>setIndependentPlaybackObserver</key>
+	<string>pauseUniformLeftHandler</string>
+	<key>skipAutoVarBase</key>
+	<string>prepareNewestExponentInstance</string>
+</dict>
+</plist>

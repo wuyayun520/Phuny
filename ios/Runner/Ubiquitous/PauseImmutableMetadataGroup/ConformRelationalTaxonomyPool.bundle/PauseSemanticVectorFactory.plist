@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lockPublicArithmeticFactory</key>
+	<string>displayResilientMetadataCache</string>
+	<key>pauseRequiredScenarioHandler</key>
+	<string>setPriorMaterialReference</string>
+	<key>restartBasicBehaviorType</key>
+	<string>setAutoScaleInstance</string>
+	<key>setNormalRangeFilter</key>
+	<string>initializeMediocreVisibleFilter</string>
+</dict>
+</plist>

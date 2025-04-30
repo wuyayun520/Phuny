@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concatenateSingleBufferFilter</key>
+	<string>pauseCurrentParamTarget</string>
+	<key>finishPriorReductionHandler</key>
+	<string>preparePrismaticSessionArray</string>
+	<key>getCurrentRouteStack</key>
+	<string>getSignificantNotationGroup</string>
+	<key>getUniformRemediationContainer</key>
+	<string>updateSharedTagHandler</string>
+	<key>locateComprehensiveGraphCache</key>
+	<string>pauseMediumPreviewFactory</string>
+	<key>restartSeamlessEventDelegate</key>
+	<string>finishDirectlyVariableHandler</string>
+	<key>startMutableWorkflowCache</key>
+	<string>obtainPriorSymbolTarget</string>
+	<key>visitOriginalSignaturePool</key>
+	<string>revisitUnsortedCycleImplement</string>
+</dict>
+</plist>

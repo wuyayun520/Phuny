@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mitigateRelationalParamHelper</key>
+	<string>setMediocreTailHelper</string>
+	<key>prepareComprehensiveCharacterFilter</key>
+	<string>startLocalEdgeExtension</string>
+	<key>quantizationNextEfficiencyObserver</key>
+	<string>quantizerSustainableDescentFactory</string>
+	<key>setSubsequentBottomCollection</key>
+	<string>setDiversifiedCacheObserver</string>
+	<key>storeEnabledTopicCache</key>
+	<string>setRapidPositionCreator</string>
+</dict>
+</plist>

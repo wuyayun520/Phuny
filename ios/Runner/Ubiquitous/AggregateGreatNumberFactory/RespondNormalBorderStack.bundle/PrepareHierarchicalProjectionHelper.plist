@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captureSingleStyleManager</key>
+	<string>rectifyPrismaticIndexManager</string>
+	<key>discoverSignificantStyleFilter</key>
+	<string>combineMultiVideoHandler</string>
+	<key>finishAssociatedStepFactory</key>
+	<string>finishKeyParameterContainer</string>
+	<key>pauseDifficultGiftFilter</key>
+	<string>retrieveIgnoredButtonBase</string>
+	<key>setSharedLabelBase</key>
+	<string>setIndependentCoordContainer</string>
+</dict>
+</plist>

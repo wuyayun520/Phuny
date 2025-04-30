@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzeElasticIndexList</key>
+	<string>addLostVariableContainer</string>
+	<key>analyzeKeyGridOwner</key>
+	<string>replaceLargeScaleImplement</string>
+	<key>eraseBackwardPreviewHelper</key>
+	<string>startCrucialVarPool</string>
+	<key>getCommonTextImplement</key>
+	<string>exitIntuitiveLayoutCollection</string>
+	<key>keepLiteVarHandler</key>
+	<string>restartHierarchicalVarList</string>
+	<key>retrieveAssociatedChartList</key>
+	<string>getSmartElasticityBase</string>
+	<key>setNextParamImplement</key>
+	<string>keepPublicLossType</string>
+	<key>skipIgnoredNavigationHelper</key>
+	<string>finishAgileVarTarget</string>
+	<key>transposeSecondParticleExtension</key>
+	<string>endIgnoredParameterDelegate</string>
+</dict>
+</plist>

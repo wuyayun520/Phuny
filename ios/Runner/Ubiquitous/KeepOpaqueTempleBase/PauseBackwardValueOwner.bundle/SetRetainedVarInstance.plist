@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>calculateMediocreWorkflowCollection</key>
+	<string>setCurrentScenarioGroup</string>
+	<key>getSortedTechniqueHelper</key>
+	<string>parseNewestValueExtension</string>
+	<key>restartLiteVarCache</key>
+	<string>setSymmetricVarContainer</string>
+	<key>resumeExplicitCapacityProtocol</key>
+	<string>initializeAgileControllerCreator</string>
+	<key>setAccessibleCubeObserver</key>
+	<string>cancelPrimaryGateHandler</string>
+	<key>setGranularConvolutionManager</key>
+	<string>pauseUnsortedParticleObserver</string>
+	<key>setStaticVariableStack</key>
+	<string>reconcileSemanticVectorArray</string>
+	<key>startArithmeticLogarithmHelper</key>
+	<string>keepProtectedPopupOwner</string>
+</dict>
+</plist>

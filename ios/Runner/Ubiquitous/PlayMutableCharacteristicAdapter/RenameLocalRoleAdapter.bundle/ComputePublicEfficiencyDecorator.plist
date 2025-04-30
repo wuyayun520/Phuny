@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishLostBorderImplement</key>
+	<string>cloneFusedConvolutionHandler</string>
+	<key>getSignificantQueueHandler</key>
+	<string>floatCrucialParameterCache</string>
+	<key>lockMainMatrixArray</key>
+	<string>setRetainedNumberCollection</string>
+	<key>restoreDedicatedDescriptionManager</key>
+	<string>getFusedHeadManager</string>
+	<key>stopConcurrentSpecifierInstance</key>
+	<string>pauseDenseAspectObserver</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getNumericalClusterDelegate</key>
+	<string>setSubtleRendererCache</string>
+	<key>pauseCartesianScaleManager</key>
+	<string>setAutoRowHelper</string>
+	<key>prepareAccordionSpriteStack</key>
+	<string>markIndependentThresholdTarget</string>
+	<key>skipSecondLatencyList</key>
+	<string>differentiateRobustGroupFilter</string>
+	<key>startDisparateSchemaArray</key>
+	<string>unlockSmartViewImplement</string>
+</dict>
+</plist>

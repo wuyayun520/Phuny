@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>keepPrevAssetCache</key>
+	<string>keepNewestVarDecorator</string>
+	<key>renameIgnoredOpacityCache</key>
+	<string>skipUnactivatedBufferFilter</string>
+	<key>skipGeometricBatchImplement</key>
+	<string>computeRespectiveBaseCollection</string>
+	<key>syncSharedParamCache</key>
+	<string>freeCrudeToleranceCache</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatePermissiveLeftDelegate</key>
+	<string>finishAsynchronousLeftObserver</string>
+	<key>calculatePublicUnaryCache</key>
+	<string>pauseUsedBaseFilter</string>
+	<key>checkPrevVariableReference</key>
+	<string>setCrucialRotationObserver</string>
+	<key>detachMediocreCenterCache</key>
+	<string>setUnactivatedParameterBase</string>
+	<key>getRequiredColorCreator</key>
+	<string>finishImmutableAssetPool</string>
+	<key>respondElasticClusterList</key>
+	<string>setMissedBufferFilter</string>
+	<key>setHierarchicalBehaviorPool</key>
+	<string>setPrevOperationFilter</string>
+	<key>setSharedLogarithmCache</key>
+	<string>aggregateSubtlePlateFactory</string>
+</dict>
+</plist>

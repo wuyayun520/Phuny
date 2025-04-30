@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accelerateMultiClusterOwner</key>
+	<string>getSharedSignAdapter</string>
+	<key>clipNormalSpotOwner</key>
+	<string>getDenseBufferHelper</string>
+	<key>continueCrudeElementObserver</key>
+	<string>getSignificantTentativeImplement</string>
+	<key>executeCurrentFeatureType</key>
+	<string>enhanceSmallNodeArray</string>
+	<key>finishElasticTextHelper</key>
+	<string>initializeFusedCompositionInstance</string>
+</dict>
+</plist>

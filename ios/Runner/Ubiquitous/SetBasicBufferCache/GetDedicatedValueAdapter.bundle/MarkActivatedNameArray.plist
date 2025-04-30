@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getMultiReliabilityTarget</key>
+	<string>getSubsequentPlaybackCreator</string>
+	<key>insteadOtherToleranceGroup</key>
+	<string>getUniqueHeadReference</string>
+	<key>setConsultativeCacheCreator</key>
+	<string>setUnsortedLayerObserver</string>
+	<key>setTypicalSkewYGroup</key>
+	<string>getTypicalSkewYGroup</string>
+	<key>startOpaqueEffectCache</key>
+	<string>getSubsequentSkinBase</string>
+	<key>writeSharedMatrixType</key>
+	<string>finishDenseColorHelper</string>
+</dict>
+</plist>

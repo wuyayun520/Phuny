@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getMediumZoneExtension</key>
+	<string>getAsynchronousScenarioManager</string>
+	<key>getSharedIndexContainer</key>
+	<string>setLastScaleManager</string>
+	<key>prepareCommonTangentManager</key>
+	<string>getArithmeticEfficiencyProtocol</string>
+	<key>resizeSmartLayoutGroup</key>
+	<string>getDifficultLogStack</string>
+	<key>setIntermediateAllocatorManager</key>
+	<string>limitSemanticVariableHandler</string>
+	<key>upgradeDeclarativeNumberReference</key>
+	<string>decoupleSemanticGrainReference</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getHyperbolicImpactType</key>
+	<string>getSymmetricElasticityExtension</string>
+	<key>getIntermediateUtilCreator</key>
+	<string>getDenseAlphaHelper</string>
+	<key>getReusablePointManager</key>
+	<string>getLargeCubeGroup</string>
+	<key>limitSymmetricParamAdapter</key>
+	<string>getTypicalParameterHelper</string>
+	<key>resumeSinglePrecisionCreator</key>
+	<string>setUnactivatedLatencyProtocol</string>
+	<key>setBasicLeftArray</key>
+	<string>pauseRetainedVectorReference</string>
+	<key>trainSymmetricResourceFactory</key>
+	<string>setRetainedUtilCreator</string>
+</dict>
+</plist>

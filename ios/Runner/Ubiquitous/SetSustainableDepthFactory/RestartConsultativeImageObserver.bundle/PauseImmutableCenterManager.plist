@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishSignificantHeadBase</key>
+	<string>getEphemeralHeapContainer</string>
+	<key>pushGreatRecursionCollection</key>
+	<string>divideSpecifyCycleCollection</string>
+	<key>setAssociatedCertificateList</key>
+	<string>limitDenseMatrixDecorator</string>
+</dict>
+</plist>

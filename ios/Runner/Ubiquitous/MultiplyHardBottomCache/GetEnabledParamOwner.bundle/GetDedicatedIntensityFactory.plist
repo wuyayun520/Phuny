@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipTypicalGraphHelper</key>
+	<string>skipCrudeSizeStack</string>
+	<key>endTypicalVisibleHandler</key>
+	<string>setDeclarativeLayoutFilter</string>
+	<key>finishMultiLoaderCollection</key>
+	<string>addStandaloneRotationDelegate</string>
+	<key>getSubsequentBufferDelegate</key>
+	<string>aggregateOtherSliderFilter</string>
+	<key>setAgileChartObserver</key>
+	<string>getRobustValueList</string>
+	<key>setOldNumberProtocol</key>
+	<string>prepareSeamlessHeadArray</string>
+	<key>setStaticUtilPool</key>
+	<string>finishSemanticVariableOwner</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adjustPermanentVectorTarget</key>
+	<string>revisitAccessibleParamPool</string>
+	<key>prepareSingleOriginTarget</key>
+	<string>setDirectUtilTarget</string>
+	<key>setBasicFeatureInstance</key>
+	<string>differentiateOpaqueVarArray</string>
+	<key>setDiscardedNumberTarget</key>
+	<string>setComprehensiveNumberFactory</string>
+	<key>setMediumSkinBase</key>
+	<string>associateRequiredDeliveryContainer</string>
+	<key>setPermissiveVariableDelegate</key>
+	<string>showBeginnerParameterTarget</string>
+</dict>
+</plist>

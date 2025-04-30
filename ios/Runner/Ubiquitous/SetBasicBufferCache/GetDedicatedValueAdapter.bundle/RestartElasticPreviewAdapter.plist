@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelUnactivatedBorderDelegate</key>
+	<string>wrapDiversifiedBottomCreator</string>
+	<key>exitSecondAllocatorExtension</key>
+	<string>quitActivatedBufferHelper</string>
+	<key>getEnabledOpacityContainer</key>
+	<string>restartAutoConsumptionGroup</string>
+	<key>multiplySignificantBufferExtension</key>
+	<string>getHierarchicalQueueStack</string>
+	<key>setSmartMapExtension</key>
+	<string>visitExplicitLayoutContainer</string>
+</dict>
+</plist>

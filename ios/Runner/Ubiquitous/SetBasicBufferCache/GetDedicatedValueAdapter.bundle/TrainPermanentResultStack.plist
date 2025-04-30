@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combineDedicatedLogObserver</key>
+	<string>getImmutableFlagsFactory</string>
+	<key>getPriorVariantDelegate</key>
+	<string>continuePriorLabelCache</string>
+	<key>getUsedScopeCache</key>
+	<string>getArithmeticVarList</string>
+	<key>spinAgileInitiativeReference</key>
+	<string>finishMutableNodeGroup</string>
+	<key>startComprehensiveActivityOwner</key>
+	<string>analyzeCustomCacheBase</string>
+	<key>updateDisparateOperationCreator</key>
+	<string>keepElasticDeliveryFactory</string>
+</dict>
+</plist>

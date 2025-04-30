@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getSmallValueBase</key>
+	<string>getSemanticReplicaInstance</string>
+	<key>initializeGeometricVisiblePool</key>
+	<string>initializeLastResourceBase</string>
+	<key>restartAutoContractionFactory</key>
+	<string>prepareSortedCycleFilter</string>
+	<key>setSubtleNodeFilter</key>
+	<string>introspectSmartAssetBase</string>
+	<key>skipSemanticPaddingFactory</key>
+	<string>stopDedicatedTagArray</string>
+	<key>startSubtleFlagsGroup</key>
+	<string>getEuclideanGraphicBase</string>
+	<key>trainMissedNumberCollection</key>
+	<string>initializeOldValueDecorator</string>
+</dict>
+</plist>

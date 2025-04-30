@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>divideSingleCoordinatorCollection</key>
+	<string>parseUnactivatedQuaternionType</string>
+	<key>getDisplayableLayoutOwner</key>
+	<string>getMissedSkewYTarget</string>
+	<key>getSophisticatedActivityDecorator</key>
+	<string>requestBeginnerMediaExtension</string>
+	<key>obtainUsedBrushExtension</key>
+	<string>startDiscardedArchitectureManager</string>
+</dict>
+</plist>

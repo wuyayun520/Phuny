@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associateOpaqueMenuDelegate</key>
+	<string>getAdvancedPreviewOwner</string>
+	<key>endElasticChannelsFilter</key>
+	<string>captureKeyResultExtension</string>
+	<key>endSingleIndexTarget</key>
+	<string>setDirectGroupReference</string>
+	<key>keepNextValueInstance</key>
+	<string>setSymmetricVarTarget</string>
+	<key>keepPivotalVarManager</key>
+	<string>getMultiEdgeCreator</string>
+	<key>setSecondScalabilityAdapter</key>
+	<string>finishBasicDeliveryManager</string>
+	<key>skipDiscardedBoxGroup</key>
+	<string>pauseCartesianLoaderInstance</string>
+	<key>upgradeDedicatedSpotPool</key>
+	<string>pauseGlobalCaptionReference</string>
+</dict>
+</plist>

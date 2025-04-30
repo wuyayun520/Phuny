@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelRequiredMenuType</key>
+	<string>respondFirstProvisionInstance</string>
+	<key>endCustomizedPolygonStack</key>
+	<string>syncEphemeralParamFilter</string>
+	<key>getConcreteEdgeStack</key>
+	<string>initializeSignificantMetadataList</string>
+	<key>getConcurrentValueCreator</key>
+	<string>getAssociatedThreadFactory</string>
+	<key>pauseRapidStepList</key>
+	<string>initializeSharedParamCreator</string>
+	<key>pauseSustainableStrokeOwner</key>
+	<string>finishNextChecklistCreator</string>
+	<key>restartTypicalGroupImplement</key>
+	<string>skipTypicalBufferPool</string>
+	<key>resumeUnactivatedHashProtocol</key>
+	<string>setAutoBinaryList</string>
+	<key>startHierarchicalParameterCreator</key>
+	<string>quantizerFusedItemInstance</string>
+	<key>startSynchronousVariableExtension</key>
+	<string>getRetainedEdgeManager</string>
+</dict>
+</plist>

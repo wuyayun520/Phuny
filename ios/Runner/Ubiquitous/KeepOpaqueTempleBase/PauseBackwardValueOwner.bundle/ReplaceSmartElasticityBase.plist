@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelSemanticThreadContainer</key>
+	<string>setMutablePositionHelper</string>
+	<key>combineSubsequentValuePool</key>
+	<string>getKeyBufferDecorator</string>
+	<key>continueDisplayableResultBase</key>
+	<string>introspectCommonReplicaArray</string>
+	<key>getSharedModuleTarget</key>
+	<string>initializeIterativeNumberAdapter</string>
+</dict>
+</plist>

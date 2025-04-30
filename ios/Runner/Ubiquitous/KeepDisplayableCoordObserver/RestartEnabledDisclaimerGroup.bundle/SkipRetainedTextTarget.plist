@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>embedSpecifyMatrixExtension</key>
+	<string>skipSustainableBoxFactory</string>
+	<key>getRobustItemCreator</key>
+	<string>finishUnactivatedConvolutionHelper</string>
+	<key>initializeLostBufferExtension</key>
+	<string>unscheduleDenseSkewXProtocol</string>
+	<key>prepareSubsequentParamObserver</key>
+	<string>setGlobalParameterImplement</string>
+	<key>setDirectTextArray</key>
+	<string>setNewestOptionFilter</string>
+	<key>stopSemanticLeftAdapter</key>
+	<string>keepExplicitVariableDecorator</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endSmartScenarioTarget</key>
+	<string>getCrucialMatrixContainer</string>
+	<key>findDiscardedChartObserver</key>
+	<string>readCartesianSceneCache</string>
+	<key>setPriorCapsuleObserver</key>
+	<string>prepareCustomInteractionFactory</string>
+	<key>setPublicBottomInstance</key>
+	<string>resumeRespectiveRectContainer</string>
+	<key>trainNumericalEvolutionExtension</key>
+	<string>setMutableVisibleAdapter</string>
+	<key>upgradeNextMeshHandler</key>
+	<string>getDisplayableNodeCache</string>
+</dict>
+</plist>

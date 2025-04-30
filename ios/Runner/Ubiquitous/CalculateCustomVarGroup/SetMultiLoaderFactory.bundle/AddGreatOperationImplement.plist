@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatePermanentLoopDecorator</key>
+	<string>setBackwardNormInstance</string>
+	<key>continueHardSineHelper</key>
+	<string>restorePrimaryLayerInstance</string>
+	<key>convertSecondEffectFactory</key>
+	<string>resumeStandalonePopupManager</string>
+	<key>getSymmetricTrajectoryList</key>
+	<string>getPrismaticEventDelegate</string>
+	<key>initializePermanentParamFactory</key>
+	<string>trainSustainableRotationImplement</string>
+	<key>setSymmetricParamHandler</key>
+	<string>setCrudeMetadataFilter</string>
+	<key>stopNormalRemediationFactory</key>
+	<string>setStandaloneColorHandler</string>
+</dict>
+</plist>

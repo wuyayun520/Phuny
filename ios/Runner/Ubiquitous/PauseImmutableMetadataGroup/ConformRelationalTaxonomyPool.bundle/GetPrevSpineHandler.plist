@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>destroyStandaloneParameterDecorator</key>
+	<string>endStandaloneAudioBase</string>
+	<key>getOldSkewXInstance</key>
+	<string>skipUsedNumberCache</string>
+	<key>getRequiredTemplePool</key>
+	<string>getBackwardSizeHelper</string>
+	<key>initializeSmallContrastDecorator</key>
+	<string>getStaticNumberReference</string>
+	<key>setSortedQuaternionManager</key>
+	<string>prepareNextRowTarget</string>
+</dict>
+</plist>

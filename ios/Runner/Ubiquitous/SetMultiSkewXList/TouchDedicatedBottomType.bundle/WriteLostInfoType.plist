@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>calculateSymmetricFeatureList</key>
+	<string>getSymmetricPolyfillHandler</string>
+	<key>getActivatedPositionObserver</key>
+	<string>getRequiredResolverDelegate</string>
+	<key>initializeSimilarCoordArray</key>
+	<string>prepareEphemeralLoaderExtension</string>
+	<key>limitOtherPointInstance</key>
+	<string>getDenseUtilCollection</string>
+	<key>resumeNumericalMovementCollection</key>
+	<string>embedBasicDepthCreator</string>
+</dict>
+</plist>

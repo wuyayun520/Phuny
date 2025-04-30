@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endGlobalStatusInstance</key>
+	<string>initializeLiteCapacitiesFactory</string>
+	<key>endLargeVectorCollection</key>
+	<string>prepareRequiredBoundArray</string>
+	<key>introspectGranularStylePool</key>
+	<string>cancelIgnoredParameterFactory</string>
+	<key>keepEnabledDepthOwner</key>
+	<string>setUnactivatedRightBase</string>
+	<key>restartNumericalFlagsManager</key>
+	<string>resumeSmartResolverInstance</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animateEnabledNormBase</key>
+	<string>setDisparateLeftFilter</string>
+	<key>initializeReusableProvisionManager</key>
+	<string>addArithmeticAllocatorHandler</string>
+	<key>obtainAssociatedBehaviorObserver</key>
+	<string>appendSortedContractionAdapter</string>
+	<key>pauseCustomRectHandler</key>
+	<string>finishDisplayableSkewYPool</string>
+	<key>resumeConcurrentNumberDelegate</key>
+	<string>skipUnactivatedAspectStack</string>
+	<key>skipAssociatedGiftCollection</key>
+	<string>getRobustChecklistExtension</string>
+	<key>syncSignificantObjectCache</key>
+	<string>quitImmutableTaxonomyCache</string>
+</dict>
+</plist>

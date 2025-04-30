@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appendDiscardedBulletTarget</key>
+	<string>setBackwardLeftAdapter</string>
+	<key>createCrudeAccessoryProtocol</key>
+	<string>prepareSymmetricWorkflowProtocol</string>
+	<key>limitGreatAscentAdapter</key>
+	<string>getArithmeticBufferObserver</string>
+	<key>setUniqueLabelType</key>
+	<string>setDiscardedMobileManager</string>
+</dict>
+</plist>

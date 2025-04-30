@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decoupleMissedSchedulerObserver</key>
+	<string>equalStandaloneRendererCollection</string>
+	<key>eraseSortedFrameArray</key>
+	<string>getMissedValueProtocol</string>
+	<key>getEnabledPositionProtocol</key>
+	<string>getReusableElementGroup</string>
+	<key>prepareUsedTopImplement</key>
+	<string>prepareTensorValueManager</string>
+	<key>transposeDensePaddingObserver</key>
+	<string>updateEasyCoordBase</string>
+</dict>
+</plist>

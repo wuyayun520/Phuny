@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accelerateLostFeatureHelper</key>
+	<string>resumeEphemeralBottomList</string>
+	<key>cancelSharedIndexBase</key>
+	<string>setDenseSpriteFactory</string>
+	<key>encapsulateNumericalNumberHelper</key>
+	<string>allocateSemanticNodeStack</string>
+	<key>getGeometricAllocatorList</key>
+	<string>concatenateCartesianParamBase</string>
+	<key>getMissedTempleBase</key>
+	<string>getRespectiveBufferExtension</string>
+	<key>getStandaloneUnaryGroup</key>
+	<string>initializeExplicitTempleManager</string>
+	<key>restartAssociatedChecklistStack</key>
+	<string>setMainTechniqueManager</string>
+	<key>restartSortedTempleManager</key>
+	<string>setMediumInterfaceImplement</string>
+	<key>scheduleCartesianBufferTarget</key>
+	<string>rectifySubtleAspectFactory</string>
+	<key>setRequiredParameterObserver</key>
+	<string>getPermanentParamList</string>
+</dict>
+</plist>

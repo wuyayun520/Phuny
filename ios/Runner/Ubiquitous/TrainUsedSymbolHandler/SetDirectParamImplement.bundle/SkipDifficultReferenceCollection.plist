@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishSustainableComponentHandler</key>
+	<string>getPermissiveScaleDelegate</string>
+	<key>getOriginalFeatureFilter</key>
+	<string>holdSustainableUtilReference</string>
+	<key>mitigateSmartMovementObserver</key>
+	<string>stopElasticResilienceBase</string>
+	<key>resizeOldProfileHandler</key>
+	<string>setPrimaryChapterExtension</string>
+	<key>setCustomRotationInstance</key>
+	<string>aggregateIntermediateTaskFilter</string>
+	<key>updateNormalCenterBase</key>
+	<string>retrieveRobustRowFactory</string>
+</dict>
+</plist>

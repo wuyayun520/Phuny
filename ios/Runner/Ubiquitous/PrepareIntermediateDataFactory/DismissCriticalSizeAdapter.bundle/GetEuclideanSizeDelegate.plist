@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endConcreteVarTarget</key>
+	<string>getNumericalBandwidthManager</string>
+	<key>getLastInstructionGroup</key>
+	<string>syncProtectedLoaderStack</string>
+	<key>getUniformScaleList</key>
+	<string>setUniqueProjectFilter</string>
+	<key>limitSynchronousScaleProtocol</key>
+	<string>endIterativeValueGroup</string>
+	<key>resumeLocalScenarioProtocol</key>
+	<string>trainMutableReferenceProtocol</string>
+	<key>setEasyVarContainer</key>
+	<string>getSignificantVariableReference</string>
+	<key>setMediocrePlateStack</key>
+	<string>addAccordionSkewXBase</string>
+	<key>skipIntermediateActivityTarget</key>
+	<string>getGeometricViewArray</string>
+</dict>
+</plist>

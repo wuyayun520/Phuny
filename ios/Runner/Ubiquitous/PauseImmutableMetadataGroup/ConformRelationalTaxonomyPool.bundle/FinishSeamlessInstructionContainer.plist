@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawCartesianPreviewDelegate</key>
+	<string>poolCurrentElasticityCreator</string>
+	<key>exitElasticSpotContainer</key>
+	<string>setPrimarySubpixelManager</string>
+	<key>generateDenseProjectOwner</key>
+	<string>cancelNormalListenerBase</string>
+	<key>getLostTailObserver</key>
+	<string>continueLostTextManager</string>
+	<key>keepNumericalBoundProtocol</key>
+	<string>startMediumVariableOwner</string>
+	<key>obtainDisparateMultiplicationFilter</key>
+	<string>syncBackwardSpriteReference</string>
+	<key>revisitAutoNumberList</key>
+	<string>trainIterativeBufferCreator</string>
+	<key>setDirectZoneContainer</key>
+	<string>restartRequiredEdgeContainer</string>
+	<key>setSharedDescentFilter</key>
+	<string>compareSemanticGemDecorator</string>
+</dict>
+</plist>

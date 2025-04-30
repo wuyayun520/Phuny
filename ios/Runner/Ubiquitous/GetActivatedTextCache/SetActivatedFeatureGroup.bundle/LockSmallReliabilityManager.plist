@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getHardEdgeCreator</key>
+	<string>respondSimilarRightBase</string>
+	<key>getIgnoredParamCollection</key>
+	<string>setDiscardedParameterHandler</string>
+	<key>getStaticTopFilter</key>
+	<string>convertPermanentVariantExtension</string>
+	<key>setAccessibleParameterObserver</key>
+	<string>getSignificantSliderFilter</string>
+	<key>setAccessibleParticleTarget</key>
+	<string>setMultiQuaternionFactory</string>
+	<key>setImmutableChartReference</key>
+	<string>initializeNumericalControllerStack</string>
+	<key>trainSubstantialResourceTarget</key>
+	<string>getUsedResolverArray</string>
+</dict>
+</plist>

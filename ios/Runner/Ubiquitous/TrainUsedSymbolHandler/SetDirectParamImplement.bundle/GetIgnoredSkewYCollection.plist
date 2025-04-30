@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aggregateLocalViewType</key>
+	<string>provideMultiParameterList</string>
+	<key>associateTensorNumberFactory</key>
+	<string>createElasticSkewYCreator</string>
+	<key>continuePriorAmortizationManager</key>
+	<string>trainDirectlyReplicaBase</string>
+	<key>getDiscardedSceneCollection</key>
+	<string>continueTypicalOccasionContainer</string>
+	<key>getTensorNormCache</key>
+	<string>replaceDedicatedPlateDelegate</string>
+	<key>prepareUniqueDetailHandler</key>
+	<string>getIgnoredTempleManager</string>
+	<key>startCommonBufferExtension</key>
+	<string>setRespectiveIndexProtocol</string>
+	<key>startFirstReferenceHelper</key>
+	<string>setPivotalParamAdapter</string>
+	<key>startReusableSegmentFilter</key>
+	<string>getStandaloneMendBase</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>conformNormalVectorDelegate</key>
+	<string>stopSmallVariableFilter</string>
+	<key>pauseRobustActionDelegate</key>
+	<string>getSeamlessAspectFilter</string>
+	<key>reconcileEuclideanPlaybackExtension</key>
+	<string>embedIgnoredSkinInstance</string>
+	<key>trainEasyVariableAdapter</key>
+	<string>embraceLocalQueueImplement</string>
+	<key>trainGlobalTopicType</key>
+	<string>finishLiteSliderDecorator</string>
+	<key>trainPrimaryBaseDelegate</key>
+	<string>refreshSeamlessSkewYHandler</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelCriticalLoopProtocol</key>
+	<string>initializeUnsortedTempleContainer</string>
+	<key>cancelFusedScenarioFactory</key>
+	<string>getIntuitiveScreenPool</string>
+	<key>concatenateSignificantVariableArray</key>
+	<string>pauseRapidCoordCollection</string>
+	<key>skipDeclarativeBottomStack</key>
+	<string>keepSeamlessStrokeObserver</string>
+	<key>skipPublicResilienceDecorator</key>
+	<string>setProtectedBaseObserver</string>
+</dict>
+</plist>

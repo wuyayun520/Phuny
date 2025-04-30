@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getRetainedFrameList</key>
+	<string>getHardAssetAdapter</string>
+	<key>holdNormalCardHelper</key>
+	<string>setIndependentObserverPool</string>
+	<key>pauseSortedMetadataFactory</key>
+	<string>findFusedAllocatorInstance</string>
+	<key>quantizerExplicitDispatcherManager</key>
+	<string>embraceResilientResultInstance</string>
+	<key>setActivatedNumberDecorator</key>
+	<string>setEuclideanVariantCache</string>
+	<key>setCartesianVarTarget</key>
+	<string>setSubtleStyleFactory</string>
+	<key>setSymmetricBulletTarget</key>
+	<string>skipRobustIntegrityManager</string>
+</dict>
+</plist>

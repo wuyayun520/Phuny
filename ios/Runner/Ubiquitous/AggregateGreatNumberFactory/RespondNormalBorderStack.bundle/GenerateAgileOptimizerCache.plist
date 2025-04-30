@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishUnactivatedBinaryCache</key>
+	<string>unscheduleExplicitTopGroup</string>
+	<key>getOtherConfidentialityCache</key>
+	<string>resumeMutableChallengeHelper</string>
+	<key>getSpecifyNumberGroup</key>
+	<string>resumeBeginnerParameterHandler</string>
+	<key>restartOldVariableFactory</key>
+	<string>obtainDisplayableImageImplement</string>
+	<key>skipUnsortedNameManager</key>
+	<string>parseSophisticatedChartObserver</string>
+	<key>stopOriginalTitleObserver</key>
+	<string>quantizerPrevLoaderList</string>
+</dict>
+</plist>

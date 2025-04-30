@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueDisplayableResolverProtocol</key>
+	<string>getOriginalCenterObserver</string>
+	<key>getMultiAspectObserver</key>
+	<string>dissociateConcreteBufferReference</string>
+	<key>keepRobustBufferCache</key>
+	<string>getOpaqueInterpolationContainer</string>
+	<key>pauseSmallLayerManager</key>
+	<string>releaseOriginalBottomHelper</string>
+	<key>removeDirectParameterObserver</key>
+	<string>stopDisparateNameFilter</string>
+	<key>setHyperbolicLeftType</key>
+	<string>trainAdvancedSpineAdapter</string>
+	<key>skipLargeAnchorTarget</key>
+	<string>streamlineSubstantialScreenCreator</string>
+	<key>startArithmeticVarTarget</key>
+	<string>getDisplayableIndexFilter</string>
+</dict>
+</plist>

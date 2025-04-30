@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comparePrevStyleHandler</key>
+	<string>locateHardNodeFilter</string>
+	<key>destroyBasicVarDelegate</key>
+	<string>startSynchronousRotationReference</string>
+	<key>destroyMainVarFactory</key>
+	<string>getCurrentBufferManager</string>
+	<key>getSignificantElasticityObserver</key>
+	<string>getLostReferenceOwner</string>
+	<key>moveReusableResultPool</key>
+	<string>mitigateHierarchicalVisibleDelegate</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>conformOriginalGrainHandler</key>
+	<string>getTypicalLabelStack</string>
+	<key>drawBackwardGroupFilter</key>
+	<string>getEuclideanIndexCreator</string>
+	<key>getIterativeParameterCache</key>
+	<string>cloneIntermediateMeshAdapter</string>
+	<key>prepareCriticalHistogramArray</key>
+	<string>cancelConcurrentGemReference</string>
+	<key>restoreSynchronousIndexPool</key>
+	<string>getRequiredBrushCreator</string>
+	<key>setCustomClusterType</key>
+	<string>extendGreatLeftOwner</string>
+	<key>storeRelationalTempleInstance</key>
+	<string>prepareSimilarColorCollection</string>
+</dict>
+</plist>

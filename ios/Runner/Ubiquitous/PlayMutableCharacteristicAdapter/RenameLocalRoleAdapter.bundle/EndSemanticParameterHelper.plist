@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelAccessibleParameterManager</key>
+	<string>setUsedChapterCache</string>
+	<key>captureAgileFrameReference</key>
+	<string>setHardZoneProtocol</string>
+	<key>cloneUnsortedLabelCollection</key>
+	<string>dismissDedicatedBufferAdapter</string>
+	<key>continueLargeRectProtocol</key>
+	<string>initializeRapidInteractionDecorator</string>
+	<key>getSimilarSceneCache</key>
+	<string>getComprehensiveBulletContainer</string>
+	<key>getSortedQueueArray</key>
+	<string>getSharedBufferContainer</string>
+	<key>initializeDirectPositionFactory</key>
+	<string>setSimilarAspectObserver</string>
+	<key>pauseIndependentEffectReference</key>
+	<string>stopEnabledDescentExtension</string>
+	<key>pausePriorColorPool</key>
+	<string>streamlinePrevNumberFactory</string>
+	<key>removeOtherFormatInstance</key>
+	<string>markHyperbolicSceneExtension</string>
+</dict>
+</plist>

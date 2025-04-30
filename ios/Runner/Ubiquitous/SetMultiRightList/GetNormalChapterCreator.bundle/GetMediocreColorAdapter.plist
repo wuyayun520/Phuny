@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelSemanticRemainderBase</key>
+	<string>resumeDirectDataDecorator</string>
+	<key>markGreatLatencyContainer</key>
+	<string>getRetainedAssetExtension</string>
+	<key>markSynchronousVarList</key>
+	<string>pauseUnactivatedLabelCreator</string>
+	<key>pauseEphemeralVideoDelegate</key>
+	<string>getDenseChallengeAdapter</string>
+	<key>setIntermediateHeapAdapter</key>
+	<string>getRobustReliabilityList</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>addOldFeatureCollection</key>
+	<string>resetArithmeticParamTarget</string>
+	<key>associateGlobalIndexCreator</key>
+	<string>getCommonGrainFilter</string>
+	<key>decoupleSignificantNumberFactory</key>
+	<string>initializeIterativeBufferHelper</string>
+	<key>enumerateLostButtonBase</key>
+	<string>trainDirectGridCache</string>
+	<key>fillFusedLeftProtocol</key>
+	<string>limitSophisticatedColorAdapter</string>
+	<key>finishPriorResolverHelper</key>
+	<string>setPriorInfrastructureCreator</string>
+	<key>keepSubtleStampOwner</key>
+	<string>getRapidCaptionInstance</string>
+	<key>setDenseProjectionAdapter</key>
+	<string>getOldParameterProtocol</string>
+	<key>setSubtleGemCache</key>
+	<string>trainSmallParticleManager</string>
+</dict>
+</plist>

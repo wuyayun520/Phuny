@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appendSeamlessOriginHandler</key>
+	<string>cancelSortedPolygonHelper</string>
+	<key>getCustomizedNodeArray</key>
+	<string>setGreatBufferFactory</string>
+	<key>getSustainableElementList</key>
+	<string>concatenateDedicatedBorderHandler</string>
+	<key>keepIntermediateParameterStack</key>
+	<string>captureEphemeralShapeStack</string>
+	<key>reconcileSubtleOpacityHandler</key>
+	<string>setElasticObserverCache</string>
+	<key>touchDifficultSpriteFactory</key>
+	<string>restartAccordionParameterBase</string>
+	<key>trainGeometricCaptionProtocol</key>
+	<string>setSmallIntegrationTarget</string>
+	<key>trainSubsequentFlagsImplement</key>
+	<string>augmentCrucialIntegrityOwner</string>
+</dict>
+</plist>

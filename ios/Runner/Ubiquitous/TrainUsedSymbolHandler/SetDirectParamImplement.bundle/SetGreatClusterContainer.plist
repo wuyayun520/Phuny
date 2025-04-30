@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captureSynchronousSpriteAdapter</key>
+	<string>syncRobustSpriteDecorator</string>
+	<key>createIgnoredSpriteTarget</key>
+	<string>initializeSeamlessAssetDecorator</string>
+	<key>executeSophisticatedSkinAdapter</key>
+	<string>getCrucialValueStack</string>
+	<key>getTypicalElasticityProtocol</key>
+	<string>reflectSingleFrameCache</string>
+	<key>prepareOldBufferProtocol</key>
+	<string>displayDirectlyTagImplement</string>
+	<key>rectifyTypicalDepthDecorator</key>
+	<string>reconcileNormalConsumptionImplement</string>
+	<key>restartGlobalBufferDecorator</key>
+	<string>setUsedLayoutBase</string>
+	<key>setSpecifyMetadataFilter</key>
+	<string>trainHardParamDecorator</string>
+</dict>
+</plist>

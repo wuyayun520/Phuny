@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>augmentLargeStyleCollection</key>
+	<string>stopGlobalTrajectoryArray</string>
+	<key>displayHyperbolicFrameCache</key>
+	<string>getGeometricCoordDelegate</string>
+	<key>endRequiredNameDelegate</key>
+	<string>requestNormalFlagsImplement</string>
+	<key>setComprehensiveParameterType</key>
+	<string>getPrevDialogsObserver</string>
+	<key>setLostIntensityOwner</key>
+	<string>stopTypicalClusterFactory</string>
+</dict>
+</plist>

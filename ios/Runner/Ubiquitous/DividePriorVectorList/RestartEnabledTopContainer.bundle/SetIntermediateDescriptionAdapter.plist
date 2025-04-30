@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fillUniformConstantHandler</key>
+	<string>setIterativeStyleGroup</string>
+	<key>initializeCurrentFragmentsManager</key>
+	<string>continueSubsequentRecursionCreator</string>
+	<key>pauseArithmeticTimelineContainer</key>
+	<string>initializeEuclideanVectorHandler</string>
+	<key>pauseRespectiveNameList</key>
+	<string>setRapidBitratePool</string>
+	<key>prepareLastVarObserver</key>
+	<string>getLostOpacityOwner</string>
+	<key>stopPermissiveBorderDecorator</key>
+	<string>prepareDirectEffectContainer</string>
+	<key>trainMutableRestrictionExtension</key>
+	<string>stopCrudeBinaryStack</string>
+	<key>wrapSimilarTextureList</key>
+	<string>navigateOpaqueParamOwner</string>
+</dict>
+</plist>

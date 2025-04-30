@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exitSortedBufferContainer</key>
+	<string>continuePrevDepthObserver</string>
+	<key>getDisparateFramePool</key>
+	<string>pauseSimilarNodePool</string>
+	<key>resumeRequiredNodeBase</key>
+	<string>getAutoSceneOwner</string>
+	<key>stopGlobalVariableOwner</key>
+	<string>initializeDiscardedIntensityType</string>
+</dict>
+</plist>

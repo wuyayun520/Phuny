@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelOldRecursionDelegate</key>
+	<string>setIntermediateBaselinePool</string>
+	<key>getFirstRightDecorator</key>
+	<string>rectifySingleVarCache</string>
+	<key>getMainSceneOwner</key>
+	<string>cancelMutableParamFactory</string>
+	<key>getPermissiveSpriteList</key>
+	<string>getGeometricLogObserver</string>
+	<key>getRapidParticleTarget</key>
+	<string>getLostOperationFactory</string>
+	<key>locateGranularVariableImplement</key>
+	<string>getSpecifyValueHandler</string>
+	<key>pauseFusedDeliveryExtension</key>
+	<string>keepUniformCoordContainer</string>
+	<key>pauseFusedThroughputCreator</key>
+	<string>embraceCurrentNumberDecorator</string>
+</dict>
+</plist>

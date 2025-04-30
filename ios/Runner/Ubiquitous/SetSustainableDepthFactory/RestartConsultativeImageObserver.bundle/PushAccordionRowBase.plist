@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appendGlobalScaleTarget</key>
+	<string>initializePrimaryOpacityContainer</string>
+	<key>drawSustainableInterfaceTarget</key>
+	<string>keepReusableDispatcherType</string>
+	<key>getDirectlyTextureCache</key>
+	<string>combineFirstPlaybackCreator</string>
+	<key>getSmallTentativeDecorator</key>
+	<string>extendSustainableRotationBase</string>
+	<key>limitCrudeParamExtension</key>
+	<string>setNormalGroupCreator</string>
+	<key>prepareActivatedProjectionArray</key>
+	<string>navigateGeometricValueCache</string>
+	<key>setMediocreNameHelper</key>
+	<string>prepareCustomizedSpriteBase</string>
+	<key>skipCrucialViewFactory</key>
+	<string>seekCriticalEffectDelegate</string>
+</dict>
+</plist>

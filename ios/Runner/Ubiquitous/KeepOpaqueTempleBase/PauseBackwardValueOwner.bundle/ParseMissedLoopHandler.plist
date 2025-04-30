@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adjustSeamlessLayerFilter</key>
+	<string>keepMissedGroupObserver</string>
+	<key>extendUsedAudioOwner</key>
+	<string>holdDifficultMaterialManager</string>
+	<key>getBasicEqualizationInstance</key>
+	<string>setIndependentToleranceTarget</string>
+	<key>getSmartVectorObserver</key>
+	<string>aggregateUniformBufferStack</string>
+	<key>keepConcurrentSkewXFactory</key>
+	<string>getSustainableDescriptorFilter</string>
+	<key>reflectEphemeralLoopOwner</key>
+	<string>getNormalGraphTarget</string>
+	<key>releaseAsynchronousStyleContainer</key>
+	<string>setBeginnerAlphaType</string>
+	<key>skipImmutableAscentType</key>
+	<string>quantizationMultiMeshDelegate</string>
+</dict>
+</plist>

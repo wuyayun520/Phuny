@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getElasticSchedulerImplement</key>
+	<string>insteadDisplayableSpineFactory</string>
+	<key>pauseAsynchronousMobileHelper</key>
+	<string>getPermanentBaseCollection</string>
+	<key>playOldPointCache</key>
+	<string>unscheduleDelicateInterfaceInstance</string>
+</dict>
+</plist>

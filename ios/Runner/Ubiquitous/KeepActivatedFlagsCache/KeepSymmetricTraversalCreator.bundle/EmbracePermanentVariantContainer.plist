@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>addDisplayableResilienceDelegate</key>
+	<string>restartGranularNodeExtension</string>
+	<key>drawBackwardSkewXCreator</key>
+	<string>setPrimaryVarExtension</string>
+	<key>getDedicatedBoundStack</key>
+	<string>resumeDeclarativeThresholdStack</string>
+	<key>getDedicatedMatrixStack</key>
+	<string>pauseKeyCurveGroup</string>
+	<key>getMissedParameterBase</key>
+	<string>resumeUniqueQueueTarget</string>
+	<key>obtainKeyTempleGroup</key>
+	<string>storeCommonBoundType</string>
+	<key>startSmallGridContainer</key>
+	<string>getImmutableVertexType</string>
+</dict>
+</plist>

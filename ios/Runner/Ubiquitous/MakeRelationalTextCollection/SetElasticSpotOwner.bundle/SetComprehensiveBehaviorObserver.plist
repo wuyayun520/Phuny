@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createPrevSliderDelegate</key>
+	<string>getBackwardVolumeBase</string>
+	<key>getLargeLayoutDecorator</key>
+	<string>pauseBackwardBorderExtension</string>
+	<key>setHyperbolicGrainReference</key>
+	<string>getPrevTopicObserver</string>
+	<key>setLargeRemainderExtension</key>
+	<string>associateEasyConvolutionHandler</string>
+	<key>setPivotalValueGroup</key>
+	<string>startKeySpineFilter</string>
+	<key>setSophisticatedFrameCollection</key>
+	<string>finishDirectLossCollection</string>
+	<key>setUniformToleranceDecorator</key>
+	<string>setSingleMaterialGroup</string>
+	<key>wrapDirectConfigurationArray</key>
+	<string>navigateFirstVariantTarget</string>
+</dict>
+</plist>

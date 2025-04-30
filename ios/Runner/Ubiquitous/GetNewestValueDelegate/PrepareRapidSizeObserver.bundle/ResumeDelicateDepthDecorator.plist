@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detachNextUtilTarget</key>
+	<string>getPrimaryZoneHelper</string>
+	<key>initializeActivatedCoordCache</key>
+	<string>regulateDisplayableLoopExtension</string>
+	<key>prepareFirstMechanismHelper</key>
+	<string>trainNormalToleranceCollection</string>
+	<key>resumeUnsortedPaddingFilter</key>
+	<string>setElasticChannelsInstance</string>
+	<key>setAgileVariableTarget</key>
+	<string>getEphemeralElementObserver</string>
+	<key>setIntuitiveHeapList</key>
+	<string>continueSharedPlateHelper</string>
+</dict>
+</plist>

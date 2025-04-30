@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>encapsulateUnsortedPlaybackHandler</key>
+	<string>aggregateRetainedLabelBase</string>
+	<key>getBackwardFormatArray</key>
+	<string>poolDirectlyDocumentContainer</string>
+	<key>limitRapidTextCache</key>
+	<string>restartSpecifyCapacitiesBase</string>
+	<key>setPrimaryTechniqueContainer</key>
+	<string>rotatePriorHashTarget</string>
+	<key>stopPivotalScaleManager</key>
+	<string>markAgileHeadFactory</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dropoutBasicNumberImplement</key>
+	<string>setDeclarativeTagImplement</string>
+	<key>executeUniformEntropyHelper</key>
+	<string>trainSingleElasticityContainer</string>
+	<key>getFusedGemImplement</key>
+	<string>prepareDisparateBoundType</string>
+	<key>initializeHyperbolicBaselineHelper</key>
+	<string>getGranularVariantImplement</string>
+	<key>setIntuitiveLeftType</key>
+	<string>setUniquePriorityGroup</string>
+	<key>setLiteBufferManager</key>
+	<string>continueUnactivatedMatrixFactory</string>
+	<key>setLocalGroupInstance</key>
+	<string>createPrimaryBottomReference</string>
+	<key>skipDelicateAllocatorBase</key>
+	<string>setEphemeralDescriptionHelper</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelMissedVariableStack</key>
+	<string>skipIndependentVariableCreator</string>
+	<key>extendDeclarativeEquivalentManager</key>
+	<string>optimizeStandaloneSizeExtension</string>
+	<key>getIndependentAnalogyAdapter</key>
+	<string>getSortedVariablePool</string>
+	<key>getNextWorkflowContainer</key>
+	<string>displaySimilarModulusType</string>
+	<key>restartKeyComponentAdapter</key>
+	<string>getDirectlyChallengeArray</string>
+	<key>restartMutableSceneImplement</key>
+	<string>setEphemeralMeshCollection</string>
+</dict>
+</plist>

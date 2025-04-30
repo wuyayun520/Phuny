@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getPriorVariableDecorator</key>
+	<string>setKeyControllerContainer</string>
+	<key>pausePivotalPositionBase</key>
+	<string>pushPrimaryParameterHelper</string>
+	<key>prepareSemanticValueHandler</key>
+	<string>getSemanticPlaybackStack</string>
+</dict>
+</plist>

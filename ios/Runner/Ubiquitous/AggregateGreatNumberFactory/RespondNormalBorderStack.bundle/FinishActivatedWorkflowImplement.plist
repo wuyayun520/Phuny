@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getNormalCoordHelper</key>
+	<string>skipLiteNameDecorator</string>
+	<key>lockSortedStepAdapter</key>
+	<string>exitFusedControllerImplement</string>
+	<key>pauseOtherBufferExtension</key>
+	<string>reconcileGeometricDisclaimerBase</string>
+	<key>setImmutableMetadataImplement</key>
+	<string>getFusedConvolutionDecorator</string>
+	<key>unlockHierarchicalBufferPool</key>
+	<string>getPrimaryPopupHelper</string>
+</dict>
+</plist>

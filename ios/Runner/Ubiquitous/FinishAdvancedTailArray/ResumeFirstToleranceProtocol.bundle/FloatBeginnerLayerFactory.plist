@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endSynchronousLogFactory</key>
+	<string>createUniqueRotationCache</string>
+	<key>getUnactivatedPaddingObserver</key>
+	<string>setSimilarParameterDecorator</string>
+	<key>quitOtherThreadProtocol</key>
+	<string>trainRespectiveRangeFilter</string>
+	<key>setPrimaryListenerAdapter</key>
+	<string>endMissedVariableStack</string>
+	<key>skipResilientVectorProtocol</key>
+	<string>startDisparateDescentDecorator</string>
+	<key>stopMutableDescriptorObserver</key>
+	<string>getUnactivatedTailDecorator</string>
+	<key>trainDirectlyResolverTarget</key>
+	<string>revisitSubsequentVariableObserver</string>
+</dict>
+</plist>

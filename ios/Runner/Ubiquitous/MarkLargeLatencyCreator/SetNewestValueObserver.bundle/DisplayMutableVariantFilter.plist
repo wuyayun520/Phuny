@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appendSharedEqualizationObserver</key>
+	<string>startCrudeAssetImplement</string>
+	<key>getAccessibleSoundOwner</key>
+	<string>reconcileBasicSampleCache</string>
+	<key>getSmallValueOwner</key>
+	<string>movePrevIndicatorDelegate</string>
+	<key>retainIndependentConstantHandler</key>
+	<string>initializePivotalPriorityReference</string>
+	<key>setActivatedPrecisionArray</key>
+	<string>getPermanentSoundCache</string>
+	<key>setSmallIndexList</key>
+	<string>pauseBasicLayerExtension</string>
+	<key>trainCustomizedFrameStack</key>
+	<string>aggregateCustomConstantDelegate</string>
+</dict>
+</plist>

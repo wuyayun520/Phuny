@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>augmentPrismaticButtonCollection</key>
+	<string>checkDifficultBaselineHelper</string>
+	<key>continueExplicitParameterDecorator</key>
+	<string>quitArithmeticAlphaFilter</string>
+	<key>pauseGeometricProgressBarDecorator</key>
+	<string>setRespectiveCenterCollection</string>
+	<key>prepareSeamlessModelFilter</key>
+	<string>preparePriorVariableAdapter</string>
+	<key>reduceEuclideanNumberGroup</key>
+	<string>keepExplicitObserverProtocol</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelRetainedThreadDelegate</key>
+	<string>resetNewestEdgeDelegate</string>
+	<key>keepPrimaryDurationObserver</key>
+	<string>setAccessibleMenuObserver</string>
+	<key>resumeIntuitiveConstantContainer</key>
+	<string>keepSharedTempleManager</string>
+	<key>rotateSubtleArchitectureDecorator</key>
+	<string>cancelUsedLayoutCache</string>
+	<key>setImmutableNavigationCache</key>
+	<string>extendIndependentBufferCollection</string>
+	<key>setOldRightFactory</key>
+	<string>restoreDeclarativeViewFactory</string>
+	<key>skipAsynchronousImageCache</key>
+	<string>startCurrentBorderBase</string>
+	<key>spinRespectiveButtonExtension</key>
+	<string>finishDelicateBoundHandler</string>
+	<key>trainNewestVectorReference</key>
+	<string>displayGreatNumberDecorator</string>
+</dict>
+</plist>

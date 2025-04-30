@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getRequiredCapacitiesAdapter</key>
+	<string>setProtectedNumberArray</string>
+	<key>initializePriorValueProtocol</key>
+	<string>setUsedAspectProtocol</string>
+	<key>keepSubtleBorderCache</key>
+	<string>continueAccordionCapsuleList</string>
+	<key>lockHierarchicalNormAdapter</key>
+	<string>revisitImmutableTernaryDelegate</string>
+	<key>setDisparateCapacitiesContainer</key>
+	<string>setSingleTernaryProtocol</string>
+</dict>
+</plist>

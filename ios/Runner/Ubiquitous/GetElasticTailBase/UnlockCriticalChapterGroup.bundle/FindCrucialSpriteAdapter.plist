@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelConcreteOriginHelper</key>
+	<string>resumeLargeLoopType</string>
+	<key>cancelGranularBufferManager</key>
+	<string>setCustomSchedulerObserver</string>
+	<key>getAccessibleRectangleDecorator</key>
+	<string>cancelSimilarVisibleDecorator</string>
+	<key>getBackwardScaleHandler</key>
+	<string>setMainMasterStack</string>
+	<key>getMainChartPool</key>
+	<string>setPrismaticVarCreator</string>
+	<key>keepDiscardedValueOwner</key>
+	<string>getAutoEvaluationType</string>
+	<key>resumeSubstantialHeadCollection</key>
+	<string>pauseFirstTopCreator</string>
+	<key>skipDelicateVectorExtension</key>
+	<string>touchDisparateQuaternionDelegate</string>
+	<key>trainNumericalParticleCache</key>
+	<string>getNewestUnaryOwner</string>
+	<key>visitTensorIndexFilter</key>
+	<string>setSemanticSkewXOwner</string>
+</dict>
+</plist>

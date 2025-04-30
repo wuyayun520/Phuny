@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dissociateOldSpotReference</key>
+	<string>setDirectlyPositionCreator</string>
+	<key>finishEnabledNumberExtension</key>
+	<string>initializeUnactivatedVariantCreator</string>
+	<key>setCommonArchitectureList</key>
+	<string>setPrevPositionList</string>
+	<key>setPriorVariableReference</key>
+	<string>setTensorSampleOwner</string>
+</dict>
+</plist>

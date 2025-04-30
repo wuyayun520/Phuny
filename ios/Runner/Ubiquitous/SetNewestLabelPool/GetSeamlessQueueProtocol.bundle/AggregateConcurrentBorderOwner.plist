@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelBasicItemTarget</key>
+	<string>resumeHardTitleObserver</string>
+	<key>initializeOtherViewProtocol</key>
+	<string>resumeIndependentEfficiencyGroup</string>
+	<key>resizeIntermediateGraphImplement</key>
+	<string>setCriticalVarTarget</string>
+	<key>skipPublicDepthGroup</key>
+	<string>stopSmallFrameDelegate</string>
+	<key>startCartesianMissionDecorator</key>
+	<string>keepMediumSchemaCollection</string>
+</dict>
+</plist>

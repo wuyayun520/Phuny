@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelDeclarativeHeapTarget</key>
+	<string>skipCriticalPositionCreator</string>
+	<key>endCustomizedOptimizerHelper</key>
+	<string>setOriginalTextureHelper</string>
+	<key>pauseSubsequentBoundReference</key>
+	<string>getUsedSceneTarget</string>
+	<key>prepareNextTempleOwner</key>
+	<string>generateSynchronousVariableTarget</string>
+	<key>setCriticalDescriptionHandler</key>
+	<string>detachOpaqueValueGroup</string>
+	<key>upgradeDelicateFlagsTarget</key>
+	<string>analyzeSymmetricVertexContainer</string>
+</dict>
+</plist>

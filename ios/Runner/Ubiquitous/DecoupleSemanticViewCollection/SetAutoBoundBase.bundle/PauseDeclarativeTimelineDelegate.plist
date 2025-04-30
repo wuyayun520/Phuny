@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>initializeDifficultBufferCollection</key>
+	<string>keepLastVarCreator</string>
+	<key>reconcileGeometricObjectGroup</key>
+	<string>setAccordionRangeHandler</string>
+	<key>stopUsedCharacterManager</key>
+	<string>dissociatePivotalStepArray</string>
+	<key>touchMultiDocumentOwner</key>
+	<string>setOriginalRecursionCache</string>
+</dict>
+</plist>

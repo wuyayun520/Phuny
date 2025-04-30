@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createCommonItemReference</key>
+	<string>getIterativeVariableCache</string>
+	<key>getMissedValueContainer</key>
+	<string>syncLargeGrainBase</string>
+	<key>getRespectiveFrameReference</key>
+	<string>setIntermediateSegmentPool</string>
+	<key>reduceSemanticScaleImplement</key>
+	<string>getResilientIntensityType</string>
+	<key>restartSharedParameterCollection</key>
+	<string>storePrismaticPlaybackBase</string>
+	<key>resumeKeyAllocatorCollection</key>
+	<string>getSecondEvolutionArray</string>
+	<key>setDenseMasterType</key>
+	<string>setIntuitiveFlagsContainer</string>
+	<key>setRespectiveNumberArray</key>
+	<string>endElasticFrameObserver</string>
+</dict>
+</plist>

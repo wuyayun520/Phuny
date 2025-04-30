@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getBasicEffectFilter</key>
+	<string>startKeyValueExtension</string>
+	<key>getCurrentTextureList</key>
+	<string>setCurrentParticleInstance</string>
+	<key>getPrevThroughputHandler</key>
+	<string>reduceProtectedRowFilter</string>
+	<key>makeLocalComponentType</key>
+	<string>refreshPriorTimelineExtension</string>
+	<key>setKeyMechanismList</key>
+	<string>prepareUniqueFrameAdapter</string>
+	<key>showAccessibleMetadataFilter</key>
+	<string>restartArithmeticGiftFactory</string>
+	<key>skipSeamlessValueCollection</key>
+	<string>setSynchronousParamImplement</string>
+	<key>stopDisplayableSkirtInstance</key>
+	<string>continueFusedBoundAdapter</string>
+</dict>
+</plist>

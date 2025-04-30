@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>prepareSophisticatedTagGroup</key>
+	<string>setIntermediateObjectCreator</string>
+	<key>skipBackwardVariableFactory</key>
+	<string>generateDeclarativeAscentHelper</string>
+	<key>upgradePermissiveEdgeImplement</key>
+	<string>continueDedicatedHeroFactory</string>
+</dict>
+</plist>

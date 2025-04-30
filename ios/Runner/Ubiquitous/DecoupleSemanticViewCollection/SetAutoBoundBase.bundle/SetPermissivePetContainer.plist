@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>extendBasicMasterAdapter</key>
+	<string>trainActivatedVariantInstance</string>
+	<key>prepareHardSpecifierManager</key>
+	<string>rotateStandaloneTextHandler</string>
+	<key>setCommonRightPool</key>
+	<string>captureLocalResultFilter</string>
+	<key>setConcurrentCenterTarget</key>
+	<string>keepIndependentLeftOwner</string>
+	<key>skipTensorNodeAdapter</key>
+	<string>getRapidFrameObserver</string>
+	<key>unlockSymmetricParameterGroup</key>
+	<string>obtainEuclideanLayoutAdapter</string>
+	<key>visitRelationalRotationTarget</key>
+	<string>optimizeNumericalCenterReference</string>
+</dict>
+</plist>

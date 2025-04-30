@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishUnsortedAnimationDelegate</key>
+	<string>reduceOpaqueBrushFilter</string>
+	<key>getLargeCoordAdapter</key>
+	<string>skipMultiBottomContainer</string>
+	<key>provideUniqueVariableProtocol</key>
+	<string>pauseElasticDescriptorAdapter</string>
+	<key>releaseExplicitBinaryCollection</key>
+	<string>getOtherVariableReference</string>
+	<key>restartGreatImagePool</key>
+	<string>getLocalStatusGroup</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelSmartStepProtocol</key>
+	<string>getUsedFrameHelper</string>
+	<key>clearOldVisibleCollection</key>
+	<string>setReusableSchedulerCache</string>
+	<key>encapsulateConsultativeEdgeDelegate</key>
+	<string>retainSimilarStateOwner</string>
+	<key>getBasicVariableProtocol</key>
+	<string>replaceDedicatedVariableHandler</string>
+	<key>quantizationAssociatedNameOwner</key>
+	<string>captureSustainableDescriptionBase</string>
+	<key>setMainRecursionPool</key>
+	<string>getFirstParamCreator</string>
+	<key>skipPublicControllerFilter</key>
+	<string>getLocalMomentumExtension</string>
+	<key>trainDifficultCatalystDelegate</key>
+	<string>regulateLastSpriteObserver</string>
+	<key>unscheduleDirectlyCoordinatorFilter</key>
+	<string>markBeginnerFlagsExtension</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzeAsynchronousTempleBase</key>
+	<string>removeBackwardSkewYContainer</string>
+	<key>cancelUnsortedVarReference</key>
+	<string>setResilientGrainManager</string>
+	<key>compareArithmeticBaselineFactory</key>
+	<string>offsetSemanticBufferAdapter</string>
+	<key>multiplyTypicalRendererProtocol</key>
+	<string>continueOriginalBorderHandler</string>
+	<key>poolSeamlessBorderDelegate</key>
+	<string>prepareHierarchicalCosineOwner</string>
+	<key>refreshActivatedGrayscaleObserver</key>
+	<string>updateDiscardedPaddingCache</string>
+	<key>setMissedTempleHelper</key>
+	<string>pauseSimilarLayoutCache</string>
+	<key>spinAccessibleSampleDecorator</key>
+	<string>endIterativeConvolutionContainer</string>
+	<key>stopPermanentClusterHelper</key>
+	<string>cancelLostDataCreator</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clearHardFlagsType</key>
+	<string>cancelIgnoredParamBase</string>
+	<key>keepComprehensivePriorityDecorator</key>
+	<string>convertCartesianSchedulerTarget</string>
+	<key>keepIgnoredTentativeReference</key>
+	<string>analyzeCriticalRotationList</string>
+	<key>markReusableItemFactory</key>
+	<string>setIgnoredDepthArray</string>
+	<key>pauseNormalThroughputExtension</key>
+	<string>setMutableBoxContainer</string>
+	<key>restartEphemeralVariableImplement</key>
+	<string>setAssociatedEffectArray</string>
+</dict>
+</plist>

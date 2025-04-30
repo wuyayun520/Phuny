@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adjustActivatedMetadataFilter</key>
+	<string>keepGranularColorFilter</string>
+	<key>aggregateAssociatedRectangleCreator</key>
+	<string>cancelMultiLayerCreator</string>
+	<key>getIndependentVarList</key>
+	<string>getPrimaryNodeCreator</string>
+	<key>getRapidValueBase</key>
+	<string>setCurrentDepthArray</string>
+	<key>resumeEuclideanDescriptionExtension</key>
+	<string>dismissHardResultArray</string>
+	<key>trainDeclarativeValueList</key>
+	<string>trainDeclarativeTopCreator</string>
+</dict>
+</plist>

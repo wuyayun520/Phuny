@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelArithmeticPlaybackObserver</key>
+	<string>startCustomSkewXFilter</string>
+	<key>dismissLastVarInstance</key>
+	<string>destroyEphemeralVariableCache</string>
+	<key>embedAgileValueBase</key>
+	<string>accelerateOtherParamAdapter</string>
+	<key>keepSubsequentAnimationBase</key>
+	<string>setUnsortedAxisDelegate</string>
+	<key>pauseSortedCenterDecorator</key>
+	<string>getRobustGridReference</string>
+	<key>startPrimaryBufferInstance</key>
+	<string>removeGeometricOptionHandler</string>
+	<key>stopComprehensiveParamExtension</key>
+	<string>keepPublicAspectTarget</string>
+</dict>
+</plist>

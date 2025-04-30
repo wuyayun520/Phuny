@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getGlobalMetadataHandler</key>
+	<string>concatenateDenseEquipmentPool</string>
+	<key>getSubsequentNameManager</key>
+	<string>setRequiredValueStack</string>
+	<key>pauseLiteParamType</key>
+	<string>setPermanentValueProtocol</string>
+	<key>setDifficultBehaviorCreator</key>
+	<string>trainMediumBufferHandler</string>
+</dict>
+</plist>

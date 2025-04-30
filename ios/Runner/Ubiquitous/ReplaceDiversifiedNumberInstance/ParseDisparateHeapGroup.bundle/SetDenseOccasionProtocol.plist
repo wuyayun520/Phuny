@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocateResilientRightFactory</key>
+	<string>startLostActionDecorator</string>
+	<key>holdRetainedOccasionAdapter</key>
+	<string>dropoutAdvancedExponentDecorator</string>
+	<key>initializeRobustTechniqueBase</key>
+	<string>stopArithmeticVariableAdapter</string>
+	<key>mitigateGranularParameterManager</key>
+	<string>getSemanticCurveArray</string>
+	<key>spinPrevParamObserver</key>
+	<string>setAdvancedParameterArray</string>
+	<key>stopSecondParamFilter</key>
+	<string>getMultiFlagsPool</string>
+</dict>
+</plist>

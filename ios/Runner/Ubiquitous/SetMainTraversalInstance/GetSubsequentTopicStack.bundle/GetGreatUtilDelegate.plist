@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzeDirectlyFrameAdapter</key>
+	<string>lockSeamlessMaterialHandler</string>
+	<key>finishLocalFrameManager</key>
+	<string>setCustomBorderManager</string>
+	<key>provideNormalSignHelper</key>
+	<string>escalateCriticalSkinDecorator</string>
+	<key>setEasyQuaternionFactory</key>
+	<string>holdNumericalSessionContainer</string>
+	<key>setReusableQueueList</key>
+	<string>setConcurrentValueHelper</string>
+	<key>trainSingleProvisionDecorator</key>
+	<string>adjustCommonLogFactory</string>
+</dict>
+</plist>

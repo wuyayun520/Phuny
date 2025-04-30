@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishFirstValueManager</key>
+	<string>readOpaqueNumberCreator</string>
+	<key>getReusableShaderPool</key>
+	<string>getMainVariableProtocol</string>
+	<key>prepareAutoOriginPool</key>
+	<string>shearPriorElementHandler</string>
+	<key>reflectIgnoredSkewXAdapter</key>
+	<string>multiplySynchronousMemberGroup</string>
+	<key>setSortedSubpixelCollection</key>
+	<string>initializeDeclarativeSkewYPool</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>addAsynchronousDispatcherReference</key>
+	<string>reduceIndependentStrokeHandler</string>
+	<key>getSemanticSignAdapter</key>
+	<string>pushOriginalLabelCreator</string>
+	<key>initializeCommonDescriptionFactory</key>
+	<string>allocateDenseFeatureCollection</string>
+	<key>parseEuclideanTopManager</key>
+	<string>getProtectedMatrixAdapter</string>
+	<key>setOtherVariableAdapter</key>
+	<string>setPublicCenterContainer</string>
+	<key>startPrimaryCompositionCollection</key>
+	<string>clearUniqueItemFilter</string>
+	<key>undertakeCartesianReplicaCreator</key>
+	<string>skipNumericalRoleStack</string>
+</dict>
+</plist>

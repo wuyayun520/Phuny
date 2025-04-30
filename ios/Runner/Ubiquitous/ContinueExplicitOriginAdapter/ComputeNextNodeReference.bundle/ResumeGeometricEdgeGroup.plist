@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getDirectlySceneOwner</key>
+	<string>pauseMainNotationObserver</string>
+	<key>getIntermediateBufferCreator</key>
+	<string>wrapDiversifiedNameCache</string>
+	<key>poolIgnoredIndicatorType</key>
+	<string>keepSymmetricIndexManager</string>
+	<key>quantizerSmartElasticityInstance</key>
+	<string>setSubtleParamDecorator</string>
+	<key>renameSharedEffectContainer</key>
+	<string>pauseMutableActionCache</string>
+	<key>setConcreteColorHelper</key>
+	<string>revisitSharedNumberDelegate</string>
+	<key>setDedicatedParameterObserver</key>
+	<string>getSemanticNumberType</string>
+	<key>setDirectNotationProtocol</key>
+	<string>getDisplayableValueFilter</string>
+	<key>setFirstSampleCreator</key>
+	<string>fillSemanticFeatureReference</string>
+	<key>skipDifficultBottomList</key>
+	<string>initializeElasticColorCache</string>
+</dict>
+</plist>
