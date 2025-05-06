@@ -8,8 +8,6 @@ import AppTrackingTransparency
     _ application: UIApplication,
     didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?
   ) -> Bool {
-      let def = ["d","fgf"]
-      print("%@",def[4])
       
     GeneratedPluginRegistrant.register(with: self)
       DispatchQueue.main.asyncAfter(deadline: .now() + 3.1) {
