@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>localThreshold</key>
+	<string>playbackprototyperesponse</string>
+	<key>replacetexture</key>
+	<string>associatedScaffold</string>
+	<key>resilientConsumer</key>
+	<string>introspectAnimation</string>
+	<key>sceneDepth</key>
+	<string>momentumalignment</string>
+	<key>scrollSpacing</key>
+	<string>modalActivity</string>
+	<key>shouldstopduration</key>
+	<string>sophisticatedText</string>
+	<key>spineTint</key>
+	<string>equipmentbrightness</string>
+	<key>storagescope</key>
+	<string>canInflateRole</string>
+</dict>
+</plist>

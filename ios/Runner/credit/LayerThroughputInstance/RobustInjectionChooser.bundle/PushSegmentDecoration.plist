@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesiancubit</key>
+	<string>canTransformVariant</string>
+	<key>channelsValidation</key>
+	<string>shouldSkipGrayscale</string>
+	<key>concurrentScaffold</key>
+	<string>pivotalmatrix</string>
+	<key>iterativeDescent</key>
+	<string>dismissIndicator</string>
+	<key>nextGesture</key>
+	<string>markResolver</string>
+	<key>radiussystemsaturation</key>
+	<string>concreteTopic</string>
+	<key>shouldListenStateless</key>
+	<string>exceptionVisibility</string>
+	<key>sliderrange</key>
+	<string>erasereduction</string>
+	<key>transitionType</key>
+	<string>backwardVector</string>
+</dict>
+</plist>

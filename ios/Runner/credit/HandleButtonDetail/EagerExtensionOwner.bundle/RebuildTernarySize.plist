@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>liteGraphic</key>
+	<string>shouldStartGridView</string>
+	<key>mobileSkewX</key>
+	<string>resizableSubscription</string>
+	<key>parallelResponse</key>
+	<string>priorAlpha</string>
+	<key>responsiveRect</key>
+	<string>shouldValidateEquipment</string>
+	<key>strengthDensity</key>
+	<string>projectionBorder</string>
+</dict>
+</plist>

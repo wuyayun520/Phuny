@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorleft</key>
+	<string>showSwitch</string>
+	<key>normalStack</key>
+	<string>imperativerect</string>
+	<key>shouldFormatMap</key>
+	<string>animationCoord</string>
+	<key>stampTop</key>
+	<string>extendAsset</string>
+</dict>
+</plist>

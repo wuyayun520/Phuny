@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleBox</key>
+	<string>canPersistGate</string>
+	<key>accessibleReplica</key>
+	<string>routeStamp</string>
+	<key>audiobound</key>
+	<string>notationTransparency</string>
+	<key>currentCurve</key>
+	<string>themeAppearance</string>
+	<key>displayableAppBar</key>
+	<string>axisTail</string>
+	<key>firstTransition</key>
+	<string>equalizationLevel</string>
+	<key>flexLeft</key>
+	<string>granularpresentercoord</string>
+	<key>providerPadding</key>
+	<string>sequentialNotification</string>
+	<key>tappableAppBar</key>
+	<string>sustainableCupertino</string>
+	<key>wrapperStatus</key>
+	<string>completedRole</string>
+</dict>
+</plist>

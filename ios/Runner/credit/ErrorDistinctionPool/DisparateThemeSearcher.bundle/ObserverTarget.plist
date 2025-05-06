@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledradio</key>
+	<string>completerTheme</string>
+	<key>hyperbolicCombiner</key>
+	<string>shouldUpdateInstruction</string>
+	<key>inactiveConstraint</key>
+	<string>histogramFormat</string>
+	<key>inactiveSink</key>
+	<string>disconnectsingleton</string>
+	<key>materialNotifier</key>
+	<string>shouldUnmountedAccessory</string>
+	<key>writereducer</key>
+	<string>orchestrateRepository</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedPicker</key>
+	<string>canSerializeDecoration</string>
+	<key>deferredOptimizer</key>
+	<string>immediateNotifier</string>
+	<key>ephemeralWrapper</key>
+	<string>sequentialModal</string>
+	<key>invisibleHeap</key>
+	<string>tableForce</string>
+	<key>shouldbuildproject</key>
+	<string>canConnectSemantics</string>
+	<key>tangentfragments</key>
+	<string>minCycle</string>
+	<key>transformerenvironmentdepth</key>
+	<string>processCycle</string>
+</dict>
+</plist>

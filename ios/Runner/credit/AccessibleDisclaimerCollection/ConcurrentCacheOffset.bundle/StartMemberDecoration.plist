@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticMethod</key>
+	<string>imperativeHistogram</string>
+	<key>declarativeThread</key>
+	<string>consumerPosition</string>
+	<key>finderOffset</key>
+	<string>canPresentGraphic</string>
+	<key>impressionOpacity</key>
+	<string>beginnerBinary</string>
+	<key>pageviewVisibility</key>
+	<string>shouldDispatchSlider</string>
+	<key>secondTrigger</key>
+	<string>metricsHue</string>
+	<key>shouldInflateDropdownButton</key>
+	<string>ignoredoperation</string>
+	<key>statelikeshape</key>
+	<string>behaviortexture</string>
+</dict>
+</plist>

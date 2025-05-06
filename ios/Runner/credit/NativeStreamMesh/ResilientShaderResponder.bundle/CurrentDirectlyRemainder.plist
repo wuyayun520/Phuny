@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>augmentlog</key>
+	<string>unbindPageView</string>
+	<key>deferredoverlay</key>
+	<string>directOccasion</string>
+	<key>intuitiveAwait</key>
+	<string>audioShape</string>
+	<key>materialCallback</key>
+	<string>shouldYieldConvolution</string>
+	<key>precisionBrightness</key>
+	<string>radiusposition</string>
+	<key>subscriptionscale</key>
+	<string>missionStrategy</string>
+	<key>techniqueFlags</key>
+	<string>uniqueSegue</string>
+</dict>
+</plist>

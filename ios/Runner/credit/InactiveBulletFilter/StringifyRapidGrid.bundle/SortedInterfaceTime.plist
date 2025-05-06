@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphacontainer</key>
+	<string>concurrentBuilder</string>
+	<key>indicatorforce</key>
+	<string>typicalProvision</string>
+	<key>mobileAppearance</key>
+	<string>shouldCreateExpanded</string>
+	<key>releaseallocator</key>
+	<string>sustainableSearcher</string>
+	<key>routerBehavior</key>
+	<string>notificationTransparency</string>
+	<key>shouldUnmountedFragment</key>
+	<string>receiveRadius</string>
+</dict>
+</plist>

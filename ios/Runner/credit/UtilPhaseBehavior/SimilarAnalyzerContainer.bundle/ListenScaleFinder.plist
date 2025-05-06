@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableSorter</key>
+	<string>materializeManager</string>
+	<key>logvisitorstate</key>
+	<string>linkerStyle</string>
+	<key>mobileElement</key>
+	<string>enabledTransition</string>
+	<key>permanentstoragebehavior</key>
+	<string>capacitiesEnvironment</string>
+	<key>popupofbridge</key>
+	<string>objectVelocity</string>
+	<key>precisionKind</key>
+	<string>scrollerHead</string>
+	<key>shouldDisposePromise</key>
+	<string>directlyCompleter</string>
+	<key>shouldShowScroll</key>
+	<string>globalModel</string>
+	<key>validateloop</key>
+	<string>interceptreduction</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosineBottom</key>
+	<string>marshalFeature</string>
+	<key>dynamicdelivery</key>
+	<string>robustAnchor</string>
+	<key>independentsorter</key>
+	<string>resizableSwitch</string>
+	<key>notationMode</key>
+	<string>adaptivePrecision</string>
+	<key>techniqueRotation</key>
+	<string>shouldTrainMatrix</string>
+	<key>touchextension</key>
+	<string>routeGridView</string>
+</dict>
+</plist>

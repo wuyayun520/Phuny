@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileDescriptor</key>
+	<string>visibleMetrics</string>
+	<key>criticalChallenge</key>
+	<string>subscriberCount</string>
+	<key>customelasticity</key>
+	<string>zoneorientation</string>
+	<key>notationAcceleration</key>
+	<string>uniformSlider</string>
+	<key>precisionsound</key>
+	<string>disabledMatrix</string>
+	<key>routescroller</key>
+	<string>shouldAttachInstruction</string>
+	<key>shouldPopCaption</key>
+	<string>immediateCard</string>
+</dict>
+</plist>

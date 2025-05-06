@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>listeninterpolation</key>
+	<string>beginnerChapter</string>
+	<key>lossOrigin</key>
+	<string>iterativeDetail</string>
+	<key>mediumRow</key>
+	<string>threadFunction</string>
+	<key>shouldShowShader</key>
+	<string>canUnmountedPositioned</string>
+	<key>storageSkewY</key>
+	<string>mutableBoxShadow</string>
+	<key>tensorGradient</key>
+	<string>stopMedia</string>
+</dict>
+</plist>

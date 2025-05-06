@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveObject</key>
+	<string>semanticsensoredge</string>
+	<key>constraintOrigin</key>
+	<string>cacheShader</string>
+	<key>hierarchicalRouter</key>
+	<string>webFormat</string>
+	<key>hyperbolicHeap</key>
+	<string>gramDecorator</string>
+	<key>integrityBorder</key>
+	<string>serviceStage</string>
+	<key>parallelProgressBar</key>
+	<string>contractionProcess</string>
+	<key>shouldUnbindTransition</key>
+	<string>shouldRenderController</string>
+</dict>
+</plist>

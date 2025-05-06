@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gradientBound</key>
+	<string>isolatetexture</string>
+	<key>immutableGram</key>
+	<string>canRebuildMomentum</string>
+	<key>invisibleGrain</key>
+	<string>canTransitionExpanded</string>
+	<key>reactiveProject</key>
+	<string>shouldLayoutBullet</string>
+	<key>semanticsOpacity</key>
+	<string>semanticAlert</string>
+	<key>shouldListenAlpha</key>
+	<string>stateInterpreter</string>
+	<key>trianglesSkewX</key>
+	<string>maxStack</string>
+</dict>
+</plist>

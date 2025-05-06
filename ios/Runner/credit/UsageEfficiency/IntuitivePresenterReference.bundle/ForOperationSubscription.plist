@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonalongsystem</key>
+	<string>directlyResponse</string>
+	<key>collectionSpacing</key>
+	<string>nativeSingleton</string>
+	<key>crudeservicerate</key>
+	<string>transformerParam</string>
+	<key>denseShape</key>
+	<string>kernelPosition</string>
+	<key>descriptionforce</key>
+	<string>destroyResult</string>
+	<key>opaqueShader</key>
+	<string>drawerDistance</string>
+	<key>resultorigin</key>
+	<string>shouldPrepareBase</string>
+	<key>skinforce</key>
+	<string>canUnmountCustomPaint</string>
+	<key>statelessdirection</key>
+	<string>canDisposeController</string>
+	<key>uniformUnary</key>
+	<string>shouldPopStateful</string>
+</dict>
+</plist>

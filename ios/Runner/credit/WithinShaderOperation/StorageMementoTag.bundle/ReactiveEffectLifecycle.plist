@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deserializesubscription</key>
+	<string>precisionValidation</string>
+	<key>featureperbuffer</key>
+	<string>streamjobskewy</string>
+	<key>geometriccell</key>
+	<string>shouldSkipModulus</string>
+	<key>projectOrientation</key>
+	<string>fusedContainer</string>
+	<key>rotateasset</key>
+	<string>tickermodetop</string>
+	<key>shouldcreatecontraction</key>
+	<string>diffablerepositorybehavior</string>
+</dict>
+</plist>

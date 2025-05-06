@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>pooldimension</key>
+	<string>freeSubscription</string>
+	<key>reducerincludestate</key>
+	<string>canProcessDescriptor</string>
+	<key>searcherCenter</key>
+	<string>backwardSingleton</string>
+	<key>semanticIndicator</key>
+	<string>syncAwait</string>
+	<key>splitterName</key>
+	<string>mediaSingleton</string>
+	<key>traingroup</key>
+	<string>encodeFlex</string>
+</dict>
+</plist>

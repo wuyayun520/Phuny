@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousFormat</key>
+	<string>symmetricListener</string>
+	<key>resizableTrigger</key>
+	<string>activeIntegrity</string>
+	<key>synchronousbuttoncoord</key>
+	<string>stepscopevelocity</string>
+	<key>uniformVideo</key>
+	<string>shaderaroundscope</string>
+</dict>
+</plist>

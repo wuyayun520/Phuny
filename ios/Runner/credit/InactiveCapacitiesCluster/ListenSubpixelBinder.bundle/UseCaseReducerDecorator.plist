@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyformat</key>
+	<string>shouldFetchAspect</string>
+	<key>cupertinoAmortization</key>
+	<string>adjustResult</string>
+	<key>gramOffset</key>
+	<string>canBindSign</string>
+	<key>modalOffset</key>
+	<string>semanticCluster</string>
+	<key>persistentInterface</key>
+	<string>buildSpot</string>
+	<key>presenterDensity</key>
+	<string>embedCoordinator</string>
+	<key>seamlessconstant</key>
+	<string>lastCluster</string>
+	<key>sensorShape</key>
+	<string>shouldCancelAlert</string>
+	<key>sizedboxKind</key>
+	<string>formatTask</string>
+	<key>tweakMargin</key>
+	<string>unregistersignature</string>
+</dict>
+</plist>

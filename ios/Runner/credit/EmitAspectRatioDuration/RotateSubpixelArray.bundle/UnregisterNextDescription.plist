@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineOrientation</key>
+	<string>groupwithoutkind</string>
+	<key>consultativeAnimatedContainer</key>
+	<string>skirtawaymethod</string>
+	<key>otherEquipment</key>
+	<string>shouldDismissContraction</string>
+	<key>rectmode</key>
+	<string>lockScene</string>
+	<key>shouldLayoutStack</key>
+	<string>updateInterpolation</string>
+	<key>shouldReplaceScreen</key>
+	<string>anchoropacity</string>
+	<key>shouldStopMovement</key>
+	<string>resetGrid</string>
+	<key>smallTime</key>
+	<string>uniformSample</string>
+	<key>smallbuilder</key>
+	<string>iconCoord</string>
+</dict>
+</plist>

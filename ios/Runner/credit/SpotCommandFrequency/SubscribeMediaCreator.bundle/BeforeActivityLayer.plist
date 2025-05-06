@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characteristicFrequency</key>
+	<string>cosinevisibility</string>
+	<key>compositionalAlignment</key>
+	<string>shouldloadcanvas</string>
+	<key>consultativeZone</key>
+	<string>marshalFrame</string>
+	<key>greatMethod</key>
+	<string>denseloopspeed</string>
+	<key>loglikeobserver</key>
+	<string>handleBatch</string>
+	<key>sequentialpager</key>
+	<string>boxshadowrect</string>
+</dict>
+</plist>

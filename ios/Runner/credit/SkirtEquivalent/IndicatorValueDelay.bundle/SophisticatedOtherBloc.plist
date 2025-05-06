@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedMultiplication</key>
+	<string>shouldPauseLoss</string>
+	<key>asynchronousRow</key>
+	<string>debugController</string>
+	<key>borderoutsidestate</key>
+	<string>channelFlyweight</string>
+	<key>immutableBloc</key>
+	<string>durationAdapter</string>
+	<key>notifierchaintag</key>
+	<string>activeSelector</string>
+	<key>protectedChannel</key>
+	<string>synchronousScheduler</string>
+	<key>shouldFetchPrecision</key>
+	<string>offsetTween</string>
+	<key>statusacceleration</key>
+	<string>binaryBottom</string>
+	<key>taskAcceleration</key>
+	<string>nibRotation</string>
+</dict>
+</plist>

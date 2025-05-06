@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncversusbuffer</key>
+	<string>concreteFeature</string>
+	<key>containerTag</key>
+	<string>factoryTheme</string>
+	<key>declarativeMesh</key>
+	<string>shouldPopSymbol</string>
+	<key>histogramopacity</key>
+	<string>checklistAlignment</string>
+	<key>materialVideo</key>
+	<string>canPauseNib</string>
+	<key>mountalpha</key>
+	<string>navigationPressure</string>
+	<key>shouldFinishStoryboard</key>
+	<string>currentDropdownButton</string>
+	<key>shouldStreamAnimation</key>
+	<string>scenefrequency</string>
+	<key>substantialMaterial</key>
+	<string>threadBuffer</string>
+</dict>
+</plist>

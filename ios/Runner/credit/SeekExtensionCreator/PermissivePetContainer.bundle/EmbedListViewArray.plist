@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletOrientation</key>
+	<string>enumerateService</string>
+	<key>intensitySpacing</key>
+	<string>usedActivity</string>
+	<key>litePolyfill</key>
+	<string>connectoroffset</string>
+	<key>normFrequency</key>
+	<string>synchronousevolution</string>
+</dict>
+</plist>

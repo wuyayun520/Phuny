@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoPriority</key>
+	<string>mediaParam</string>
+	<key>backwardComponent</key>
+	<string>encodegate</string>
+	<key>diversifiedStrength</key>
+	<string>constraintadaptertint</string>
+	<key>mediumDispatcher</key>
+	<string>shouldValidateBrush</string>
+	<key>requiredReliability</key>
+	<string>textfieldProxy</string>
+	<key>scrollablePolygon</key>
+	<string>customHeap</string>
+	<key>shouldMountedPlayback</key>
+	<string>canEmitMultiplication</string>
+	<key>shouldUnmountedHero</key>
+	<string>inactivefinder</string>
+	<key>textHead</key>
+	<string>commonRecursion</string>
+</dict>
+</plist>

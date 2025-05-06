@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveCanvas</key>
+	<string>vectorizelayer</string>
+	<key>marginSkewX</key>
+	<string>connectSemantics</string>
+	<key>newestTouch</key>
+	<string>canUnbindGraphic</string>
+	<key>shouldDeserializeGradient</key>
+	<string>streammember</string>
+</dict>
+</plist>

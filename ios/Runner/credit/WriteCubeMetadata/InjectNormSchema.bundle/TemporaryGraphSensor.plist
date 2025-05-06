@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousConfidentiality</key>
+	<string>effectefficiency</string>
+	<key>catalystOrigin</key>
+	<string>registerHash</string>
+	<key>commonRepository</key>
+	<string>prismaticWrapper</string>
+	<key>intuitiveCallback</key>
+	<string>canPaintStateless</string>
+	<key>lazyrectangle</key>
+	<string>canPaintNotification</string>
+	<key>marginVelocity</key>
+	<string>dismissMedia</string>
+	<key>onskintap</key>
+	<string>attachintensity</string>
+	<key>resizableResource</key>
+	<string>discardedBandwidth</string>
+	<key>shouldObserveCupertino</key>
+	<string>ephemeralData</string>
+	<key>shouldUnbindKernel</key>
+	<string>animatedCertificate</string>
+</dict>
+</plist>

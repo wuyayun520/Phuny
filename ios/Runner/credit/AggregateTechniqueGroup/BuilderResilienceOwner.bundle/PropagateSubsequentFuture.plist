@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatortail</key>
+	<string>shouldSaveBullet</string>
+	<key>delegatetrigger</key>
+	<string>canLayoutMission</string>
+	<key>greatPicker</key>
+	<string>curveorigin</string>
+	<key>ignoredmatrix</key>
+	<string>resizableAnalogy</string>
+	<key>managerthreshold</key>
+	<string>canYieldReference</string>
+	<key>uniqueHandler</key>
+	<string>subscriptionevolution</string>
+</dict>
+</plist>

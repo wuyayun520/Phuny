@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionCoordinator</key>
+	<string>processBorder</string>
+	<key>builderStatus</key>
+	<string>managerCoord</string>
+	<key>dispatcherSkewY</key>
+	<string>shouldHandleEquipment</string>
+	<key>effectfrequency</key>
+	<string>relationalLabel</string>
+	<key>labelCount</key>
+	<string>multiModule</string>
+	<key>normalEfficiency</key>
+	<string>recursionDelay</string>
+	<key>singleThreshold</key>
+	<string>cacheStructure</string>
+	<key>spinefrominterpreter</key>
+	<string>canInflateCard</string>
+	<key>statefulAction</key>
+	<string>disconnectOverlay</string>
+</dict>
+</plist>

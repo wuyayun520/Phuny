@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardInfo</key>
+	<string>sineInset</string>
+	<key>batchsubscriber</key>
+	<string>permanentHandler</string>
+	<key>compositionInterval</key>
+	<string>consumerScale</string>
+	<key>durationmesh</key>
+	<string>axisRotation</string>
+	<key>itemRight</key>
+	<string>trajectoryShade</string>
+	<key>localLayout</key>
+	<string>queueacceleration</string>
+	<key>shouldDeserializeGradient</key>
+	<string>grainAction</string>
+	<key>traininterpolation</key>
+	<string>canUnmountLayout</string>
+</dict>
+</plist>

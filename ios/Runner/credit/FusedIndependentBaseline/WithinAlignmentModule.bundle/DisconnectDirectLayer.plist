@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bindradius</key>
+	<string>deflateTask</string>
+	<key>featuretail</key>
+	<string>responsivesliderlocation</string>
+	<key>mergerBehavior</key>
+	<string>pivotalAccessory</string>
+	<key>movementstatus</key>
+	<string>shouldNavigateAnimatedContainer</string>
+	<key>onstatefulchanged</key>
+	<string>gradientBorder</string>
+</dict>
+</plist>

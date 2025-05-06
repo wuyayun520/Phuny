@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binderDepth</key>
+	<string>cubeBehavior</string>
+	<key>bloccontextduration</key>
+	<string>compositionalGrayscale</string>
+	<key>collectionvisible</key>
+	<string>associatedBrush</string>
+	<key>errorTop</key>
+	<string>progressbarmesh</string>
+	<key>imperativeSplitter</key>
+	<string>cupertinoDirection</string>
+	<key>lostItem</key>
+	<string>dynamicSorter</string>
+	<key>missedrecursion</key>
+	<string>resumeSession</string>
+	<key>multiSink</key>
+	<string>usedMediaQuery</string>
+	<key>shouldTrainCapacities</key>
+	<string>storageDelay</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelShape</key>
+	<string>taskMediator</string>
+	<key>newestspecifier</key>
+	<string>transpileAnimation</string>
+	<key>poolstream</key>
+	<string>basevisibility</string>
+	<key>responderInset</key>
+	<string>sampleStrategy</string>
+	<key>shouldParseMap</key>
+	<string>directpopup</string>
+	<key>shouldPopCursor</key>
+	<string>delicateAlignment</string>
+	<key>shouldUnbindWorkflow</key>
+	<string>reducerRotation</string>
+	<key>statelessflex</key>
+	<string>shouldpausecycle</string>
+	<key>storyboardHead</key>
+	<string>captionleft</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionSpeed</key>
+	<string>dynamicWidget</string>
+	<key>ephemeralCreator</key>
+	<string>explicitDecoration</string>
+	<key>persistslider</key>
+	<string>intermediateSession</string>
+	<key>provisionsize</key>
+	<string>routephaserotation</string>
+	<key>screenjobappearance</key>
+	<string>multiplicationalongwork</string>
+	<key>typicalListView</key>
+	<string>semanticsStrategy</string>
+</dict>
+</plist>

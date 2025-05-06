@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoanchor</key>
+	<string>renderImage</string>
+	<key>backwardflex</key>
+	<string>globalGrayscale</string>
+	<key>channelfeedback</key>
+	<string>extensionBrightness</string>
+	<key>completersaturation</key>
+	<string>limitRepository</string>
+	<key>loopskewx</key>
+	<string>scrollDensity</string>
+	<key>notificationMargin</key>
+	<string>shouldTrainMission</string>
+	<key>repositorykinddelay</key>
+	<string>stopProvider</string>
+	<key>secondMargin</key>
+	<string>shouldCacheOptimizer</string>
+</dict>
+</plist>

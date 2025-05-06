@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoentropycoord</key>
+	<string>canUpdateBox</string>
+	<key>compareevent</key>
+	<string>smallComposition</string>
+	<key>enabledObserver</key>
+	<string>concurrentTask</string>
+	<key>ismaster</key>
+	<string>subpixelRate</string>
+	<key>remainderconverter</key>
+	<string>shaderstagerate</string>
+	<key>shouldUnbindIcon</key>
+	<string>hardMediaQuery</string>
+	<key>statefulAudio</key>
+	<string>isolatecoord</string>
+	<key>taxonomyFrequency</key>
+	<string>canPopIndicator</string>
+	<key>touchflags</key>
+	<string>keyScroller</string>
+</dict>
+</plist>

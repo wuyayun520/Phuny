@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableRouter</key>
+	<string>strokeContrast</string>
+	<key>dropdownbuttondetector</key>
+	<string>emitAnchor</string>
+	<key>elementState</key>
+	<string>useddecorationbound</string>
+	<key>interactorcommandkind</key>
+	<string>titleColor</string>
+	<key>nativeNavigation</key>
+	<string>crudeCompletion</string>
+	<key>pinchableGroup</key>
+	<string>encodenode</string>
+	<key>rapidHero</key>
+	<string>shouldReplaceCustomPaint</string>
+	<key>selectedCapacities</key>
+	<string>moduleDuration</string>
+</dict>
+</plist>

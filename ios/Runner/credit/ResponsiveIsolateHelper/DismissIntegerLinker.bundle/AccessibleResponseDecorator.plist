@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintDirection</key>
+	<string>positioneddirection</string>
+	<key>drawerexceptmode</key>
+	<string>shouldPersistScaffold</string>
+	<key>hasmargin</key>
+	<string>exceptionShade</string>
+	<key>mixinresolver</key>
+	<string>completedBuilder</string>
+	<key>sophisticatedGrain</key>
+	<string>descentForce</string>
+</dict>
+</plist>

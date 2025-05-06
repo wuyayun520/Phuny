@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainercycleduration</key>
+	<string>canRouteCache</string>
+	<key>discovercertificate</key>
+	<string>seamlessInjection</string>
+	<key>firstCompleter</key>
+	<string>unaryComposite</string>
+	<key>imperativeNotification</key>
+	<string>granularSign</string>
+	<key>projectCenter</key>
+	<string>discardedobserver</string>
+	<key>scaleFeedback</key>
+	<string>displayableTransition</string>
+</dict>
+</plist>

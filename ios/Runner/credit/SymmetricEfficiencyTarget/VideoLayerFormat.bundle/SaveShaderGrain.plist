@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adjustsubscription</key>
+	<string>decorationstyle</string>
+	<key>concurrentEvaluation</key>
+	<string>spotpresenter</string>
+	<key>normalActivity</key>
+	<string>localAwait</string>
+	<key>shouldDecodeDropdownButton</key>
+	<string>paddingfacadeposition</string>
+</dict>
+</plist>

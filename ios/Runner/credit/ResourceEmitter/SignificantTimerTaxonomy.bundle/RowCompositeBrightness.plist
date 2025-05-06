@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitratepreview</key>
+	<string>shouldsetstatecatalyst</string>
+	<key>cubitfilter</key>
+	<string>imageLayer</string>
+	<key>endwidget</key>
+	<string>projectDelay</string>
+	<key>greatIntegration</key>
+	<string>listenerAppearance</string>
+	<key>joinerleft</key>
+	<string>canFormatCaption</string>
+	<key>localizationDelay</key>
+	<string>queuearchitecture</string>
+	<key>parallelCluster</key>
+	<string>shouldPublishAnchor</string>
+	<key>shouldSaveOptimizer</key>
+	<string>graphSize</string>
+</dict>
+</plist>

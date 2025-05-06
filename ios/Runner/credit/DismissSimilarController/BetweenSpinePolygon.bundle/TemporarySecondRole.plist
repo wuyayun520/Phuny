@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hastechnique</key>
+	<string>discardedDialogs</string>
+	<key>iterativeBinder</key>
+	<string>persistentCollection</string>
+	<key>mobileshader</key>
+	<string>heapComposite</string>
+	<key>nodeOffset</key>
+	<string>difficultDistinction</string>
+	<key>priorSwitch</key>
+	<string>createSpecifier</string>
+	<key>processorDepth</key>
+	<string>thresholdTag</string>
+	<key>shouldYieldIndicator</key>
+	<string>globalCoordinator</string>
+	<key>shoulddisposeexpanded</key>
+	<string>robustShape</string>
+	<key>sophisticatedVideo</key>
+	<string>mediaFramework</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>functionalStatus</key>
+	<string>keepInteger</string>
+	<key>hierarchicalReceiver</key>
+	<string>canUnbindBinary</string>
+	<key>signatureTag</key>
+	<string>subsequentIndicator</string>
+	<key>tableinterval</key>
+	<string>ongesturechanged</string>
+</dict>
+</plist>

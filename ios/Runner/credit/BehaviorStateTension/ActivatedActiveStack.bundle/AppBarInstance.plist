@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetfunctionmargin</key>
+	<string>canBuildCursor</string>
+	<key>concurrentPriority</key>
+	<string>canPaintBloc</string>
+	<key>directlyLifecycle</key>
+	<string>particlecontainaction</string>
+	<key>shouldAttachSine</key>
+	<string>shoulddeserializemaster</string>
+	<key>soundStatus</key>
+	<string>shouldtransformstack</string>
+	<key>tabviewState</key>
+	<string>canSerializeHeap</string>
+	<key>toolSpacing</key>
+	<string>inkwellMode</string>
+</dict>
+</plist>

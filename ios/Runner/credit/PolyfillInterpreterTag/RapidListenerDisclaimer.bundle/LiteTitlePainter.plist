@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicTool</key>
+	<string>invisibleFeature</string>
+	<key>connectorInset</key>
+	<string>stackalongbuffer</string>
+	<key>cosineTheme</key>
+	<string>previewright</string>
+	<key>flexibleManager</key>
+	<string>progressbarfeedback</string>
+	<key>gembrightness</key>
+	<string>commonresolverhead</string>
+	<key>labelcompositeleft</key>
+	<string>rebuildVariant</string>
+	<key>pinchablePublisher</key>
+	<string>notifyScreen</string>
+</dict>
+</plist>

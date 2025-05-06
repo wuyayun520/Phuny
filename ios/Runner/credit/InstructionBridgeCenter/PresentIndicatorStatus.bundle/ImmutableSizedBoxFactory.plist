@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardpositionsize</key>
+	<string>toolBehavior</string>
+	<key>callbackleft</key>
+	<string>elasticityDelay</string>
+	<key>channelsfacadecount</key>
+	<string>captionScope</string>
+	<key>disparateShader</key>
+	<string>canListenAlert</string>
+	<key>impactOpacity</key>
+	<string>canPushSpot</string>
+	<key>multiCanvas</key>
+	<string>invisibleCharacteristic</string>
+	<key>resilientVideo</key>
+	<string>volumeInset</string>
+	<key>shouldKeepContraction</key>
+	<string>clipperParam</string>
+	<key>usedDocument</key>
+	<string>canDisposeProjection</string>
+</dict>
+</plist>

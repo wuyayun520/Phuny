@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comparepromise</key>
+	<string>advancedTweak</string>
+	<key>dispatcherposition</key>
+	<string>captionFormat</string>
+	<key>draggableWidget</key>
+	<string>similarSignature</string>
+	<key>layoutsystembottom</key>
+	<string>shouldUpdateSwitch</string>
+	<key>shouldStopRadio</key>
+	<string>exitLabel</string>
+	<key>shouldValidateCard</key>
+	<string>histogramedge</string>
+</dict>
+</plist>

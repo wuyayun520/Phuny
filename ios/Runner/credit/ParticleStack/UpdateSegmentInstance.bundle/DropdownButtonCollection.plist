@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistskewy</key>
+	<string>scaleFacade</string>
+	<key>commonCapacities</key>
+	<string>disconnectCupertino</string>
+	<key>lostScroller</key>
+	<string>searchEntity</string>
+	<key>requiredBandwidth</key>
+	<string>composableScene</string>
+	<key>transformoffset</key>
+	<string>activeMargin</string>
+</dict>
+</plist>

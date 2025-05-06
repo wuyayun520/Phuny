@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalCharacteristic</key>
+	<string>shouldEmitReduction</string>
+	<key>draggableResult</key>
+	<string>shoulddeserializeprotocol</string>
+	<key>hasSpine</key>
+	<string>shouldCreateEffect</string>
+	<key>inactiveLinker</key>
+	<string>serializeMultiplication</string>
+	<key>informationCenter</key>
+	<string>specifierscroller</string>
+	<key>parallelsubscriptionfeedback</key>
+	<string>numericalTolerance</string>
+	<key>roleShape</key>
+	<string>aspectratioDelay</string>
+	<key>shouldRenderTask</key>
+	<string>tabviewVisibility</string>
+	<key>sinkVisible</key>
+	<string>smallchapterorientation</string>
+</dict>
+</plist>

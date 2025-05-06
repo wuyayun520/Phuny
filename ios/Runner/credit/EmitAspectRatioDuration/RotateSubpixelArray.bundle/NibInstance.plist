@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyRight</key>
+	<string>formatisolate</string>
+	<key>channelinterval</key>
+	<string>segmentObserver</string>
+	<key>cursorName</key>
+	<string>relationalResilience</string>
+	<key>diffableLoop</key>
+	<string>elasticityTop</string>
+	<key>gesturesingleton</key>
+	<string>discardedDelivery</string>
+	<key>impressionScale</key>
+	<string>mediumCompleter</string>
+	<key>missedLayout</key>
+	<string>independentContraction</string>
+	<key>rectangleOrigin</key>
+	<string>shouldFormatBuilder</string>
+	<key>sequentialpager</key>
+	<string>sinevertex</string>
+	<key>subsequentActivity</key>
+	<string>canReplacePoint</string>
+</dict>
+</plist>

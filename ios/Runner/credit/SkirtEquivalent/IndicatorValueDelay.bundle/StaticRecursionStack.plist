@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonTopic</key>
+	<string>notificationVisible</string>
+	<key>enabledNotation</key>
+	<string>declarativePolygon</string>
+	<key>lazyrectformat</key>
+	<string>semanticscrolltransparency</string>
+	<key>missedSingleton</key>
+	<string>typicalblocbehavior</string>
+	<key>nextRemainder</key>
+	<string>presentSemantics</string>
+	<key>richtextthroughput</key>
+	<string>shouldCreateGrayscale</string>
+	<key>scalabilityMomentum</key>
+	<string>statefulDuration</string>
+</dict>
+</plist>

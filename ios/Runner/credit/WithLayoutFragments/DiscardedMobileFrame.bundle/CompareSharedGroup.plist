@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedClipper</key>
+	<string>publicProvision</string>
+	<key>borderorientation</key>
+	<string>batchBorder</string>
+	<key>mutableLoss</key>
+	<string>gemDirection</string>
+	<key>observerpertier</key>
+	<string>radiusdensity</string>
+	<key>trianglesFlags</key>
+	<string>explicitSizedBox</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateAnalogy</key>
+	<string>bulletCenter</string>
+	<key>delicateTool</key>
+	<string>cartesianrect</string>
+	<key>desktopPicker</key>
+	<string>frameTop</string>
+	<key>enabledConverter</key>
+	<string>resizeLoop</string>
+	<key>flexibleAscent</key>
+	<string>sceneSize</string>
+	<key>isolateStyle</key>
+	<string>triggerColor</string>
+	<key>layoutBottom</key>
+	<string>shouldLayoutFuture</string>
+	<key>navigatorstagesaturation</key>
+	<string>canPauseHistogram</string>
+</dict>
+</plist>

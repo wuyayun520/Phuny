@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultroute</key>
+	<string>sequentialPadding</string>
+	<key>enumeratechallenge</key>
+	<string>liteOffset</string>
+	<key>persistentconsumption</key>
+	<string>shouldNotifyProvider</string>
+	<key>resizablecompositionleft</key>
+	<string>hardRichText</string>
+</dict>
+</plist>

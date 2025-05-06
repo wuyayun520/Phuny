@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>confidentialityShade</key>
+	<string>directcomposition</string>
+	<key>cupertinoMenu</key>
+	<string>renamecupertino</string>
+	<key>eventDirection</key>
+	<string>robustnavigator</string>
+	<key>isVariant</key>
+	<string>lazyInteractor</string>
+	<key>mainObserver</key>
+	<string>asynchronousPet</string>
+	<key>protocolprototypestatus</key>
+	<string>stopBrush</string>
+	<key>transformmodal</key>
+	<string>consumptionTag</string>
+</dict>
+</plist>

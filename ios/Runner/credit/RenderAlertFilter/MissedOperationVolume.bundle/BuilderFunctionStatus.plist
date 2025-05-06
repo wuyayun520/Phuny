@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buildexception</key>
+	<string>marginmementobrightness</string>
+	<key>elasticComponent</key>
+	<string>graphicScale</string>
+	<key>immediateCollection</key>
+	<string>extensionInteraction</string>
+	<key>rapidDrawer</key>
+	<string>metadatacenter</string>
+	<key>shouldEndOperation</key>
+	<string>shouldnavigatecursor</string>
+	<key>taskstroke</key>
+	<string>movementPattern</string>
+	<key>themePosition</key>
+	<string>stepOpacity</string>
+	<key>undertakeradius</key>
+	<string>canPaintMaster</string>
+	<key>unlockplayback</key>
+	<string>referencecommandstate</string>
+</dict>
+</plist>

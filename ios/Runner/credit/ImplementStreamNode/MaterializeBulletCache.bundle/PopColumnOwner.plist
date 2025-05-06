@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncrect</key>
+	<string>draggableMovement</string>
+	<key>discardedCapacities</key>
+	<string>activatedDrawer</string>
+	<key>euclideanAsync</key>
+	<string>discoverGrain</string>
+	<key>interactiveWorkflow</key>
+	<string>popupkindcoord</string>
+	<key>pivotalImpression</key>
+	<string>unactivatedBuffer</string>
+	<key>scaffoldbufferkind</key>
+	<string>statelessContext</string>
+	<key>singletonname</key>
+	<string>reactiveUsage</string>
+	<key>slashEdge</key>
+	<string>movementSkewY</string>
+	<key>subsequentevolution</key>
+	<string>instantiateBuffer</string>
+	<key>unschedulestore</key>
+	<string>drawercoord</string>
+</dict>
+</plist>

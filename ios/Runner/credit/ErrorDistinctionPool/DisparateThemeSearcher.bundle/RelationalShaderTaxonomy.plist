@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianRect</key>
+	<string>durationproxyflags</string>
+	<key>grainDensity</key>
+	<string>unsortedProgressBar</string>
+	<key>interactorFeedback</key>
+	<string>mediocreGrid</string>
+	<key>materializerStatus</key>
+	<string>canShowMaterial</string>
+	<key>menuPadding</key>
+	<string>accessoryActivity</string>
+	<key>shouldDetachDialogs</key>
+	<string>grayscalecoordinator</string>
+	<key>visibleTolerance</key>
+	<string>shouldHandleMember</string>
+</dict>
+</plist>

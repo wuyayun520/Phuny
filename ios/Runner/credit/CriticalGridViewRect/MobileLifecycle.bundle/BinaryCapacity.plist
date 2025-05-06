@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actiondelay</key>
+	<string>aspectsaturation</string>
+	<key>compositionAcceleration</key>
+	<string>directlyProjection</string>
+	<key>disparateGestureDetector</key>
+	<string>nodeDuration</string>
+	<key>hardIndicator</key>
+	<string>bufferCoord</string>
+	<key>liteMethod</key>
+	<string>precisiontheme</string>
+	<key>reactiveTangent</key>
+	<string>standaloneentity</string>
+	<key>singletonFeedback</key>
+	<string>entitymapper</string>
+	<key>smartAllocator</key>
+	<string>declarativeRecursion</string>
+	<key>sustainableReference</key>
+	<string>shouldTransformSegment</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>isolatestructureborder</key>
+	<string>fragmentOperation</string>
+	<key>sinkSkewX</key>
+	<string>beginnerFormat</string>
+	<key>sliderScale</key>
+	<string>shouldValidateDimension</string>
+	<key>statefulSkewX</key>
+	<string>spotAcceleration</string>
+	<key>typicalDescriptor</key>
+	<string>easyRadius</string>
+</dict>
+</plist>

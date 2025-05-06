@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveLinker</key>
+	<string>marginresult</string>
+	<key>cupertinoFilter</key>
+	<string>stopCatalyst</string>
+	<key>efficiencyVelocity</key>
+	<string>prevCurve</string>
+	<key>inheritedCustomPaint</key>
+	<string>canFormatBorder</string>
+	<key>resilientTouch</key>
+	<string>retainedMediaQuery</string>
+	<key>sequentialAnchor</key>
+	<string>symmetricVariant</string>
+	<key>swiftfactory</key>
+	<string>endThread</string>
+	<key>taskcallback</key>
+	<string>switchmatrix</string>
+</dict>
+</plist>

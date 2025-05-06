@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createdescription</key>
+	<string>canStreamBoxShadow</string>
+	<key>defaultAspectRatio</key>
+	<string>permanentButton</string>
+	<key>denseDescriptor</key>
+	<string>canNavigateCell</string>
+	<key>dynamicColumn</key>
+	<string>shouldtransformchecklist</string>
+	<key>monsterfragments</key>
+	<string>decoupleimage</string>
+	<key>rectanglename</key>
+	<string>statefulinterpolation</string>
+	<key>variantgrid</key>
+	<string>canCreateModulus</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disclaimerBorder</key>
+	<string>awaitValidation</string>
+	<key>enabledTraversal</key>
+	<string>hierarchicalSizedBox</string>
+	<key>formatgram</key>
+	<string>customizedComponent</string>
+	<key>serviceTag</key>
+	<string>flexScope</string>
+	<key>shouldDecodePrecision</key>
+	<string>visualizeConstraint</string>
+	<key>shouldStreamCapacities</key>
+	<string>advancedIntegrity</string>
+	<key>uniformPoint</key>
+	<string>semanticsDecorator</string>
+</dict>
+</plist>

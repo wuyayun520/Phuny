@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderInset</key>
+	<string>attachgrid</string>
+	<key>chooserBottom</key>
+	<string>subpixelState</string>
+	<key>eagerStorage</key>
+	<string>responsiveRestriction</string>
+	<key>gridviewtension</key>
+	<string>hasdelegate</string>
+	<key>inactivealert</key>
+	<string>menuTheme</string>
+	<key>pinchableReference</key>
+	<string>shouldCreateCard</string>
+	<key>repositoryAppearance</key>
+	<string>obtainutil</string>
+	<key>unsortedCombiner</key>
+	<string>commonMaterializer</string>
+</dict>
+</plist>

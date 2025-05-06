@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedmediaquery</key>
+	<string>managerabouttype</string>
+	<key>difficultSink</key>
+	<string>requiredNode</string>
+	<key>handlerFlags</key>
+	<string>disconnectMetadata</string>
+	<key>inactiveThreshold</key>
+	<string>intermediateHandler</string>
+	<key>rectalignment</key>
+	<string>eagerTool</string>
+	<key>shouldAttachMusic</key>
+	<string>brushparamtail</string>
+</dict>
+</plist>

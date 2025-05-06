@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatortaskopacity</key>
+	<string>similarShader</string>
+	<key>finderHue</key>
+	<string>concatenateMetadata</string>
+	<key>largeSession</key>
+	<string>quitStream</string>
+	<key>persistentCosine</key>
+	<string>embedprogressbar</string>
+	<key>popupFlags</key>
+	<string>streamVariant</string>
+	<key>resilientNode</key>
+	<string>skipSymbol</string>
+	<key>shouldProcessOverlay</key>
+	<string>canLayoutTextField</string>
+	<key>shouldPushTool</key>
+	<string>copyChapter</string>
+	<key>usecaseenvironmentvisibility</key>
+	<string>interfaceforfacade</string>
+</dict>
+</plist>

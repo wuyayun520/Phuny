@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticintegrity</key>
+	<string>queueStatus</string>
+	<key>interactordecoratorvisible</key>
+	<string>canStopPromise</string>
+	<key>lazySizedBox</key>
+	<string>continueMaster</string>
+	<key>loaderRate</key>
+	<string>sophisticatedRect</string>
+	<key>notifierindex</key>
+	<string>discardedreliability</string>
+	<key>rebuilddecoration</key>
+	<string>formatPrecision</string>
+	<key>reducerResponse</key>
+	<string>saveMediaQuery</string>
+	<key>shouldEncodeDrawer</key>
+	<string>rapiddrawer</string>
+	<key>uniqueMission</key>
+	<string>iconMargin</string>
+	<key>visibleCanvas</key>
+	<string>pinchableContraction</string>
+</dict>
+</plist>

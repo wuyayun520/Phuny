@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoDrawer</key>
+	<string>shouldPublishCertificate</string>
+	<key>shouldConnectCycle</key>
+	<string>shouldSubscribeCoordinator</string>
+	<key>skirtstatename</key>
+	<string>canUnmountedCycle</string>
+	<key>statefulLoop</key>
+	<string>staticGrid</string>
+	<key>tappableNode</key>
+	<string>onnotifiertap</string>
+	<key>typicalMerger</key>
+	<string>oldScheduler</string>
+</dict>
+</plist>

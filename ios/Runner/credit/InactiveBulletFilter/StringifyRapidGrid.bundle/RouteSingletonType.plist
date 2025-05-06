@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accelerateexception</key>
+	<string>shouldValidateSpecifier</string>
+	<key>actionPressure</key>
+	<string>euclideanRectangle</string>
+	<key>concurrentPublisher</key>
+	<string>continueSizedBox</string>
+	<key>normalMechanism</key>
+	<string>connectgridview</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dataSkewY</key>
+	<string>destroyhandler</string>
+	<key>errorselector</key>
+	<string>propagateResult</string>
+	<key>mainCompletion</key>
+	<string>characteristicSkewY</string>
+	<key>permanentGraph</key>
+	<string>paintworkflow</string>
+	<key>permanentProgressBar</key>
+	<string>characterAdapter</string>
+	<key>shouldBuildReference</key>
+	<string>compositionalFrame</string>
+	<key>shouldUpdateIndicator</key>
+	<string>substantialmethod</string>
+	<key>smartExtension</key>
+	<string>documentposition</string>
+</dict>
+</plist>

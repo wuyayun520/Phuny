@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>escalatecycle</key>
+	<string>largeCluster</string>
+	<key>fixedAmortization</key>
+	<string>menuorientation</string>
+	<key>flexiblenavigator</key>
+	<string>shouldConnectReduction</string>
+	<key>fragmentsaturation</key>
+	<string>cursorscheduler</string>
+	<key>inactivenode</key>
+	<string>hardNotifier</string>
+	<key>normalPolyfill</key>
+	<string>globalGem</string>
+	<key>rapidSpecifier</key>
+	<string>awaitmargin</string>
+	<key>shouldStopBox</key>
+	<string>dropoutLoop</string>
+	<key>sizename</key>
+	<string>canLoadCurve</string>
+</dict>
+</plist>

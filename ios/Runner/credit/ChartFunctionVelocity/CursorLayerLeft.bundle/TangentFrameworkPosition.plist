@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>errorFormat</key>
+	<string>protectedSubscriber</string>
+	<key>impactMomentum</key>
+	<string>persistLogarithm</string>
+	<key>pivotalVolume</key>
+	<string>drawerComposite</string>
+	<key>resolverState</key>
+	<string>shouldProcessRichText</string>
+	<key>statefulOpacity</key>
+	<string>shouldMountedCheckbox</string>
+	<key>tensorSubpixel</key>
+	<string>parallelComponent</string>
+</dict>
+</plist>

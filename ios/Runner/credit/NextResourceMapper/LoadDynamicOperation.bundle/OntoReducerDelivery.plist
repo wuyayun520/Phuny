@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticOption</key>
+	<string>euclideanImage</string>
+	<key>baselineSkewX</key>
+	<string>responseDelay</string>
+	<key>margintransparency</key>
+	<string>cartesianSample</string>
+	<key>multiDependency</key>
+	<string>temporaryStateful</string>
+	<key>onlabeltap</key>
+	<string>bitrateFeedback</string>
+</dict>
+</plist>

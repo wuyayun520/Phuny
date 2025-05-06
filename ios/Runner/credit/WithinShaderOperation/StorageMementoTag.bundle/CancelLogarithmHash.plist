@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>calculatebrush</key>
+	<string>measurepresenter</string>
+	<key>commonGesture</key>
+	<string>delegatevisible</string>
+	<key>crucialtween</key>
+	<string>resumeCapsule</string>
+	<key>desktopSkirt</key>
+	<string>easyChooser</string>
+	<key>flexibleAperture</key>
+	<string>easyProtocol</string>
+	<key>gateinaction</key>
+	<string>significantbox</string>
+	<key>popupDuration</key>
+	<string>poolRadius</string>
+	<key>shouldEncodeMaterial</key>
+	<string>transitionInterval</string>
+</dict>
+</plist>

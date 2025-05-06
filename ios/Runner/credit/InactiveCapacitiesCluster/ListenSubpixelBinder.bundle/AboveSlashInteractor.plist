@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelchapter</key>
+	<string>singletonPosition</string>
+	<key>clipanimation</key>
+	<string>rectifyrole</string>
+	<key>exitresolver</key>
+	<string>backwardPreview</string>
+	<key>marginleft</key>
+	<string>contractionType</string>
+	<key>marshalborder</key>
+	<string>semanticView</string>
+	<key>offsetContrast</key>
+	<string>synchronousUseCase</string>
+	<key>shouldCreateModulus</key>
+	<string>marshalStore</string>
+	<key>taxonomyForce</key>
+	<string>canPersistComposition</string>
+	<key>textfieldaboutstage</key>
+	<string>interpolationAction</string>
+</dict>
+</plist>

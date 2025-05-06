@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellcount</key>
+	<string>resilientarchitecture</string>
+	<key>consultativeGram</key>
+	<string>tappableMetrics</string>
+	<key>consultativeScroller</key>
+	<string>canAnimateCertificate</string>
+	<key>euclideanPager</key>
+	<string>materialProvider</string>
+	<key>keyStack</key>
+	<string>typicalHistogram</string>
+	<key>startcoordinator</key>
+	<string>propagateResource</string>
+	<key>symbolDepth</key>
+	<string>schedulerStyle</string>
+</dict>
+</plist>

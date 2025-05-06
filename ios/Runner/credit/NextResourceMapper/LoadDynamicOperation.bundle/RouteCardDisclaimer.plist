@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentbaseline</key>
+	<string>permutationAcceleration</string>
+	<key>decodedelegate</key>
+	<string>customizedSpot</string>
+	<key>hasRadio</key>
+	<string>inheritedThreshold</string>
+	<key>mapfrequency</key>
+	<string>shouldShowMember</string>
+	<key>materializecaption</key>
+	<string>consumptionDelay</string>
+	<key>musicStatus</key>
+	<string>statefulPosition</string>
+	<key>sliderprocessflags</key>
+	<string>unlockroute</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationtail</key>
+	<string>multiplicationscale</string>
+	<key>builderinset</key>
+	<string>logFormat</string>
+	<key>containerappearance</key>
+	<string>euclideanIntensity</string>
+	<key>entityTension</key>
+	<string>cupertinotabbar</string>
+	<key>equipmentMomentum</key>
+	<string>scrollEdge</string>
+	<key>latencyDepth</key>
+	<string>viewOrigin</string>
+	<key>mapperOrigin</key>
+	<string>moveservice</string>
+	<key>onprojectionchanged</key>
+	<string>canDeserializeCurve</string>
+	<key>shouldNotifySample</key>
+	<string>shouldTransitionCompletion</string>
+	<key>shouldobservecaption</key>
+	<string>spriteLeft</string>
+</dict>
+</plist>

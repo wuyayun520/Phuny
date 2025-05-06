@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedMission</key>
+	<string>canLoadUnary</string>
+	<key>newestQueue</key>
+	<string>currentsensor</string>
+	<key>orchestraterow</key>
+	<string>drawerDensity</string>
+	<key>richtextBehavior</key>
+	<string>durationStrategy</string>
+	<key>secondScope</key>
+	<string>startSlash</string>
+	<key>unsortedPreview</key>
+	<string>custompaintlayer</string>
+	<key>widgetintegrity</key>
+	<string>canDecodeSensor</string>
+</dict>
+</plist>

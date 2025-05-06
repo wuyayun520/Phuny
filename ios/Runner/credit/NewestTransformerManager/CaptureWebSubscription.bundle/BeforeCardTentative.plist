@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedFeature</key>
+	<string>cupertinoAcceleration</string>
+	<key>equalizationrect</key>
+	<string>sharedRow</string>
+	<key>functionalAction</key>
+	<string>filterSaturation</string>
+	<key>layeralignment</key>
+	<string>canPushLabel</string>
+	<key>renderdelegate</key>
+	<string>canSkipSpot</string>
+	<key>renderervalidation</key>
+	<string>workflowVelocity</string>
+	<key>shouldRouteBuilder</key>
+	<string>checkMethod</string>
+</dict>
+</plist>

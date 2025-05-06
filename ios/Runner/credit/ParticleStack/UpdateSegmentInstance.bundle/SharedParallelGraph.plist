@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessorymediatorsaturation</key>
+	<string>multiTicker</string>
+	<key>endaspectratio</key>
+	<string>shouldDispatchMediaQuery</string>
+	<key>gridviewStatus</key>
+	<string>sortedConnector</string>
+	<key>lastSignature</key>
+	<string>shouldFetchProtocol</string>
+	<key>litebuilder</key>
+	<string>canFormatScaffold</string>
+	<key>nativeRemainder</key>
+	<string>deserializeSizedBox</string>
+	<key>usedcreator</key>
+	<string>unbindView</string>
+</dict>
+</plist>

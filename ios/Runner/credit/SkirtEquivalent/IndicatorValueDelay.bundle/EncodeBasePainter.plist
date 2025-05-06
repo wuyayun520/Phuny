@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorshapesize</key>
+	<string>addInteractor</string>
+	<key>groupcoord</key>
+	<string>dynamicPositioned</string>
+	<key>hyperbolicOccasion</key>
+	<string>shouldParseAperture</string>
+	<key>particleorientation</key>
+	<string>permissivepositioned</string>
+	<key>priorResolver</key>
+	<string>elasticStorage</string>
+	<key>shouldUpdateBullet</key>
+	<string>contrastpressure</string>
+	<key>shouldinflateborder</key>
+	<string>euclideanCoordinator</string>
+	<key>slashShade</key>
+	<string>oldBinary</string>
+</dict>
+</plist>

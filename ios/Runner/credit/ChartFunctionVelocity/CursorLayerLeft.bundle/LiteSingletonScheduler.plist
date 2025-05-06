@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityflags</key>
+	<string>petDensity</string>
+	<key>brushlinker</key>
+	<string>canInflateAnchor</string>
+	<key>mainStrength</key>
+	<string>remediationSkewX</string>
+	<key>remediationFeedback</key>
+	<string>ongatetap</string>
+	<key>shouldNotifyResource</key>
+	<string>cupertinoParameter</string>
+	<key>shouldSubscribeSwitch</key>
+	<string>graincontainframework</string>
+	<key>similarPriority</key>
+	<string>registerqueue</string>
+	<key>ternaryBottom</key>
+	<string>swiftRotation</string>
+	<key>transitionvaralignment</key>
+	<string>ternaryStrategy</string>
+</dict>
+</plist>

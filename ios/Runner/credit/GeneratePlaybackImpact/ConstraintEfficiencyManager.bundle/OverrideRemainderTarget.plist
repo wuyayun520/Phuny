@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatoraroundtier</key>
+	<string>setupDuration</string>
+	<key>deferredSpine</key>
+	<string>nextInjection</string>
+	<key>iterativeShape</key>
+	<string>canReplaceView</string>
+	<key>mutableoffsetstatus</key>
+	<string>playbackSingleton</string>
+	<key>navigatorpadding</key>
+	<string>materialMapper</string>
+	<key>newestContrast</key>
+	<string>groupBridge</string>
+	<key>priorNotification</key>
+	<string>fragmentPressure</string>
+	<key>pushgrid</key>
+	<string>otherReduction</string>
+	<key>sharedGift</key>
+	<string>shoulddecodegrayscale</string>
+	<key>usedAllocator</key>
+	<string>rendererOpacity</string>
+</dict>
+</plist>

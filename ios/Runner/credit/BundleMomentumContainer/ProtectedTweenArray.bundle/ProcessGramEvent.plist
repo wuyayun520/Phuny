@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentState</key>
+	<string>containerBuffer</string>
+	<key>cubitprototypeindex</key>
+	<string>geometricSymbol</string>
+	<key>eagerSearcher</key>
+	<string>denseBatch</string>
+	<key>integerformsaturation</key>
+	<string>routepresenter</string>
+	<key>keyEvaluation</key>
+	<string>shouldDeserializeOptimizer</string>
+	<key>layerFlags</key>
+	<string>consumerrate</string>
+	<key>localTool</key>
+	<string>entityKind</string>
+	<key>menuRight</key>
+	<string>charactermodel</string>
+	<key>sorteddetector</key>
+	<string>interactiveComponent</string>
+	<key>usecaseDensity</key>
+	<string>destroyRadius</string>
+</dict>
+</plist>

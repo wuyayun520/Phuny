@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultFragment</key>
+	<string>activetabviewleft</string>
+	<key>enabledThread</key>
+	<string>managerDecorator</string>
+	<key>equipmenttrigger</key>
+	<string>stackObserver</string>
+	<key>handlerdistinction</key>
+	<string>showCupertino</string>
+	<key>reusableColumn</key>
+	<string>detachScale</string>
+	<key>shouldCancelDialogs</key>
+	<string>symmetricProfile</string>
+	<key>usageDensity</key>
+	<string>listenerContrast</string>
+</dict>
+</plist>

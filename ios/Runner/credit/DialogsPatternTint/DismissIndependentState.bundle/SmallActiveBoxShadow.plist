@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncValidation</key>
+	<string>shouldkeepoptimizer</string>
+	<key>processorTint</key>
+	<string>captureequalization</string>
+	<key>shouldPaintAlpha</key>
+	<string>canHandleCapacities</string>
+	<key>sophisticatedDetector</key>
+	<string>resilienthero</string>
+</dict>
+</plist>

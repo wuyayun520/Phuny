@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblemenuinteraction</key>
+	<string>constructSink</string>
+	<key>alignmentskewy</key>
+	<string>shouldTransitionPositioned</string>
+	<key>callbackpadding</key>
+	<string>paintresult</string>
+	<key>efficiencyPadding</key>
+	<string>missedTabView</string>
+	<key>missedPainter</key>
+	<string>defaultEquipment</string>
+	<key>normalAperture</key>
+	<string>mediocreFragment</string>
+	<key>objectPadding</key>
+	<string>timerActivity</string>
+	<key>pinchableSkin</key>
+	<string>webSorter</string>
+	<key>shouldCreateConsumer</key>
+	<string>reliabilityLeft</string>
+</dict>
+</plist>

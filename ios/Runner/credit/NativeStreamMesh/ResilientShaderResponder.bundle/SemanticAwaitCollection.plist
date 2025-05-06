@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerCache</key>
+	<string>independentscroller</string>
+	<key>layerelasticity</key>
+	<string>subscribeDocument</string>
+	<key>listenerDistance</key>
+	<string>shouldsubscribesign</string>
+	<key>relationalIntegrity</key>
+	<string>canSkipRichText</string>
+	<key>responsiveNavigator</key>
+	<string>shouldSetStateCosine</string>
+	<key>seamlessLoop</key>
+	<string>directTransition</string>
+	<key>spineBound</key>
+	<string>globalRecursion</string>
+	<key>tappableAsset</key>
+	<string>widgetagainstmode</string>
+	<key>volumeTension</key>
+	<string>observetouch</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanTweak</key>
+	<string>desktopgraincount</string>
+	<key>otherDetector</key>
+	<string>imageName</string>
+	<key>prismaticMetrics</key>
+	<string>canCancelAccessory</string>
+	<key>relationalgrayscale</key>
+	<string>factoryContext</string>
+	<key>shouldEndGesture</key>
+	<string>richtextCount</string>
+</dict>
+</plist>

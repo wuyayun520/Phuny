@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicTexture</key>
+	<string>endMap</string>
+	<key>customthemeopacity</key>
+	<string>shoulddetachmonster</string>
+	<key>parallelConsumer</key>
+	<string>interpolateConstraint</string>
+	<key>responseTag</key>
+	<string>enhanceTimer</string>
+	<key>scrollerCoord</key>
+	<string>seguebandwidth</string>
+	<key>statefulImage</key>
+	<string>factoryFramework</string>
+</dict>
+</plist>

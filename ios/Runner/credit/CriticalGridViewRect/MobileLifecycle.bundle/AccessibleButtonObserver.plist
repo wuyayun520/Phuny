@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationagainststructure</key>
+	<string>standaloneTraversal</string>
+	<key>cubeSize</key>
+	<string>aspectProxy</string>
+	<key>imperativeDialogs</key>
+	<string>kernelSkewX</string>
+	<key>mediumInformation</key>
+	<string>equalizationForce</string>
+	<key>respectiveMusic</key>
+	<string>transitionProject</string>
+	<key>temporaryAsset</key>
+	<string>canRestartModal</string>
+</dict>
+</plist>

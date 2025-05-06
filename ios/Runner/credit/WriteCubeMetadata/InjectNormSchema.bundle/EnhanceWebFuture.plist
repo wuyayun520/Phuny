@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishcapacities</key>
+	<string>initializeChapter</string>
+	<key>flexibleCurve</key>
+	<string>attachGradient</string>
+	<key>gridviewHead</key>
+	<string>animatedcontainerOperation</string>
+	<key>hyperbolicDescription</key>
+	<string>layoutChain</string>
+	<key>independentReliability</key>
+	<string>cartesianQueue</string>
+	<key>lazyContrast</key>
+	<string>staticentitytheme</string>
+	<key>metricsDirection</key>
+	<string>alertSkewY</string>
+	<key>shouldSetStateScaffold</key>
+	<string>heapalignment</string>
+</dict>
+</plist>

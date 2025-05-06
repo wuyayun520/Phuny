@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarMargin</key>
+	<string>imageParameter</string>
+	<key>integrityType</key>
+	<string>subtleSemantics</string>
+	<key>opaquesession</key>
+	<string>maxMaster</string>
+	<key>respectiveStore</key>
+	<string>persistnotification</string>
+	<key>shoulddecodemedia</key>
+	<string>currentmetadata</string>
+	<key>standalonePolygon</key>
+	<string>crucialCollection</string>
+</dict>
+</plist>

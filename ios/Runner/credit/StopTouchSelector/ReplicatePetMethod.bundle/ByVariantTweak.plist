@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateInformation</key>
+	<string>canAttachGradient</string>
+	<key>geometricDialogs</key>
+	<string>diffableCubit</string>
+	<key>hyperbolicGrayscale</key>
+	<string>descriptionDelay</string>
+	<key>pageviewelement</key>
+	<string>imperativeCompleter</string>
+	<key>polyfillBorder</key>
+	<string>monsterinsidetype</string>
+	<key>providervelocity</key>
+	<string>multitextorigin</string>
+	<key>reactiveIntegration</key>
+	<string>animationCycle</string>
+	<key>recursionType</key>
+	<string>crudeStateful</string>
+	<key>shapeSkewX</key>
+	<string>beginnergate</string>
+	<key>shouldFetchMission</key>
+	<string>stopChannels</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityfeature</key>
+	<string>pageviewTint</string>
+	<key>allocatorTail</key>
+	<string>copyContainer</string>
+	<key>columnTransparency</key>
+	<string>criticalFuture</string>
+	<key>cupertinoCustomPaint</key>
+	<string>rapidSpot</string>
+	<key>rowValidation</key>
+	<string>hardConsumption</string>
+	<key>similarDelivery</key>
+	<string>hardConfidentiality</string>
+	<key>similarResponse</key>
+	<string>convolutionNumber</string>
+	<key>utilplatformskewy</key>
+	<string>persistentBinder</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableResilience</key>
+	<string>themeRight</string>
+	<key>loopOpacity</key>
+	<string>variantTask</string>
+	<key>persistentImage</key>
+	<string>permanentConvolution</string>
+	<key>processsize</key>
+	<string>indicatorRight</string>
+	<key>shouldkeepinterpolation</key>
+	<string>activateGroup</string>
+	<key>slidercolor</key>
+	<string>showCompletion</string>
+</dict>
+</plist>

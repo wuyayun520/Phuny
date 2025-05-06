@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableFactory</key>
+	<string>mutableScale</string>
+	<key>fragmentflags</key>
+	<string>difficultBuilder</string>
+	<key>immutableMapper</key>
+	<string>cartesianTriangles</string>
+	<key>insteadoffset</key>
+	<string>trainAspectRatio</string>
+	<key>intuitiveAscent</key>
+	<string>isolatescale</string>
+	<key>mainscene</key>
+	<string>comprehensiveLocalization</string>
+	<key>shouldEndModal</key>
+	<string>animationBottom</string>
+	<key>shouldPersistStep</key>
+	<string>protocoloutsidestyle</string>
+	<key>transformbutton</key>
+	<string>blocsound</string>
+</dict>
+</plist>

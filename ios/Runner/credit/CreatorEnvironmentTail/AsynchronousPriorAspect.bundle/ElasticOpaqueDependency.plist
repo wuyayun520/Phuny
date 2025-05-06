@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileRemainder</key>
+	<string>beginnerVolume</string>
+	<key>decorationBorder</key>
+	<string>configureSink</string>
+	<key>extendrichtext</key>
+	<string>mediocreNavigation</string>
+	<key>responsiveHash</key>
+	<string>emitGrain</string>
+</dict>
+</plist>

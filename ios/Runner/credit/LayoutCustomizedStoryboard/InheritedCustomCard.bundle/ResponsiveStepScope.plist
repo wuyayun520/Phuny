@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buffertint</key>
+	<string>canEndMultiplication</string>
+	<key>freeequalization</key>
+	<string>statefulEvaluation</string>
+	<key>ignoredbuffer</key>
+	<string>permissivePet</string>
+	<key>mediocreSprite</key>
+	<string>itemHue</string>
+	<key>multiaspect</key>
+	<string>floatAsset</string>
+	<key>multiplysprite</key>
+	<string>associatedAspectRatio</string>
+</dict>
+</plist>

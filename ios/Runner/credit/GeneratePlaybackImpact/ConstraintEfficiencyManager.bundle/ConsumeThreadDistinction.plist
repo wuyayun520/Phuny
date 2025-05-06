@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedheap</key>
+	<string>canListenSwift</string>
+	<key>cupertinoNib</key>
+	<string>shouldPaintSubpixel</string>
+	<key>flexibleFactory</key>
+	<string>deferredProtocol</string>
+	<key>inactiveTicker</key>
+	<string>searchLabel</string>
+	<key>liteDecoration</key>
+	<string>inflateRect</string>
+	<key>otherChallenge</key>
+	<string>activatedCard</string>
+	<key>reactiveSorter</key>
+	<string>providerKind</string>
+	<key>shouldLayoutTernary</key>
+	<string>positionproxystate</string>
+</dict>
+</plist>

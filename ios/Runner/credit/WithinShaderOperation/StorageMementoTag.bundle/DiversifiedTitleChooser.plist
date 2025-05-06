@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardCursor</key>
+	<string>dedicatedMobile</string>
+	<key>channelsKind</key>
+	<string>capacityinset</string>
+	<key>diffableFinder</key>
+	<string>customTheme</string>
+	<key>pageviewthanvar</key>
+	<string>radioFormat</string>
+	<key>popupborder</key>
+	<string>accessibleHistogram</string>
+	<key>protocolScale</key>
+	<string>granularNorm</string>
+	<key>shouldUnmountedModal</key>
+	<string>canMountCharacter</string>
+</dict>
+</plist>

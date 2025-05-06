@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitTag</key>
+	<string>shouldSerializeConstraint</string>
+	<key>efficiencyTransparency</key>
+	<string>staticCharacteristic</string>
+	<key>lastChannel</key>
+	<string>pauseLog</string>
+	<key>mobileMomentum</key>
+	<string>allocatorFeedback</string>
+	<key>mutableView</key>
+	<string>shouldYieldCupertino</string>
+	<key>otherSchema</key>
+	<string>challengeScope</string>
+	<key>shouldDecodeDecoration</key>
+	<string>specifyAwait</string>
+	<key>webAnimatedContainer</key>
+	<string>mediaqueryFunction</string>
+</dict>
+</plist>

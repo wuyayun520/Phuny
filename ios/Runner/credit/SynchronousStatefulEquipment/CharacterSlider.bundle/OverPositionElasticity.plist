@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionOffset</key>
+	<string>cupertinoAxis</string>
+	<key>deferredasync</key>
+	<string>inheritedSearcher</string>
+	<key>provideview</key>
+	<string>emitCursor</string>
+	<key>usedCycle</key>
+	<string>lifecycleMomentum</string>
+</dict>
+</plist>

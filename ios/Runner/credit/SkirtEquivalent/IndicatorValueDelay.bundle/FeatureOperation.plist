@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedaspectratio</key>
+	<string>nativeListener</string>
+	<key>cubeScale</key>
+	<string>vectorkind</string>
+	<key>elementValidation</key>
+	<string>firstPlate</string>
+	<key>ignoredroute</key>
+	<string>canDismissDrawer</string>
+	<key>missedDuration</key>
+	<string>dropoutSprite</string>
+	<key>observerpicker</key>
+	<string>quantizationSlider</string>
+	<key>pivotalRepository</key>
+	<string>canStopExponent</string>
+	<key>responsiveMediaQuery</key>
+	<string>parallelevent</string>
+	<key>subtleCurve</key>
+	<string>shouldResumeAspect</string>
+</dict>
+</plist>

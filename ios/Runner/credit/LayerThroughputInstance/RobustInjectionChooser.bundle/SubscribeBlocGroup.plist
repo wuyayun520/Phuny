@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationchainvisible</key>
+	<string>directMaterial</string>
+	<key>aperturebufferflags</key>
+	<string>enumeratestack</string>
+	<key>arithmeticChannels</key>
+	<string>monsterJob</string>
+	<key>lastAmortization</key>
+	<string>factoryinformation</string>
+	<key>numericalappbar</key>
+	<string>isolateshader</string>
+	<key>permissiveRadio</key>
+	<string>stampTier</string>
+	<key>shouldBuildIndicator</key>
+	<string>shouldPrepareCard</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gramFrequency</key>
+	<string>alphaactionresponse</string>
+	<key>integritySpacing</key>
+	<string>replicateScene</string>
+	<key>isolateDelay</key>
+	<string>combineBuffer</string>
+	<key>mobileappearance</key>
+	<string>textOperation</string>
+</dict>
+</plist>

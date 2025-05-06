@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedNotification</key>
+	<string>canRouteSymbol</string>
+	<key>detailAlignment</key>
+	<string>hierarchicalVertex</string>
+	<key>directtentative</key>
+	<string>triggerdepth</string>
+	<key>disparateSink</key>
+	<string>dialogscontextshape</string>
+	<key>shouldSaveCheckbox</key>
+	<string>canDismissScale</string>
+	<key>storyboardSaturation</key>
+	<string>composableChooser</string>
+</dict>
+</plist>

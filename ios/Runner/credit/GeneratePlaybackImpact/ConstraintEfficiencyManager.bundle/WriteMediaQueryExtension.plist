@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseBuilder</key>
+	<string>draggableCapacity</string>
+	<key>shouldPublishBrush</key>
+	<string>hasanimation</string>
+	<key>shouldRebuildCycle</key>
+	<string>materialSplitter</string>
+	<key>smallCallback</key>
+	<string>prevDuration</string>
+	<key>topicinterval</key>
+	<string>grainDuration</string>
+	<key>widgetTheme</key>
+	<string>delicateProcessor</string>
+</dict>
+</plist>

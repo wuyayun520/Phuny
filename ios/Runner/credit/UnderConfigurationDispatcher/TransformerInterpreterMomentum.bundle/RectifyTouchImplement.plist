@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dimensionForce</key>
+	<string>lockAsync</string>
+	<key>equalizationselector</key>
+	<string>particledespitevar</string>
+	<key>geometricEffect</key>
+	<string>interfaceTop</string>
+	<key>immediateAsset</key>
+	<string>quantizationOffset</string>
+	<key>mediocreTrajectory</key>
+	<string>exponentparticle</string>
+	<key>navigationFeedback</key>
+	<string>notifyWorkflow</string>
+	<key>onmodaltap</key>
+	<string>invisibleSegment</string>
+	<key>otherGradient</key>
+	<string>conformTask</string>
+	<key>primaryDelivery</key>
+	<string>fillstorage</string>
+	<key>secondInformation</key>
+	<string>paddingflags</string>
+</dict>
+</plist>

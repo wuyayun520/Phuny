@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaforshape</key>
+	<string>compositionalModel</string>
+	<key>exitusecase</key>
+	<string>streamfrequency</string>
+	<key>impactFeedback</key>
+	<string>uniformSpine</string>
+	<key>resolverInterval</key>
+	<string>consultativeChapter</string>
+	<key>tappableShader</key>
+	<string>consultativeBrush</string>
+	<key>unaryColor</key>
+	<string>particleColor</string>
+	<key>visitaspect</key>
+	<string>interpolationspeed</string>
+</dict>
+</plist>

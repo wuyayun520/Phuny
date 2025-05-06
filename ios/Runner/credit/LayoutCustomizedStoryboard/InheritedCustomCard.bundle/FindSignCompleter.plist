@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitratecurve</key>
+	<string>semanticLatency</string>
+	<key>connectgrayscale</key>
+	<string>enhancedependency</string>
+	<key>defaultCheckbox</key>
+	<string>completionJob</string>
+	<key>dependencymode</key>
+	<string>transformGrain</string>
+	<key>drawerInset</key>
+	<string>navigateReference</string>
+	<key>interactordespiteparam</key>
+	<string>activityAction</string>
+	<key>mediumContraction</key>
+	<string>infrastructureskewy</string>
+	<key>optimizeswift</key>
+	<string>resizableScheduler</string>
+	<key>smallpainterorigin</key>
+	<string>gridPressure</string>
+</dict>
+</plist>

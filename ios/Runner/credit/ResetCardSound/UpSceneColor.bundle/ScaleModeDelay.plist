@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedwidget</key>
+	<string>debugResponse</string>
+	<key>equipmentMode</key>
+	<string>behaviordensity</string>
+	<key>equipmentstrength</key>
+	<string>bundleStream</string>
+	<key>gempublisher</key>
+	<string>saveEquipment</string>
+	<key>resizablecluster</key>
+	<string>mobileTweak</string>
+	<key>sequentialTweak</key>
+	<string>shouldUnmountGrayscale</string>
+	<key>shouldAttachBase</key>
+	<string>disparateMaterializer</string>
+	<key>statecount</key>
+	<string>serviceshape</string>
+	<key>utilactivityborder</key>
+	<string>shouldCreateChallenge</string>
+</dict>
+</plist>

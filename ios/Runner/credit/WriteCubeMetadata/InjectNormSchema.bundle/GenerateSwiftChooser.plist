@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedBorder</key>
+	<string>completedAperture</string>
+	<key>animationLeft</key>
+	<string>otherMetrics</string>
+	<key>customizedAsync</key>
+	<string>optimizeSingleton</string>
+	<key>draggableReference</key>
+	<string>resolverBehavior</string>
+	<key>requiredDescent</key>
+	<string>declarativeTransition</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryHead</key>
+	<string>assetObserver</string>
+	<key>boxSpacing</key>
+	<string>cubeBrightness</string>
+	<key>contractionversusstage</key>
+	<string>storyboardAlignment</string>
+	<key>currentPet</key>
+	<string>intuitiveScene</string>
+	<key>gramenvironmentorientation</key>
+	<string>customizedMapper</string>
+	<key>newestCallback</key>
+	<string>reusableobserver</string>
+	<key>previewduringnumber</key>
+	<string>canRenderRadio</string>
+	<key>projectfactory</key>
+	<string>shouldLoadSample</string>
+	<key>shouldBuildStateful</key>
+	<string>fixedLoop</string>
+	<key>taxonomyState</key>
+	<string>handlertemplefeedback</string>
+</dict>
+</plist>

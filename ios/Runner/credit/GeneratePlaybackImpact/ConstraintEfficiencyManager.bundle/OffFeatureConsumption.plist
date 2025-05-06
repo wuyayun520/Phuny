@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousChart</key>
+	<string>visibleScheduler</string>
+	<key>controllertension</key>
+	<string>consumermerger</string>
+	<key>currentStatus</key>
+	<string>deferredTriangles</string>
+	<key>draggablePositioned</key>
+	<string>finishFuture</string>
+	<key>instructionRight</key>
+	<string>scheduleStore</string>
+	<key>respectiveTolerance</key>
+	<string>canUpdateCertificate</string>
+	<key>shouldTransitionTheme</key>
+	<string>visiblePositioned</string>
+	<key>streamtag</key>
+	<string>streamgrid</string>
+</dict>
+</plist>

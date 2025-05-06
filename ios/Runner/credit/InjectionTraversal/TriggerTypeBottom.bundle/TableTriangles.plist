@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorInset</key>
+	<string>replacegesturedetector</string>
+	<key>directGroup</key>
+	<string>filterCenter</string>
+	<key>elasticzonevalidation</key>
+	<string>shouldObserveText</string>
+	<key>intermediateDuration</key>
+	<string>prevconfigurationbrightness</string>
+	<key>stackMomentum</key>
+	<string>canAnimateNavigator</string>
+	<key>usedBuilder</key>
+	<string>capacityKind</string>
+</dict>
+</plist>

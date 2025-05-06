@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerandproxy</key>
+	<string>soundduration</string>
+	<key>draggableManager</key>
+	<string>interactorStatus</string>
+	<key>persistentMedia</key>
+	<string>gestureProxy</string>
+	<key>persistentUsage</key>
+	<string>navigateColumn</string>
+	<key>shouldRestartAspect</key>
+	<string>momentumfeedback</string>
+</dict>
+</plist>

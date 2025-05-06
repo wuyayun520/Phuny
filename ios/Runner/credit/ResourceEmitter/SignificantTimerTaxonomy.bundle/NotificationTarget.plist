@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableContrast</key>
+	<string>canEmitCheckbox</string>
+	<key>euclideanAsync</key>
+	<string>canCacheExtension</string>
+	<key>flexiblestorage</key>
+	<string>sharedTimer</string>
+	<key>publicProvision</key>
+	<string>overrideContainer</string>
+	<key>shouldShowChecklist</key>
+	<string>transitionaroundframework</string>
+	<key>tasksystemdelay</key>
+	<string>smartFlex</string>
+</dict>
+</plist>

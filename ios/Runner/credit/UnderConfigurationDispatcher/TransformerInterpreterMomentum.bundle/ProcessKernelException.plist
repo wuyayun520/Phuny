@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveDecoration</key>
+	<string>effectAppearance</string>
+	<key>flexibleConfiguration</key>
+	<string>updateSample</string>
+	<key>frameAlignment</key>
+	<string>canAttachNotification</string>
+	<key>methodrate</key>
+	<string>spineBridge</string>
+	<key>missedInteractor</key>
+	<string>substantialSensor</string>
+	<key>mobileslider</key>
+	<string>inheritedcell</string>
+	<key>parallelInteractor</key>
+	<string>graphpatterntail</string>
+	<key>registerawait</key>
+	<string>decorationfrequency</string>
+	<key>scrollableResult</key>
+	<string>canHandleCursor</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combinertension</key>
+	<string>viewdelivery</string>
+	<key>directlylayout</key>
+	<string>showManager</string>
+	<key>hasextension</key>
+	<string>freeTitle</string>
+	<key>iterativetext</key>
+	<string>scrollFrequency</string>
+	<key>managerindex</key>
+	<string>animatedcontainervertex</string>
+	<key>recursionSkewX</key>
+	<string>gesturePadding</string>
+	<key>semanticRole</key>
+	<string>referencestate</string>
+	<key>shaperate</key>
+	<string>chaptervisible</string>
+	<key>shouldKeepAperture</key>
+	<string>rebuildSizedBox</string>
+	<key>subpixelPressure</key>
+	<string>originalPresenter</string>
+</dict>
+</plist>

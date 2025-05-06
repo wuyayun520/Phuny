@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gemchart</key>
+	<string>rendererSpeed</string>
+	<key>immutableGesture</key>
+	<string>floatGrid</string>
+	<key>multiobservertransparency</key>
+	<string>scrollableConverter</string>
+	<key>quaternionForce</key>
+	<string>shouldLoadNotification</string>
+	<key>tappableRemediation</key>
+	<string>marginStyle</string>
+	<key>vertexBrightness</key>
+	<string>vectorComposite</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintMargin</key>
+	<string>clipperValidation</string>
+	<key>coordinatorAppearance</key>
+	<string>clearOffset</string>
+	<key>shouldContinueUnary</key>
+	<string>iconstatescale</string>
+	<key>sophisticatedCollection</key>
+	<string>axiscompleter</string>
+</dict>
+</plist>

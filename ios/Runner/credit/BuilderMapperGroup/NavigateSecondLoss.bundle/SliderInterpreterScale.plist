@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedSwift</key>
+	<string>canRenderStack</string>
+	<key>expandeddescription</key>
+	<string>usedPromise</string>
+	<key>immediateCell</key>
+	<string>subscribeThread</string>
+	<key>immediateGrayscale</key>
+	<string>resizegem</string>
+	<key>mutableProvider</key>
+	<string>delegateManager</string>
+	<key>provideticker</key>
+	<string>handleEqualization</string>
+	<key>statelessPadding</key>
+	<string>canShowMultiplication</string>
+	<key>trianglesInteraction</key>
+	<string>finishPadding</string>
+</dict>
+</plist>

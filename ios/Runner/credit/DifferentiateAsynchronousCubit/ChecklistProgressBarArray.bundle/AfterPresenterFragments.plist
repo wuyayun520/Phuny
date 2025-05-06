@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continuemovement</key>
+	<string>cellAlignment</string>
+	<key>explicitTexture</key>
+	<string>partitionwidget</string>
+	<key>robustEntity</key>
+	<string>roleTail</string>
+	<key>stateagainstenvironment</key>
+	<string>unactivatedNotification</string>
+	<key>tweenobserverhead</key>
+	<string>shouldCreateLog</string>
+</dict>
+</plist>

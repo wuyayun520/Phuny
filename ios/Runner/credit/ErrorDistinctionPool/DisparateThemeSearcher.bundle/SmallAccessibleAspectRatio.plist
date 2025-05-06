@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableMonster</key>
+	<string>smallInfo</string>
+	<key>contractioninformation</key>
+	<string>composableRepository</string>
+	<key>missedequalization</key>
+	<string>startSymbol</string>
+	<key>nextblocposition</key>
+	<string>spinedescent</string>
+	<key>scenarioMode</key>
+	<string>intermediateAnimation</string>
+	<key>shouldCancelAxis</key>
+	<string>canAttachClipper</string>
+	<key>shouldFinishPoint</key>
+	<string>dynamicGrain</string>
+</dict>
+</plist>

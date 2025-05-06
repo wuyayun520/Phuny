@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeResponder</key>
+	<string>seamlessInteger</string>
+	<key>advancedAppBar</key>
+	<string>canPushNib</string>
+	<key>declarativeCompleter</key>
+	<string>iterativeItem</string>
+	<key>evaluationTint</key>
+	<string>localizationLevel</string>
+	<key>fetchtabbar</key>
+	<string>loaderLocation</string>
+	<key>finishactivity</key>
+	<string>detachmenu</string>
+	<key>requestpadding</key>
+	<string>shouldDecodeUsage</string>
+	<key>shouldCacheDescriptor</key>
+	<string>baselineslider</string>
+	<key>transformereffect</key>
+	<string>eagerColumn</string>
+	<key>unaryright</key>
+	<string>canNotifyCollection</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileMedia</key>
+	<string>canDisconnectOptimizer</string>
+	<key>dedicatedloopinset</key>
+	<string>boxSystem</string>
+	<key>disabledanimationlocation</key>
+	<string>mergerSpeed</string>
+	<key>frameinsideinterpreter</key>
+	<string>shouldCreateTool</string>
+	<key>imperativeRemainder</key>
+	<string>shouldUpdateBase</string>
+	<key>originalFrame</key>
+	<string>interactorinterval</string>
+	<key>providerinterpreterspacing</key>
+	<string>invokeLocalization</string>
+	<key>shouldFormatChallenge</key>
+	<string>combinerBottom</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopMetrics</key>
+	<string>canLoadDropdownButton</string>
+	<key>easyNorm</key>
+	<string>groupCycle</string>
+	<key>mapperTag</key>
+	<string>uniquegrid</string>
+	<key>normalGraphic</key>
+	<string>cupertinoskewx</string>
+	<key>reactiveChannels</key>
+	<string>saveMap</string>
+	<key>retainedScale</key>
+	<string>displayablejoiner</string>
+</dict>
+</plist>

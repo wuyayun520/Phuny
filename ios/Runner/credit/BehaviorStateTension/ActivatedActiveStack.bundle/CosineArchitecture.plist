@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directEmitter</key>
+	<string>explicitBitrate</string>
+	<key>easyAnalyzer</key>
+	<string>canRestartGram</string>
+	<key>entityHead</key>
+	<string>customDialogs</string>
+	<key>relationalchannel</key>
+	<string>shouldTransformProfile</string>
+	<key>schedulerSpacing</key>
+	<string>geometricAnimatedContainer</string>
+	<key>sequentialAxis</key>
+	<string>intuitiveVideo</string>
+	<key>typicalBrush</key>
+	<string>partitionMenu</string>
+	<key>uniformPicker</key>
+	<string>basicScene</string>
+</dict>
+</plist>

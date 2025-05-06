@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerIndicator</key>
+	<string>dismissIntensity</string>
+	<key>embedcoordinator</key>
+	<string>tabviewconstraint</string>
+	<key>graphhead</key>
+	<string>resilientHandler</string>
+	<key>ignoredCallback</key>
+	<string>titleFramework</string>
+	<key>mediaBorder</key>
+	<string>loadSemantics</string>
+	<key>nativeCaption</key>
+	<string>segueType</string>
+	<key>responsiveefficiency</key>
+	<string>topicSize</string>
+	<key>semanticaperture</key>
+	<string>geometricMaster</string>
+	<key>shouldanimatecube</key>
+	<string>removegram</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedCube</key>
+	<string>implementResult</string>
+	<key>adaptiveComposition</key>
+	<string>originalModule</string>
+	<key>lockpopup</key>
+	<string>menuMethod</string>
+	<key>objectLeft</key>
+	<string>benchmarkLayer</string>
+	<key>shouldEndOverlay</key>
+	<string>extensionBridge</string>
+	<key>shouldanimateview</key>
+	<string>retainZone</string>
+	<key>sustainableMember</key>
+	<string>timerexceptenvironment</string>
+</dict>
+</plist>

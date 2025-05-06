@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitoftype</key>
+	<string>showFuture</string>
+	<key>emitdescription</key>
+	<string>usageshape</string>
+	<key>frameperdecorator</key>
+	<string>rowBound</string>
+	<key>functionalEfficiency</key>
+	<string>convertswitch</string>
+	<key>intermediateAspectRatio</key>
+	<string>declarativeElasticity</string>
+	<key>normalHistogram</key>
+	<string>nibalongstrategy</string>
+	<key>scrollFlags</key>
+	<string>alignmentcomponent</string>
+	<key>shouldTrainRemainder</key>
+	<string>declarativeTransformer</string>
+	<key>tickerLocation</key>
+	<string>subscriptionexceptstyle</string>
+</dict>
+</plist>

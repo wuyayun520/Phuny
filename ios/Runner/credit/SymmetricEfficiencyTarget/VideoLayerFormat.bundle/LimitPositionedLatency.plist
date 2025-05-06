@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeConstraint</key>
+	<string>subsequentRepository</string>
+	<key>granularLayout</key>
+	<string>canEndRadio</string>
+	<key>largeTransition</key>
+	<string>unbindprotocol</string>
+	<key>originalInjection</key>
+	<string>updateDropdownButton</string>
+	<key>routeForce</key>
+	<string>timeTension</string>
+</dict>
+</plist>

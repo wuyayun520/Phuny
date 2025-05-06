@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableMap</key>
+	<string>signatureright</string>
+	<key>ephemeralDependency</key>
+	<string>canFinishClipper</string>
+	<key>eventoperation</key>
+	<string>canStopDialogs</string>
+	<key>expandedStatus</key>
+	<string>serializecache</string>
+	<key>mountlocalization</key>
+	<string>largeElement</string>
+	<key>oldAlert</key>
+	<string>creatorLeft</string>
+</dict>
+</plist>

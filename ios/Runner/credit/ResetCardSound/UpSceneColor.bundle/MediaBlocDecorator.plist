@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeSwitch</key>
+	<string>sorterDistance</string>
+	<key>nodeawayoperation</key>
+	<string>menuSaturation</string>
+	<key>slidermementocoord</key>
+	<string>characterBridge</string>
+</dict>
+</plist>

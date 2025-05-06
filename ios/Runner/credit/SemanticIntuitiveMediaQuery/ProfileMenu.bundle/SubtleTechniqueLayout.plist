@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveMargin</key>
+	<string>staticConsumer</string>
+	<key>criticalZone</key>
+	<string>composableError</string>
+	<key>descriptionDirection</key>
+	<string>resumeCatalyst</string>
+	<key>eagerTernary</key>
+	<string>canSaveMap</string>
+	<key>tweendensity</key>
+	<string>endGram</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitjobalignment</key>
+	<string>builderitem</string>
+	<key>chartdepth</key>
+	<string>drawButton</string>
+	<key>freeresource</key>
+	<string>canTransitionDialogs</string>
+	<key>signSkewY</key>
+	<string>transformcube</string>
+</dict>
+</plist>

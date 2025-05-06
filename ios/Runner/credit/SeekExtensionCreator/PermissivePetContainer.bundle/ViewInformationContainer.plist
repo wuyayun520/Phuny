@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exceptionMargin</key>
+	<string>statefulvisibility</string>
+	<key>handlerKind</key>
+	<string>persistentProvider</string>
+	<key>shouldUnbindStateless</key>
+	<string>canCreateBuilder</string>
+	<key>sustainableController</key>
+	<string>shouldPublishContainer</string>
+</dict>
+</plist>

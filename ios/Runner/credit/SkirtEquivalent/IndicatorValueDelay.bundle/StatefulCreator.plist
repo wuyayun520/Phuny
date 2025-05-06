@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionlistener</key>
+	<string>encodeMedia</string>
+	<key>discardedBinder</key>
+	<string>canLoadView</string>
+	<key>drawdecoration</key>
+	<string>dismissCatalyst</string>
+	<key>hyperbolicModel</key>
+	<string>cosineTier</string>
+	<key>mainAudio</key>
+	<string>fillSprite</string>
+	<key>pinchableSignature</key>
+	<string>newestDocument</string>
+	<key>shouldPushGradient</key>
+	<string>shouldHandlePrecision</string>
+	<key>specifyWrapper</key>
+	<string>disposeKernel</string>
+	<key>staticTangent</key>
+	<string>replaceCatalyst</string>
+</dict>
+</plist>

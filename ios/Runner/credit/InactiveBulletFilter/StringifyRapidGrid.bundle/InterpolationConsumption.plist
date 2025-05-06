@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableTraversal</key>
+	<string>attachCompleter</string>
+	<key>multiplicationTail</key>
+	<string>kernelVisitor</string>
+	<key>replicaPosition</key>
+	<string>opaquepointdepth</string>
+	<key>searcherFormat</key>
+	<string>canUnbindSlider</string>
+	<key>singleSegue</key>
+	<string>intuitiveActivity</string>
+</dict>
+</plist>

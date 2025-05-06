@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>listviewSpacing</key>
+	<string>defaulttabview</string>
+	<key>mutableIntegrity</key>
+	<string>declarativeAxis</string>
+	<key>permanentheaptransparency</key>
+	<string>handlertieropacity</string>
+	<key>resourceShape</key>
+	<string>imperativeNotation</string>
+	<key>shouldRouteAnimatedContainer</key>
+	<string>canPaintCatalyst</string>
+</dict>
+</plist>

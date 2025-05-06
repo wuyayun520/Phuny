@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleNode</key>
+	<string>reducestream</string>
+	<key>desktopScope</key>
+	<string>concurrentScreen</string>
+	<key>mobileOption</key>
+	<string>canTransitionView</string>
+	<key>shouldMountedLayout</key>
+	<string>mediocreutilcoord</string>
+	<key>typicalInfo</key>
+	<string>sensorJob</string>
+</dict>
+</plist>

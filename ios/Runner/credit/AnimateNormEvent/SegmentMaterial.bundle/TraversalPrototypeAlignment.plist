@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatordelay</key>
+	<string>previewContrast</string>
+	<key>channelsprovision</key>
+	<string>elasticSession</string>
+	<key>enabledDetail</key>
+	<string>invisibleLayout</string>
+	<key>entitySize</key>
+	<string>alertFlyweight</string>
+	<key>interactiveBitrate</key>
+	<string>cursorresponse</string>
+	<key>opaqueAsync</key>
+	<string>notifyDelegate</string>
+</dict>
+</plist>

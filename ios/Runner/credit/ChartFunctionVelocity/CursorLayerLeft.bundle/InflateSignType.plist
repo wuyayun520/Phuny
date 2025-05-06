@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedCaption</key>
+	<string>signTail</string>
+	<key>animatedcontainerthreshold</key>
+	<string>singletonpolygon</string>
+	<key>animationlayerduration</key>
+	<string>constraintBound</string>
+	<key>graphicDistance</key>
+	<string>resolveVector</string>
+	<key>shouldBuildCell</key>
+	<string>originalOption</string>
+	<key>threadbesideoperation</key>
+	<string>shouldUnmountedBaseline</string>
+</dict>
+</plist>

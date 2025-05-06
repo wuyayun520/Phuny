@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedVariant</key>
+	<string>injectionBuffer</string>
+	<key>autoloader</key>
+	<string>columnFeedback</string>
+	<key>performmetadata</key>
+	<string>baseFlyweight</string>
+	<key>shouldDecodeBorder</key>
+	<string>bulletCommand</string>
+	<key>shouldDetachUsage</key>
+	<string>decorationBridge</string>
+	<key>shouldUnmountCycle</key>
+	<string>nodeShape</string>
+	<key>similarSplitter</key>
+	<string>equalizationState</string>
+	<key>texturetypescale</key>
+	<string>masterBottom</string>
+	<key>visibleTexture</key>
+	<string>draggableMaterial</string>
+	<key>wrapperhead</key>
+	<string>difficultConverter</string>
+</dict>
+</plist>

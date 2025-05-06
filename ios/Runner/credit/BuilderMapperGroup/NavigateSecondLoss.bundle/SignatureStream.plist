@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graphDensity</key>
+	<string>hasKernel</string>
+	<key>hardCoordinator</key>
+	<string>shouldProcessLog</string>
+	<key>largeDecoration</key>
+	<string>canNavigateExponent</string>
+	<key>robustDecoration</key>
+	<string>visiblefragmentindex</string>
+	<key>shouldMountSpine</key>
+	<string>deferredMenu</string>
+	<key>smartTentative</key>
+	<string>denseGesture</string>
+	<key>usedBullet</key>
+	<string>discoverDelegate</string>
+	<key>utilMargin</key>
+	<string>originalTitle</string>
+	<key>visibleSubscriber</key>
+	<string>canPaintContraction</string>
+</dict>
+</plist>

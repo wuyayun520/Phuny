@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>notifyview</key>
+	<string>pageviewInterval</string>
+	<key>resultrotation</key>
+	<string>usedDescent</string>
+	<key>scaffoldhead</key>
+	<string>implementTitle</string>
+	<key>tablepatterndensity</key>
+	<string>shouldDisposeTheme</string>
+</dict>
+</plist>

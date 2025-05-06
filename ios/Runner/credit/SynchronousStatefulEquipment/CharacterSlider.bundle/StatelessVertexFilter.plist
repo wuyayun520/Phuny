@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainercontroller</key>
+	<string>shouldMountedModulus</string>
+	<key>callbackastype</key>
+	<string>singleThread</string>
+	<key>checkboxrate</key>
+	<string>iconVelocity</string>
+	<key>contrasttension</key>
+	<string>detailcontrast</string>
+	<key>scrollableduration</key>
+	<string>canProcessSpot</string>
+	<key>shouldReplaceBullet</key>
+	<string>routerframe</string>
+	<key>shouldYieldBehavior</key>
+	<string>semanticanchorspacing</string>
+	<key>shouldcancelternary</key>
+	<string>embracepopup</string>
+</dict>
+</plist>

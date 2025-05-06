@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedTool</key>
+	<string>subtlestateless</string>
+	<key>missedSound</key>
+	<string>litePlate</string>
+	<key>persistentDuration</key>
+	<string>localLayout</string>
+	<key>positionedamongform</key>
+	<string>documentinterface</string>
+	<key>secondCharacter</key>
+	<string>canParseKernel</string>
+	<key>sharedkernellocation</key>
+	<string>sequentialSplitter</string>
+	<key>shouldListenCompletion</key>
+	<string>onradiotap</string>
+	<key>webTimer</key>
+	<string>nextSingleton</string>
+</dict>
+</plist>

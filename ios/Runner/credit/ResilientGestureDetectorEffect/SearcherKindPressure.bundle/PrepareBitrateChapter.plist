@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationpainter</key>
+	<string>awaitLocation</string>
+	<key>diffableSegment</key>
+	<string>searchConfiguration</string>
+	<key>ephemeralGraph</key>
+	<string>symmetricGram</string>
+	<key>immutableFormat</key>
+	<string>vectorizeprecision</string>
+	<key>protectedLog</key>
+	<string>canPauseOptimizer</string>
+	<key>publictexturesaturation</key>
+	<string>analogyStyle</string>
+	<key>seamlessStream</key>
+	<string>lazyCatalyst</string>
+	<key>sharedPadding</key>
+	<string>persistentChannel</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeCharacteristic</key>
+	<string>workflowMargin</string>
+	<key>currentNib</key>
+	<string>behaviorSize</string>
+	<key>diffableImpact</key>
+	<string>usecasevelocity</string>
+	<key>explicitGradient</key>
+	<string>modulusconstant</string>
+	<key>lazyElasticity</key>
+	<string>touchShape</string>
+	<key>reactiveBox</key>
+	<string>intermediateCharacter</string>
+	<key>reusableShape</key>
+	<string>animateSegment</string>
+	<key>robustTernary</key>
+	<string>binderTag</string>
+	<key>serviceBrightness</key>
+	<string>normalmatrix</string>
+</dict>
+</plist>

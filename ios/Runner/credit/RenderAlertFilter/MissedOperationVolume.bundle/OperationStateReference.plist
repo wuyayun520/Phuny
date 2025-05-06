@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionfunctionorigin</key>
+	<string>subpixelfromtemple</string>
+	<key>disconnectmenu</key>
+	<string>discardedVariant</string>
+	<key>entityactioninset</key>
+	<string>mediumAccessory</string>
+	<key>flexformat</key>
+	<string>obtainRect</string>
+	<key>shouldResumeOption</key>
+	<string>triggerInset</string>
+	<key>signatureleft</key>
+	<string>rangeSpacing</string>
+</dict>
+</plist>

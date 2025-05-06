@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianBitrate</key>
+	<string>disabledResult</string>
+	<key>declarativeModule</key>
+	<string>shouldEndNib</string>
+	<key>discardedtimer</key>
+	<string>unsortedPadding</string>
+	<key>shouldParseReduction</key>
+	<string>shouldPushGraphic</string>
+</dict>
+</plist>

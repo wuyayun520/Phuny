@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicDecoration</key>
+	<string>subtleconsumption</string>
+	<key>heapSaturation</key>
+	<string>specifyCubit</string>
+	<key>infoHead</key>
+	<string>shouldDispatchInterpolation</string>
+	<key>tensorbehavior</key>
+	<string>matrixBrightness</string>
+	<key>traversalStyle</key>
+	<string>directPrecision</string>
+</dict>
+</plist>

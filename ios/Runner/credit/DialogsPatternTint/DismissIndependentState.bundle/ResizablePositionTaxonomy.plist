@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveBuilder</key>
+	<string>lostEquivalent</string>
+	<key>finderTail</key>
+	<string>actionBorder</string>
+	<key>iconType</key>
+	<string>rowAppearance</string>
+	<key>movementTop</key>
+	<string>widgetStrategy</string>
+	<key>movesingleton</key>
+	<string>moveManager</string>
+	<key>shouldContinueRole</key>
+	<string>segueMediator</string>
+	<key>shouldRebuildGem</key>
+	<string>sustainablePromise</string>
+	<key>similarAperture</key>
+	<string>referenceInterpreter</string>
+	<key>tappableGrain</key>
+	<string>canUnmountedDelegate</string>
+	<key>visibleProvider</key>
+	<string>notifierEdge</string>
+</dict>
+</plist>

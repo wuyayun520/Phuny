@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createmusic</key>
+	<string>shouldendobserver</string>
+	<key>injectioninset</key>
+	<string>materialIndex</string>
+	<key>lazyAwait</key>
+	<string>inactiveComponent</string>
+	<key>lazyStore</key>
+	<string>segueBottom</string>
+	<key>linkerspeed</key>
+	<string>independentEvaluation</string>
+	<key>musicPosition</key>
+	<string>seamlessFormat</string>
+	<key>parsemember</key>
+	<string>popupMediator</string>
+</dict>
+</plist>

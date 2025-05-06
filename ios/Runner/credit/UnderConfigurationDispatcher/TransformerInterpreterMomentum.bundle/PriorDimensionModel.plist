@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clonebinary</key>
+	<string>latencyrotation</string>
+	<key>criticalFragment</key>
+	<string>cardstructureedge</string>
+	<key>granularCursor</key>
+	<string>canPresentProject</string>
+	<key>paintbitrate</key>
+	<string>canPersistWorkflow</string>
+	<key>permissiveDescent</key>
+	<string>draggableMultiplication</string>
+	<key>retainedexponentdensity</key>
+	<string>pinchableDetector</string>
+	<key>shaderOpacity</key>
+	<string>channelsResponse</string>
+	<key>smallcontainer</key>
+	<string>insteadBloc</string>
+	<key>typicalAlpha</key>
+	<string>basicSymbol</string>
+</dict>
+</plist>

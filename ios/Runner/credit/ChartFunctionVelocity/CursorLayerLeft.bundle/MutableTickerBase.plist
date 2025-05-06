@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationShape</key>
+	<string>inkwellscheduler</string>
+	<key>granularTolerance</key>
+	<string>capsuleAlignment</string>
+	<key>priorconsumer</key>
+	<string>cancelShader</string>
+	<key>responderMode</key>
+	<string>menuVisitor</string>
+	<key>subsequentfuturecenter</key>
+	<string>greatActivity</string>
+	<key>toolOrientation</key>
+	<string>reusableConsumer</string>
+	<key>visitstateful</key>
+	<string>attachTool</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>imperativeFlex</key>
+	<string>navigatorMode</string>
+	<key>mobileKind</key>
+	<string>shouldPersistHeap</string>
+	<key>persistentBase</key>
+	<string>marginScale</string>
+	<key>relationalWorkflow</key>
+	<string>discardedMatrix</string>
+	<key>subsequentroutehue</key>
+	<string>shouldMountDescriptor</string>
+</dict>
+</plist>

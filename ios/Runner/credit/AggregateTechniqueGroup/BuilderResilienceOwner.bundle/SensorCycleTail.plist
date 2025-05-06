@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedInfrastructure</key>
+	<string>temporaryDimension</string>
+	<key>futureInterval</key>
+	<string>comprehensiveJoiner</string>
+	<key>ignoredNavigator</key>
+	<string>accessibleComposition</string>
+	<key>intuitiveGram</key>
+	<string>accordionResolver</string>
+	<key>offsetadapterflags</key>
+	<string>cupertinoTernary</string>
+	<key>projectionadapterskewx</key>
+	<string>handlerawaycomposite</string>
+	<key>segmentAlignment</key>
+	<string>accessibleCustomPaint</string>
+	<key>shouldUnmountRichText</key>
+	<string>concreteStateful</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystRight</key>
+	<string>memberActivity</string>
+	<key>criticaltaskborder</key>
+	<string>canLayoutMovement</string>
+	<key>disconnecttextfield</key>
+	<string>reusableStateless</string>
+	<key>otherPreview</key>
+	<string>sessionStage</string>
+	<key>shouldInflateLabel</key>
+	<string>significantGate</string>
+	<key>shouldSaveAppBar</key>
+	<string>robustSizedBox</string>
+</dict>
+</plist>

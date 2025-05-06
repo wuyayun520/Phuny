@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordioncontroller</key>
+	<string>arithmeticWrapper</string>
+	<key>amortizationPadding</key>
+	<string>smartCanvas</string>
+	<key>dialogsSpacing</key>
+	<string>popPet</string>
+	<key>fixedisolate</key>
+	<string>gesturedetectordependency</string>
+	<key>swiftOrientation</key>
+	<string>canFinishEffect</string>
+</dict>
+</plist>

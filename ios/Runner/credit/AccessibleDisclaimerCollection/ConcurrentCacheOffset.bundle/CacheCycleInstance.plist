@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>marginSpacing</key>
+	<string>progressbarDensity</string>
+	<key>previewDepth</key>
+	<string>protectedcheckbox</string>
+	<key>seamlessPreview</key>
+	<string>shouldNotifyAnimation</string>
+	<key>semanticspadding</key>
+	<string>textDensity</string>
+	<key>shouldSubscribeMember</key>
+	<string>similarImpact</string>
+	<key>shoulddismissoptimizer</key>
+	<string>positionedAlignment</string>
+</dict>
+</plist>

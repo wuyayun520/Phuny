@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerenvironmentsize</key>
+	<string>shouldLayoutStream</string>
+	<key>appendservice</key>
+	<string>unmountBatch</string>
+	<key>fusedGrain</key>
+	<string>wrapperrotation</string>
+	<key>gradientSpeed</key>
+	<string>operationVisibility</string>
+	<key>mutablequeueindex</key>
+	<string>semanticVector</string>
+	<key>shouldAnimateRole</key>
+	<string>shouldshowstep</string>
+	<key>similarAperture</key>
+	<string>pageviewDelay</string>
+	<key>singleCycle</key>
+	<string>canProcessAnimatedContainer</string>
+	<key>textMode</key>
+	<string>hierarchicalSchema</string>
+</dict>
+</plist>

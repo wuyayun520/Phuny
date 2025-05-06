@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customResilience</key>
+	<string>canTransformCertificate</string>
+	<key>missedbuilderpadding</key>
+	<string>displayAlignment</string>
+	<key>resolverPressure</key>
+	<string>independentMerger</string>
+	<key>shouldCacheRadio</key>
+	<string>firstParticle</string>
+	<key>shouldDismissDimension</key>
+	<string>holdWidget</string>
+	<key>smalltriangles</key>
+	<string>lastgatevisible</string>
+	<key>tappableEqualization</key>
+	<string>accessibleChart</string>
+	<key>uniformSubpixel</key>
+	<string>shouldRebuildTool</string>
+</dict>
+</plist>

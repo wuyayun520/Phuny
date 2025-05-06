@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyVertex</key>
+	<string>commonSymbol</string>
+	<key>instructionvisibility</key>
+	<string>multiplicationLeft</string>
+	<key>lazyComponent</key>
+	<string>characterBound</string>
+	<key>roleintensity</key>
+	<string>associatedLinker</string>
+	<key>subsequentData</key>
+	<string>renderKernel</string>
+</dict>
+</plist>

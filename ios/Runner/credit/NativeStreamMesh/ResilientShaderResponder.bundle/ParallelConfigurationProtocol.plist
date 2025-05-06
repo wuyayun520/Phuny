@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultTouch</key>
+	<string>drawerCommand</string>
+	<key>directcontrollerskewy</key>
+	<string>difficultDetector</string>
+	<key>fusedGrid</key>
+	<string>shouldRouteRemainder</string>
+	<key>globaltime</key>
+	<string>beginnerSign</string>
+	<key>ignoredAudio</key>
+	<string>publicThroughput</string>
+	<key>inflatechart</key>
+	<string>implementrequest</string>
+	<key>loopdistance</key>
+	<string>desktopMechanism</string>
+	<key>parallelResolver</key>
+	<string>factorystatefeedback</string>
+	<key>robustgestureduration</key>
+	<string>canLayoutEquipment</string>
+	<key>semanticDrawer</key>
+	<string>remediationHue</string>
+</dict>
+</plist>

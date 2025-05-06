@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedPageView</key>
+	<string>projectionFramework</string>
+	<key>firstrenderer</key>
+	<string>routeFunction</string>
+	<key>mediumquaternion</key>
+	<string>unactivatedConstant</string>
+	<key>nativetechnique</key>
+	<string>dialogslabel</string>
+	<key>permissivePlayback</key>
+	<string>lazyBuilder</string>
+	<key>poptransition</key>
+	<string>directVector</string>
+	<key>seamlessCoordinator</key>
+	<string>prevlocalizationpressure</string>
+	<key>subsequentAsync</key>
+	<string>overrideFeature</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousSlider</key>
+	<string>infrastructureTension</string>
+	<key>autoClipper</key>
+	<string>reductionMode</string>
+	<key>beginnerCharacteristic</key>
+	<string>resetZone</string>
+	<key>elasticeffect</key>
+	<string>activeModel</string>
+	<key>priorText</key>
+	<string>fragmentSize</string>
+	<key>responsivePolyfill</key>
+	<string>crucialInfrastructure</string>
+	<key>shouldDeserializeBuilder</key>
+	<string>singleEqualization</string>
+	<key>shouldEndRole</key>
+	<string>inheritedController</string>
+	<key>significantTimeline</key>
+	<string>shouldDismissWorkflow</string>
+</dict>
+</plist>

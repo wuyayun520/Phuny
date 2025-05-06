@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeInformation</key>
+	<string>intuitiveAxis</string>
+	<key>invisibleAspect</key>
+	<string>propagateOffset</string>
+	<key>localMaterializer</key>
+	<string>encodereduction</string>
+	<key>newestRole</key>
+	<string>canPublishOverlay</string>
+	<key>pauselabel</key>
+	<string>isAnimation</string>
+	<key>usagecolor</key>
+	<string>invisibleCurve</string>
+</dict>
+</plist>

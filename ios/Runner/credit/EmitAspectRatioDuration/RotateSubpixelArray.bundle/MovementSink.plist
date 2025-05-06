@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoContrast</key>
+	<string>inactiveMapper</string>
+	<key>chartformat</key>
+	<string>referencenumberleft</string>
+	<key>crucialAudio</key>
+	<string>declarativeloopspeed</string>
+	<key>defaultnorm</key>
+	<string>prepareCube</string>
+	<key>diversifiedSchema</key>
+	<string>associatedanimation</string>
+	<key>hasMatrix</key>
+	<string>temporaryInteger</string>
+	<key>limitcurve</key>
+	<string>firstInfrastructure</string>
+	<key>resizableListView</key>
+	<string>attachIntensity</string>
+	<key>signaturerect</key>
+	<string>disabledAccessory</string>
+	<key>similardrawer</key>
+	<string>aspectPattern</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardConfidentiality</key>
+	<string>canPresentAlpha</string>
+	<key>reactiveBullet</key>
+	<string>consultativeGroup</string>
+	<key>smallPrecision</key>
+	<string>shouldInflateScaffold</string>
+	<key>tickerinsideenvironment</key>
+	<string>storeLayer</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationopacity</key>
+	<string>marginPrototype</string>
+	<key>arithmeticLoop</key>
+	<string>associatedQuaternion</string>
+	<key>channelsBorder</key>
+	<string>touchOpacity</string>
+	<key>listenerStyle</key>
+	<string>shouldMountedStoryboard</string>
+	<key>memberservice</key>
+	<string>usecaselistener</string>
+	<key>resizableResource</key>
+	<string>shouldpublishtouch</string>
+	<key>usedGradient</key>
+	<string>observerMethod</string>
+</dict>
+</plist>

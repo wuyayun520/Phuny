@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleresponse</key>
+	<string>shouldparselistview</string>
+	<key>difficultOccasion</key>
+	<string>futurePlatform</string>
+	<key>elasticResponse</key>
+	<string>inkwellSingleton</string>
+	<key>lostSession</key>
+	<string>adaptiveScene</string>
+	<key>numericalVolume</key>
+	<string>decorationindex</string>
+	<key>prismaticSignature</key>
+	<string>skinHue</string>
+	<key>routetype</key>
+	<string>similarBox</string>
+	<key>shouldBindBatch</key>
+	<string>profileutil</string>
+	<key>zonesincevisitor</key>
+	<string>parsePreview</string>
+</dict>
+</plist>

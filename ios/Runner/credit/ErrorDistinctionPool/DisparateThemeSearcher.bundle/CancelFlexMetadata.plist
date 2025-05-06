@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeCoordinator</key>
+	<string>initializetitle</string>
+	<key>inactivePreview</key>
+	<string>associatedRole</string>
+	<key>largeSlider</key>
+	<string>detachdocument</string>
+	<key>materialRoute</key>
+	<string>pendingAnimation</string>
+	<key>permissiveContraction</key>
+	<string>handleCell</string>
+	<key>skinvisitorfrequency</key>
+	<string>replaceProjection</string>
+	<key>synchronizegrain</key>
+	<string>animatorSpacing</string>
+	<key>transformerdensity</key>
+	<string>lastInkWell</string>
+</dict>
+</plist>

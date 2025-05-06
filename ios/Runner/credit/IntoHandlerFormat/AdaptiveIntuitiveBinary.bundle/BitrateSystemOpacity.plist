@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intermediatezone</key>
+	<string>decouplePresenter</string>
+	<key>invisibletrigger</key>
+	<string>shouldHandleCheckbox</string>
+	<key>keyreducer</key>
+	<string>stepFacade</string>
+	<key>methodStyle</key>
+	<string>sensorPhase</string>
+	<key>rebuildternary</key>
+	<string>intuitiveInfo</string>
+	<key>resourcephaseresponse</key>
+	<string>canHandlePoint</string>
+	<key>singletoncontroller</key>
+	<string>shouldUnmountedInterpolation</string>
+</dict>
+</plist>

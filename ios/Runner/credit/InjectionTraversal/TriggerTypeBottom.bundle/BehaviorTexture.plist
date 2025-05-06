@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableTween</key>
+	<string>checklistVisitor</string>
+	<key>latencyorigin</key>
+	<string>encodeMap</string>
+	<key>managerOrientation</key>
+	<string>localStore</string>
+	<key>optionconfiguration</key>
+	<string>loopProxy</string>
+	<key>permanentbuttoninteraction</key>
+	<string>heapBorder</string>
+	<key>requiredbuttoncontrast</key>
+	<string>geometricCursor</string>
+	<key>tensorlistener</key>
+	<string>canSetStateChallenge</string>
+</dict>
+</plist>

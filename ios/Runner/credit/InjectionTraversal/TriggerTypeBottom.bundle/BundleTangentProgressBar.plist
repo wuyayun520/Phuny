@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>resilientAxis</key>
+	<string>interactoraroundsingleton</string>
+	<key>shouldAnimateRemainder</key>
+	<string>normalGrain</string>
+	<key>shouldPauseSine</key>
+	<string>themeincludepattern</string>
+	<key>sustainableaccessorysize</key>
+	<string>shouldDecodeStoryboard</string>
+</dict>
+</plist>

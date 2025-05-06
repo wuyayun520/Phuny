@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>efficiencyAppearance</key>
+	<string>semanticsInset</string>
+	<key>firstBuilder</key>
+	<string>mediumSlash</string>
+	<key>isolateincludecycle</key>
+	<string>cosineSkewX</string>
+	<key>lostEquivalent</key>
+	<string>canSerializeColumn</string>
+	<key>positionopacity</key>
+	<string>providerShade</string>
+	<key>requestevent</key>
+	<string>widgetParam</string>
+	<key>shouldConnectEqualization</key>
+	<string>concreteMember</string>
+	<key>shouldPrepareModal</key>
+	<string>shouldEncodeTechnique</string>
+	<key>shouldRebuildChallenge</key>
+	<string>rebuildSpot</string>
+</dict>
+</plist>

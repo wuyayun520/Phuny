@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoReceiver</key>
+	<string>gateStyle</string>
+	<key>immediateBase</key>
+	<string>autoDetector</string>
+	<key>localizationvelocity</key>
+	<string>transformStamp</string>
+	<key>opaqueChannel</key>
+	<string>pinchableState</string>
+	<key>replicaForce</key>
+	<string>durationutil</string>
+	<key>transformerTint</key>
+	<string>convertFeature</string>
+</dict>
+</plist>

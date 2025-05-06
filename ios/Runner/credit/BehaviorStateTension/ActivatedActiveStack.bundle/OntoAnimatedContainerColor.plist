@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowview</key>
+	<string>shouldserializeclipper</string>
+	<key>hyperbolicDetector</key>
+	<string>encapsulateAlignment</string>
+	<key>materializerSkewY</key>
+	<string>parseLoss</string>
+	<key>mobileInteraction</key>
+	<string>pendingConstraint</string>
+	<key>movementLeft</key>
+	<string>tentativeScale</string>
+	<key>primaryDelivery</key>
+	<string>deserializePosition</string>
+	<key>shouldpresentgradient</key>
+	<string>mediumStorage</string>
+</dict>
+</plist>

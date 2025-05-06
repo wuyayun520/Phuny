@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelshape</key>
+	<string>requiredCapsule</string>
+	<key>hardInjection</key>
+	<string>canRebuildChannels</string>
+	<key>robustComponent</key>
+	<string>defaultPlayback</string>
+	<key>shouldEmitConsumer</key>
+	<string>mainmodulus</string>
+</dict>
+</plist>

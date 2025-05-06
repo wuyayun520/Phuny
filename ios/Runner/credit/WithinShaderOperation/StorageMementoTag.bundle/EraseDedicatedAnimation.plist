@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleRouter</key>
+	<string>mediumElement</string>
+	<key>defaultUnary</key>
+	<string>objectDelay</string>
+	<key>freelayer</key>
+	<string>pageviewAppearance</string>
+	<key>notifierorigin</key>
+	<string>litePageView</string>
+	<key>shouldDetachBaseline</key>
+	<string>uniquecolumnflags</string>
+	<key>shouldPushMusic</key>
+	<string>discoverCompleter</string>
+	<key>smartStrength</key>
+	<string>captionviastate</string>
+</dict>
+</plist>

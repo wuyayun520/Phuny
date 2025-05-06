@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customOccasion</key>
+	<string>shouldObserveTouch</string>
+	<key>displayablePlayback</key>
+	<string>limitListener</string>
+	<key>errorSaturation</key>
+	<string>restoreDuration</string>
+	<key>factoryamongmediator</key>
+	<string>handlePoint</string>
+	<key>materialDetail</key>
+	<string>unmountedchannel</string>
+	<key>optionFlags</key>
+	<string>usedNotation</string>
+	<key>selectedmap</key>
+	<string>multiAudio</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoScene</key>
+	<string>shaderStyle</string>
+	<key>futureallocator</key>
+	<string>shouldTransitionDescriptor</string>
+	<key>immutableInfo</key>
+	<string>stateRate</string>
+	<key>pickerFeedback</key>
+	<string>unlockDelegate</string>
+	<key>reactiveTicker</key>
+	<string>beginnerTransition</string>
+	<key>requestanimator</key>
+	<string>projectParam</string>
+	<key>segueScale</key>
+	<string>canDisposeMomentum</string>
+	<key>shouldSerializeBitrate</key>
+	<string>cupertinoSizedBox</string>
+	<key>textfieldVisibility</key>
+	<string>remediationOrientation</string>
+	<key>timerbuffervalidation</key>
+	<string>consultativeDetail</string>
+</dict>
+</plist>

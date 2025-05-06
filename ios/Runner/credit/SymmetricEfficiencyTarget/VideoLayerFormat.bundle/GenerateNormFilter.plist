@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatemomentum</key>
+	<string>cellKind</string>
+	<key>comprehensiveEqualization</key>
+	<string>pageviewPhase</string>
+	<key>displayablezonefrequency</key>
+	<string>smallTraversal</string>
+	<key>mobileScroller</key>
+	<string>shouldDispatchInstruction</string>
+	<key>reusableBase</key>
+	<string>persistentMap</string>
+	<key>robustConverter</key>
+	<string>metricsTail</string>
+	<key>skirtSkewY</key>
+	<string>renderCosine</string>
+	<key>trajectoryDelay</key>
+	<string>keepWidget</string>
+</dict>
+</plist>

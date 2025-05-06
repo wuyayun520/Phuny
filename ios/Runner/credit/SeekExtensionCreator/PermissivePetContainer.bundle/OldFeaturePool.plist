@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveInformation</key>
+	<string>disposeGem</string>
+	<key>notificationTail</key>
+	<string>cleanButton</string>
+	<key>shouldSaveSpine</key>
+	<string>secondUnary</string>
+	<key>shouldcancelreduction</key>
+	<string>rebuildOverlay</string>
+	<key>smartInkWell</key>
+	<string>exceptionAction</string>
+	<key>tappableLocalization</key>
+	<string>shouldMountMediaQuery</string>
+</dict>
+</plist>

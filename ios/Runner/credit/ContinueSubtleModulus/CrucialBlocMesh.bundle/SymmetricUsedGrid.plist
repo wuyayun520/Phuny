@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsTint</key>
+	<string>alphatag</string>
+	<key>frameflyweighttransparency</key>
+	<string>overrideAlignment</string>
+	<key>graphicState</key>
+	<string>activeUseCase</string>
+	<key>gridfromcycle</key>
+	<string>heapProxy</string>
+	<key>immutableCombiner</key>
+	<string>equalizationState</string>
+	<key>presentfactory</key>
+	<string>declarativeSearcher</string>
+	<key>shouldNavigateImage</key>
+	<string>multiplicationScale</string>
+	<key>shouldSubscribeMap</key>
+	<string>animateLayer</string>
+	<key>tappableManager</key>
+	<string>blocright</string>
+	<key>uniqueLayer</key>
+	<string>declarativeCompletion</string>
+</dict>
+</plist>

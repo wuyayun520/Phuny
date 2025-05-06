@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeOperation</key>
+	<string>mainalertscale</string>
+	<key>difficultPromise</key>
+	<string>consultativetoolvisibility</string>
+	<key>eventpadding</key>
+	<string>ignoredTime</string>
+	<key>gridviewbuilder</key>
+	<string>isicon</string>
+	<key>operationShade</key>
+	<string>animationChain</string>
+	<key>pickersaturation</key>
+	<string>lastmanager</string>
+	<key>shouldPauseBorder</key>
+	<string>canBuildAppBar</string>
+</dict>
+</plist>

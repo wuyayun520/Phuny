@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionCustomPaint</key>
+	<string>overlayFunction</string>
+	<key>associatedInformation</key>
+	<string>transitionAxis</string>
+	<key>bandwidthCoord</key>
+	<string>resilientLoss</string>
+	<key>fragmentIndex</key>
+	<string>subsequentAxis</string>
+	<key>fragmentforce</key>
+	<string>shouldResumeBorder</string>
+	<key>profilepadding</key>
+	<string>canPublishAccessory</string>
+	<key>shouldParseRow</key>
+	<string>basicAscent</string>
+	<key>shouldPushCharacter</key>
+	<string>consumeZone</string>
+	<key>shouldRouteSwift</key>
+	<string>membervisible</string>
+	<key>usedNotification</key>
+	<string>shouldReplaceMatrix</string>
+</dict>
+</plist>

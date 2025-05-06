@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanClipper</key>
+	<string>alphaSkewX</string>
+	<key>multiplicationaction</key>
+	<string>movementMargin</string>
+	<key>radiothroughput</key>
+	<string>dialogsnavigator</string>
+	<key>schemaMode</key>
+	<string>shouldRouteSwitch</string>
+	<key>segmentsink</key>
+	<string>visibleProvider</string>
+	<key>traversalBehavior</key>
+	<string>asyncIndex</string>
+	<key>uniquenotification</key>
+	<string>indicatorTail</string>
+</dict>
+</plist>

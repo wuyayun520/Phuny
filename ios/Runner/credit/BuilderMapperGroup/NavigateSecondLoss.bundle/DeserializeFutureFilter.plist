@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishsine</key>
+	<string>axismargin</string>
+	<key>layoutduringproxy</key>
+	<string>enddocument</string>
+	<key>mutableQuaternion</key>
+	<string>disabledconstraint</string>
+	<key>pushvector</key>
+	<string>searchasset</string>
+	<key>shouldvalidateview</key>
+	<string>storeListener</string>
+</dict>
+</plist>

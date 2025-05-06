@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableAnimatedContainer</key>
+	<string>fixedGesture</string>
+	<key>latencybehavior</key>
+	<string>standaloneSubpixel</string>
+	<key>scenecontrast</key>
+	<string>canAttachPoint</string>
+	<key>secondBandwidth</key>
+	<string>canRestartExponent</string>
+	<key>shouldMountedCard</key>
+	<string>completionlikechain</string>
+</dict>
+</plist>

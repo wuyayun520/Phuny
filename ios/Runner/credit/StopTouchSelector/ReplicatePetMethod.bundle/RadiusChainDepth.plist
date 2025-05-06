@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyEvent</key>
+	<string>subscriptionAdapter</string>
+	<key>durationmode</key>
+	<string>animateLoop</string>
+	<key>providerexceptdecorator</key>
+	<string>denseDescent</string>
+	<key>shouldTrainAccessory</key>
+	<string>pinchableModal</string>
+	<key>significantStack</key>
+	<string>permanentLocalization</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedQuaternion</key>
+	<string>builderLevel</string>
+	<key>alphareducer</key>
+	<string>displayablesampleindex</string>
+	<key>documentOrigin</key>
+	<string>canShowSpine</string>
+	<key>globalAnalyzer</key>
+	<string>newestbulletdirection</string>
+	<key>requiredTimeline</key>
+	<string>tappableProjection</string>
+	<key>respectiveGestureDetector</key>
+	<string>delegateComposite</string>
+	<key>sharedCupertino</key>
+	<string>canSaveTangent</string>
+	<key>shouldPopNib</key>
+	<string>debugBuffer</string>
+	<key>splitterspeed</key>
+	<string>logarithmParameter</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoManager</key>
+	<string>sophisticatedprovider</string>
+	<key>durationMargin</key>
+	<string>mediocreTime</string>
+	<key>inactiveReduction</key>
+	<string>spriterotation</string>
+	<key>intuitiveAction</key>
+	<string>missedCharacter</string>
+	<key>permissiveTrajectory</key>
+	<string>requiredInformation</string>
+	<key>routeType</key>
+	<string>shouldStreamGram</string>
+	<key>signaturedescription</key>
+	<string>mediocreInfo</string>
+	<key>stampconsumption</key>
+	<string>completionDuration</string>
+	<key>typicalimpression</key>
+	<string>nextExtension</string>
+</dict>
+</plist>

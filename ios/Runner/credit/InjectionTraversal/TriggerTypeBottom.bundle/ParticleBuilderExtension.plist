@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equalizationvarmargin</key>
+	<string>missedChecklist</string>
+	<key>geometricVolume</key>
+	<string>setupRequest</string>
+	<key>isolateevaluation</key>
+	<string>canPresentMaster</string>
+	<key>prismaticInteger</key>
+	<string>reductionOperation</string>
+	<key>segueFeedback</key>
+	<string>pivotalDetector</string>
+	<key>shaderSkewY</key>
+	<string>measureController</string>
+	<key>tentativesaturation</key>
+	<string>resourcevisibility</string>
+	<key>unsortedcontroller</key>
+	<string>rowedge</string>
+</dict>
+</plist>

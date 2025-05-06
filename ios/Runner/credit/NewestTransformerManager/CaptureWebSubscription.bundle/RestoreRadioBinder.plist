@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionmatrix</key>
+	<string>euclideanEvaluation</string>
+	<key>coordinatorcharacteristic</key>
+	<string>sensorFramework</string>
+	<key>directLayer</key>
+	<string>buffernumbervisible</string>
+	<key>ephemeralAnalyzer</key>
+	<string>referencePrototype</string>
+	<key>geometricNotifier</key>
+	<string>adaptiveStore</string>
+	<key>inactiveSplitter</key>
+	<string>shouldDismissSizedBox</string>
+	<key>prevRichText</key>
+	<string>seamlessDialogs</string>
+	<key>previewBrightness</key>
+	<string>createlocalization</string>
+	<key>shouldFormatMusic</key>
+	<string>currentcube</string>
+	<key>smartMonster</key>
+	<string>singleOffset</string>
+</dict>
+</plist>

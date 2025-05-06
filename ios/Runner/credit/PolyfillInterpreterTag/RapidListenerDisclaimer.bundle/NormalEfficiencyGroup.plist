@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoImage</key>
+	<string>finderMode</string>
+	<key>fusedinfo</key>
+	<string>newestListView</string>
+	<key>numericalGesture</key>
+	<string>removeTitle</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>globalCycle</key>
+	<string>immediateLoop</string>
+	<key>hardQueue</key>
+	<string>responseShade</string>
+	<key>holdvector</key>
+	<string>notificationStructure</string>
+	<key>persistentEmitter</key>
+	<string>intermediateAscent</string>
+	<key>pinchableTitle</key>
+	<string>adjustTitle</string>
+	<key>singletonTheme</key>
+	<string>ignoredCombiner</string>
+	<key>standaloneTable</key>
+	<string>arithmeticTween</string>
+</dict>
+</plist>

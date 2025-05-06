@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistName</key>
+	<string>factoryorcommand</string>
+	<key>customizedGate</key>
+	<string>constraintLeft</string>
+	<key>deferredEvaluation</key>
+	<string>sizeSkewX</string>
+	<key>elasticTimeline</key>
+	<string>globalAscent</string>
+	<key>geometricReliability</key>
+	<string>hierarchicalElement</string>
+	<key>nextmechanism</key>
+	<string>dispatcherBehavior</string>
+	<key>protectedPadding</key>
+	<string>relationalShape</string>
+	<key>sceneState</key>
+	<string>liteCombiner</string>
+	<key>specifyBorder</key>
+	<string>canYieldVariant</string>
+</dict>
+</plist>

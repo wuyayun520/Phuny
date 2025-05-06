@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardinteractor</key>
+	<string>shouldMountCapacities</string>
+	<key>descriptorobserver</key>
+	<string>fragmentValue</string>
+	<key>lostCupertino</key>
+	<string>transitionMaterial</string>
+	<key>notificationState</key>
+	<string>shouldUnbindHistogram</string>
+	<key>prioritystatus</key>
+	<string>nodeSingleton</string>
+	<key>specifyPermutation</key>
+	<string>drawGrid</string>
+</dict>
+</plist>

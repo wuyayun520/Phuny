@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsMomentum</key>
+	<string>shouldPauseStateful</string>
+	<key>immutablepointtail</key>
+	<string>partitionResult</string>
+	<key>lazyWorkflow</key>
+	<string>specifierconnector</string>
+	<key>prevTweak</key>
+	<string>currentFlex</string>
+	<key>priorspecifiervalidation</key>
+	<string>subscribeScroll</string>
+	<key>shouldStartCaption</key>
+	<string>zonetaskstate</string>
+	<key>tensorHistogram</key>
+	<string>fixedGestureDetector</string>
+</dict>
+</plist>

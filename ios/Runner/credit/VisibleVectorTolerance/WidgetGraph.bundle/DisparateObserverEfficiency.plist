@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>confidentialitymode</key>
+	<string>routeChallenge</string>
+	<key>immediatePositioned</key>
+	<string>shouldNavigateFlex</string>
+	<key>latencyDelay</key>
+	<string>parallelIsolate</string>
+	<key>mainBandwidth</key>
+	<string>capacitiesProxy</string>
+	<key>mediocreReduction</key>
+	<string>limitsignature</string>
+	<key>parallelObject</key>
+	<string>numericalCompletion</string>
+	<key>resilientChallenge</key>
+	<string>shouldunmountnavigator</string>
+	<key>scrollName</key>
+	<string>subpixelTheme</string>
+	<key>timeMode</key>
+	<string>losschooser</string>
+</dict>
+</plist>

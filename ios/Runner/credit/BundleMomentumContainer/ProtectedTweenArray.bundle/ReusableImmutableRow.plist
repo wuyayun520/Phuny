@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hasCollection</key>
+	<string>canNavigateGridView</string>
+	<key>resultLeft</key>
+	<string>unbindRemainder</string>
+	<key>schemaInset</key>
+	<string>handleCell</string>
+	<key>selectorlocation</key>
+	<string>popupAction</string>
+	<key>tappablemetrics</key>
+	<string>statusCenter</string>
+</dict>
+</plist>

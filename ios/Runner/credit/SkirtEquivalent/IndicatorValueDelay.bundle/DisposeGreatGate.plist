@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertOrigin</key>
+	<string>convolutiontween</string>
+	<key>difficultIsolate</key>
+	<string>independentObserver</string>
+	<key>independentNorm</key>
+	<string>persistKernel</string>
+	<key>localLoader</key>
+	<string>quantizerLocalization</string>
+	<key>responsiveProgressBar</key>
+	<string>desktopCanvas</string>
+	<key>robustScale</key>
+	<string>extensionTail</string>
+	<key>shouldPresentIcon</key>
+	<string>minText</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>largerequest</key>
+	<string>shouldLayoutGate</string>
+	<key>localconnector</key>
+	<string>visibleFlex</string>
+	<key>multiMaterializer</key>
+	<string>nativeData</string>
+	<key>mutableConnector</key>
+	<string>canNotifySine</string>
+	<key>resilienceFrequency</key>
+	<string>popTernary</string>
+	<key>shouldPushView</key>
+	<string>aggregatestream</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentElement</key>
+	<string>criticalDecoration</string>
+	<key>directSearcher</key>
+	<string>canYieldOption</string>
+	<key>dynamicMaterializer</key>
+	<string>profileFlags</string>
+	<key>gradientOrigin</key>
+	<string>cellmethod</string>
+	<key>hierarchicalMaterializer</key>
+	<string>transitionAnimatedContainer</string>
+	<key>materialclipper</key>
+	<string>detectorFlags</string>
+	<key>throughputColor</key>
+	<string>capsuleDuration</string>
+</dict>
+</plist>

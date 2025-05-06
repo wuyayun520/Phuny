@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedfeature</key>
+	<string>detachPresenter</string>
+	<key>decouplesine</key>
+	<string>presentMediaQuery</string>
+	<key>explicitController</key>
+	<string>compositionalGraphic</string>
+	<key>hyperbolicTabBar</key>
+	<string>protectednavigation</string>
+	<key>inactiveDelegate</key>
+	<string>certificatehead</string>
+	<key>multicontroller</key>
+	<string>ontextfieldchanged</string>
+	<key>navigatorSaturation</key>
+	<string>zonetransparency</string>
+	<key>shouldRouteCycle</key>
+	<string>extensionMemento</string>
+	<key>shouldskipmomentum</key>
+	<string>resolveBuffer</string>
+</dict>
+</plist>

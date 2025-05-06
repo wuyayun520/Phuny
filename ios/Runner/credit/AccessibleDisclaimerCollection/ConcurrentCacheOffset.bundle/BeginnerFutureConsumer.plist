@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curvealongwork</key>
+	<string>animatedRow</string>
+	<key>factoryuntillayer</key>
+	<string>subtleProvider</string>
+	<key>hardstate</key>
+	<string>sortedLog</string>
+	<key>liteNotifier</key>
+	<string>directwidget</string>
+	<key>persistnavigator</key>
+	<string>notificationDecorator</string>
+	<key>relationalTicker</key>
+	<string>seamlessTable</string>
+</dict>
+</plist>

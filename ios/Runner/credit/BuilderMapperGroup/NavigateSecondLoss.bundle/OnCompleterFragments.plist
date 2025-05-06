@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncoffset</key>
+	<string>serializeSignature</string>
+	<key>nativeLatency</key>
+	<string>accessoryPattern</string>
+	<key>opaqueQuaternion</key>
+	<string>staticTabView</string>
+	<key>pivotalLifecycle</key>
+	<string>refreshState</string>
+	<key>shouldFetchMargin</key>
+	<string>renderExponent</string>
+	<key>typicalConnector</key>
+	<string>columncompositecontrast</string>
+</dict>
+</plist>

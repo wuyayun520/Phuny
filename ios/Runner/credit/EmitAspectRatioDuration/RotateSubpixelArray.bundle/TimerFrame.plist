@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopmethod</key>
+	<string>drawerimpression</string>
+	<key>mainRenderer</key>
+	<string>adaptiveInstruction</string>
+	<key>prevProvider</key>
+	<string>equalSize</string>
+	<key>shouldNavigateCycle</key>
+	<string>litePainter</string>
+	<key>statelessRate</key>
+	<string>decodepainter</string>
+</dict>
+</plist>

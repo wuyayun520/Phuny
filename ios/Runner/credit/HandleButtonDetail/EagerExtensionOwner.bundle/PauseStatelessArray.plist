@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueconvolution</key>
+	<string>geometricCallback</string>
+	<key>mendinset</key>
+	<string>canDispatchShader</string>
+	<key>projectionprocessalignment</key>
+	<string>interactorInteraction</string>
+	<key>subpixelHue</key>
+	<string>sustainableparticlebottom</string>
+	<key>sustainableTimeline</key>
+	<string>canShowGraphic</string>
+	<key>usedZone</key>
+	<string>significantInkWell</string>
+</dict>
+</plist>

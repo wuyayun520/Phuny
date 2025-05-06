@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperSkewX</key>
+	<string>shouldResumeBase</string>
+	<key>disparateconnector</key>
+	<string>staticHistogram</string>
+	<key>firstGraph</key>
+	<string>opaqueCombiner</string>
+	<key>imageBrightness</key>
+	<string>defaultCompletion</string>
+	<key>intermediateColumn</key>
+	<string>repositoryright</string>
+	<key>layoutShape</key>
+	<string>alertconstraint</string>
+	<key>operationtag</key>
+	<string>handleEffect</string>
+	<key>primaryTransformer</key>
+	<string>completerOrigin</string>
+	<key>shouldDeserializeNotifier</key>
+	<string>unmarshalRepository</string>
+</dict>
+</plist>

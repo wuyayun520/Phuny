@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardChecklist</key>
+	<string>calculateStream</string>
+	<key>directQuaternion</key>
+	<string>endAppBar</string>
+	<key>dynamicText</key>
+	<string>composableShader</string>
+	<key>shouldkeepplate</key>
+	<string>diffableInformation</string>
+</dict>
+</plist>

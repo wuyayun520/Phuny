@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directStatus</key>
+	<string>fixedScreen</string>
+	<key>enabledGridView</key>
+	<string>adaptiveOffset</string>
+	<key>indicatorviamediator</key>
+	<string>shouldInflateMember</string>
+	<key>linkerBrightness</key>
+	<string>desktopButton</string>
+</dict>
+</plist>

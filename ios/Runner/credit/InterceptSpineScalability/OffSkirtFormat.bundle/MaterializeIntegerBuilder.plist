@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerFeedback</key>
+	<string>originalVideo</string>
+	<key>arithmeticActivity</key>
+	<string>numericaltransitiondistance</string>
+	<key>concurrentMusic</key>
+	<string>reusableSizedBox</string>
+	<key>criticalGroup</key>
+	<string>immutableEffect</string>
+	<key>cubechannel</key>
+	<string>unmountedBase</string>
+	<key>directlyScroller</key>
+	<string>draggableNavigator</string>
+	<key>precisionbesideproxy</key>
+	<string>actionHead</string>
+	<key>shouldPaintProfile</key>
+	<string>descentspeed</string>
+	<key>tweenHead</key>
+	<string>nextUtil</string>
+</dict>
+</plist>

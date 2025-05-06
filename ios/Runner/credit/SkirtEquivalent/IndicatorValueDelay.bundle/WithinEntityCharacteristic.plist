@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleLabel</key>
+	<string>canFormatAppBar</string>
+	<key>crucialallocatortop</key>
+	<string>layoutOpacity</string>
+	<key>euclideanswitchstate</key>
+	<string>channelsTier</string>
+	<key>granularDelegate</key>
+	<string>creatorInteraction</string>
+	<key>lazyRect</key>
+	<string>tappablechart</string>
+	<key>shouldEndChallenge</key>
+	<string>buildAlpha</string>
+</dict>
+</plist>

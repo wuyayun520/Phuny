@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exceptionDelay</key>
+	<string>numericalTouch</string>
+	<key>lazyFragments</key>
+	<string>shouldKeepStoryboard</string>
+	<key>resourceShade</key>
+	<string>processsensor</string>
+	<key>shouldParseBatch</key>
+	<string>projectionVar</string>
+	<key>subtletolerance</key>
+	<string>routeStructure</string>
+	<key>throughputColor</key>
+	<string>radiusshader</string>
+</dict>
+</plist>

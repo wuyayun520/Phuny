@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedWidget</key>
+	<string>basicPositioned</string>
+	<key>defaultcheckbox</key>
+	<string>updatePromise</string>
+	<key>dependencybuffersize</key>
+	<string>replicaAppearance</string>
+	<key>painterMargin</key>
+	<string>shouldStartExpanded</string>
+	<key>projectionformformat</key>
+	<string>touchDependency</string>
+	<key>shouldContinueGate</key>
+	<string>shouldsubscribecustompaint</string>
+	<key>sorterHead</key>
+	<string>opaqueQueue</string>
+	<key>storeworkfrequency</key>
+	<string>shouldEndExpanded</string>
+	<key>storyboardshape</key>
+	<string>canDetachArithmetic</string>
+	<key>sustainableCompletion</key>
+	<string>combinerPadding</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxBehavior</key>
+	<string>petTop</string>
+	<key>discardedSign</key>
+	<string>cupertinograph</string>
+	<key>intuitiveAwait</key>
+	<string>mountedDecoration</string>
+	<key>permissiveMedia</key>
+	<string>compositionalChecklist</string>
+	<key>reactiveAlpha</key>
+	<string>basicCapsule</string>
+	<key>shouldDeserializeSymbol</key>
+	<string>enumerateListener</string>
+	<key>synchronousProcessor</key>
+	<string>capsulemethod</string>
+</dict>
+</plist>

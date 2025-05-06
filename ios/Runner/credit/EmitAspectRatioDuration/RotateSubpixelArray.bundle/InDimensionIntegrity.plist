@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curvevertex</key>
+	<string>customArithmetic</string>
+	<key>eagersliderhead</key>
+	<string>subscribeTool</string>
+	<key>greatnavigatorlocation</key>
+	<string>mediocreOption</string>
+	<key>mediaState</key>
+	<string>adaptiveBaseline</string>
+	<key>shouldDisconnectChallenge</key>
+	<string>paddingstyle</string>
+	<key>shouldUnbindUnary</key>
+	<string>materialResponder</string>
+	<key>sophisticatedConnector</key>
+	<string>shouldStreamEqualization</string>
+	<key>staticBuffer</key>
+	<string>nextCapacities</string>
+	<key>usageTransparency</key>
+	<string>clearObserver</string>
+</dict>
+</plist>

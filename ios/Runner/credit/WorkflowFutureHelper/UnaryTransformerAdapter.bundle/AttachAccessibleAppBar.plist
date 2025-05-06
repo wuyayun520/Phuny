@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalMetadata</key>
+	<string>parallelTheme</string>
+	<key>delicateTable</key>
+	<string>wrapperCount</string>
+	<key>disabledFinder</key>
+	<string>popModulus</string>
+	<key>inkwellBottom</key>
+	<string>notificationContext</string>
+	<key>interpolationbufferstate</key>
+	<string>annotateText</string>
+	<key>layoutprototypestyle</key>
+	<string>delegateMargin</string>
+	<key>otherhandler</key>
+	<string>futurename</string>
+	<key>shouldEmitSubpixel</key>
+	<string>promiseStrategy</string>
+	<key>shouldLayoutSpecifier</key>
+	<string>canResumeSegment</string>
+	<key>singleconfigurationfrequency</key>
+	<string>shouldtransitionmap</string>
+</dict>
+</plist>

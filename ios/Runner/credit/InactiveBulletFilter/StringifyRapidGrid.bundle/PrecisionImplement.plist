@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatemobile</key>
+	<string>canRestartSign</string>
+	<key>flexSaturation</key>
+	<string>discardedBaseline</string>
+	<key>granularPreview</key>
+	<string>backwardSound</string>
+	<key>isPriority</key>
+	<string>coordinatorStyle</string>
+	<key>mobileTween</key>
+	<string>shouldDeserializeConsumer</string>
+	<key>occasionAppearance</key>
+	<string>channelsVisible</string>
+	<key>viewlikefunction</key>
+	<string>viewVar</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalMultiplication</key>
+	<string>entityMemento</string>
+	<key>defaultGram</key>
+	<string>consumeParticle</string>
+	<key>desktopInfo</key>
+	<string>usedPosition</string>
+	<key>gridflyweightflags</key>
+	<string>dedicatedcreator</string>
+	<key>otherAsset</key>
+	<string>heroInteraction</string>
+	<key>persistentSpine</key>
+	<string>crudeCubit</string>
+	<key>reducerStyle</key>
+	<string>isCanvas</string>
+	<key>resilienceSpeed</key>
+	<string>dataVisible</string>
+	<key>sophisticatedTernary</key>
+	<string>pushCapacities</string>
+</dict>
+</plist>

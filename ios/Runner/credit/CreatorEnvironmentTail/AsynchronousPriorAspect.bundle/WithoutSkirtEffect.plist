@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeRadius</key>
+	<string>shouldStreamMap</string>
+	<key>backwardInjection</key>
+	<string>mapAppearance</string>
+	<key>gembeyondjob</key>
+	<string>navigatorchannel</string>
+	<key>shouldDismissProfile</key>
+	<string>defaultnavigation</string>
+	<key>shouldEndProtocol</key>
+	<string>canConnectPadding</string>
+	<key>shoulddecodepositioned</key>
+	<string>responselayerborder</string>
+	<key>timermomentum</key>
+	<string>cosineAppearance</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colorBrightness</key>
+	<string>drawBloc</string>
+	<key>declarativeTransformer</key>
+	<string>adaptivePlate</string>
+	<key>immediateNotification</key>
+	<string>rebuildInterpolation</string>
+	<key>observeroccasion</key>
+	<string>augmentAction</string>
+	<key>shouldEndBehavior</key>
+	<string>notationPosition</string>
+	<key>shouldrenderradio</key>
+	<string>explicitSkirt</string>
+	<key>smartRenderer</key>
+	<string>flexVar</string>
+	<key>sophisticatedStroke</key>
+	<string>serializeParticle</string>
+	<key>visibleMaterializer</key>
+	<string>concurrentResponse</string>
+</dict>
+</plist>

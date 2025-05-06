@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoVector</key>
+	<string>touchtint</string>
+	<key>futureMode</key>
+	<string>shouldListenCursor</string>
+	<key>hasBorder</key>
+	<string>canNavigateAxis</string>
+	<key>mobileIntegrity</key>
+	<string>completiontime</string>
+	<key>nativeMend</key>
+	<string>priorLoss</string>
+	<key>notationSize</key>
+	<string>denseModulus</string>
+	<key>otherFrame</key>
+	<string>canStartCell</string>
+	<key>shouldDispatchComposition</key>
+	<string>streamIndex</string>
+</dict>
+</plist>

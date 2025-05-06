@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedDialogs</key>
+	<string>regulateRequest</string>
+	<key>eagerPriority</key>
+	<string>baselineWork</string>
+	<key>globalEvaluation</key>
+	<string>pointallocator</string>
+	<key>histogramBound</key>
+	<string>shouldCancelHistogram</string>
+	<key>imagecallback</key>
+	<string>appendDependency</string>
+	<key>normallocalization</key>
+	<string>configureHash</string>
+	<key>optimizerawaykind</key>
+	<string>sinkframe</string>
+	<key>shouldtraintextfield</key>
+	<string>tickerInteraction</string>
+</dict>
+</plist>

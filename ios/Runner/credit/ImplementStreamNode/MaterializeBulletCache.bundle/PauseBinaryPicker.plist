@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adjustflex</key>
+	<string>shouldRestartReduction</string>
+	<key>backwardCharacter</key>
+	<string>firstQuaternion</string>
+	<key>completerFlags</key>
+	<string>shouldTrainTool</string>
+	<key>currentplayback</key>
+	<string>maxFuture</string>
+	<key>pinchableTween</key>
+	<string>dispatcherAppearance</string>
+	<key>shouldResumeSpot</key>
+	<string>lastStateful</string>
+	<key>similarelasticity</key>
+	<string>interpolationFunction</string>
+	<key>substantialDescent</key>
+	<string>hashName</string>
+	<key>timelineCount</key>
+	<string>greatPadding</string>
+</dict>
+</plist>

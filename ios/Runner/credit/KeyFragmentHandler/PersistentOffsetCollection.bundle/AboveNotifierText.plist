@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeSegue</key>
+	<string>attachLabel</string>
+	<key>entitylevelshape</key>
+	<string>deserializeswitch</string>
+	<key>immutableprogressbar</key>
+	<string>ephemeralConsumption</string>
+	<key>observervideo</key>
+	<string>binaryworkorientation</string>
+	<key>oldSizedBox</key>
+	<string>shouldPresentContainer</string>
+</dict>
+</plist>

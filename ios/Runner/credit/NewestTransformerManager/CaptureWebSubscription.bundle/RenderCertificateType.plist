@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectPressure</key>
+	<string>pinchableInfo</string>
+	<key>binderTag</key>
+	<string>grayscaleRight</string>
+	<key>crucialGrayscale</key>
+	<string>draggablezoneflags</string>
+	<key>handlerStatus</key>
+	<string>cosineSkewX</string>
+	<key>scalebutton</key>
+	<string>scrollableDrawer</string>
+	<key>subtleSkin</key>
+	<string>projectmementointeraction</string>
+	<key>viewcoord</key>
+	<string>missedStatus</string>
+</dict>
+</plist>

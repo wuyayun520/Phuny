@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binderInset</key>
+	<string>positionedprogressbar</string>
+	<key>charactermanager</key>
+	<string>shouldConnectNotification</string>
+	<key>composableCubit</key>
+	<string>radioSpeed</string>
+	<key>concurrentVector</key>
+	<string>efficiencyFlags</string>
+	<key>flexibleAsync</key>
+	<string>durationRate</string>
+	<key>mutableconfigurationstatus</key>
+	<string>batchChain</string>
+	<key>shouldCreateTransition</key>
+	<string>hardGraphic</string>
+	<key>sizedboxInset</key>
+	<string>shouldFinishActivity</string>
+</dict>
+</plist>

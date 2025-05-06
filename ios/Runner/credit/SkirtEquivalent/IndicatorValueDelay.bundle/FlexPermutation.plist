@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalModel</key>
+	<string>appbarbesideaction</string>
+	<key>greatDuration</key>
+	<string>subtleAlpha</string>
+	<key>itemorientation</key>
+	<string>canPresentSymbol</string>
+	<key>masterchart</key>
+	<string>mountBinary</string>
+	<key>resultperlevel</key>
+	<string>refactorcharacter</string>
+	<key>symmetricmobileappearance</key>
+	<string>geometricTabBar</string>
+</dict>
+</plist>

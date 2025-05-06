@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>linkerEdge</key>
+	<string>intuitiveActivity</string>
+	<key>scrollableLocalization</key>
+	<string>animatedcontainerreplica</string>
+	<key>shouldFormatGate</key>
+	<string>cupertinoSwift</string>
+	<key>visibleChannels</key>
+	<string>canRestartInterpolation</string>
+</dict>
+</plist>

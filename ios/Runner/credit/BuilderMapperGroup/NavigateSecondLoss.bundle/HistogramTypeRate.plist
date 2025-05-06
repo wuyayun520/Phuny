@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denselistenerlocation</key>
+	<string>literesponse</string>
+	<key>layoutskewy</key>
+	<string>shouldSetStateBaseline</string>
+	<key>visibleMember</key>
+	<string>retrieveSprite</string>
+</dict>
+</plist>

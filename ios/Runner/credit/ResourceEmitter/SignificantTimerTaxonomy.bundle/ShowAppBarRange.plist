@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicReducer</key>
+	<string>uniqueWrapper</string>
+	<key>hierarchicalResilience</key>
+	<string>canPersistMediaQuery</string>
+	<key>kernelRight</key>
+	<string>canFormatCustomPaint</string>
+	<key>listenerHead</key>
+	<string>shouldTransitionMovement</string>
+	<key>pinchablemechanism</key>
+	<string>managerInteraction</string>
+	<key>shouldUpdateSensor</key>
+	<string>transformPainter</string>
+	<key>transformhash</key>
+	<string>upgradeConstraint</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleBloc</key>
+	<string>appendResource</string>
+	<key>futuremodel</key>
+	<string>overrideLabel</string>
+	<key>inheritedCapacity</key>
+	<string>textMediator</string>
+	<key>masterDensity</key>
+	<string>alignmentRotation</string>
+	<key>onshaderchanged</key>
+	<string>crudedependency</string>
+	<key>pinchableLatency</key>
+	<string>sliderBound</string>
+	<key>primarypaddingvisible</key>
+	<string>cartesianText</string>
+</dict>
+</plist>

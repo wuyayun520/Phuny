@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAlignment</key>
+	<string>asynchronousTaxonomy</string>
+	<key>compositionalbaseacceleration</key>
+	<string>requestprocessspacing</string>
+	<key>infoDepth</key>
+	<string>crudeCosine</string>
+	<key>previewworktail</key>
+	<string>addCompleter</string>
+	<key>providerascent</key>
+	<string>polygonFeedback</string>
+	<key>scrollablePopup</key>
+	<string>diffableviewdepth</string>
+	<key>shouldNavigateCheckbox</key>
+	<string>inheritedScene</string>
+	<key>swiftBrightness</key>
+	<string>loadpopup</string>
+	<key>unactivatedexception</key>
+	<string>signOperation</string>
+</dict>
+</plist>

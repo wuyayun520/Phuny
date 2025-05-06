@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelreducer</key>
+	<string>shouldSaveGesture</string>
+	<key>completeramongvalue</key>
+	<string>geometricChooser</string>
+	<key>hardResilience</key>
+	<string>optionSaturation</string>
+	<key>largeProtocol</key>
+	<string>currentalpha</string>
+	<key>matrixFlags</key>
+	<string>gatePadding</string>
+	<key>smallBandwidth</key>
+	<string>associatedTouch</string>
+	<key>usedKernel</key>
+	<string>parseOperation</string>
+</dict>
+</plist>

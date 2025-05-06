@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptorCount</key>
+	<string>activeBandwidth</string>
+	<key>eagerTexture</key>
+	<string>serializeMediaQuery</string>
+	<key>hierarchicalAnimatedContainer</key>
+	<string>deactivateSprite</string>
+	<key>hierarchicalRange</key>
+	<string>thresholdFrequency</string>
+	<key>temporarySplitter</key>
+	<string>modalName</string>
+	<key>unsortedHeap</key>
+	<string>responsiveStrength</string>
+</dict>
+</plist>

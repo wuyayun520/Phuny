@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatereduction</key>
+	<string>mediumRange</string>
+	<key>marginSaturation</key>
+	<string>dialogsOrientation</string>
+	<key>shouldEmitSizedBox</key>
+	<string>denseConverter</string>
+	<key>sineKind</key>
+	<string>textfieldShade</string>
+</dict>
+</plist>

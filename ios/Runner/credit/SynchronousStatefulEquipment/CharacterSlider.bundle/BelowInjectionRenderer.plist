@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentBrightness</key>
+	<string>multiplyRadius</string>
+	<key>cubelocation</key>
+	<string>factorystagedelay</string>
+	<key>rectoutsidestage</key>
+	<string>dependencyOpacity</string>
+	<key>shouldMountedInteger</key>
+	<string>timerTension</string>
+	<key>stepScale</key>
+	<string>logAction</string>
+</dict>
+</plist>

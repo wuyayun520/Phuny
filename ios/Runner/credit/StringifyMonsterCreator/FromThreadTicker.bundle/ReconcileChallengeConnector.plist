@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>efficiencyMode</key>
+	<string>geometricgrainvalidation</string>
+	<key>interactionHead</key>
+	<string>encodeZone</string>
+	<key>meshFlags</key>
+	<string>movementInterpreter</string>
+	<key>visitcoordinator</key>
+	<string>clipHandler</string>
+</dict>
+</plist>

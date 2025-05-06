@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dataTail</key>
+	<string>connectbehavior</string>
+	<key>eventtransparency</key>
+	<string>pauseSpot</string>
+	<key>evolutionOrigin</key>
+	<string>interactorCommand</string>
+	<key>futuretemplevisible</key>
+	<string>currentmodelstate</string>
+	<key>materialTheme</key>
+	<string>nativeCoordinator</string>
+	<key>missedCompletion</key>
+	<string>tappableTernary</string>
+	<key>resilientOffset</key>
+	<string>functionalhandlerskewy</string>
+	<key>shouldTransitionAxis</key>
+	<string>shouldNotifyCertificate</string>
+	<key>soundBehavior</key>
+	<string>labelOffset</string>
+</dict>
+</plist>

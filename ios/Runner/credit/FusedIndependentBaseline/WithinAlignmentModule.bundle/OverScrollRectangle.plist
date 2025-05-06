@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelBound</key>
+	<string>touchmetadata</string>
+	<key>channelsVisible</key>
+	<string>clipperreducer</string>
+	<key>lostTangent</key>
+	<string>flexibleBitrate</string>
+	<key>shouldProcessTouch</key>
+	<string>webRadio</string>
+	<key>shouldTransitionScreen</key>
+	<string>shouldTransitionDescriptor</string>
+	<key>significantWidget</key>
+	<string>semanticLatency</string>
+	<key>staticPet</key>
+	<string>comprehensiveAsset</string>
+</dict>
+</plist>

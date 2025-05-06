@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeChannel</key>
+	<string>canSetStateCursor</string>
+	<key>disabledAsync</key>
+	<string>persistentmenuspeed</string>
+	<key>geometricEvent</key>
+	<string>smallconfigurationvalidation</string>
+	<key>histogramcenter</key>
+	<string>shouldPrepareConsumer</string>
+	<key>imperativeTweak</key>
+	<string>descriptionContrast</string>
+	<key>methodstate</key>
+	<string>precisionTemple</string>
+	<key>mobileInformation</key>
+	<string>divideCallback</string>
+	<key>providerAppearance</key>
+	<string>shouldPauseText</string>
+	<key>robustColor</key>
+	<string>keepUnary</string>
+</dict>
+</plist>

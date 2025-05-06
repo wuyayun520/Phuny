@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cachefactory</key>
+	<string>shouldBuildBinary</string>
+	<key>controllerVisibility</key>
+	<string>denseLatency</string>
+	<key>creatorPadding</key>
+	<string>rectangleBorder</string>
+	<key>directMission</key>
+	<string>custompaintbottom</string>
+	<key>granularSign</key>
+	<string>localizationHead</string>
+	<key>inactiveFrame</key>
+	<string>shouldTrainSpecifier</string>
+	<key>mediocreException</key>
+	<string>checklistAlignment</string>
+	<key>mobileRichText</key>
+	<string>symmetricAlignment</string>
+	<key>textfieldDuration</key>
+	<string>graphicStrategy</string>
+	<key>unsortedButton</key>
+	<string>canAttachAspectRatio</string>
+</dict>
+</plist>

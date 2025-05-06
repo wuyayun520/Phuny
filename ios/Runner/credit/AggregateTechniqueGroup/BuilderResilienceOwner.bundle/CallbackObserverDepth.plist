@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>otherRoute</key>
+	<string>shouldCachePriority</string>
+	<key>progressbarLocation</key>
+	<string>protocolTop</string>
+	<key>robustBehavior</key>
+	<string>canListenController</string>
+	<key>smallPolyfill</key>
+	<string>tweenresponse</string>
+</dict>
+</plist>

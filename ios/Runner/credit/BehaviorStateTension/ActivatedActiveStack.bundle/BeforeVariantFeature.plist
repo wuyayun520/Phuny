@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianDocument</key>
+	<string>connectorMomentum</string>
+	<key>fixedAnimatedContainer</key>
+	<string>fragmentIndex</string>
+	<key>flexibleSizedBox</key>
+	<string>tweakInterval</string>
+	<key>invisibleVolume</key>
+	<string>presentermargin</string>
+	<key>priorNotifier</key>
+	<string>animationinformation</string>
+	<key>reducerdispatcher</key>
+	<string>saveMusic</string>
+	<key>seamlessEntity</key>
+	<string>immutableBinary</string>
+	<key>strengthShade</key>
+	<string>shouldSetStateSpecifier</string>
+	<key>temporaryReceiver</key>
+	<string>independentLog</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonparticle</key>
+	<string>numericalDetector</string>
+	<key>customizedTitle</key>
+	<string>customizedUtil</string>
+	<key>deferredRectangle</key>
+	<string>sharedlayout</string>
+	<key>elasticpointstatus</key>
+	<string>rebuildCursor</string>
+	<key>nextBuffer</key>
+	<string>tensorSwitch</string>
+	<key>optimizeskin</key>
+	<string>clipRoute</string>
+	<key>sinetension</key>
+	<string>shouldDeserializeBase</string>
+	<key>staticslidertension</key>
+	<string>typicalTransformer</string>
+	<key>tensorArithmetic</key>
+	<string>isboxshadow</string>
+</dict>
+</plist>

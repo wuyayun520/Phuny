@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commoncard</key>
+	<string>appendFuture</string>
+	<key>commontransformer</key>
+	<string>markView</string>
+	<key>composableSizedBox</key>
+	<string>unmountTask</string>
+	<key>dependencyOpacity</key>
+	<string>interactorequivalent</string>
+	<key>gridenvironmenttheme</key>
+	<string>crudeBandwidth</string>
+	<key>normalLoop</key>
+	<string>smartText</string>
+	<key>oldCanvas</key>
+	<string>emitInteractor</string>
+	<key>shouldSkipOperation</key>
+	<string>canEmitTechnique</string>
+	<key>smallcontainerdelay</key>
+	<string>displayableAnimation</string>
+</dict>
+</plist>

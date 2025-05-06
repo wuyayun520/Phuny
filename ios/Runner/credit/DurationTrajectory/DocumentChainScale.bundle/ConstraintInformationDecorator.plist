@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionreducer</key>
+	<string>alertshader</string>
+	<key>binaryOrientation</key>
+	<string>localizationColor</string>
+	<key>blocmenu</key>
+	<string>providerSingleton</string>
+	<key>characterSpacing</key>
+	<string>requestRate</string>
+	<key>granularTicker</key>
+	<string>backwardMission</string>
+	<key>grayscalehue</key>
+	<string>captionInterpreter</string>
+	<key>hashtransformer</key>
+	<string>comprehensiveConfiguration</string>
+	<key>mediocreSession</key>
+	<string>projectVisitor</string>
+	<key>persistentScaffold</key>
+	<string>enabledSample</string>
+	<key>uniformCube</key>
+	<string>expandedProxy</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerchartduration</key>
+	<string>storageOrigin</string>
+	<key>formattransformer</key>
+	<string>pinchableRoute</string>
+	<key>inheritedLifecycle</key>
+	<string>resourceValidation</string>
+	<key>intensitymatrix</key>
+	<string>boxSkewX</string>
+	<key>kernelfrequency</key>
+	<string>synchronousFlex</string>
+	<key>permanentInkWell</key>
+	<string>modulusMemento</string>
+	<key>shouldPaintAccessory</key>
+	<string>concreteRange</string>
+	<key>uniqueSignature</key>
+	<string>tappableConfidentiality</string>
+</dict>
+</plist>

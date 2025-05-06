@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryOffset</key>
+	<string>taskcontainlevel</string>
+	<key>consultativeReducer</key>
+	<string>sceneDepth</string>
+	<key>gesturedetectorLocation</key>
+	<string>errorreliability</string>
+	<key>popupPressure</key>
+	<string>sharedConverter</string>
+	<key>relationalFuture</key>
+	<string>shouldTrainNotifier</string>
+	<key>triggerTag</key>
+	<string>shouldFinishBorder</string>
+	<key>updatelocalization</key>
+	<string>labelShape</string>
+</dict>
+</plist>

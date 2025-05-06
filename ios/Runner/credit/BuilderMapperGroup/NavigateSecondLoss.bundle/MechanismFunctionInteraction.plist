@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedCompleter</key>
+	<string>concurrentCharacteristic</string>
+	<key>alphavaluescale</key>
+	<string>dedicatedStamp</string>
+	<key>basicScreen</key>
+	<string>shouldStopRichText</string>
+	<key>boxshadowintegration</key>
+	<string>dependencyDelay</string>
+	<key>completerInset</key>
+	<string>seamlessScroll</string>
+	<key>consultativeOffset</key>
+	<string>cosineexceptcomposite</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeTweak</key>
+	<string>titleKind</string>
+	<key>frameSize</key>
+	<string>canDisposeCell</string>
+	<key>inactiveScalability</key>
+	<string>pushresolver</string>
+	<key>independentstorehead</key>
+	<string>subtleVector</string>
+	<key>sequentialNode</key>
+	<string>maintainInteractor</string>
+</dict>
+</plist>

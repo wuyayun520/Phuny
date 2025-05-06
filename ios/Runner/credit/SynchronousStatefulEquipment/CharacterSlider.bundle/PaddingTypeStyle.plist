@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buildcube</key>
+	<string>mediaInterval</string>
+	<key>eagerMapper</key>
+	<string>smallReducer</string>
+	<key>equivalentBrightness</key>
+	<string>convolutionSkewY</string>
+	<key>exceptionemitter</key>
+	<string>benchmarkScene</string>
+	<key>functionalBloc</key>
+	<string>specifyTimer</string>
+	<key>hasScaffold</key>
+	<string>taskInterval</string>
+	<key>relationalAmortization</key>
+	<string>shouldAnimateHeap</string>
+	<key>scrollableDescent</key>
+	<string>adaptiveZone</string>
+	<key>uniformEvent</key>
+	<string>hyperbolicTolerance</string>
+</dict>
+</plist>

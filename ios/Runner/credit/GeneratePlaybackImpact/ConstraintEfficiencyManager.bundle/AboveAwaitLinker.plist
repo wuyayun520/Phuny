@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accelerateentity</key>
+	<string>bufferscroller</string>
+	<key>criticalsubpixelvisibility</key>
+	<string>colorPadding</string>
+	<key>iconMode</key>
+	<string>groupstatus</string>
+	<key>promisesystemmomentum</key>
+	<string>dimensionsingletonshape</string>
+	<key>sequentialPresenter</key>
+	<string>eagerallocatorpressure</string>
+	<key>webthreaddepth</key>
+	<string>mixinDependency</string>
+</dict>
+</plist>

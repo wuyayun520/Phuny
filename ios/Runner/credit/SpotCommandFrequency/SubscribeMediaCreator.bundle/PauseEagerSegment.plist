@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanGestureDetector</key>
+	<string>diversifiedPopup</string>
+	<key>hardAction</key>
+	<string>loadRemainder</string>
+	<key>shouldEncodeRow</key>
+	<string>erroraroundpattern</string>
+	<key>shouldHandleSymbol</key>
+	<string>shouldMountedMultiplication</string>
+	<key>shouldRebuildFragment</key>
+	<string>tappabledescription</string>
+	<key>shouldUpdateCard</key>
+	<string>stepBound</string>
+	<key>statefulEffect</key>
+	<string>customConstant</string>
+	<key>temporaryConverter</key>
+	<string>projectSkewX</string>
+	<key>temporaryHash</key>
+	<string>unscheduleEvent</string>
+</dict>
+</plist>

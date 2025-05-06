@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkliststructuredirection</key>
+	<string>imageScale</string>
+	<key>containerscale</key>
+	<string>streamtail</string>
+	<key>defaultTool</key>
+	<string>emitSink</string>
+	<key>emitsample</key>
+	<string>shoulddisconnectpainter</string>
+	<key>respectivecurvevisible</key>
+	<string>firstInfrastructure</string>
+	<key>stepformforce</key>
+	<string>specifyArchitecture</string>
+	<key>tweakInterval</key>
+	<string>priorProfile</string>
+</dict>
+</plist>

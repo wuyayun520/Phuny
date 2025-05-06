@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dimensionDirection</key>
+	<string>requestDensity</string>
+	<key>musicTail</key>
+	<string>checkLayer</string>
+	<key>shouldSkipAperture</key>
+	<string>isolateLeft</string>
+	<key>shouldSubscribeAspect</key>
+	<string>secondDropdownButton</string>
+	<key>statelessiconcontrast</key>
+	<string>connectorName</string>
+	<key>unsortedAnimation</key>
+	<string>propagateRadius</string>
+</dict>
+</plist>

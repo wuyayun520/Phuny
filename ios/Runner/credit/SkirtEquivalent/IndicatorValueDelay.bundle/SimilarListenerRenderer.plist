@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicAxis</key>
+	<string>drawstateless</string>
+	<key>customChapter</key>
+	<string>flexibleoverlaytail</string>
+	<key>notifierAlignment</key>
+	<string>commonCreator</string>
+	<key>protectedReference</key>
+	<string>backwardAllocator</string>
+	<key>scrollableUtil</key>
+	<string>hyperbolicConfiguration</string>
+	<key>shouldDisposePet</key>
+	<string>numericalHeap</string>
+	<key>specifytransformerorientation</key>
+	<string>dimensionTag</string>
+	<key>statefulProcessor</key>
+	<string>canFinishSizedBox</string>
+</dict>
+</plist>

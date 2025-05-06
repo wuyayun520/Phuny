@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralpetvisible</key>
+	<string>shouldDecodeFragment</string>
+	<key>explicitchannel</key>
+	<string>canRenderArithmetic</string>
+	<key>lossShade</key>
+	<string>defaultContraction</string>
+</dict>
+</plist>

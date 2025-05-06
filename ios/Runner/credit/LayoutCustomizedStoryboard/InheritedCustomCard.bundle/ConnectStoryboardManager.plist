@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>distinctionDirection</key>
+	<string>behaviorVariable</string>
+	<key>ephemeralChallenge</key>
+	<string>logarithmsystemrotation</string>
+	<key>inactiveItem</key>
+	<string>resizableTransition</string>
+	<key>shoulddetachprofile</key>
+	<string>inactiveChooser</string>
+	<key>shouldkeepchallenge</key>
+	<string>buttonRight</string>
+	<key>signatureOrigin</key>
+	<string>shouldDisposePositioned</string>
+	<key>smallCollection</key>
+	<string>nextspriteposition</string>
+	<key>wrapperSpacing</key>
+	<string>removePopup</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedAlert</key>
+	<string>canResumeVariant</string>
+	<key>batchType</key>
+	<string>scaleBridge</string>
+	<key>chooserSpacing</key>
+	<string>fusedDescription</string>
+	<key>cupertinoSine</key>
+	<string>immediateSession</string>
+	<key>globalVertex</key>
+	<string>clipperColor</string>
+	<key>itemOffset</key>
+	<string>storyboardOperation</string>
+	<key>shouldshowcanvas</key>
+	<string>layerMode</string>
+</dict>
+</plist>

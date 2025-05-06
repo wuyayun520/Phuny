@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryMargin</key>
+	<string>particlePattern</string>
+	<key>frameOrientation</key>
+	<string>navigatorbrightness</string>
+	<key>specifyNavigation</key>
+	<string>poolZone</string>
+	<key>splitterOrientation</key>
+	<string>elasticusecasevelocity</string>
+</dict>
+</plist>

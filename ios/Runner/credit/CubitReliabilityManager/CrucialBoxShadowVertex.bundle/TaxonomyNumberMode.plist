@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoPlate</key>
+	<string>intuitiveShader</string>
+	<key>batchDensity</key>
+	<string>displayHash</string>
+	<key>diversifiedpresenter</key>
+	<string>unlockRequest</string>
+	<key>parseduration</key>
+	<string>ignoredAwait</string>
+	<key>pointCount</key>
+	<string>shouldPublishNavigation</string>
+	<key>relationalState</key>
+	<string>shouldunbindtable</string>
+	<key>shouldParseDecoration</key>
+	<string>slashFacade</string>
+	<key>shouldRestartImage</key>
+	<string>startTextField</string>
+</dict>
+</plist>

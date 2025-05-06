@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedIntensity</key>
+	<string>canSerializeAspectRatio</string>
+	<key>crudeAnimation</key>
+	<string>asyncdecoratortail</string>
+	<key>currentItem</key>
+	<string>sharedstepshape</string>
+	<key>mobileVector</key>
+	<string>materialCluster</string>
+	<key>trianglesShape</key>
+	<string>seamlessChooser</string>
+</dict>
+</plist>

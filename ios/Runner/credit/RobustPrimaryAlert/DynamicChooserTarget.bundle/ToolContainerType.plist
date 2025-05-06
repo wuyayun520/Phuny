@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descentbrightness</key>
+	<string>hardBullet</string>
+	<key>hasalert</key>
+	<string>shouldStreamObserver</string>
+	<key>largeRemainder</key>
+	<string>showSprite</string>
+	<key>relationalservice</key>
+	<string>grainPressure</string>
+</dict>
+</plist>

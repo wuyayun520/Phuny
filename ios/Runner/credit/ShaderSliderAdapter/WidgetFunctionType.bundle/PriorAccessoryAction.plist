@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialOperation</key>
+	<string>normalModule</string>
+	<key>explicitSwift</key>
+	<string>appendGrain</string>
+	<key>hardAction</key>
+	<string>displayableWrapper</string>
+	<key>materialdepth</key>
+	<string>capacityLeft</string>
+	<key>resourceIndex</key>
+	<string>textureinset</string>
+	<key>responseTag</key>
+	<string>invokeChannel</string>
+	<key>shouldResumeNavigation</key>
+	<string>discardedUseCase</string>
+	<key>typicalHandler</key>
+	<string>scrollerFormat</string>
+</dict>
+</plist>

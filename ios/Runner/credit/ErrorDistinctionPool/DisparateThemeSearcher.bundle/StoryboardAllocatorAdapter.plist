@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directGrid</key>
+	<string>markError</string>
+	<key>errorSkewY</key>
+	<string>resultAcceleration</string>
+	<key>modulushash</key>
+	<string>manageroffset</string>
+	<key>nextAscent</key>
+	<string>lazyResource</string>
+	<key>offsetorbuffer</key>
+	<string>popupactivityvalidation</string>
+	<key>resizableShape</key>
+	<string>singlefactoryspacing</string>
+	<key>scrollableOption</key>
+	<string>specifyRecursion</string>
+	<key>serviceflags</key>
+	<string>symmetricPadding</string>
+	<key>smartresourcedelay</key>
+	<string>stampStatus</string>
+</dict>
+</plist>

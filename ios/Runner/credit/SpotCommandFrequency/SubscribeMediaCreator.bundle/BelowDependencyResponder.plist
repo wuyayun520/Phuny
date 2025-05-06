@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completersize</key>
+	<string>tensorInteraction</string>
+	<key>graphicDuration</key>
+	<string>visibleTimeline</string>
+	<key>scenarioPosition</key>
+	<string>animationPadding</string>
+	<key>shouldMountedCollection</key>
+	<string>interactiveProtocol</string>
+	<key>timelineValidation</key>
+	<string>menuStyle</string>
+	<key>writecharacter</key>
+	<string>arithmeticCreator</string>
+</dict>
+</plist>

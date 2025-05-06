@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianaudio</key>
+	<string>disposeCursor</string>
+	<key>frameobserverstate</key>
+	<string>canPublishRoute</string>
+	<key>largeCanvas</key>
+	<string>hardboxtension</string>
+	<key>oldmember</key>
+	<string>injectionspacing</string>
+	<key>polyfillScale</key>
+	<string>chartDistance</string>
+	<key>progressbarvisitorduration</key>
+	<string>pinchableCard</string>
+	<key>protectedMatrix</key>
+	<string>disconnectMomentum</string>
+	<key>publishpadding</key>
+	<string>keyBandwidth</string>
+	<key>shouldLoadTheme</key>
+	<string>inactiveTexture</string>
+	<key>shouldSerializeGestureDetector</key>
+	<string>protectedFeature</string>
+</dict>
+</plist>

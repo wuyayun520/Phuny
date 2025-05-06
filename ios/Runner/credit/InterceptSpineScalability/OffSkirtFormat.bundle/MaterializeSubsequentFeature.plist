@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionsaturation</key>
+	<string>beginnerEvent</string>
+	<key>delegatePadding</key>
+	<string>denseHero</string>
+	<key>semanticsValidation</key>
+	<string>localChecklist</string>
+	<key>shouldDecodeSign</key>
+	<string>shouldCancelStateless</string>
+	<key>shouldRebuildReduction</key>
+	<string>canUpdateCurve</string>
+</dict>
+</plist>

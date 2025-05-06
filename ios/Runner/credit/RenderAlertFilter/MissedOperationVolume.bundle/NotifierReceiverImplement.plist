@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lastBaseline</key>
+	<string>canValidateUnary</string>
+	<key>mountlistener</key>
+	<string>shouldUnmountedGridView</string>
+	<key>replacecell</key>
+	<string>progressbarBrightness</string>
+	<key>sessionstatus</key>
+	<string>binaryMomentum</string>
+	<key>shouldInflateChallenge</key>
+	<string>serializeBatch</string>
+</dict>
+</plist>

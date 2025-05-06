@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioBorder</key>
+	<string>custompaintVisitor</string>
+	<key>directlyDependency</key>
+	<string>commongridviewtype</string>
+	<key>inactiveprotocolcoord</key>
+	<string>globalmethodorigin</string>
+	<key>listenerpolyfill</key>
+	<string>canDecodeCurve</string>
+	<key>rapidNib</key>
+	<string>workflowShape</string>
+</dict>
+</plist>

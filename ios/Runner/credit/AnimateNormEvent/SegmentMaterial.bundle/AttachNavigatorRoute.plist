@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activegradienttype</key>
+	<string>lostTitle</string>
+	<key>asynchronousUseCase</key>
+	<string>usedFragments</string>
+	<key>colorRight</key>
+	<string>nativeGroup</string>
+	<key>nibTransparency</key>
+	<string>independentChart</string>
+	<key>positioninset</key>
+	<string>componentTransparency</string>
+	<key>rectifycanvas</key>
+	<string>behaviorVisible</string>
+	<key>shouldYieldChannels</key>
+	<string>modelStructure</string>
+</dict>
+</plist>

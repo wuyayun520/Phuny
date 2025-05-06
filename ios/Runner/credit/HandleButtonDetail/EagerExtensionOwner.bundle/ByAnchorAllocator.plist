@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorCount</key>
+	<string>exceptionuntiltype</string>
+	<key>diffableOperation</key>
+	<string>smartCluster</string>
+	<key>holdrequest</key>
+	<string>missedMend</string>
+	<key>materialRecursion</key>
+	<string>adjustResolver</string>
+	<key>normalPosition</key>
+	<string>canSetStateLog</string>
+	<key>shouldPauseAspectRatio</key>
+	<string>notificationForce</string>
+	<key>shouldPushDelegate</key>
+	<string>uniformSwitch</string>
+	<key>shouldSerializeTechnique</key>
+	<string>stackstructureinset</string>
+</dict>
+</plist>

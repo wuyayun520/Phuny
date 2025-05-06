@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubealonginterpreter</key>
+	<string>mediaqueryTier</string>
+	<key>inactiveGroup</key>
+	<string>shouldserializebullet</string>
+	<key>notificationduringtask</key>
+	<string>crudeChapter</string>
+	<key>opaquePromise</key>
+	<string>ignoredScreen</string>
+	<key>publicPreview</key>
+	<string>setstateEntropy</string>
+	<key>seekcanvas</key>
+	<string>hashValue</string>
+	<key>shouldConnectSpot</key>
+	<string>descriptorchaintheme</string>
+	<key>shouldPublishModulus</key>
+	<string>shouldBuildCard</string>
+</dict>
+</plist>

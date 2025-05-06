@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderRate</key>
+	<string>sequentialListener</string>
+	<key>compositionalSemantics</key>
+	<string>localAspect</string>
+	<key>intuitiveShape</key>
+	<string>canEndMovement</string>
+	<key>mainEvaluation</key>
+	<string>commonView</string>
+	<key>mainSkirt</key>
+	<string>canEncodeMaster</string>
+	<key>shouldMountedWidget</key>
+	<string>missedSorter</string>
+</dict>
+</plist>

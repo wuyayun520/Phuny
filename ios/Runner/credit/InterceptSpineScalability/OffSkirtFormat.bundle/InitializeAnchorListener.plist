@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mediumsensor</key>
+	<string>compositionobserverleft</string>
+	<key>permissiveSorter</key>
+	<string>firstSkirt</string>
+	<key>publisherResponse</key>
+	<string>immutableDependency</string>
+	<key>requiredTask</key>
+	<string>smartCheckbox</string>
+	<key>sortedComponent</key>
+	<string>optimizerType</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoLayer</key>
+	<string>infrastructureedge</string>
+	<key>custompaintCount</key>
+	<string>hardStateless</string>
+	<key>hasConvolution</key>
+	<string>canTrainAlpha</string>
+	<key>multiInteger</key>
+	<string>statelessNib</string>
+	<key>shouldConnectModal</key>
+	<string>responsiveFuture</string>
+	<key>shouldNotifyMomentum</key>
+	<string>stateTag</string>
+</dict>
+</plist>

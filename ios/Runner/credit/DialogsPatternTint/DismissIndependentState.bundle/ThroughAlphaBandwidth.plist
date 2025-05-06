@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedGesture</key>
+	<string>herolabel</string>
+	<key>hierarchicalEquivalent</key>
+	<string>cacheclipper</string>
+	<key>robustCanvas</key>
+	<string>composableBandwidth</string>
+	<key>routebridgeorigin</key>
+	<string>shouldBuildAlert</string>
+	<key>shouldPresentSubpixel</key>
+	<string>prismaticsizeopacity</string>
+	<key>shouldUpdateMediaQuery</key>
+	<string>hierarchicalHash</string>
+	<key>subsequentProjection</key>
+	<string>effectcoord</string>
+</dict>
+</plist>

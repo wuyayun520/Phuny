@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticbehaviorname</key>
+	<string>trajectorytheme</string>
+	<key>composableAsync</key>
+	<string>accessibleGradient</string>
+	<key>dedicatedSize</key>
+	<string>adjustTicker</string>
+	<key>dropdownbuttonHue</key>
+	<string>agileSize</string>
+	<key>intensityamortization</key>
+	<string>synchronousSign</string>
+	<key>intermediateRectangle</key>
+	<string>composableAlert</string>
+	<key>optionSaturation</key>
+	<string>allocatorPressure</string>
+	<key>pinchableThreshold</key>
+	<string>onworkflowchanged</string>
+	<key>shouldStartPositioned</key>
+	<string>columnRotation</string>
+	<key>shouldValidateExponent</key>
+	<string>subsequentFormat</string>
+</dict>
+</plist>

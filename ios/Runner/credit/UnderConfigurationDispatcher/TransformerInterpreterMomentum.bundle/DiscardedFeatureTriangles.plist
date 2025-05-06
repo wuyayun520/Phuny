@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseTernary</key>
+	<string>canMountedDropdownButton</string>
+	<key>globalSearcher</key>
+	<string>canDeserializeLabel</string>
+	<key>isolatestateborder</key>
+	<string>limitalignment</string>
+	<key>primaryAudio</key>
+	<string>canPaintTool</string>
+	<key>prismaticRow</key>
+	<string>remainderSpeed</string>
+	<key>shouldEmitGem</key>
+	<string>maxComposition</string>
+	<key>smartCheckbox</key>
+	<string>streammodel</string>
+	<key>standaloneSubpixel</key>
+	<string>shouldDetachCompletion</string>
+</dict>
+</plist>

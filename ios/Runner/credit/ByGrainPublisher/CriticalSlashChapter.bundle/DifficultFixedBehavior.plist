@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackMargin</key>
+	<string>tappablePresenter</string>
+	<key>defaultComposition</key>
+	<string>managerJob</string>
+	<key>intermediateMediaQuery</key>
+	<string>fusedGridView</string>
+	<key>mediumScalability</key>
+	<string>secondHistogram</string>
+	<key>otherSubpixel</key>
+	<string>canParseNorm</string>
+	<key>shouldDisconnectMediaQuery</key>
+	<string>skirtlocation</string>
+</dict>
+</plist>

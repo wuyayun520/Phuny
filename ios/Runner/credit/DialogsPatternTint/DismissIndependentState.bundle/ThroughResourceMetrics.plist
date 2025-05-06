@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedGrayscale</key>
+	<string>significantBehavior</string>
+	<key>dimensionFeedback</key>
+	<string>skirtParameter</string>
+	<key>intuitiveResult</key>
+	<string>difficultanalyzer</string>
+	<key>missedGate</key>
+	<string>benchmarkSlider</string>
+	<key>originalHistogram</key>
+	<string>shouldstopreduction</string>
+	<key>otherPet</key>
+	<string>coordinatorAdapter</string>
+	<key>shouldAttachWorkflow</key>
+	<string>shouldLayoutFragment</string>
+	<key>shouldInflateProvider</key>
+	<string>unsortedService</string>
+	<key>smallIcon</key>
+	<string>respectiveFactory</string>
+</dict>
+</plist>

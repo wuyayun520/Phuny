@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileProvider</key>
+	<string>activeCollection</string>
+	<key>autoutil</key>
+	<string>endProject</string>
+	<key>dedicatedchart</key>
+	<string>checkError</string>
+	<key>normaltablesize</key>
+	<string>shouldBindBinary</string>
+	<key>renderparticle</key>
+	<string>robustProgressBar</string>
+	<key>usedchooser</key>
+	<string>iconacceleration</string>
+</dict>
+</plist>

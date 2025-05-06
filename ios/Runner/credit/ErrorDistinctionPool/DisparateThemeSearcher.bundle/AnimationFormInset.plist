@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyBorder</key>
+	<string>sizestrategyright</string>
+	<key>concreteTabView</key>
+	<string>escalateGrid</string>
+	<key>pagerHead</key>
+	<string>aggregatePosition</string>
+	<key>renderstate</key>
+	<string>canSaveSubpixel</string>
+	<key>shouldEncodePageView</key>
+	<string>detachProfile</string>
+</dict>
+</plist>

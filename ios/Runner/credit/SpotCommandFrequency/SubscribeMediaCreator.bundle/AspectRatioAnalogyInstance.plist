@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionRouter</key>
+	<string>nextAudio</string>
+	<key>backwardGraphic</key>
+	<string>shouldCancelScreen</string>
+	<key>crucialAction</key>
+	<string>subtleScroll</string>
+	<key>geometricChapter</key>
+	<string>materialConfiguration</string>
+	<key>queueDepth</key>
+	<string>asynchronousElasticity</string>
+	<key>smallTexture</key>
+	<string>shouldPrepareMovement</string>
+	<key>transformerfromnumber</key>
+	<string>embraceProvider</string>
+</dict>
+</plist>

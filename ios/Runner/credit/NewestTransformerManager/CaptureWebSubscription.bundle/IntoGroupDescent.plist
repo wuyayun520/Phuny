@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorprocessor</key>
+	<string>navigateManager</string>
+	<key>desktopUseCase</key>
+	<string>webTransformer</string>
+	<key>globalConfiguration</key>
+	<string>initializetransition</string>
+	<key>largeTangent</key>
+	<string>descriptorSize</string>
+	<key>shouldDeserializeMission</key>
+	<string>futureelement</string>
+</dict>
+</plist>

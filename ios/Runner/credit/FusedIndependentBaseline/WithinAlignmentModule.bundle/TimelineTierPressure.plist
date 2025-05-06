@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystShade</key>
+	<string>otherModel</string>
+	<key>challengeDepth</key>
+	<string>encodePageView</string>
+	<key>disabledScope</key>
+	<string>canAttachNib</string>
+	<key>fetchsample</key>
+	<string>deactivateChapter</string>
+	<key>matrixbrightness</key>
+	<string>smallCanvas</string>
+	<key>measuremusic</key>
+	<string>createIndicator</string>
+	<key>presentervariableskewy</key>
+	<string>projectionPadding</string>
+	<key>shouldKeepTabBar</key>
+	<string>shouldShowExponent</string>
+	<key>tensorTangent</key>
+	<string>shouldDecodeSlash</string>
+</dict>
+</plist>

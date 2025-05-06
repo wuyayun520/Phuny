@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicFlex</key>
+	<string>graphicValue</string>
+	<key>factoryName</key>
+	<string>localizationDensity</string>
+	<key>framemesh</key>
+	<string>computeConfiguration</string>
+	<key>largePlayback</key>
+	<string>canInflateMultiplication</string>
+	<key>signaturePosition</key>
+	<string>greatShape</string>
+	<key>usedPermutation</key>
+	<string>shouldinflatealert</string>
+</dict>
+</plist>

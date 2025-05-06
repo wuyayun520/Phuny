@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binderShade</key>
+	<string>processtask</string>
+	<key>cupertinocanvas</key>
+	<string>markAwait</string>
+	<key>equalizationBound</key>
+	<string>immediateGraph</string>
+	<key>functionalManager</key>
+	<string>denseboxshadowcoord</string>
+	<key>navigationleft</key>
+	<string>pushModal</string>
+	<key>pinchableRectangle</key>
+	<string>subsequentEntropy</string>
+	<key>reactiveTool</key>
+	<string>lostChecklist</string>
+	<key>shouldDeserializeDescriptor</key>
+	<string>descriptionFormat</string>
+	<key>techniqueInterval</key>
+	<string>insteadTask</string>
+</dict>
+</plist>

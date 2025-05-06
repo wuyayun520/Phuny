@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactorAcceleration</key>
+	<string>numericalslider</string>
+	<key>prevWrapper</key>
+	<string>currentSpecifier</string>
+	<key>radiusShade</key>
+	<string>hyperbolicspecifierbrightness</string>
+	<key>scalabilityName</key>
+	<string>persistentPadding</string>
+	<key>scaleorigin</key>
+	<string>draggableCaption</string>
+	<key>secondGradient</key>
+	<string>createGram</string>
+	<key>shaderamongsingleton</key>
+	<string>deserializeSemantics</string>
+	<key>sophisticatedSpot</key>
+	<string>providertriangles</string>
+	<key>taskcoordinator</key>
+	<string>sustainableMedia</string>
+</dict>
+</plist>

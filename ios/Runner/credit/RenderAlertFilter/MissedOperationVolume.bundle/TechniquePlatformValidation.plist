@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>manageraboutvariable</key>
+	<string>awaitStructure</string>
+	<key>retainedthreshold</key>
+	<string>disconnectMargin</string>
+	<key>similarHandler</key>
+	<string>shouldNotifyIndicator</string>
+</dict>
+</plist>

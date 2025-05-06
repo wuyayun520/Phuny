@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchornearmethod</key>
+	<string>isexponent</string>
+	<key>buttonactivityright</key>
+	<string>typicalReceiver</string>
+	<key>cancelgrain</key>
+	<string>shouldSavePainter</string>
+	<key>disabledTicker</key>
+	<string>shouldTrainSlider</string>
+	<key>sustainableBase</key>
+	<string>nodeenvironmentstate</string>
+</dict>
+</plist>

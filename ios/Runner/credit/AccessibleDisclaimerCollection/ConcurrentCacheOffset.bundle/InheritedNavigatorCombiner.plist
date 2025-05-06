@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryTension</key>
+	<string>reduceLoop</string>
+	<key>confidentialityTail</key>
+	<string>overlaymetadata</string>
+	<key>ignoredlistview</key>
+	<string>webMethod</string>
+	<key>robustTitle</key>
+	<string>publicMember</string>
+	<key>similarReduction</key>
+	<string>masterPrototype</string>
+	<key>stamppicker</key>
+	<string>shouldTransitionBuilder</string>
+	<key>stepStatus</key>
+	<string>trajectorySpeed</string>
+	<key>viewcontaintask</key>
+	<string>multiGram</string>
+</dict>
+</plist>

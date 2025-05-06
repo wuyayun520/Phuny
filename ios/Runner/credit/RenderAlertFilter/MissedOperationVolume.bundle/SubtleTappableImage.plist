@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectagainstcycle</key>
+	<string>canNotifyButton</string>
+	<key>invisibleDimension</key>
+	<string>encapsulateconfiguration</string>
+	<key>prismaticHistogram</key>
+	<string>handlerSingleton</string>
+	<key>shouldAnimateGraphic</key>
+	<string>explicitTweak</string>
+	<key>shouldAnimateMovement</key>
+	<string>subscriptionagainsttype</string>
+	<key>shouldBuildChannels</key>
+	<string>mainAsset</string>
+	<key>shouldDispatchGradient</key>
+	<string>resilientHero</string>
+</dict>
+</plist>

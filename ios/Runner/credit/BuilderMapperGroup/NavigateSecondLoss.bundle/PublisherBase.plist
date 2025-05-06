@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffablePermutation</key>
+	<string>aspectratioPosition</string>
+	<key>flexmodeorigin</key>
+	<string>canStartSymbol</string>
+	<key>previewName</key>
+	<string>responsiveVector</string>
+	<key>restartallocator</key>
+	<string>boxandmediator</string>
+</dict>
+</plist>

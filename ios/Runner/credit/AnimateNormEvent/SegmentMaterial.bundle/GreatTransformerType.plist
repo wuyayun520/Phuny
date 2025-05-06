@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buffercontrast</key>
+	<string>debugSize</string>
+	<key>concurrentText</key>
+	<string>canShowAlpha</string>
+	<key>pageviewHue</key>
+	<string>cupertinoGift</string>
+	<key>semanticrenderer</key>
+	<string>shaderforce</string>
+	<key>threadInset</key>
+	<string>associatedMatrix</string>
+</dict>
+</plist>

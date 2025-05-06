@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>originalNavigation</key>
+	<string>configurationStrategy</string>
+	<key>shouldInflateBullet</key>
+	<string>dropdownbuttonvector</string>
+	<key>standaloneZone</key>
+	<string>eraseReducer</string>
+	<key>vectorTheme</key>
+	<string>nextScheduler</string>
+</dict>
+</plist>

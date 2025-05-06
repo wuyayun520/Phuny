@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deprecateasset</key>
+	<string>originalSlider</string>
+	<key>functionalChallenge</key>
+	<string>discardedExponent</string>
+	<key>intuitiveReducer</key>
+	<string>boxshadowBorder</string>
+	<key>labelTop</key>
+	<string>materialOverlay</string>
+	<key>layoutTransparency</key>
+	<string>canRestartSlider</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disposestorage</key>
+	<string>canStreamRole</string>
+	<key>errorkindrate</key>
+	<string>beginnerOccasion</string>
+	<key>frameflags</key>
+	<string>associatedBuilder</string>
+	<key>multiplyservice</key>
+	<string>requiredCupertino</string>
+	<key>reusableMenu</key>
+	<string>mutableScheduler</string>
+	<key>smallObject</key>
+	<string>configurationRate</string>
+	<key>specifierspacing</key>
+	<string>customizedStoryboard</string>
+</dict>
+</plist>

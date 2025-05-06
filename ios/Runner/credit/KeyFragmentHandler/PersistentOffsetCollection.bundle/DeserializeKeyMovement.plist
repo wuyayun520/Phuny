@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventamongparam</key>
+	<string>shouldReplaceConstraint</string>
+	<key>inheritedCharacteristic</key>
+	<string>statelessSession</string>
+	<key>intermediateTriangles</key>
+	<string>parsetextfield</string>
+	<key>linkerMode</key>
+	<string>canPaintSession</string>
+	<key>plateright</key>
+	<string>presenterSystem</string>
+	<key>processplate</key>
+	<string>canEncodeInterpolation</string>
+	<key>rectwithstrategy</key>
+	<string>inactivetraversal</string>
+	<key>singleNib</key>
+	<string>canHandleGrayscale</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>menuDuration</key>
+	<string>concurrentloader</string>
+	<key>resolvespine</key>
+	<string>semanticscommandduration</string>
+	<key>respectivecharacter</key>
+	<string>equalcursor</string>
+	<key>shouldSubscribeSign</key>
+	<string>shouldPrepareStateless</string>
+	<key>statusHue</key>
+	<string>animateBaseline</string>
+</dict>
+</plist>

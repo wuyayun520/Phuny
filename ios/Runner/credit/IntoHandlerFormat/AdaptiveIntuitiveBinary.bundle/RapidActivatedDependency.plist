@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationState</key>
+	<string>orchestrateGrid</string>
+	<key>aperturemetrics</key>
+	<string>diffableProtocol</string>
+	<key>densegesturedetector</key>
+	<string>lazyEquivalent</string>
+	<key>loopmementoforce</key>
+	<string>enabledtriangles</string>
+	<key>optimizerBottom</key>
+	<string>statefulHash</string>
+	<key>smallEntropy</key>
+	<string>shouldPersistStoryboard</string>
+</dict>
+</plist>

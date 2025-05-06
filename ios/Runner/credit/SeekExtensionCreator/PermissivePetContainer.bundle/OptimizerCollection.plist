@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>extensionVelocity</key>
+	<string>orchestratetext</string>
+	<key>firstSpot</key>
+	<string>textadapteralignment</string>
+	<key>loopoutsidevariable</key>
+	<string>oldTheme</string>
+	<key>modulusperchain</key>
+	<string>shouldDismissBitrate</string>
+	<key>renderslider</key>
+	<string>yieldtimer</string>
+	<key>sharedBase</key>
+	<string>shouldStreamSession</string>
+	<key>smallMap</key>
+	<string>protocolInterval</string>
+	<key>subscriberHead</key>
+	<string>routeFrequency</string>
+	<key>subscriptionVisibility</key>
+	<string>ternaryValidation</string>
+</dict>
+</plist>

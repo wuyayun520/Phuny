@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedTabView</key>
+	<string>positionedDuration</string>
+	<key>beginnertransition</key>
+	<string>popupNumber</string>
+	<key>lazyDistinction</key>
+	<string>impactAppearance</string>
+	<key>shouldInflateIndicator</key>
+	<string>drawerSaturation</string>
+	<key>significantExtension</key>
+	<string>observerStyle</string>
+	<key>unactivatedVariant</key>
+	<string>undertakesprite</string>
+</dict>
+</plist>

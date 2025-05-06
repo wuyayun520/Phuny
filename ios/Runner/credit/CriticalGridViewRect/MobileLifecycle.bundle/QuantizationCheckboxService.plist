@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedBorder</key>
+	<string>liteProcessor</string>
+	<key>requiredFragment</key>
+	<string>statelessDetector</string>
+	<key>sharedSplitter</key>
+	<string>resilienceCount</string>
+	<key>statelessCapacity</key>
+	<string>responseFramework</string>
+	<key>storeplatforminteraction</key>
+	<string>inactivesegment</string>
+	<key>textreducer</key>
+	<string>canTransitionWorkflow</string>
+</dict>
+</plist>

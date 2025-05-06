@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoEmitter</key>
+	<string>pivotalSchema</string>
+	<key>awaitloader</key>
+	<string>borderLocation</string>
+	<key>decorationDelay</key>
+	<string>cloneTicker</string>
+	<key>discardedPrecision</key>
+	<string>requiredTween</string>
+	<key>scalabilitySaturation</key>
+	<string>canResumeAnchor</string>
+	<key>shouldPersistStamp</key>
+	<string>featureBridge</string>
+	<key>shouldStartIcon</key>
+	<string>easySlider</string>
+	<key>switchPadding</key>
+	<string>directlyCoordinator</string>
+	<key>tensorconvolution</key>
+	<string>enhanceflex</string>
+	<key>webPreview</key>
+	<string>previewBridge</string>
+</dict>
+</plist>

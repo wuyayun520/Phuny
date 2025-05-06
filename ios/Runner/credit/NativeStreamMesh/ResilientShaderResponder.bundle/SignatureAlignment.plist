@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorScale</key>
+	<string>typicalPositioned</string>
+	<key>finderInteraction</key>
+	<string>mainPublisher</string>
+	<key>intuitiveThreshold</key>
+	<string>canTransitionTangent</string>
+	<key>processorbrightness</key>
+	<string>localizationthroughput</string>
+	<key>publiccursorscale</key>
+	<string>mountInterpolation</string>
+	<key>shouldSetStateNotification</key>
+	<string>firstDimension</string>
+	<key>shouldTransformCycle</key>
+	<string>renderListView</string>
+</dict>
+</plist>

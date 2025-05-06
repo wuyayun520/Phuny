@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hierarchicalStoryboard</key>
+	<string>queueMode</string>
+	<key>mainCubit</key>
+	<string>shouldEmitStamp</string>
+	<key>shouldUnmountedPriority</key>
+	<string>equalstate</string>
+	<key>transitionHead</key>
+	<string>beginnerBloc</string>
+</dict>
+</plist>

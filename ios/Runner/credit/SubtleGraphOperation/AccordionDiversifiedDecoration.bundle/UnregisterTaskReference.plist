@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>confidentialityBrightness</key>
+	<string>stopMaster</string>
+	<key>customPicker</key>
+	<string>videoTension</string>
+	<key>easyBitrate</key>
+	<string>evaluationLocation</string>
+	<key>enabledSingleton</key>
+	<string>equipmentRate</string>
+	<key>nativeChannel</key>
+	<string>freeBuffer</string>
+	<key>routerSpacing</key>
+	<string>primaryFinder</string>
+	<key>selectedmatrix</key>
+	<string>elasticSpecifier</string>
+	<key>shouldBuildDecoration</key>
+	<string>shouldSaveTool</string>
+	<key>subpixelRate</key>
+	<string>touchContrast</string>
+</dict>
+</plist>

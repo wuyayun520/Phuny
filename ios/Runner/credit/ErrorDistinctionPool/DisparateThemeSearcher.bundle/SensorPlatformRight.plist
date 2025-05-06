@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentDimension</key>
+	<string>subscriptionSaturation</string>
+	<key>onlogarithmtap</key>
+	<string>keepTheme</string>
+	<key>petInteraction</key>
+	<string>shouldEndStack</string>
+	<key>processcurve</key>
+	<string>fixedAllocator</string>
+	<key>requiredScheduler</key>
+	<string>currentpet</string>
+	<key>shouldObserveSegue</key>
+	<string>positioncolor</string>
+	<key>shouldUpdateIcon</key>
+	<string>liteKernel</string>
+	<key>significantAudio</key>
+	<string>provideparticle</string>
+	<key>touchprogressbar</key>
+	<string>curveinset</string>
+	<key>vectorfilter</key>
+	<string>singleSpot</string>
+</dict>
+</plist>

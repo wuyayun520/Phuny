@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionResilience</key>
+	<string>interactiveFilter</string>
+	<key>alignmentfacadeinteraction</key>
+	<string>transitionloader</string>
+	<key>consultativePolygon</key>
+	<string>cartesianBrush</string>
+	<key>decodehash</key>
+	<string>locateConfiguration</string>
+	<key>labelparamorigin</key>
+	<string>copyinterface</string>
+	<key>mainDialogs</key>
+	<string>storageDensity</string>
+	<key>semanticsubpixel</key>
+	<string>traversalflags</string>
+</dict>
+</plist>

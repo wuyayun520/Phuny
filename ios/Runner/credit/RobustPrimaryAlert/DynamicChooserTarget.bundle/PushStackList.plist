@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsulelikeaction</key>
+	<string>handleRoute</string>
+	<key>discardedLoader</key>
+	<string>queueSpeed</string>
+	<key>displayableImpression</key>
+	<string>captureAwait</string>
+	<key>dividemodel</key>
+	<string>cloneOffset</string>
+	<key>keeptransition</key>
+	<string>canResumeGift</string>
+	<key>onpettap</key>
+	<string>bulletAction</string>
+	<key>promisehead</key>
+	<string>spinText</string>
+	<key>sequentialMesh</key>
+	<string>declarativeobserver</string>
+	<key>shouldDisconnectGrayscale</key>
+	<string>permanentGram</string>
+	<key>shouldHandleGift</key>
+	<string>shouldFetchImage</string>
+</dict>
+</plist>

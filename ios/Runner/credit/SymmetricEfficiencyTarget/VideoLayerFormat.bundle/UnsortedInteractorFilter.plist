@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionSpacing</key>
+	<string>canMountedWidget</string>
+	<key>functionalPolyfill</key>
+	<string>operationResponse</string>
+	<key>injectionthanlevel</key>
+	<string>appbarDelay</string>
+	<key>interactiveblocvelocity</key>
+	<string>menualongadapter</string>
+	<key>notifiertriangles</key>
+	<string>animatedHandler</string>
+	<key>sharedContainer</key>
+	<string>certificatestructureposition</string>
+	<key>shouldDisconnectButton</key>
+	<string>invokeCoordinator</string>
+</dict>
+</plist>

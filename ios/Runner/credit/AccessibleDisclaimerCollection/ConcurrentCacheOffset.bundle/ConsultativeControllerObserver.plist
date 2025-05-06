@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerhash</key>
+	<string>pivotalTernary</string>
+	<key>elasticDescriptor</key>
+	<string>explicitResolver</string>
+	<key>futurePadding</key>
+	<string>mobileTime</string>
+	<key>latencyLocation</key>
+	<string>dynamicallocator</string>
+	<key>modulusVelocity</key>
+	<string>exponentStructure</string>
+	<key>respectiveStoryboard</key>
+	<string>bundleReducer</string>
+	<key>shouldUpdateCheckbox</key>
+	<string>ignoredGridView</string>
+	<key>storageMomentum</key>
+	<string>nativeKernel</string>
+</dict>
+</plist>

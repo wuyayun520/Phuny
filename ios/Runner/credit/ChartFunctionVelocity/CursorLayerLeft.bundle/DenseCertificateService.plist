@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocaroundlevel</key>
+	<string>movementForce</string>
+	<key>emittextfield</key>
+	<string>executeEntity</string>
+	<key>imageversusstate</key>
+	<string>navigateOperation</string>
+	<key>resizableSize</key>
+	<string>augmentGrid</string>
+	<key>shouldFetchSkirt</key>
+	<string>deferredMaterializer</string>
+	<key>smartConvolution</key>
+	<string>reducermargin</string>
+</dict>
+</plist>

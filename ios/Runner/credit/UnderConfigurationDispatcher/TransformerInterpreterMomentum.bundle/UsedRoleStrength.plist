@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>matrixmode</key>
+	<string>seekRect</string>
+	<key>mobileConfiguration</key>
+	<string>smallTimer</string>
+	<key>numericalmetadata</key>
+	<string>associatedGate</string>
+	<key>oldTouch</key>
+	<string>aggregateHandler</string>
+	<key>serializestorage</key>
+	<string>deferredSine</string>
+	<key>shouldEmitGraphic</key>
+	<string>robustDrawer</string>
+	<key>shouldnavigateboxshadow</key>
+	<string>shouldDecodeAnimation</string>
+	<key>tappableProtocol</key>
+	<string>refreshText</string>
+</dict>
+</plist>

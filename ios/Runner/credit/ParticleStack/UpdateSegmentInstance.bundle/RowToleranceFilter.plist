@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedSplitter</key>
+	<string>wrapSlider</string>
+	<key>normbuilder</key>
+	<string>encodeinkwell</string>
+	<key>providerroute</key>
+	<string>symmetricMesh</string>
+	<key>shouldListenArithmetic</key>
+	<string>reducerChain</string>
+	<key>sorterVisible</key>
+	<string>shouldLoadGradient</string>
+</dict>
+</plist>

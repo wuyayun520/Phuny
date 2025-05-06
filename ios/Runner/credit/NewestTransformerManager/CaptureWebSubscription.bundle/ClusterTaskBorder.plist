@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopDelegate</key>
+	<string>accessibleMediaQuery</string>
+	<key>lastTicker</key>
+	<string>asynchronousThroughput</string>
+	<key>prevcursortype</key>
+	<string>popStamp</string>
+	<key>prismaticTentative</key>
+	<string>respectiveBuffer</string>
+	<key>rowMode</key>
+	<string>desktopInjection</string>
+	<key>shouldshowgem</key>
+	<string>augmentInteractor</string>
+	<key>subsequentsink</key>
+	<string>draggableDropdownButton</string>
+</dict>
+</plist>

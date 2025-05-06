@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxCount</key>
+	<string>scrollCommand</string>
+	<key>currentReference</key>
+	<string>descriptionAcceleration</string>
+	<key>enabledmetadata</key>
+	<string>significantMenu</string>
+	<key>gradientSize</key>
+	<string>lazyTexture</string>
+	<key>infoPosition</key>
+	<string>expandedresponse</string>
+	<key>shoulddisposeflex</key>
+	<string>sortedDrawer</string>
+	<key>sustainableTraversal</key>
+	<string>iconlocation</string>
+</dict>
+</plist>

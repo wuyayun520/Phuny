@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursormetrics</key>
+	<string>compositionalTicker</string>
+	<key>discardedManager</key>
+	<string>scrollableAnalyzer</string>
+	<key>mounthandler</key>
+	<string>reliabilitytag</string>
+	<key>storagematrix</key>
+	<string>sortedOption</string>
+	<key>utilvarbrightness</key>
+	<string>canFormatCharacter</string>
+</dict>
+</plist>

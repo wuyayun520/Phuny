@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedinstructiondepth</key>
+	<string>symmetricExpanded</string>
+	<key>flexiblePopup</key>
+	<string>immutableImpact</string>
+	<key>granularResolver</key>
+	<string>threadParam</string>
+	<key>monsterInset</key>
+	<string>escalatePopup</string>
+	<key>temporarydescriptor</key>
+	<string>shouldobserveoption</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionOrientation</key>
+	<string>delegatebottom</string>
+	<key>easyStateful</key>
+	<string>canvasState</string>
+	<key>iterativeBinder</key>
+	<string>shouldStopRadio</string>
+	<key>largeInjection</key>
+	<string>findAlignment</string>
+	<key>musicTail</key>
+	<string>shouldBuildNavigation</string>
+	<key>pagerDelay</key>
+	<string>denseAppBar</string>
+	<key>shouldEmitExpanded</key>
+	<string>factoryFacade</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopStateful</key>
+	<string>grainFacade</string>
+	<key>hierarchicalCard</key>
+	<string>shouldSkipCapsule</string>
+	<key>informationDepth</key>
+	<string>mainIntegrity</string>
+	<key>mainprovision</key>
+	<string>modulusShape</string>
+	<key>mediumConnector</key>
+	<string>shouldFinishMomentum</string>
+	<key>shouldFetchView</key>
+	<string>optimizeObserver</string>
+	<key>shouldMountModal</key>
+	<string>queueDecorator</string>
+</dict>
+</plist>

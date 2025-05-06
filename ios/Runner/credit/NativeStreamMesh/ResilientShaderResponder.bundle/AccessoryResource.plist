@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionproxydistance</key>
+	<string>newestprovision</string>
+	<key>cupertinoContraction</key>
+	<string>concurrentBandwidth</string>
+	<key>deflatemenu</key>
+	<string>newestGesture</string>
+	<key>escalatetexture</key>
+	<string>baselineProxy</string>
+	<key>grayscaleleft</key>
+	<string>consumerCoord</string>
+	<key>independentLoop</key>
+	<string>nativeTrigger</string>
+	<key>precisionVisible</key>
+	<string>divideScene</string>
+	<key>respectiveLoss</key>
+	<string>persistAspect</string>
+	<key>scrollableMonster</key>
+	<string>hyperbolicSegue</string>
+	<key>shouldDecodeStream</key>
+	<string>logarithmBrightness</string>
+</dict>
+</plist>

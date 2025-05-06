@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationTension</key>
+	<string>replacesink</string>
+	<key>expandedResponse</key>
+	<string>canEndPet</string>
+	<key>ignoredThreshold</key>
+	<string>canAnimateNotifier</string>
+	<key>immediateWidget</key>
+	<string>loopFeedback</string>
+	<key>richtextsaturation</key>
+	<string>multiplicationAdapter</string>
+	<key>shouldSetStateStamp</key>
+	<string>copyTransformer</string>
+	<key>statefulspeed</key>
+	<string>lostAsync</string>
+	<key>storyboardtransition</key>
+	<string>criticalBuffer</string>
+</dict>
+</plist>

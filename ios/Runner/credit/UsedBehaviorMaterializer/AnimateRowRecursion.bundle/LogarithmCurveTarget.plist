@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleSymbol</key>
+	<string>descentIndex</string>
+	<key>discardedAsset</key>
+	<string>adaptiveMapper</string>
+	<key>iconSaturation</key>
+	<string>gradientRotation</string>
+	<key>nextSkin</key>
+	<string>canPersistCapsule</string>
+	<key>referenceDensity</key>
+	<string>scrollableDrawer</string>
+	<key>sortedException</key>
+	<string>shouldDecodeMusic</string>
+</dict>
+</plist>

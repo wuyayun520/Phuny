@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardTransition</key>
+	<string>dynamicOperation</string>
+	<key>reactiveFormat</key>
+	<string>shouldSubscribeMedia</string>
+	<key>toolStyle</key>
+	<string>permanentOccasion</string>
+	<key>widgetwithoutmediator</key>
+	<string>encapsulatefragment</string>
+</dict>
+</plist>

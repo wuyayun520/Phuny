@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionposition</key>
+	<string>multiDisclaimer</string>
+	<key>buttonmodecontrast</key>
+	<string>threadVariable</string>
+	<key>consumeroractivity</key>
+	<string>axisbufferflags</string>
+	<key>defaultmission</key>
+	<string>moduleBrightness</string>
+	<key>eagerConstant</key>
+	<string>chapterOperation</string>
+	<key>hierarchicalScheduler</key>
+	<string>scaleIndex</string>
+	<key>instructionDelay</key>
+	<string>storyboardFramework</string>
+	<key>protectedResilience</key>
+	<string>paddingOrientation</string>
+	<key>robustChart</key>
+	<string>primaryDocument</string>
+	<key>shouldAttachTable</key>
+	<string>canDispatchConsumer</string>
+</dict>
+</plist>

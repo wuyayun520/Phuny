@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audioHue</key>
+	<string>pagerInterval</string>
+	<key>catalystshape</key>
+	<string>oldBandwidth</string>
+	<key>commonConvolution</key>
+	<string>cursorPlatform</string>
+	<key>featureKind</key>
+	<string>hardMesh</string>
+	<key>fusedMethod</key>
+	<string>normalBandwidth</string>
+	<key>granularGate</key>
+	<string>checkQueue</string>
+	<key>shouldAnimateLog</key>
+	<string>elasticpadding</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveSlider</key>
+	<string>denseTrajectory</string>
+	<key>alphadistance</key>
+	<string>routeresource</string>
+	<key>beginnermission</key>
+	<string>triggerInset</string>
+	<key>difficultPositioned</key>
+	<string>paintboxshadow</string>
+	<key>divideplate</key>
+	<string>lazyObject</string>
+	<key>gateRotation</key>
+	<string>basicItem</string>
+	<key>interfaceRate</key>
+	<string>mountedroute</string>
+	<key>reducerawayobserver</key>
+	<string>transformerMomentum</string>
+	<key>shouldStreamCapsule</key>
+	<string>subscribeText</string>
+	<key>viewRight</key>
+	<string>synchronousSpot</string>
+</dict>
+</plist>

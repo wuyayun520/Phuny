@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeDelay</key>
+	<string>canReplaceAspect</string>
+	<key>cosineDensity</key>
+	<string>creatorStyle</string>
+	<key>flexSkewX</key>
+	<string>opaqueEntity</string>
+	<key>grayscaleschema</key>
+	<string>publishalpha</string>
+	<key>protocolTop</key>
+	<string>parallelwidget</string>
+	<key>sharedColumn</key>
+	<string>shouldCacheComposition</string>
+	<key>shouldfetchcursor</key>
+	<string>binderindex</string>
+</dict>
+</plist>

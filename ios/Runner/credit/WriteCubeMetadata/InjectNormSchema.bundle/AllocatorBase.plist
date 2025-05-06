@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableStep</key>
+	<string>maintainListener</string>
+	<key>eventbynumber</key>
+	<string>renameAsset</string>
+	<key>trianglesTheme</key>
+	<string>rectflyweightdirection</string>
+	<key>vertexRight</key>
+	<string>cardHue</string>
+</dict>
+</plist>

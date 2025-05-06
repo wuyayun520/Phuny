@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipcheckbox</key>
+	<string>ignoredmargin</string>
+	<key>curveTag</key>
+	<string>webException</string>
+	<key>desktopScenario</key>
+	<string>shouldContinueCell</string>
+	<key>immutableGesture</key>
+	<string>firstNotification</string>
+	<key>missedReceiver</key>
+	<string>protectedDimension</string>
+	<key>mutableSegue</key>
+	<string>playTween</string>
+	<key>otherChart</key>
+	<string>detachEvent</string>
+	<key>smallCapacity</key>
+	<string>joinerAlignment</string>
+	<key>substantialCustomPaint</key>
+	<string>opaqueSelector</string>
+</dict>
+</plist>

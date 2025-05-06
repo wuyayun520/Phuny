@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultplayback</key>
+	<string>primarytrajectory</string>
+	<key>defaultsign</key>
+	<string>gridviewTask</string>
+	<key>difficultListener</key>
+	<string>smallListener</string>
+	<key>enabledChannel</key>
+	<string>buttonBridge</string>
+	<key>mergerResponse</key>
+	<string>remediationlocation</string>
+	<key>multiCapacity</key>
+	<string>fixedRequest</string>
+	<key>presenterintegrity</key>
+	<string>vectorTail</string>
+	<key>prismaticCheckbox</key>
+	<string>dimensionEdge</string>
+	<key>scalabilityOffset</key>
+	<string>subscriberLocation</string>
+</dict>
+</plist>

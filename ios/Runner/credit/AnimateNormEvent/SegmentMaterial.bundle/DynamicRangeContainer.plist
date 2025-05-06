@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerpadding</key>
+	<string>taskfactory</string>
+	<key>errorofframework</key>
+	<string>singleView</string>
+	<key>formatchannels</key>
+	<string>methodBuffer</string>
+	<key>immutablePositioned</key>
+	<string>shouldpauseinterpolation</string>
+	<key>reduceoperation</key>
+	<string>curveformat</string>
+	<key>relationalSubscription</key>
+	<string>kernelgroup</string>
+	<key>statefulConsumption</key>
+	<string>standaloneSprite</string>
+	<key>synchronousConstant</key>
+	<string>customSorter</string>
+	<key>webTitle</key>
+	<string>symmetricPolyfill</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationValidation</key>
+	<string>agileLoss</string>
+	<key>inactiveModulus</key>
+	<string>inflateGradient</string>
+	<key>iterativeDimension</key>
+	<string>continueTouch</string>
+	<key>lifecycleTop</key>
+	<string>ephemeralReducer</string>
+	<key>multiAspect</key>
+	<string>protocolTension</string>
+	<key>multiItem</key>
+	<string>textrequest</string>
+	<key>normalOffset</key>
+	<string>publicTentative</string>
+	<key>synchronousGesture</key>
+	<string>pushException</string>
+</dict>
+</plist>

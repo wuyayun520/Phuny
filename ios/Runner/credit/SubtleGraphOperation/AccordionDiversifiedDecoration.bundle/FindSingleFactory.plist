@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticrouteorientation</key>
+	<string>publisherspeed</string>
+	<key>audioDelay</key>
+	<string>canDismissDimension</string>
+	<key>iterativeCharacteristic</key>
+	<string>otherPrecision</string>
+	<key>masterrouter</key>
+	<string>enabledMember</string>
+	<key>ontextfieldtap</key>
+	<string>localplatepressure</string>
+	<key>projectionresponse</key>
+	<string>spriteinphase</string>
+	<key>sorterStatus</key>
+	<string>elasticPublisher</string>
+	<key>taskinset</key>
+	<string>coordinatorshade</string>
+</dict>
+</plist>

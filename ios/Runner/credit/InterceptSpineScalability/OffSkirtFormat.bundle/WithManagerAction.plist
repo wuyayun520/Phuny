@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicTraversal</key>
+	<string>unmountmodel</string>
+	<key>exceptioninset</key>
+	<string>alignmentSystem</string>
+	<key>loaderShape</key>
+	<string>standaloneGesture</string>
+	<key>missedSubpixel</key>
+	<string>sizeorsingleton</string>
+	<key>refactorcompleter</key>
+	<string>buttonFunction</string>
+	<key>shouldDetachBox</key>
+	<string>publicMargin</string>
+	<key>standaloneasyncvisible</key>
+	<string>prepareMonster</string>
+</dict>
+</plist>

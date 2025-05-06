@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonHero</key>
+	<string>advancedOccasion</string>
+	<key>receiverBottom</key>
+	<string>enabledStack</string>
+	<key>statefulloopcenter</key>
+	<string>frameVelocity</string>
+</dict>
+</plist>

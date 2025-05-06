@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionoptimizerfeedback</key>
+	<string>protectedpaddingskewx</string>
+	<key>discardedGridView</key>
+	<string>listenCollection</string>
+	<key>mediumComposition</key>
+	<string>uniquePreview</string>
+	<key>scrollvisibility</key>
+	<string>scrollFeedback</string>
+	<key>shouldAnimateSample</key>
+	<string>requiredCompletion</string>
+	<key>shouldContinueBuilder</key>
+	<string>threadviafacade</string>
+	<key>slashprototypebehavior</key>
+	<string>requestComposite</string>
+	<key>substantialGrain</key>
+	<string>shouldattachgrayscale</string>
+	<key>tabviewTension</key>
+	<string>playbackscenario</string>
+</dict>
+</plist>

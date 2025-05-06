@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detachoffset</key>
+	<string>hashMode</string>
+	<key>emitterDelay</key>
+	<string>adaptiveCustomPaint</string>
+	<key>inactiveStoryboard</key>
+	<string>symbolStructure</string>
+	<key>latencySize</key>
+	<string>parallelStorage</string>
+	<key>loopHead</key>
+	<string>shouldsubscribegem</string>
+	<key>observewidget</key>
+	<string>petParam</string>
+	<key>sequentialbehavior</key>
+	<string>prevAwait</string>
+	<key>shaderDelay</key>
+	<string>typicalGroup</string>
+	<key>specifyRenderer</key>
+	<string>shouldNotifyCharacter</string>
+	<key>statelessInset</key>
+	<string>setstatetransition</string>
+</dict>
+</plist>

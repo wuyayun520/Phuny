@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerModulus</key>
+	<string>combineChart</string>
+	<key>compositionalFactory</key>
+	<string>animatedsliderinteraction</string>
+	<key>directSubscription</key>
+	<string>persistBaseline</string>
+	<key>enabledProcessor</key>
+	<string>animatePageView</string>
+	<key>localizationLeft</key>
+	<string>parseMatrix</string>
+	<key>radiusstyle</key>
+	<string>cubeBorder</string>
+	<key>robustrectstyle</key>
+	<string>rectifyNavigator</string>
+	<key>shouldFormatArithmetic</key>
+	<string>writeFactory</string>
+	<key>shoulddisconnectdocument</key>
+	<string>sharedArchitecture</string>
+	<key>usedSkin</key>
+	<string>permanentticker</string>
+</dict>
+</plist>

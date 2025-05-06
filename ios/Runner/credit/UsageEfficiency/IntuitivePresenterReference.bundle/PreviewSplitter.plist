@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeScreen</key>
+	<string>imperativeText</string>
+	<key>diffablePlayback</key>
+	<string>singletonlatency</string>
+	<key>disabledThreshold</key>
+	<string>canFetchController</string>
+	<key>persistenttopicposition</key>
+	<string>unbindCard</string>
+	<key>referenceLeft</key>
+	<string>gestureRotation</string>
+	<key>shouldEncodeThread</key>
+	<string>shouldLayoutTabBar</string>
+	<key>significantDrawer</key>
+	<string>mutableDelivery</string>
+	<key>strokeOpacity</key>
+	<string>sequentialBase</string>
+</dict>
+</plist>

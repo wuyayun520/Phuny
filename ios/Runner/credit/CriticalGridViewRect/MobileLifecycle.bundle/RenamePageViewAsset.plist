@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedTweak</key>
+	<string>adjustException</string>
+	<key>errorTheme</key>
+	<string>signProxy</string>
+	<key>masterpresenter</key>
+	<string>eventnearfacade</string>
+	<key>mechanismPressure</key>
+	<string>reusablePicker</string>
+	<key>relationalService</key>
+	<string>layoutButton</string>
+	<key>sampleforce</key>
+	<string>primaryInkWell</string>
+	<key>shouldStopGradient</key>
+	<string>staticColor</string>
+	<key>toolspeed</key>
+	<string>mediocreScreen</string>
+	<key>viewatoperation</key>
+	<string>cubeappearance</string>
+</dict>
+</plist>

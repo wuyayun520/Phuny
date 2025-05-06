@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>charactercommandorientation</key>
+	<string>geometricParticle</string>
+	<key>flexmechanism</key>
+	<string>stampInset</string>
+	<key>immediateRequest</key>
+	<string>mixinGroup</string>
+	<key>nativeCanvas</key>
+	<string>projectionLayer</string>
+	<key>permanentTween</key>
+	<string>stateVisibility</string>
+	<key>sequentialManager</key>
+	<string>canUpdateBoxShadow</string>
+	<key>shouldDisposeStream</key>
+	<string>disconnectNorm</string>
+	<key>unactivatedHandler</key>
+	<string>canBuildProtocol</string>
+</dict>
+</plist>

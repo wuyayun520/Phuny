@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableIcon</key>
+	<string>contractionBound</string>
+	<key>greatTolerance</key>
+	<string>navigateStoryboard</string>
+	<key>infobrightness</key>
+	<string>constraintinsidevariable</string>
+	<key>relationalEvolution</key>
+	<string>materialRect</string>
+	<key>swiftAcceleration</key>
+	<string>connectorAlignment</string>
+	<key>timeAlignment</key>
+	<string>canAttachRole</string>
+	<key>uniqueclippertint</key>
+	<string>maxBatch</string>
+</dict>
+</plist>

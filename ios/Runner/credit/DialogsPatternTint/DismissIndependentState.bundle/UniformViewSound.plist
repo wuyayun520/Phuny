@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gestureResponse</key>
+	<string>provideIsolate</string>
+	<key>nativeSpecifier</key>
+	<string>canDisconnectMovement</string>
+	<key>navigationSpeed</key>
+	<string>originalElasticity</string>
+	<key>shouldUnmountTabView</key>
+	<string>concretePlate</string>
+</dict>
+</plist>

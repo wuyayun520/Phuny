@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorName</key>
+	<string>displayableOptimizer</string>
+	<key>characterOrigin</key>
+	<string>listenoperation</string>
+	<key>commonCache</key>
+	<string>playbackTail</string>
+	<key>hashvisibility</key>
+	<string>easyResponder</string>
+	<key>permissiveRadio</key>
+	<string>canKeepWorkflow</string>
+	<key>synchronousBase</key>
+	<string>materializeService</string>
+</dict>
+</plist>

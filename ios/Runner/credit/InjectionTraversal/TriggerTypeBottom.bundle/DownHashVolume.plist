@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedPolygon</key>
+	<string>uniformEntropy</string>
+	<key>copystoryboard</key>
+	<string>sceneDensity</string>
+	<key>easyPopup</key>
+	<string>shouldNotifyLabel</string>
+	<key>emitterContrast</key>
+	<string>capacitiesTint</string>
+	<key>logarithmMode</key>
+	<string>lazyZone</string>
+	<key>polyfillbottom</key>
+	<string>shouldTransitionSample</string>
+	<key>prevConfidentiality</key>
+	<string>canStartSegue</string>
+	<key>reliabilitySize</key>
+	<string>delegatescale</string>
+	<key>routelabel</key>
+	<string>tensorRichText</string>
+	<key>unbindkernel</key>
+	<string>channelsStatus</string>
+</dict>
+</plist>

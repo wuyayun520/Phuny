@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertIndex</key>
+	<string>resizableRestriction</string>
+	<key>draggableFlex</key>
+	<string>clusterkind</string>
+	<key>explicitVector</key>
+	<string>invisibleGate</string>
+	<key>lazyRestriction</key>
+	<string>tappableObserver</string>
+	<key>materialMaster</key>
+	<string>implementDuration</string>
+	<key>strokeTheme</key>
+	<string>sharedInteger</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedElasticity</key>
+	<string>actioncontrast</string>
+	<key>materialTransformer</key>
+	<string>customPrecision</string>
+	<key>primaryEntropy</key>
+	<string>shouldPersistBox</string>
+	<key>recursionMode</key>
+	<string>missionTemple</string>
+	<key>singletonTint</key>
+	<string>composableGram</string>
+</dict>
+</plist>

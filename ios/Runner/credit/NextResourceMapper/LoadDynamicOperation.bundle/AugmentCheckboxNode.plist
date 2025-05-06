@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateSkewY</key>
+	<string>writeInteractor</string>
+	<key>nextTool</key>
+	<string>retrieveDelegate</string>
+	<key>protectedAnalogy</key>
+	<string>optionValue</string>
+	<key>shouldInflatePageView</key>
+	<string>onrichtexttap</string>
+</dict>
+</plist>

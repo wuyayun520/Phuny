@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveSpine</key>
+	<string>featureDensity</string>
+	<key>cartesianTransition</key>
+	<string>decodeNotifier</string>
+	<key>commonPager</key>
+	<string>symmetricAlert</string>
+	<key>criticalActivity</key>
+	<string>canInflateReference</string>
+	<key>inactiveCombiner</key>
+	<string>musicTier</string>
+	<key>shouldDismissMusic</key>
+	<string>hierarchicalRemediation</string>
+	<key>shouldEmitPriority</key>
+	<string>alertfactory</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonhashspacing</key>
+	<string>granularModulus</string>
+	<key>evaluaterequest</key>
+	<string>exceptionMemento</string>
+	<key>fusedAlignment</key>
+	<string>uniformInterpolation</string>
+	<key>keyTrajectory</key>
+	<string>canDetachNorm</string>
+	<key>shouldEndCaption</key>
+	<string>axisFeedback</string>
+	<key>temporaryPreview</key>
+	<string>shouldpublishstamp</string>
+	<key>unactivatedfragments</key>
+	<string>shouldShowPriority</string>
+</dict>
+</plist>

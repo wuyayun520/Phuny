@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselinetint</key>
+	<string>giftStage</string>
+	<key>dedicatedVector</key>
+	<string>polygonState</string>
+	<key>observerleft</key>
+	<string>resultStyle</string>
+	<key>richtextSkewY</key>
+	<string>flexibleimage</string>
+	<key>shouldSkipCard</key>
+	<string>actionprovider</string>
+</dict>
+</plist>

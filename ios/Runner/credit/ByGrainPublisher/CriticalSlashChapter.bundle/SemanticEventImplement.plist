@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionstrength</key>
+	<string>shouldPaintTabBar</string>
+	<key>metricsResponse</key>
+	<string>interactiveOptimizer</string>
+	<key>quitoptimizer</key>
+	<string>globalSchema</string>
+	<key>respondindicator</key>
+	<string>spineBehavior</string>
+	<key>semanticBaseline</key>
+	<string>intermediateResult</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticCenter</key>
+	<string>lockFeature</string>
+	<key>behaviorSpacing</key>
+	<string>shouldSkipCapsule</string>
+	<key>containerBehavior</key>
+	<string>scrollableConstant</string>
+	<key>cursorState</key>
+	<string>lostDimension</string>
+	<key>elasticEffect</key>
+	<string>crucialAwait</string>
+	<key>responsiveLog</key>
+	<string>defaultContraction</string>
+	<key>retrieveerror</key>
+	<string>pinchableSegue</string>
+	<key>reusableMetrics</key>
+	<string>canPrepareObserver</string>
+	<key>shouldAnimateObserver</key>
+	<string>buildSwitch</string>
+	<key>symmetricConfidentiality</key>
+	<string>webstatecenter</string>
+</dict>
+</plist>

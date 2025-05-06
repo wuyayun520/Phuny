@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasShade</key>
+	<string>fragmentsShade</string>
+	<key>controllerborder</key>
+	<string>unscheduleIsolate</string>
+	<key>cupertinoStateless</key>
+	<string>shouldDetachDialogs</string>
+	<key>curvewrapper</key>
+	<string>persistentReliability</string>
+	<key>greatInfrastructure</key>
+	<string>shouldLayoutArithmetic</string>
+	<key>segueandaction</key>
+	<string>decoderow</string>
+	<key>shouldConnectCache</key>
+	<string>unsortedRemainder</string>
+</dict>
+</plist>

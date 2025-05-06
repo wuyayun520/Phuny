@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combinerPosition</key>
+	<string>shouldRestartAppBar</string>
+	<key>compositionalbaseline</key>
+	<string>keyModel</string>
+	<key>independentTabView</key>
+	<string>responsiveListener</string>
+	<key>intermediateGrayscale</key>
+	<string>resetarithmetic</string>
+	<key>localCatalyst</key>
+	<string>replaceGraphic</string>
+	<key>localcheckboxvisible</key>
+	<string>heapPhase</string>
+	<key>mobileEntropy</key>
+	<string>pinchableEquipment</string>
+</dict>
+</plist>

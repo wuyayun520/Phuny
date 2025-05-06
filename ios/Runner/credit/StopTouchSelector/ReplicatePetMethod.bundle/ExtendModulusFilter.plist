@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedCertificate</key>
+	<string>shouldUnmountedNavigation</string>
+	<key>buffervisitorright</key>
+	<string>permanentdelegate</string>
+	<key>criticalcurverate</key>
+	<string>progressbarValidation</string>
+	<key>shouldEncodeSpecifier</key>
+	<string>enumerateAction</string>
+</dict>
+</plist>

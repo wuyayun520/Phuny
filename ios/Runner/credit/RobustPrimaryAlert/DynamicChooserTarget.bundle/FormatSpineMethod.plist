@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerpopup</key>
+	<string>shouldRenderSample</string>
+	<key>denseGroup</key>
+	<string>dropoutDescription</string>
+	<key>fusedoperationedge</key>
+	<string>statefulTriangles</string>
+	<key>intermediateGradient</key>
+	<string>usagerow</string>
+	<key>notificationTop</key>
+	<string>permissiveSize</string>
+	<key>shouldRestartSpecifier</key>
+	<string>mountedProject</string>
+</dict>
+</plist>

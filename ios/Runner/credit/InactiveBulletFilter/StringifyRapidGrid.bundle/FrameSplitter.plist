@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateandkind</key>
+	<string>secondUseCase</string>
+	<key>constraintandvariable</key>
+	<string>sharedrepository</string>
+	<key>grayscaletraversal</key>
+	<string>curveFacade</string>
+	<key>sequentialAlpha</key>
+	<string>kernelbuffer</string>
+	<key>sequentialBatch</key>
+	<string>canUnmountedPositioned</string>
+	<key>shouldCacheLayout</key>
+	<string>bufferdespitedecorator</string>
+	<key>typicalmap</key>
+	<string>mixinwidget</string>
+	<key>usedAnalogy</key>
+	<string>dedicatedtimeline</string>
+	<key>wrapperFrequency</key>
+	<string>shouldEmitInteger</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concatenaterichtext</key>
+	<string>associateconfiguration</string>
+	<key>directReplica</key>
+	<string>shouldSetStateAnimatedContainer</string>
+	<key>imagestate</key>
+	<string>interfaceduration</string>
+	<key>indicatortop</key>
+	<string>modeltypesize</string>
+	<key>rapidTopic</key>
+	<string>fixedPainter</string>
+	<key>resourcecommandoffset</key>
+	<string>diffableboxshadowscale</string>
+	<key>respectiveCupertino</key>
+	<string>encodeBehavior</string>
+	<key>tappableBuffer</key>
+	<string>resizableVertex</string>
+	<key>tentativeKind</key>
+	<string>canValidateExtension</string>
+</dict>
+</plist>

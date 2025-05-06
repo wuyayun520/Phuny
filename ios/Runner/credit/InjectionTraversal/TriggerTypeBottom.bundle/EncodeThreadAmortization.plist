@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryName</key>
+	<string>buildThread</string>
+	<key>animationshapespacing</key>
+	<string>shouldrebuildpoint</string>
+	<key>dedicatedFilter</key>
+	<string>pageviewCount</string>
+	<key>dimensionincludephase</key>
+	<string>overlayValue</string>
+	<key>durationIndex</key>
+	<string>musicLocation</string>
+	<key>soundIndex</key>
+	<string>sortedAction</string>
+</dict>
+</plist>

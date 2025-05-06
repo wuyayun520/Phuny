@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticStatus</key>
+	<string>shouldloadchallenge</string>
+	<key>batchlikestyle</key>
+	<string>navigationSaturation</string>
+	<key>buildeffect</key>
+	<string>previewProxy</string>
+	<key>materialThreshold</key>
+	<string>yieldIcon</string>
+	<key>onappbarchanged</key>
+	<string>encapsulateprogressbar</string>
+	<key>pagerPosition</key>
+	<string>logBottom</string>
+	<key>shouldNotifyNorm</key>
+	<string>canUnmountMap</string>
+</dict>
+</plist>

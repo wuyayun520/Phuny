@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationValidation</key>
+	<string>resilientCreator</string>
+	<key>gridDistance</key>
+	<string>handlerCycle</string>
+	<key>maincustompaint</key>
+	<string>richtextVelocity</string>
+	<key>platespacing</key>
+	<string>visualizeState</string>
+	<key>reusableMend</key>
+	<string>logValue</string>
+</dict>
+</plist>

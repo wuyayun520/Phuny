@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateNib</key>
+	<string>delicateMobile</string>
+	<key>keyFormat</key>
+	<string>selectedGate</string>
+	<key>receiveposition</key>
+	<string>shouldDeserializeGem</string>
+	<key>shouldAnimateTangent</key>
+	<string>animationStage</string>
+	<key>shouldDetachCurve</key>
+	<string>heapdrawer</string>
+	<key>similarConnector</key>
+	<string>listenerevolution</string>
+	<key>validaterepository</key>
+	<string>serializeBloc</string>
+</dict>
+</plist>

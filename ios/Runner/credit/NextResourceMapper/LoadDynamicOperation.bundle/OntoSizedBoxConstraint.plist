@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedChannel</key>
+	<string>flexFrequency</string>
+	<key>cosinestagecount</key>
+	<string>pageviewqueue</string>
+	<key>inactivebutton</key>
+	<string>similarEfficiency</string>
+	<key>musictolerance</key>
+	<string>radioTask</string>
+	<key>prevText</key>
+	<string>canEmitCoordinator</string>
+	<key>shouldUnbindGesture</key>
+	<string>requestResult</string>
+	<key>unactivatedFragments</key>
+	<string>activityLeft</string>
+	<key>uniquePolyfill</key>
+	<string>imperativeview</string>
+</dict>
+</plist>

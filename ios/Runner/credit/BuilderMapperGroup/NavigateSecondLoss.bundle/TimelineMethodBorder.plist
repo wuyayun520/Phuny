@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationbottom</key>
+	<string>imagetransformer</string>
+	<key>geometricTweak</key>
+	<string>shouldPauseAnimatedContainer</string>
+	<key>sequentialvector</key>
+	<string>binarySpeed</string>
+	<key>serializecache</key>
+	<string>originalHandler</string>
+	<key>shouldCacheEntropy</key>
+	<string>statefulGrid</string>
+	<key>unsortedmomentum</key>
+	<string>buttonSpeed</string>
+</dict>
+</plist>

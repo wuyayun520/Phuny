@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentMusic</key>
+	<string>routerFramework</string>
+	<key>dynamicTraversal</key>
+	<string>containerContrast</string>
+	<key>greatIsolate</key>
+	<string>mainSingleton</string>
+	<key>mediumQueue</key>
+	<string>receivefuture</string>
+	<key>monsteracceleration</key>
+	<string>renameBuffer</string>
+	<key>resetframe</key>
+	<string>deployPosition</string>
+	<key>singlesession</key>
+	<string>webRadius</string>
+	<key>smallController</key>
+	<string>respondPopup</string>
+	<key>tabbarTension</key>
+	<string>diffableHandler</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectBottom</key>
+	<string>originalModal</string>
+	<key>callbackpainter</key>
+	<string>convertDependency</string>
+	<key>frameborder</key>
+	<string>elasticRichText</string>
+	<key>heroType</key>
+	<string>addfeature</string>
+	<key>signstate</key>
+	<string>hierarchicaldelegate</string>
+	<key>textureInset</key>
+	<string>publisherHue</string>
+</dict>
+</plist>

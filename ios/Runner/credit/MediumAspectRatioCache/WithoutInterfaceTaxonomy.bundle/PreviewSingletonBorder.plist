@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedIsolate</key>
+	<string>reusableOffset</string>
+	<key>buildercyclekind</key>
+	<string>prismaticArithmetic</string>
+	<key>denseBinary</key>
+	<string>subscribeNotification</string>
+	<key>originalLinker</key>
+	<string>stoprichtext</string>
+	<key>stoptext</key>
+	<string>scrollableQueue</string>
+</dict>
+</plist>

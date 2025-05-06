@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hashflags</key>
+	<string>cancelAspectRatio</string>
+	<key>hyperbolicConverter</key>
+	<string>otherGridView</string>
+	<key>popupbridgetype</key>
+	<string>canDeserializeIndicator</string>
+	<key>shouldDeserializeSine</key>
+	<string>backwardCycle</string>
+	<key>shouldShowNotifier</key>
+	<string>shouldTrainMonster</string>
+	<key>shouldfetchduration</key>
+	<string>colorRate</string>
+	<key>statefuldescription</key>
+	<string>layoutLoss</string>
+</dict>
+</plist>

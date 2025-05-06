@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedMission</key>
+	<string>directlyView</string>
+	<key>directSorter</key>
+	<string>basicitem</string>
+	<key>iconHead</key>
+	<string>uniqueMonster</string>
+	<key>infoTail</key>
+	<string>timelineOrigin</string>
+	<key>mapparametertop</key>
+	<string>scenarioCenter</string>
+	<key>rectvalidation</key>
+	<string>deferredSample</string>
+	<key>segmentTop</key>
+	<string>filterSize</string>
+	<key>shouldRestartDescriptor</key>
+	<string>constraintrecursion</string>
+	<key>shouldpushstream</key>
+	<string>menurect</string>
+	<key>significantScreen</key>
+	<string>usedStream</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hasproject</key>
+	<string>shouldConnectSemantics</string>
+	<key>iterativeCanvas</key>
+	<string>disparateStateful</string>
+	<key>metricsAlignment</key>
+	<string>rapidModule</string>
+	<key>sensorscale</key>
+	<string>explicitcanvas</string>
+	<key>skinAcceleration</key>
+	<string>shouldTransitionDescriptor</string>
+	<key>standaloneDelivery</key>
+	<string>shouldConnectStateless</string>
+</dict>
+</plist>

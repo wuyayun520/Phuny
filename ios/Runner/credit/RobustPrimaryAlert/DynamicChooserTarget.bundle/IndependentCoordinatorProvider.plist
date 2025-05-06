@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architectureBrightness</key>
+	<string>standaloneButton</string>
+	<key>dialogsTheme</key>
+	<string>creatoredge</string>
+	<key>diffableContainer</key>
+	<string>assetSize</string>
+	<key>otherBullet</key>
+	<string>basicAperture</string>
+	<key>radioflyweightbound</key>
+	<string>alignmentasscope</string>
+	<key>shouldEmitButton</key>
+	<string>canCancelActivity</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedFragments</key>
+	<string>publicInteger</string>
+	<key>consultativeObserver</key>
+	<string>matrixinlayer</string>
+	<key>disabledCompletion</key>
+	<string>inflateWorkflow</string>
+	<key>inactivespritevelocity</key>
+	<string>usageBehavior</string>
+	<key>sessionduringaction</key>
+	<string>sessionForm</string>
+</dict>
+</plist>

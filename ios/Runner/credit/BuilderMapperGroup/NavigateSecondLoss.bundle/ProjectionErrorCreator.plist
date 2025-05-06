@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveListener</key>
+	<string>subsequentPlayback</string>
+	<key>contrastSaturation</key>
+	<string>canPersistMomentum</string>
+	<key>expandedAppearance</key>
+	<string>rendererresponse</string>
+	<key>hierarchicalCard</key>
+	<string>animatedcontainertext</string>
+	<key>intermediateBorder</key>
+	<string>rendersegment</string>
+	<key>materialGraphic</key>
+	<string>profileDecoration</string>
+	<key>receivetext</key>
+	<string>reactiveShader</string>
+	<key>seamlessTriangles</key>
+	<string>disparateInfrastructure</string>
+	<key>unsortedTrajectory</key>
+	<string>subscriptionActivity</string>
+</dict>
+</plist>

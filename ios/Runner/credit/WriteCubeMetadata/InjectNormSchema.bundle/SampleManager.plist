@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directGram</key>
+	<string>restoreDuration</string>
+	<key>fusedMerger</key>
+	<string>discardedVolume</string>
+	<key>shouldPrepareBoxShadow</key>
+	<string>interfaceMargin</string>
+	<key>smartInkWell</key>
+	<string>currentColor</string>
+</dict>
+</plist>

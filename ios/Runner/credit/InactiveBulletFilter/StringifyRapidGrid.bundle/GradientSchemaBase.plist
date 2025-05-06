@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralAspect</key>
+	<string>equipmentsound</string>
+	<key>gemForce</key>
+	<string>observerinteraction</string>
+	<key>intuitiveCheckbox</key>
+	<string>substantialScreen</string>
+	<key>publicSign</key>
+	<string>componentname</string>
+	<key>retainframe</key>
+	<string>loopStatus</string>
+	<key>shouldFetchClipper</key>
+	<string>disconnectResult</string>
+	<key>shouldUnmountPrecision</key>
+	<string>consumerscopedensity</string>
+	<key>shouldValidateRemainder</key>
+	<string>enhancearithmetic</string>
+	<key>singletonPosition</key>
+	<string>locateAllocator</string>
+	<key>techniqueTension</key>
+	<string>typicalbinary</string>
+</dict>
+</plist>

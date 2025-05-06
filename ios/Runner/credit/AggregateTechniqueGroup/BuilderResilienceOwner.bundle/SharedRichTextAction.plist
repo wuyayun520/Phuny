@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedCompleter</key>
+	<string>updateScroll</string>
+	<key>confidentialitySpeed</key>
+	<string>visitTween</string>
+	<key>ephemeralScale</key>
+	<string>decorationadapterleft</string>
+	<key>fixedScaffold</key>
+	<string>permissiveConsumer</string>
+	<key>interactiveInfrastructure</key>
+	<string>sortedDisclaimer</string>
+	<key>matrixtail</key>
+	<string>shouldHandleSegue</string>
+	<key>pinchableDependency</key>
+	<string>smartscreen</string>
+	<key>shouldDismissSlash</key>
+	<string>saveDimension</string>
+	<key>shouldNavigateTechnique</key>
+	<string>popupTag</string>
+</dict>
+</plist>

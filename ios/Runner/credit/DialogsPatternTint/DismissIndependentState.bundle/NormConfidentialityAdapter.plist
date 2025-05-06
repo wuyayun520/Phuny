@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintshapevalidation</key>
+	<string>taskTint</string>
+	<key>descriptionoperationtail</key>
+	<string>deserializeMap</string>
+	<key>displayableBinary</key>
+	<string>taskBound</string>
+	<key>errortransformer</key>
+	<string>optimizePreview</string>
+	<key>smartThread</key>
+	<string>multiPrecision</string>
+	<key>tickersingletonspacing</key>
+	<string>detailPressure</string>
+	<key>toolInterval</key>
+	<string>renderPet</string>
+</dict>
+</plist>

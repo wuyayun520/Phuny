@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalPadding</key>
+	<string>nextTabBar</string>
+	<key>dropdownbuttonfunctioninterval</key>
+	<string>displayableHash</string>
+	<key>executeaction</key>
+	<string>encodeCoordinator</string>
+	<key>largeMaterial</key>
+	<string>gestureTransparency</string>
+	<key>localReducer</key>
+	<string>lastframe</string>
+	<key>materialCoordinator</key>
+	<string>directChallenge</string>
+	<key>permanentPager</key>
+	<string>injectTitle</string>
+	<key>reusableTool</key>
+	<string>sequentialConverter</string>
+	<key>shouldEndSlider</key>
+	<string>subpixelTension</string>
+	<key>substantialDecoration</key>
+	<string>intermediateDetector</string>
+</dict>
+</plist>

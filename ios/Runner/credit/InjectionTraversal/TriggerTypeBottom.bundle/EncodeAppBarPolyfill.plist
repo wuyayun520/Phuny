@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedRow</key>
+	<string>shouldShowCompletion</string>
+	<key>clipperPosition</key>
+	<string>shouldPersistCupertino</string>
+	<key>collectionmediatorhead</key>
+	<string>immutableSpine</string>
+	<key>delegatemap</key>
+	<string>smallArithmetic</string>
+	<key>groupAlignment</key>
+	<string>discardedfragments</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedEvaluation</key>
+	<string>beginnerMap</string>
+	<key>pinchableanalogy</key>
+	<string>canPrepareCheckbox</string>
+	<key>shouldRouteStamp</key>
+	<string>canFormatSegue</string>
+	<key>synchronizequeue</key>
+	<string>wrapperCoord</string>
+</dict>
+</plist>

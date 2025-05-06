@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalUsage</key>
+	<string>custompaintmargin</string>
+	<key>currentBitrate</key>
+	<string>currentcompletionright</string>
+	<key>mutableCustomPaint</key>
+	<string>shouldsaveradio</string>
+	<key>retainedParticle</key>
+	<string>canRenderSwitch</string>
+	<key>sequentialScreen</key>
+	<string>composableConsumer</string>
+	<key>shouldReplaceBitrate</key>
+	<string>assetFramework</string>
+	<key>shouldRouteAnchor</key>
+	<string>swiftFunction</string>
+	<key>statelessSpecifier</key>
+	<string>usecaseAction</string>
+</dict>
+</plist>

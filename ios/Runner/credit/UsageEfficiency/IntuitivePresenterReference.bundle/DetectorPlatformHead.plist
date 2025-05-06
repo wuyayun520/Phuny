@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autodrawertension</key>
+	<string>declarativeLayout</string>
+	<key>cliperror</key>
+	<string>subscribeSizedBox</string>
+	<key>composableRecursion</key>
+	<string>visibleCallback</string>
+	<key>debugbase</key>
+	<string>typicalDrawer</string>
+	<key>shouldFetchPrecision</key>
+	<string>transformNavigator</string>
+	<key>shouldFormatMovement</key>
+	<string>alignmentwithoutcycle</string>
+	<key>synchronousdropdownbutton</key>
+	<string>aspectratiotext</string>
+</dict>
+</plist>

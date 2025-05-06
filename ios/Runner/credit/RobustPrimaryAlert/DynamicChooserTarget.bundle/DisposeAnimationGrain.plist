@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisMomentum</key>
+	<string>oldNotation</string>
+	<key>customizedRow</key>
+	<string>dismissspine</string>
+	<key>hierarchicalGradient</key>
+	<string>firstLocalization</string>
+	<key>impactTransparency</key>
+	<string>evolutionHead</string>
+	<key>limittween</key>
+	<string>shouldResumeRoute</string>
+	<key>originalDocument</key>
+	<string>shouldUnmountCompletion</string>
+</dict>
+</plist>

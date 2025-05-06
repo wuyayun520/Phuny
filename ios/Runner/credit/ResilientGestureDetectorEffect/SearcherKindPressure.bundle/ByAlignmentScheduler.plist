@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicText</key>
+	<string>oldscroller</string>
+	<key>providerresolver</key>
+	<string>interactiveImage</string>
+	<key>shouldFetchEqualization</key>
+	<string>dedicatedTraversal</string>
+	<key>shouldshowstateful</key>
+	<string>stacklatency</string>
+</dict>
+</plist>

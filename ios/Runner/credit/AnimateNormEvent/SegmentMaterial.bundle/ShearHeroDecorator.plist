@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoPosition</key>
+	<string>connectCycle</string>
+	<key>displayableMechanism</key>
+	<string>originalPosition</string>
+	<key>firstDelivery</key>
+	<string>visibleLoss</string>
+	<key>fixedMesh</key>
+	<string>completionCycle</string>
+	<key>interfaceOffset</key>
+	<string>shouldBuildSegue</string>
+	<key>opaquesingleton</key>
+	<string>numericalTextField</string>
+	<key>sharedprovision</key>
+	<string>scenedelay</string>
+	<key>unmarshalmenu</key>
+	<string>promiseVisitor</string>
+</dict>
+</plist>

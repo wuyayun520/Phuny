@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buffersincebridge</key>
+	<string>handleChart</string>
+	<key>constraintfinder</key>
+	<string>accessibleListView</string>
+	<key>cosineAcceleration</key>
+	<string>canListenCanvas</string>
+	<key>crudeCupertino</key>
+	<string>memberPrototype</string>
+	<key>diversifiedBorder</key>
+	<string>minSkirt</string>
+	<key>optionSkewX</key>
+	<string>bufferInteraction</string>
+	<key>previewAlignment</key>
+	<string>singleQueue</string>
+	<key>recursionrate</key>
+	<string>enabledStrength</string>
+	<key>requiredElement</key>
+	<string>usedStrength</string>
+	<key>resourceRate</key>
+	<string>originalConstant</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentmodal</key>
+	<string>concreteMultiplication</string>
+	<key>consumerstaterate</key>
+	<string>unmarshalRow</string>
+	<key>immutableAnchor</key>
+	<string>mountWidget</string>
+	<key>numericalSizedBox</key>
+	<string>zoneStage</string>
+	<key>permanentLatency</key>
+	<string>priorityrequest</string>
+	<key>routebuffercoord</key>
+	<string>canStartMember</string>
+	<key>shouldEncodeCaption</key>
+	<string>interactorFlyweight</string>
+	<key>shouldRestartSensor</key>
+	<string>seamlessGroup</string>
+	<key>synchronousUsage</key>
+	<string>limitTransition</string>
+</dict>
+</plist>

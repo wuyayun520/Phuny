@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>futurefromobserver</key>
+	<string>presentstack</string>
+	<key>missedManager</key>
+	<string>cubitopacity</string>
+	<key>persistentPageView</key>
+	<string>shouldPrepareConsumer</string>
+	<key>responseFlags</key>
+	<string>greatView</string>
+	<key>segmentBottom</key>
+	<string>newestTabBar</string>
+	<key>tappableIntegrity</key>
+	<string>similarElasticity</string>
+</dict>
+</plist>

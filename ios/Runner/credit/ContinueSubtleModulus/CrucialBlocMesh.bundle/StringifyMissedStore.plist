@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionstream</key>
+	<string>appbarEnvironment</string>
+	<key>cellFormat</key>
+	<string>grayscalePressure</string>
+	<key>confidentialityFormat</key>
+	<string>staticPager</string>
+	<key>crudeInteraction</key>
+	<string>gatestate</string>
+	<key>gestureparammomentum</key>
+	<string>combinerResponse</string>
+	<key>liteinteractor</key>
+	<string>shouldLoadSlash</string>
+	<key>memberForce</key>
+	<string>independentintensityhue</string>
+	<key>shouldEncodeText</key>
+	<string>referencevolume</string>
+	<key>sliderscale</key>
+	<string>canMountInkWell</string>
+</dict>
+</plist>

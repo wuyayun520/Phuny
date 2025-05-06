@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianMaster</key>
+	<string>skinAppearance</string>
+	<key>cartesianTangent</key>
+	<string>shouldDetachAxis</string>
+	<key>diffableprotocol</key>
+	<string>threadsaturation</string>
+	<key>geometriccard</key>
+	<string>petHead</string>
+	<key>hasAppBar</key>
+	<string>responsiveRichText</string>
+	<key>lostBox</key>
+	<string>canPublishScaffold</string>
+	<key>onvariantchanged</key>
+	<string>deferredResolver</string>
+	<key>responsiveError</key>
+	<string>responseFramework</string>
+	<key>shouldUnmountSine</key>
+	<string>disposeBinary</string>
+	<key>significantSubpixel</key>
+	<string>routerfrequency</string>
+</dict>
+</plist>

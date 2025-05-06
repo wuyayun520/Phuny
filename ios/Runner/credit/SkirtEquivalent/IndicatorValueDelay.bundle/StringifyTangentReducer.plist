@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decodeprofile</key>
+	<string>shouldPopSlider</string>
+	<key>defaultSkirt</key>
+	<string>scheduleHandler</string>
+	<key>globalTaxonomy</key>
+	<string>sortedTable</string>
+	<key>imperativeRadius</key>
+	<string>opaqueModule</string>
+	<key>markbuffer</key>
+	<string>widgetTension</string>
+	<key>navigatecurve</key>
+	<string>canPersistView</string>
+	<key>radiusBound</key>
+	<string>dimensionresource</string>
+	<key>shouldCreateSignature</key>
+	<string>invisiblePublisher</string>
+	<key>shouldLayoutAspectRatio</key>
+	<string>serializestack</string>
+</dict>
+</plist>

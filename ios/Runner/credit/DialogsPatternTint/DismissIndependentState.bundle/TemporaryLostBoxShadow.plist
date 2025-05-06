@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableStatus</key>
+	<string>showScaffold</string>
+	<key>eventskewx</key>
+	<string>shouldRestartUsage</string>
+	<key>permissiveAspectRatio</key>
+	<string>endCollection</string>
+	<key>pinchableHero</key>
+	<string>permanentSegment</string>
+	<key>priorTask</key>
+	<string>animatorTint</string>
+</dict>
+</plist>

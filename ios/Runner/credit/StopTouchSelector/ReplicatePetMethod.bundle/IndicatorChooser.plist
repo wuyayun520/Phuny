@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainergrid</key>
+	<string>rectmethodbound</string>
+	<key>binaryviaparameter</key>
+	<string>listenerColor</string>
+	<key>cubekind</key>
+	<string>handlerVariable</string>
+	<key>heapdependency</key>
+	<string>canMountMovement</string>
+	<key>processtabview</key>
+	<string>canMountOverlay</string>
+	<key>subtleDescriptor</key>
+	<string>encapsulateCompleter</string>
+</dict>
+</plist>

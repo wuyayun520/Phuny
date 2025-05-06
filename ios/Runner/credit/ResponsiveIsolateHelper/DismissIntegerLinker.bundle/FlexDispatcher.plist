@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>datatransparency</key>
+	<string>requestService</string>
+	<key>handlerreducer</key>
+	<string>canListenSensor</string>
+	<key>mendDensity</key>
+	<string>directlyTopic</string>
+	<key>shouldLoadCosine</key>
+	<string>canPresentTheme</string>
+	<key>shouldPaintScreen</key>
+	<string>secondIntegrity</string>
+	<key>shouldRebuildOption</key>
+	<string>featureChain</string>
+</dict>
+</plist>

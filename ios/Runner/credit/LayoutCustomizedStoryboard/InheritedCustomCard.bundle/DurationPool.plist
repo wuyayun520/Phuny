@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createequipment</key>
+	<string>canEncodeSegment</string>
+	<key>interfacename</key>
+	<string>secondTexture</string>
+	<key>musicInteraction</key>
+	<string>resilientmanagerbound</string>
+	<key>prioritywithoutbuffer</key>
+	<string>mediaquerywithnumber</string>
+	<key>reducerPressure</key>
+	<string>routetrigger</string>
+	<key>sampleDensity</key>
+	<string>isReference</string>
+</dict>
+</plist>

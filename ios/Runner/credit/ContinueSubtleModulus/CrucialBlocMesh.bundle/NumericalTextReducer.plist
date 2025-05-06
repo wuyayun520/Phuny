@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedintegration</key>
+	<string>checklistinlevel</string>
+	<key>easydialogscoord</key>
+	<string>refreshView</string>
+	<key>logFrequency</key>
+	<string>embraceDescription</string>
+	<key>progressbarSpeed</key>
+	<string>nodeTail</string>
+	<key>shouldObservePageView</key>
+	<string>restartCanvas</string>
+	<key>standalonePager</key>
+	<string>keypreviewappearance</string>
+</dict>
+</plist>

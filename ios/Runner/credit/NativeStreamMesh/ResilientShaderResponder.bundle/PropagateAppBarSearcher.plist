@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveSelector</key>
+	<string>tabviewLeft</string>
+	<key>blocmementostate</key>
+	<string>analogyCoord</string>
+	<key>immediateClipper</key>
+	<string>textureForce</string>
+	<key>lastTween</key>
+	<string>pushMap</string>
+	<key>reliabilitybrightness</key>
+	<string>startremainder</string>
+	<key>spriteAlignment</key>
+	<string>signaturePadding</string>
+	<key>traversalOrientation</key>
+	<string>smartCatalyst</string>
+</dict>
+</plist>

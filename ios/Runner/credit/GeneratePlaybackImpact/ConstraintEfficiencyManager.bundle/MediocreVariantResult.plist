@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedChecklist</key>
+	<string>storemethodpadding</string>
+	<key>behaviorForce</key>
+	<string>animatedComposition</string>
+	<key>declarativeMerger</key>
+	<string>shouldRenderInstruction</string>
+	<key>navigationName</key>
+	<string>resetTask</string>
+	<key>pivotalImpact</key>
+	<string>eagerScaffold</string>
+	<key>processisolate</key>
+	<string>grainIndex</string>
+	<key>restorecoordinator</key>
+	<string>secondException</string>
+	<key>shouldencodealpha</key>
+	<string>pinchableMovement</string>
+</dict>
+</plist>

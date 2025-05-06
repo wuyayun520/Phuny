@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bullethue</key>
+	<string>enabledStroke</string>
+	<key>discardedSemantics</key>
+	<string>methodsensor</string>
+	<key>previewsensor</key>
+	<string>accessoryForm</string>
+	<key>resizabledurationspeed</key>
+	<string>semanticslashformat</string>
+	<key>sustainableCube</key>
+	<string>secondListView</string>
+</dict>
+</plist>

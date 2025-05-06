@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalconstant</key>
+	<string>defaultmedia</string>
+	<key>framestrategypressure</key>
+	<string>canFetchBoxShadow</string>
+	<key>keyBandwidth</key>
+	<string>normaltasktension</string>
+	<key>sequentialSubpixel</key>
+	<string>signatureBuffer</string>
+	<key>smartProvision</key>
+	<string>buffermodetail</string>
+	<key>tappableRequest</key>
+	<string>crucialBaseline</string>
+</dict>
+</plist>

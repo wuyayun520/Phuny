@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mountedservice</key>
+	<string>secondObserver</string>
+	<key>notifiertail</key>
+	<string>secondCanvas</string>
+	<key>priorreducerfrequency</key>
+	<string>computeDelegate</string>
+	<key>sessionsensor</key>
+	<string>consumeError</string>
+	<key>shouldHandleCoordinator</key>
+	<string>canConnectMedia</string>
+	<key>shouldInflateUsage</key>
+	<string>equivalentInterval</string>
+	<key>steptint</key>
+	<string>imperativeutil</string>
+	<key>storyboardFeedback</key>
+	<string>drawStore</string>
+</dict>
+</plist>

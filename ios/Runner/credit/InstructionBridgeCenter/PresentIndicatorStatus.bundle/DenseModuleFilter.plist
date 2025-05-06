@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoOverlay</key>
+	<string>fillview</string>
+	<key>menuBottom</key>
+	<string>keepcontainer</string>
+	<key>petlikeenvironment</key>
+	<string>unbindstorage</string>
+	<key>sceneobserverspeed</key>
+	<string>interpolateinterpolation</string>
+	<key>shouldReplaceEquipment</key>
+	<string>synchronousRequest</string>
+	<key>statelessAnimation</key>
+	<string>dialogsVisible</string>
+	<key>synchronousChecklist</key>
+	<string>composableentity</string>
+</dict>
+</plist>

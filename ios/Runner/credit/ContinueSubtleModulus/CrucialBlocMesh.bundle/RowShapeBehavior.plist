@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteTool</key>
+	<string>resultthroughframework</string>
+	<key>dynamicexpandedspacing</key>
+	<string>nativebox</string>
+	<key>keyAppBar</key>
+	<string>smallRichText</string>
+	<key>normalDelivery</key>
+	<string>shouldDisposeCompletion</string>
+	<key>originalEvent</key>
+	<string>canResumeSine</string>
+	<key>restoredelegate</key>
+	<string>encodeDecoration</string>
+	<key>selectedPrecision</key>
+	<string>containerdispatcher</string>
+	<key>shouldDisconnectInstruction</key>
+	<string>appbarBridge</string>
+</dict>
+</plist>

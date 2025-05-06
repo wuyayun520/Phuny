@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitvalueformat</key>
+	<string>mobileStep</string>
+	<key>euclideanWrapper</key>
+	<string>chapterTier</string>
+	<key>hierarchicalDelegate</key>
+	<string>publishCharacter</string>
+	<key>invisibleTitle</key>
+	<string>declarativeColor</string>
+	<key>oncubechanged</key>
+	<string>configurationTransparency</string>
+	<key>receivepromise</key>
+	<string>criticalTweak</string>
+	<key>shouldPresentLoss</key>
+	<string>deactivateProvider</string>
+	<key>showtouch</key>
+	<string>notificationDepth</string>
+	<key>sophisticatedNotifier</key>
+	<string>decodeShader</string>
+	<key>subtleReceiver</key>
+	<string>basicText</string>
+</dict>
+</plist>

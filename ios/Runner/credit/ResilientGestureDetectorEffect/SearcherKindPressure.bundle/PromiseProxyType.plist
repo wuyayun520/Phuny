@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetSpeed</key>
+	<string>seamlessConverter</string>
+	<key>distinctionFeedback</key>
+	<string>shouldEncodeSpine</string>
+	<key>granularCluster</key>
+	<string>infoTop</string>
+	<key>granularEffect</key>
+	<string>shouldDispatchStream</string>
+	<key>kernelFrequency</key>
+	<string>formatAppBar</string>
+	<key>lastStep</key>
+	<string>routerBound</string>
+	<key>shouldanimateaxis</key>
+	<string>canUnbindCollection</string>
+</dict>
+</plist>

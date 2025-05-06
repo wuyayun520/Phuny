@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnercapacity</key>
+	<string>compareskin</string>
+	<key>hierarchicalHistogram</key>
+	<string>disabledGrid</string>
+	<key>materialSemantics</key>
+	<string>checklistFlags</string>
+	<key>nativeDispatcher</key>
+	<string>profilevisible</string>
+	<key>persistentCurve</key>
+	<string>canPaintEquipment</string>
+	<key>previewStatus</key>
+	<string>stopView</string>
+	<key>sortedcurve</key>
+	<string>oncardtap</string>
+	<key>temporaryTaxonomy</key>
+	<string>layervaluetag</string>
+</dict>
+</plist>

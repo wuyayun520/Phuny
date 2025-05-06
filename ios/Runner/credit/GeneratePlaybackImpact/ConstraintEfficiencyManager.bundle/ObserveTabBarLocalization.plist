@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicSymbol</key>
+	<string>comprehensiveinformation</string>
+	<key>captionlayername</key>
+	<string>comprehensiveStroke</string>
+	<key>greatMend</key>
+	<string>displayableSensor</string>
+	<key>imagescene</key>
+	<string>diffableModulus</string>
+	<key>servicealongaction</key>
+	<string>resourceatpattern</string>
+	<key>shouldHandleBinary</key>
+	<string>widgetdetector</string>
+	<key>usedProvider</key>
+	<string>freeTween</string>
+</dict>
+</plist>

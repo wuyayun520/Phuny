@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architectureBrightness</key>
+	<string>observerdistance</string>
+	<key>awaitContrast</key>
+	<string>stepInterpreter</string>
+	<key>cancelgesture</key>
+	<string>canFormatGesture</string>
+	<key>compositionalGift</key>
+	<string>cacheVisible</string>
+	<key>crucialBrush</key>
+	<string>compositionalCheckbox</string>
+	<key>hierarchicalPresenter</key>
+	<string>pinchablePublisher</string>
+	<key>mediaScale</key>
+	<string>draggableSprite</string>
+	<key>mobileduration</key>
+	<string>grainobject</string>
+	<key>shouldUpdateMonster</key>
+	<string>quantizerPreview</string>
+	<key>triggerName</key>
+	<string>granularGradient</string>
+</dict>
+</plist>

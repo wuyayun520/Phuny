@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveAlert</key>
+	<string>defaultPlate</string>
+	<key>chooserMargin</key>
+	<string>invisibleallocator</string>
+	<key>infrastructureTop</key>
+	<string>easyContrast</string>
+	<key>invisibleSearcher</key>
+	<string>canEncodeOption</string>
+	<key>optimizegrain</key>
+	<string>discoverException</string>
+	<key>positionedasset</key>
+	<string>disparatestatelesstransparency</string>
+	<key>selectedternary</key>
+	<string>discovercompleter</string>
+	<key>shouldStreamBullet</key>
+	<string>iconbesidecommand</string>
+	<key>ternaryEdge</key>
+	<string>accordionCursor</string>
+	<key>uniqueGesture</key>
+	<string>skirtliketype</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axiscontrast</key>
+	<string>stopgridview</string>
+	<key>directlySplitter</key>
+	<string>propagateIntensity</string>
+	<key>intermediateManager</key>
+	<string>canMountedCanvas</string>
+	<key>mediaqueryBorder</key>
+	<string>menuPlatform</string>
+	<key>onnormchanged</key>
+	<string>discardedGradient</string>
+	<key>scrollableasync</key>
+	<string>canRouteMatrix</string>
+	<key>sequentialTextField</key>
+	<string>retainFeature</string>
+</dict>
+</plist>

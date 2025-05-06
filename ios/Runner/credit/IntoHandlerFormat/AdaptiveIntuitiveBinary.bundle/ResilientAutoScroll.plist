@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyFormat</key>
+	<string>canDisposeSymbol</string>
+	<key>disabledGrayscale</key>
+	<string>positionVariable</string>
+	<key>easyrichtext</key>
+	<string>presenterPressure</string>
+	<key>mergerType</key>
+	<string>nibvideo</string>
+	<key>scenarioOrigin</key>
+	<string>canValidateTable</string>
+	<key>shouldCreateSwift</key>
+	<string>mediocreSine</string>
+</dict>
+</plist>

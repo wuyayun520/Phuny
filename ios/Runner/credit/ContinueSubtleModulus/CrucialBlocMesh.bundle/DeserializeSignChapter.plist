@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>confidentialityAlignment</key>
+	<string>fillMethod</string>
+	<key>custompaintBottom</key>
+	<string>sizedboxdelay</string>
+	<key>functionalError</key>
+	<string>firstnotifier</string>
+	<key>immutableLog</key>
+	<string>synchronousProcessor</string>
+	<key>sharedConsumption</key>
+	<string>fragmentsskewy</string>
+	<key>sustainableView</key>
+	<string>storageBridge</string>
+	<key>tweakState</key>
+	<string>confidentialityFlags</string>
+</dict>
+</plist>

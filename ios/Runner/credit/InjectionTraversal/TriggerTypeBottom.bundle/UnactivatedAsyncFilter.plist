@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationOffset</key>
+	<string>similarAlpha</string>
+	<key>hardAudio</key>
+	<string>scaleParam</string>
+	<key>immediatetextfield</key>
+	<string>equalizationvelocity</string>
+	<key>mitigatepopup</key>
+	<string>canRenderDropdownButton</string>
+	<key>opaqueDispatcher</key>
+	<string>dropoutZone</string>
+	<key>seamlessCombiner</key>
+	<string>shouldListenUnary</string>
+	<key>setstatelabel</key>
+	<string>cachesizedbox</string>
+	<key>shouldContinueArithmetic</key>
+	<string>canRestartNavigation</string>
+	<key>uniqueTabBar</key>
+	<string>shouldPreparePriority</string>
+</dict>
+</plist>

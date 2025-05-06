@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlayertheme</key>
+	<string>declarativeLog</string>
+	<key>gridviewspeed</key>
+	<string>advancedInformation</string>
+	<key>textthroughkind</key>
+	<string>showListView</string>
+</dict>
+</plist>

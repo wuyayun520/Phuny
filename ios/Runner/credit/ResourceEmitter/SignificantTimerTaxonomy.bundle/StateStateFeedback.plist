@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalReduction</key>
+	<string>interfacebandwidth</string>
+	<key>elasticityMode</key>
+	<string>futurevalidation</string>
+	<key>errorcoord</key>
+	<string>significantCreator</string>
+	<key>pinchableSwift</key>
+	<string>rectelasticity</string>
+	<key>repositoryValidation</key>
+	<string>currentrectorientation</string>
+	<key>transformerphasefeedback</key>
+	<string>permissiveDropdownButton</string>
+</dict>
+</plist>

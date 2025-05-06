@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableTheme</key>
+	<string>accordionConsumer</string>
+	<key>mutableNorm</key>
+	<string>boxshadowStyle</string>
+	<key>nodeorientation</key>
+	<string>activateStore</string>
+	<key>resizablegradienttail</key>
+	<string>usecaseForm</string>
+	<key>scenefunctionacceleration</key>
+	<string>resumeCatalyst</string>
+	<key>specifyAscent</key>
+	<string>unactivatedSelector</string>
+	<key>standaloneChooser</key>
+	<string>gramDelay</string>
+	<key>titleamortization</key>
+	<string>shouldKeepDescriptor</string>
+</dict>
+</plist>

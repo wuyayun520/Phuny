@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatestamp</key>
+	<string>giftgroup</string>
+	<key>descriptionincludefacade</key>
+	<string>sequentialMenu</string>
+	<key>fixedBase</key>
+	<string>navigatorPadding</string>
+	<key>fusedPosition</key>
+	<string>bufferSingleton</string>
+	<key>hardProvision</key>
+	<string>zoneBridge</string>
+	<key>immediateBinary</key>
+	<string>techniqueDuration</string>
+	<key>pagerName</key>
+	<string>mainDuration</string>
+	<key>reusableRole</key>
+	<string>sequentialAperture</string>
+	<key>stepMode</key>
+	<string>shouldBindLayout</string>
+	<key>zoneDelay</key>
+	<string>unbindText</string>
+</dict>
+</plist>

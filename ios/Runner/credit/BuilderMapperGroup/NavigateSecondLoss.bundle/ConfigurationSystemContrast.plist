@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedScenario</key>
+	<string>buttonColor</string>
+	<key>callbackCount</key>
+	<string>relationalReliability</string>
+	<key>enabledScope</key>
+	<string>handletexture</string>
+	<key>interfacewrapper</key>
+	<string>storeStyle</string>
+	<key>originalTextField</key>
+	<string>persistentsearcher</string>
+	<key>rapidScalability</key>
+	<string>scheduleMenu</string>
+	<key>renderinterpolation</key>
+	<string>basicObject</string>
+	<key>shouldMountController</key>
+	<string>defaultalert</string>
+</dict>
+</plist>

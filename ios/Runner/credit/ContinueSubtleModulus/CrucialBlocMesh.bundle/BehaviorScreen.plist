@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveGrayscale</key>
+	<string>lossTheme</string>
+	<key>dedicatedEmitter</key>
+	<string>localMission</string>
+	<key>largeUnary</key>
+	<string>deactivatemetadata</string>
+	<key>mobileoffset</key>
+	<string>canFetchTabView</string>
+	<key>relationalDialogs</key>
+	<string>declarativeSelector</string>
+	<key>shouldSkipConstraint</key>
+	<string>listviewRight</string>
+</dict>
+</plist>

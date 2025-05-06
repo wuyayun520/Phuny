@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveConstant</key>
+	<string>fusedactivity</string>
+	<key>agileResource</key>
+	<string>adaptiveSignature</string>
+	<key>consultativeArchitecture</key>
+	<string>interfacePhase</string>
+	<key>draggablestate</key>
+	<string>dismissCard</string>
+	<key>granularProgressBar</key>
+	<string>usageVelocity</string>
+	<key>hasMusic</key>
+	<string>quaternionTop</string>
+	<key>stackOrigin</key>
+	<string>hardVariant</string>
+	<key>usedBuffer</key>
+	<string>sustainableCache</string>
+</dict>
+</plist>

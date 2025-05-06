@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitofcommand</key>
+	<string>invisibleConfiguration</string>
+	<key>certificateKind</key>
+	<string>multiplyAlignment</string>
+	<key>channelBehavior</key>
+	<string>platedirection</string>
+	<key>missionandsystem</key>
+	<string>pauseRadio</string>
+	<key>optionResponse</key>
+	<string>tabbarForm</string>
+	<key>prismaticAnalyzer</key>
+	<string>alignmentScope</string>
+	<key>relationalScenario</key>
+	<string>selectedchannels</string>
+</dict>
+</plist>

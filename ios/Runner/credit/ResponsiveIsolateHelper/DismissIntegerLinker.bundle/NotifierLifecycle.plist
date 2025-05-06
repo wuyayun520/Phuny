@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cachekind</key>
+	<string>statelessOrigin</string>
+	<key>cleandialogs</key>
+	<string>routeMultiplication</string>
+	<key>consumptionInterval</key>
+	<string>columnForce</string>
+	<key>loadloop</key>
+	<string>listenObserver</string>
+	<key>lostGesture</key>
+	<string>hierarchicalBorder</string>
+	<key>profilestyle</key>
+	<string>mountCache</string>
+	<key>shouldConnectTheme</key>
+	<string>canRouteInteger</string>
+	<key>staticTimer</key>
+	<string>geometricMerger</string>
+	<key>subscriptionResponse</key>
+	<string>nextRemainder</string>
+</dict>
+</plist>

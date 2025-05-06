@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedRecursion</key>
+	<string>freeicon</string>
+	<key>liteHeap</key>
+	<string>visibleDelivery</string>
+	<key>mainstaterotation</key>
+	<string>shouldNotifyPrecision</string>
+	<key>menudelivery</key>
+	<string>criticalMomentum</string>
+	<key>optionviaaction</key>
+	<string>labelSkewY</string>
+	<key>primaryWrapper</key>
+	<string>shouldPersistCoordinator</string>
+	<key>projecttentative</key>
+	<string>limitNode</string>
+	<key>renamestate</key>
+	<string>previewSaturation</string>
+	<key>seeksubpixel</key>
+	<string>sorterDepth</string>
+	<key>shouldConnectOverlay</key>
+	<string>canPushBase</string>
+</dict>
+</plist>

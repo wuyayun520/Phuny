@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonModal</key>
+	<string>sequentialProtocol</string>
+	<key>discardedEffect</key>
+	<string>schemaBorder</string>
+	<key>latencyformat</key>
+	<string>rapidTentative</string>
+	<key>projectionValidation</key>
+	<string>seamlessSensor</string>
+	<key>reusableProvider</key>
+	<string>keyStep</string>
+	<key>subpixelDistance</key>
+	<string>moveParticle</string>
+</dict>
+</plist>

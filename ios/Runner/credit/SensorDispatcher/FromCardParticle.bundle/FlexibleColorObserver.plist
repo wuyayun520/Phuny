@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyVolume</key>
+	<string>canUnbindEntropy</string>
+	<key>imageDensity</key>
+	<string>respondOffset</string>
+	<key>pageviewHue</key>
+	<string>singleRecursion</string>
+</dict>
+</plist>

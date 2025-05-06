@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyEmitter</key>
+	<string>captureResult</string>
+	<key>gramhead</key>
+	<string>substantialFinder</string>
+	<key>optionRotation</key>
+	<string>transformerloader</string>
+	<key>resizableLog</key>
+	<string>quantizationResponse</string>
+	<key>robustMatrix</key>
+	<string>robusterror</string>
+	<key>shouldTransitionNotifier</key>
+	<string>handleAction</string>
+	<key>titleoutsidesystem</key>
+	<string>diffableOverlay</string>
+	<key>zonecenter</key>
+	<string>scaffoldanalogy</string>
+</dict>
+</plist>

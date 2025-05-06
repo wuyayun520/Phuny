@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableIntensity</key>
+	<string>cupertinoSystem</string>
+	<key>directShader</key>
+	<string>permanentBaseline</string>
+	<key>euclideanFormat</key>
+	<string>disabledPrecision</string>
+	<key>mainMesh</key>
+	<string>operationBottom</string>
+	<key>normalFrame</key>
+	<string>invisibleCompletion</string>
+	<key>primaryRadio</key>
+	<string>nextTangent</string>
+	<key>shouldKeepTangent</key>
+	<string>emitProject</string>
+	<key>switchvideo</key>
+	<string>shouldMountedGestureDetector</string>
+	<key>timelineInterval</key>
+	<string>popBase</string>
+</dict>
+</plist>

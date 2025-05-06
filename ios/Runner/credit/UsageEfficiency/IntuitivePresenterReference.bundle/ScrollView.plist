@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorDistance</key>
+	<string>alignmentshape</string>
+	<key>intermediateEquivalent</key>
+	<string>respondBuffer</string>
+	<key>keyAspect</key>
+	<string>activateError</string>
+	<key>largePet</key>
+	<string>nextCanvas</string>
+	<key>pausestateful</key>
+	<string>sliderlocation</string>
+	<key>publisherResponse</key>
+	<string>gateFrequency</string>
+	<key>sequentialBandwidth</key>
+	<string>flexibleChooser</string>
+	<key>shouldNotifyNotifier</key>
+	<string>cardAppearance</string>
+</dict>
+</plist>

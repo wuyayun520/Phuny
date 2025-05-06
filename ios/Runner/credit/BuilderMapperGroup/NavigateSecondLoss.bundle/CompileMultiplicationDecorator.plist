@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedService</key>
+	<string>draggableGestureDetector</string>
+	<key>attachmovement</key>
+	<string>dropdownbuttonPressure</string>
+	<key>constraintasphase</key>
+	<string>borderEdge</string>
+	<key>hashDuration</key>
+	<string>unlockSlider</string>
+	<key>intuitivenormvisible</key>
+	<string>shouldResumeController</string>
+	<key>lastInfrastructure</key>
+	<string>responsivesymbolstyle</string>
+	<key>observeredge</key>
+	<string>repositoryFramework</string>
+	<key>primarycurvevisibility</key>
+	<string>transitionGate</string>
+	<key>resilientPresenter</key>
+	<string>tappableTangent</string>
+</dict>
+</plist>

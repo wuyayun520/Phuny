@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegatemethodappearance</key>
+	<string>gestureDirection</string>
+	<key>interfaceSkewX</key>
+	<string>loopstate</string>
+	<key>invisibleSwitch</key>
+	<string>lastobserver</string>
+	<key>occasionValidation</key>
+	<string>sampleStrategy</string>
+	<key>oldCupertino</key>
+	<string>autoTransformer</string>
+</dict>
+</plist>

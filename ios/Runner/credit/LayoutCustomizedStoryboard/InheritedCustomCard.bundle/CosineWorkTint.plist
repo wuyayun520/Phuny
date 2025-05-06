@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationattype</key>
+	<string>continueobserver</string>
+	<key>capsulespacing</key>
+	<string>ignoredNavigator</string>
+	<key>flexdetail</key>
+	<string>requiredAnimatedContainer</string>
+	<key>keyTangent</key>
+	<string>previewforce</string>
+	<key>materialUseCase</key>
+	<string>shouldHandleBloc</string>
+	<key>persistentInformation</key>
+	<string>declarativeCurve</string>
+	<key>scaffoldnumberrate</key>
+	<string>flexibleFeature</string>
+</dict>
+</plist>

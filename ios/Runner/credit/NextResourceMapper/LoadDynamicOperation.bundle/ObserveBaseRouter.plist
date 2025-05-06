@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchDuration</key>
+	<string>autoactionedge</string>
+	<key>consultativeCapacities</key>
+	<string>zoneduringmethod</string>
+	<key>fusedActivity</key>
+	<string>concatenatechallenge</string>
+	<key>shouldStartMusic</key>
+	<string>denseCreator</string>
+	<key>shouldstartlistview</key>
+	<string>notifytool</string>
+	<key>tensorMetadata</key>
+	<string>shouldDisconnectStamp</string>
+	<key>tickerDuration</key>
+	<string>entityDelay</string>
+</dict>
+</plist>

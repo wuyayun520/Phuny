@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityvector</key>
+	<string>dismissBox</string>
+	<key>channelprovision</key>
+	<string>canContinueStamp</string>
+	<key>dialogsstroke</key>
+	<string>providerplatformfeedback</string>
+	<key>exponentAppearance</key>
+	<string>asynchronousChannels</string>
+	<key>missedscope</key>
+	<string>floatGraph</string>
+	<key>shouldDecodeRichText</key>
+	<string>canStreamProtocol</string>
+	<key>shouldEndSegue</key>
+	<string>linkerOrientation</string>
+	<key>shouldMountPlate</key>
+	<string>curveoutsidelayer</string>
+	<key>shouldRenderBuilder</key>
+	<string>declarativeGestureDetector</string>
+	<key>tappableSprite</key>
+	<string>publishCard</string>
+</dict>
+</plist>

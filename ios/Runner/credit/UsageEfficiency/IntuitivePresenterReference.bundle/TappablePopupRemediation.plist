@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>localScroller</key>
+	<string>retrieveBloc</string>
+	<key>pivotalCharacteristic</key>
+	<string>disconnecttabbar</string>
+	<key>pivotallistener</key>
+	<string>compareTexture</string>
+	<key>promisescopecolor</key>
+	<string>detachGate</string>
+	<key>routeAcceleration</key>
+	<string>compiletransition</string>
+	<key>visualizesink</key>
+	<string>completerContext</string>
+</dict>
+</plist>

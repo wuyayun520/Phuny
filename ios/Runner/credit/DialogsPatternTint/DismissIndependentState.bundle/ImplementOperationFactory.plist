@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hashdensity</key>
+	<string>sustainableIndicator</string>
+	<key>subscriptionpressure</key>
+	<string>restarttexture</string>
+	<key>temporaryMesh</key>
+	<string>selectorTension</string>
+	<key>usedPopup</key>
+	<string>displayableGradient</string>
+</dict>
+</plist>

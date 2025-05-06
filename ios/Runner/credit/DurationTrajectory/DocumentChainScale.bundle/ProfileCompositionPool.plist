@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryFeedback</key>
+	<string>clipalert</string>
+	<key>bitratevaredge</key>
+	<string>shouldInflateReduction</string>
+	<key>connectcompleter</key>
+	<string>spriteIndex</string>
+	<key>deploymetadata</key>
+	<string>imageScale</string>
+	<key>immediateReplica</key>
+	<string>advancedTabBar</string>
+	<key>nativeDocument</key>
+	<string>canLayoutSine</string>
+	<key>oldChooser</key>
+	<string>enhancematrix</string>
+	<key>scenarioRotation</key>
+	<string>checklistDirection</string>
+	<key>signBehavior</key>
+	<string>petBrightness</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocState</key>
+	<string>nibPosition</string>
+	<key>cursorSpeed</key>
+	<string>immutablePermutation</string>
+	<key>filterFrequency</key>
+	<string>tweenContrast</string>
+	<key>joinerBound</key>
+	<string>buttontint</string>
+	<key>requiredCreator</key>
+	<string>ignoredMap</string>
+	<key>shouldpresentmatrix</key>
+	<string>cubeAction</string>
+</dict>
+</plist>

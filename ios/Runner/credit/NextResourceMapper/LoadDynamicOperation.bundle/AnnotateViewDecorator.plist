@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoFeedback</key>
+	<string>customPermutation</string>
+	<key>ephemeralAction</key>
+	<string>backwardCustomPaint</string>
+	<key>mobileDescription</key>
+	<string>chapterStage</string>
+	<key>onsensortap</key>
+	<string>secondMatrix</string>
+	<key>respectiveScope</key>
+	<string>staticAperture</string>
+	<key>shouldSerializeBase</key>
+	<string>denseResolver</string>
+	<key>standaloneusecase</key>
+	<string>discardedThroughput</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>listenerSpeed</key>
+	<string>differentiaterow</string>
+	<key>loaderTail</key>
+	<string>reflectFuture</string>
+	<key>notifierdespitemediator</key>
+	<string>sequentialCanvas</string>
+	<key>shouldTransitionDocument</key>
+	<string>canFinishSubpixel</string>
+	<key>shouldValidateAperture</key>
+	<string>sliderDirection</string>
+	<key>typicalAlpha</key>
+	<string>hardconstraint</string>
+	<key>unactivatedNorm</key>
+	<string>directlyLabel</string>
+</dict>
+</plist>

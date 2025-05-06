@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushType</key>
+	<string>sequentialDetector</string>
+	<key>constantEdge</key>
+	<string>awaitFlags</string>
+	<key>discardedSelector</key>
+	<string>declarativeRect</string>
+	<key>grayscaleVisibility</key>
+	<string>secondTimer</string>
+	<key>numericalMobile</key>
+	<string>pointBehavior</string>
+	<key>rapidReplica</key>
+	<string>textfieldVariable</string>
+	<key>resilientUnary</key>
+	<string>schedulerMargin</string>
+	<key>robustGrid</key>
+	<string>pushInterface</string>
+	<key>shouldUpdateWidget</key>
+	<string>specifierScope</string>
+</dict>
+</plist>

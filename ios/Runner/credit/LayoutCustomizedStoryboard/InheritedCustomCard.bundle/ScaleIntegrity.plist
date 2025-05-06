@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderOpacity</key>
+	<string>statefultask</string>
+	<key>receiverAppearance</key>
+	<string>synchronousTriangles</string>
+	<key>shouldDispatchModulus</key>
+	<string>canPresentSubpixel</string>
+	<key>shouldyieldmediaquery</key>
+	<string>setstatelabel</string>
+</dict>
+</plist>

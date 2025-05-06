@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directTable</key>
+	<string>dynamicSign</string>
+	<key>firstspritefrequency</key>
+	<string>denseConstant</string>
+	<key>graphicchannel</key>
+	<string>standaloneMultiplication</string>
+	<key>iterativeCube</key>
+	<string>recursionShape</string>
+	<key>pointFeedback</key>
+	<string>taxonomycontrast</string>
+	<key>retainedLog</key>
+	<string>allocatorscenario</string>
+	<key>sharedSignature</key>
+	<string>shouldAttachReduction</string>
+	<key>workflownearsystem</key>
+	<string>capacitiesBorder</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerOrientation</key>
+	<string>layoutSkewX</string>
+	<key>crudeHero</key>
+	<string>statelessTrajectory</string>
+	<key>ignoredVertex</key>
+	<string>extendsprite</string>
+	<key>materializerOffset</key>
+	<string>histogramOrientation</string>
+	<key>provisionAppearance</key>
+	<string>publicSize</string>
+	<key>sensorbound</key>
+	<string>baseObserver</string>
+	<key>shouldCacheTool</key>
+	<string>tangentFacade</string>
+	<key>substantialModel</key>
+	<string>similarView</string>
+</dict>
+</plist>

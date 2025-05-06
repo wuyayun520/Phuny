@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customScalability</key>
+	<string>shouldResumeRoute</string>
+	<key>discardedAccessory</key>
+	<string>mitigateSlider</string>
+	<key>efficiencyRight</key>
+	<string>webMultiplication</string>
+	<key>invisibletime</key>
+	<string>statefulTicker</string>
+	<key>nativeBase</key>
+	<string>resiliencetheme</string>
+	<key>pointColor</key>
+	<string>toolprocessmode</string>
+	<key>processorFeedback</key>
+	<string>indicatorStatus</string>
+	<key>shouldRestartEquipment</key>
+	<string>descriptorbeyondparam</string>
+	<key>staticMember</key>
+	<string>materialdescription</string>
+	<key>storyboardSkewY</key>
+	<string>multiplyNavigator</string>
+</dict>
+</plist>

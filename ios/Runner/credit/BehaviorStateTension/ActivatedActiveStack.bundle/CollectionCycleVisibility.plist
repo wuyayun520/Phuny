@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveCycle</key>
+	<string>concreteFrame</string>
+	<key>binaryborder</key>
+	<string>customizedController</string>
+	<key>equalizationexception</key>
+	<string>infrastructureContrast</string>
+	<key>oldAspectRatio</key>
+	<string>scrollableFilter</string>
+	<key>parallelCapacity</key>
+	<string>detectorDensity</string>
+	<key>shouldPersistFragment</key>
+	<string>notifierValidation</string>
+	<key>shouldloadmultiplication</key>
+	<string>brushDistance</string>
+	<key>subsequentPageView</key>
+	<string>connectEvent</string>
+</dict>
+</plist>

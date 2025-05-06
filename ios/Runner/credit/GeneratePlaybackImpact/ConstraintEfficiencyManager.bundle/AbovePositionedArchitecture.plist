@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardTail</key>
+	<string>pushAllocator</string>
+	<key>eagerUtil</key>
+	<string>analyzeLoop</string>
+	<key>invisibleUnary</key>
+	<string>decodequeue</string>
+	<key>mutableSlider</key>
+	<string>modalBound</string>
+	<key>opaqueResponder</key>
+	<string>opaqueDisclaimer</string>
+	<key>prevLabel</key>
+	<string>immutableAscent</string>
+	<key>transformerlevelorientation</key>
+	<string>tensorBinary</string>
+</dict>
+</plist>

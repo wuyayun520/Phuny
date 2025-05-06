@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedAlert</key>
+	<string>robustInteractor</string>
+	<key>gridviewcount</key>
+	<string>displayableaspectratio</string>
+	<key>rangeTheme</key>
+	<string>themeResponse</string>
+	<key>shouldParseComposition</key>
+	<string>rapidSorter</string>
+	<key>shouldShowGridView</key>
+	<string>fixedLoss</string>
+	<key>shouldStopExpanded</key>
+	<string>renameLayout</string>
+</dict>
+</plist>

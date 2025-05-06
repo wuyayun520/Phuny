@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>groupwithoutcommand</key>
+	<string>localShader</string>
+	<key>metricsLocation</key>
+	<string>dispatcherStatus</string>
+	<key>responsiveMaterial</key>
+	<string>offsetStore</string>
+	<key>scopeInteraction</key>
+	<string>pinchableLoss</string>
+	<key>startshader</key>
+	<string>shouldTrainCursor</string>
+	<key>tensorCache</key>
+	<string>lastConsumption</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationrange</key>
+	<string>fixedAspect</string>
+	<key>graphInset</key>
+	<string>euclideanInteraction</string>
+	<key>inactiveArithmetic</key>
+	<string>disposeMusic</string>
+	<key>isolateAlignment</key>
+	<string>tabbarChain</string>
+	<key>resourcepadding</key>
+	<string>shouldStreamContainer</string>
+	<key>shouldNavigateBrush</key>
+	<string>brushRate</string>
+	<key>sinkRotation</key>
+	<string>behaviorDistance</string>
+	<key>unsortedTransition</key>
+	<string>moduleFrequency</string>
+</dict>
+</plist>

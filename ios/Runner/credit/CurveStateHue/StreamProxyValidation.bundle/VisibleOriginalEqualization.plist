@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyAxis</key>
+	<string>responderFormat</string>
+	<key>gramjoiner</key>
+	<string>elasticTransformer</string>
+	<key>shouldPrepareMonster</key>
+	<string>dedicatedAnalyzer</string>
+	<key>shouldcontinuesubpixel</key>
+	<string>imperativeTweak</string>
+	<key>throughputBound</key>
+	<string>cursortimer</string>
+</dict>
+</plist>

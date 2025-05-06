@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerSaturation</key>
+	<string>statelessTier</string>
+	<key>backwardPageView</key>
+	<string>directGem</string>
+	<key>cupertinoRecursion</key>
+	<string>polyfillSkewY</string>
+	<key>invisibleCanvas</key>
+	<string>diffablecontainerrate</string>
+	<key>petHue</key>
+	<string>interactionDuration</string>
+	<key>resizableLifecycle</key>
+	<string>canKeepCache</string>
+	<key>scenarioDuration</key>
+	<string>cartesianVolume</string>
+	<key>sinkDuration</key>
+	<string>shouldTransitionTable</string>
+</dict>
+</plist>

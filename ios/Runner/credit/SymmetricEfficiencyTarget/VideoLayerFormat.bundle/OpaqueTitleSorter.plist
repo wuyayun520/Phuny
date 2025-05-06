@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compilestream</key>
+	<string>invisiblePicker</string>
+	<key>encodegrain</key>
+	<string>shouldYieldSample</string>
+	<key>momentumName</key>
+	<string>metricsVisible</string>
+	<key>temporaryOption</key>
+	<string>buttonBridge</string>
+	<key>tensorChannels</key>
+	<string>hashPrototype</string>
+</dict>
+</plist>

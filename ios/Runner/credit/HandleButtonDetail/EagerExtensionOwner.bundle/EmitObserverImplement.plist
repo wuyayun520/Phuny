@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardCache</key>
+	<string>parallelsprite</string>
+	<key>customDelegate</key>
+	<string>relationalTangent</string>
+	<key>geometricSorter</key>
+	<string>commonContrast</string>
+	<key>pinchableOverlay</key>
+	<string>curveSystem</string>
+	<key>rangeScale</key>
+	<string>flexibleBase</string>
+	<key>resilienceRotation</key>
+	<string>integrityLocation</string>
+	<key>shouldListenSymbol</key>
+	<string>graphactioncenter</string>
+</dict>
+</plist>

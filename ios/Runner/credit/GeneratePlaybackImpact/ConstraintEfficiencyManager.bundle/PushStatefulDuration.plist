@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customEffect</key>
+	<string>shouldInflateSizedBox</string>
+	<key>declarativeAudio</key>
+	<string>dismissController</string>
+	<key>projectionhead</key>
+	<string>eagerPadding</string>
+	<key>sliderrate</key>
+	<string>positionMemento</string>
+	<key>statelessDimension</key>
+	<string>sustainableOptimizer</string>
+	<key>synchronousEntropy</key>
+	<string>modalMemento</string>
+</dict>
+</plist>

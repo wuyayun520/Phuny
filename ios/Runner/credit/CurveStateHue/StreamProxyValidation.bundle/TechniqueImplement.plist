@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledemitter</key>
+	<string>groupPhase</string>
+	<key>eventatenvironment</key>
+	<string>refreshContainer</string>
+	<key>extensionScale</key>
+	<string>textfieldpatternvalidation</string>
+	<key>shouldYieldRichText</key>
+	<string>mediaqueryAlignment</string>
+	<key>smallSubpixel</key>
+	<string>gemSkewX</string>
+	<key>sustainableGrid</key>
+	<string>defaultcache</string>
+	<key>unactivatedDuration</key>
+	<string>progressbarLocation</string>
+</dict>
+</plist>

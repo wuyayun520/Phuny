@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedNavigation</key>
+	<string>intuitiveStack</string>
+	<key>handlerlinker</key>
+	<string>positionedchooser</string>
+	<key>mutableElement</key>
+	<string>aspectFeedback</string>
+	<key>opaqueNib</key>
+	<string>canValidateController</string>
+	<key>publicAnalyzer</key>
+	<string>shearGraph</string>
+	<key>relationalFeature</key>
+	<string>beginnerFrame</string>
+</dict>
+</plist>

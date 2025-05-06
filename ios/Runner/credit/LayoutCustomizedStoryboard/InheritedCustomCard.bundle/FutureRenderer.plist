@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveScale</key>
+	<string>typicalSample</string>
+	<key>prevReducer</key>
+	<string>multiNotification</string>
+	<key>shouldEndLoss</key>
+	<string>visiblePrecision</string>
+</dict>
+</plist>

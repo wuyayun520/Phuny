@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grayscalebridgevisible</key>
+	<string>symmetricAmortization</string>
+	<key>mainActivity</key>
+	<string>processSink</string>
+	<key>modulusBound</key>
+	<string>displayableMetadata</string>
+	<key>normalStatus</key>
+	<string>evaluateSprite</string>
+	<key>scrollableChart</key>
+	<string>subtleAnchor</string>
+	<key>symmetrictentative</key>
+	<string>decorationnumberinset</string>
+	<key>temporaryResult</key>
+	<string>cancelMultiplication</string>
+</dict>
+</plist>

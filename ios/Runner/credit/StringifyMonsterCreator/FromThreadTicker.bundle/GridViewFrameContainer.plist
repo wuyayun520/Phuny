@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousPublisher</key>
+	<string>canDeserializeText</string>
+	<key>cachefactory</key>
+	<string>previewbysystem</string>
+	<key>cyclemargin</key>
+	<string>customizedTabBar</string>
+	<key>graphplatformleft</key>
+	<string>matrixMemento</string>
+	<key>queueDelay</key>
+	<string>ignoredConstant</string>
+	<key>sequentialSorter</key>
+	<string>optionlocation</string>
+	<key>shouldFormatStamp</key>
+	<string>navigateUsage</string>
+</dict>
+</plist>

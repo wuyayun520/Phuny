@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoBuffer</key>
+	<string>positionCommand</string>
+	<key>checkboxScale</key>
+	<string>menuStatus</string>
+	<key>hardScroller</key>
+	<string>descriptorleft</string>
+	<key>navigationLocation</key>
+	<string>commonPrecision</string>
+	<key>requiredCache</key>
+	<string>accordionMatrix</string>
+	<key>shouldPublishScroll</key>
+	<string>subtleslider</string>
+	<key>shouldvalidatemodulus</key>
+	<string>custompaintAcceleration</string>
+	<key>standalonePainter</key>
+	<string>shouldcreateequalization</string>
+</dict>
+</plist>

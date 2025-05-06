@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedMaterial</key>
+	<string>mitigatelayer</string>
+	<key>intuitivecellspeed</key>
+	<string>canDismissCell</string>
+	<key>mediocreOffset</key>
+	<string>resizepreview</string>
+	<key>othermenu</key>
+	<string>similarVideo</string>
+	<key>semanticsDuration</key>
+	<string>listenerframeworksize</string>
+</dict>
+</plist>

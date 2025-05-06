@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticChallenge</key>
+	<string>adaptiveBinder</string>
+	<key>featureinteraction</key>
+	<string>petMethod</string>
+	<key>granularIntegration</key>
+	<string>capsuleBridge</string>
+	<key>intensitybymode</key>
+	<string>impressionOpacity</string>
+	<key>mutableTolerance</key>
+	<string>mapperhue</string>
+	<key>operationCoord</key>
+	<string>reducerTail</string>
+	<key>shouldProcessCollection</key>
+	<string>animatedcontainerMemento</string>
+	<key>toolmargin</key>
+	<string>shouldPopUsage</string>
+</dict>
+</plist>

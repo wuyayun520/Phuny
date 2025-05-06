@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascentKind</key>
+	<string>vectorizeVector</string>
+	<key>characterflags</key>
+	<string>dialogsMethod</string>
+	<key>colorDistance</key>
+	<string>canDisposeCustomPaint</string>
+	<key>cubeShape</key>
+	<string>canDeserializeTernary</string>
+	<key>immediatePermutation</key>
+	<string>uniformCompletion</string>
+	<key>memberbridgecount</key>
+	<string>dataBrightness</string>
+	<key>seamlessAscent</key>
+	<string>popProtocol</string>
+	<key>shaderreducer</key>
+	<string>rotateReducer</string>
+	<key>specifyScalability</key>
+	<string>sliderconstant</string>
+	<key>uniqueconstant</key>
+	<string>interactortheme</string>
+</dict>
+</plist>

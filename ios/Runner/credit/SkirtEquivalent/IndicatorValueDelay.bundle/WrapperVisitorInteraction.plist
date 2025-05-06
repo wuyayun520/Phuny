@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>notifycomposition</key>
+	<string>unmarshalService</string>
+	<key>sequentialSorter</key>
+	<string>singletonmode</string>
+	<key>shouldRenderCursor</key>
+	<string>isSegment</string>
+	<key>shouldUnbindStep</key>
+	<string>showResponse</string>
+</dict>
+</plist>

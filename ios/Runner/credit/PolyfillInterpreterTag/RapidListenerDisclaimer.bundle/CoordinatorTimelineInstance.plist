@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedEqualization</key>
+	<string>permissiveBloc</string>
+	<key>explicitNib</key>
+	<string>selectedSymbol</string>
+	<key>shouldUnmountedStateful</key>
+	<string>localColor</string>
+	<key>subsequentPageView</key>
+	<string>tableCommand</string>
+	<key>visibleGram</key>
+	<string>significantInteractor</string>
+</dict>
+</plist>

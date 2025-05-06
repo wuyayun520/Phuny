@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivewidgettag</key>
+	<string>canTransformRole</string>
+	<key>managerlistener</key>
+	<string>shouldHandleMomentum</string>
+	<key>selectedslash</key>
+	<string>streamlineRadius</string>
+	<key>standaloneSizedBox</key>
+	<string>shouldRebuildProjection</string>
+	<key>tensorAxis</key>
+	<string>hyperbolicwidget</string>
+</dict>
+</plist>

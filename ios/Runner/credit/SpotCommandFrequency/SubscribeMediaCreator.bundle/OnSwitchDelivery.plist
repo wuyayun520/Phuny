@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellAppearance</key>
+	<string>futureLocation</string>
+	<key>customTime</key>
+	<string>previewOrientation</string>
+	<key>ephemeralinterfacefeedback</key>
+	<string>beginnerDetail</string>
+	<key>liteInterface</key>
+	<string>draggableBatch</string>
+	<key>precisionMomentum</key>
+	<string>equivalentTail</string>
+	<key>receiverhead</key>
+	<string>behaviorProcess</string>
+	<key>renderstore</key>
+	<string>visitIsolate</string>
+	<key>touchCenter</key>
+	<string>sizeoutsidetask</string>
+</dict>
+</plist>

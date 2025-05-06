@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detectorResponse</key>
+	<string>characterParam</string>
+	<key>independentDescent</key>
+	<string>factoryframe</string>
+	<key>invisibleDispatcher</key>
+	<string>canTransitionAnchor</string>
+	<key>materialRow</key>
+	<string>usedPreview</string>
+	<key>repositorystructureleft</key>
+	<string>requestvelocity</string>
+	<key>significanteffectsize</key>
+	<string>primaryIntegration</string>
+	<key>syncbehavior</key>
+	<string>usedArithmetic</string>
+</dict>
+</plist>

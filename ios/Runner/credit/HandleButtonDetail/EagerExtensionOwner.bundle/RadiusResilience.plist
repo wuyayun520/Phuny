@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderInterval</key>
+	<string>replacemenu</string>
+	<key>functionalFactory</key>
+	<string>canNavigateModal</string>
+	<key>intensityEdge</key>
+	<string>bitrateTop</string>
+	<key>interfaceDirection</key>
+	<string>easyZone</string>
+	<key>rectlevelstatus</key>
+	<string>flexHue</string>
+	<key>shouldNavigatePrecision</key>
+	<string>animatePreview</string>
+	<key>uniformscroll</key>
+	<string>inflategradient</string>
+</dict>
+</plist>

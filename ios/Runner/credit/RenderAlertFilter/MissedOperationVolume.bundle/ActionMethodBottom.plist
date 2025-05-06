@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopTangent</key>
+	<string>oldLayout</string>
+	<key>hierarchicalThreshold</key>
+	<string>detachPageView</string>
+	<key>mediumPermutation</key>
+	<string>effectColor</string>
+	<key>pickercenter</key>
+	<string>difficultDetail</string>
+	<key>utilthanadapter</key>
+	<string>themeSize</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedframeshape</key>
+	<string>selectorStyle</string>
+	<key>callbackFrequency</key>
+	<string>asyncScope</string>
+	<key>completerfrequency</key>
+	<string>eagerInteger</string>
+	<key>connectconstraint</key>
+	<string>cosinebufferresponse</string>
+	<key>futureTail</key>
+	<string>aggregateslider</string>
+	<key>remainderinteraction</key>
+	<string>imperativeEquivalent</string>
+	<key>shouldFetchChecklist</key>
+	<string>relationalMaterializer</string>
+	<key>temporaryGate</key>
+	<string>stepCycle</string>
+</dict>
+</plist>

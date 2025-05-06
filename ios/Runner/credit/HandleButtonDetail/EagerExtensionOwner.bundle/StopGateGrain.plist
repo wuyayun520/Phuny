@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constructstorage</key>
+	<string>maxScreen</string>
+	<key>containerawayenvironment</key>
+	<string>responsiveKernel</string>
+	<key>dedicatedTool</key>
+	<string>dropdownbuttonPrototype</string>
+	<key>listenlayout</key>
+	<string>statelessGate</string>
+	<key>prismaticScenario</key>
+	<string>gridviewRotation</string>
+	<key>typicalTime</key>
+	<string>defaultcurve</string>
+</dict>
+</plist>

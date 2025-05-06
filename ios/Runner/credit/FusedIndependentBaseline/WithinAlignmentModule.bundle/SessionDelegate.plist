@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedExpanded</key>
+	<string>onborderchanged</string>
+	<key>checkboxResponse</key>
+	<string>resetSize</string>
+	<key>consumershade</key>
+	<string>alphaTemple</string>
+	<key>denseFragments</key>
+	<string>shouldNotifyTransition</string>
+	<key>requiredbehaviordepth</key>
+	<string>immutableExpanded</string>
+	<key>shouldHandleBaseline</key>
+	<string>widgetPrototype</string>
+</dict>
+</plist>

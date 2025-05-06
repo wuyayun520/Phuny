@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bandwidthColor</key>
+	<string>spinState</string>
+	<key>extensionBehavior</key>
+	<string>shouldcancelradio</string>
+	<key>rectVisible</key>
+	<string>shouldRebuildAspect</string>
+	<key>serializedropdownbutton</key>
+	<string>statefulSchema</string>
+	<key>sorterFlags</key>
+	<string>shouldunbindcard</string>
+</dict>
+</plist>

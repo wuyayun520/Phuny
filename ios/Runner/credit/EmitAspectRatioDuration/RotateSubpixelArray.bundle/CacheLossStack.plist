@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeMaterial</key>
+	<string>lossForm</string>
+	<key>fragmentsHue</key>
+	<string>detachcanvas</string>
+	<key>grayscaletexture</key>
+	<string>immutableAperture</string>
+	<key>opaqueDrawer</key>
+	<string>currentflex</string>
+	<key>radiusinteraction</key>
+	<string>rapidCell</string>
+	<key>stampInset</key>
+	<string>subtlecheckbox</string>
+	<key>statelessRemainder</key>
+	<string>inactiveSine</string>
+	<key>subscriberBehavior</key>
+	<string>shouldSubscribeTextField</string>
+</dict>
+</plist>

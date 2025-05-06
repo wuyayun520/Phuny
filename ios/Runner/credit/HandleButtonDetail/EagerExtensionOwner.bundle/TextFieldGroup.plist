@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>emitterMode</key>
+	<string>shouldCreateObserver</string>
+	<key>lostStream</key>
+	<string>persistentTriangles</string>
+	<key>numericalUtil</key>
+	<string>shouldSetStateListView</string>
+	<key>pausesize</key>
+	<string>curveTheme</string>
+	<key>precisionpager</key>
+	<string>gemDuration</string>
+	<key>shouldValidateBinary</key>
+	<string>opaqueParticle</string>
+	<key>sortedLog</key>
+	<string>utilagainststage</string>
+	<key>statelessTabBar</key>
+	<string>cellBehavior</string>
+</dict>
+</plist>

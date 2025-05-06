@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeVertex</key>
+	<string>clipAllocator</string>
+	<key>associatedSizedBox</key>
+	<string>accordionScene</string>
+	<key>bufferevent</key>
+	<string>canLoadCoordinator</string>
+	<key>iterativeRange</key>
+	<string>baselineScale</string>
+	<key>rectifymatrix</key>
+	<string>uniformJoiner</string>
+	<key>shouldTransitionPlayback</key>
+	<string>nibTension</string>
+	<key>smallResource</key>
+	<string>previewVariable</string>
+	<key>subpixelAppearance</key>
+	<string>associateButton</string>
+</dict>
+</plist>

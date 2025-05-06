@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentSubscription</key>
+	<string>transitionShader</string>
+	<key>efficiencySpeed</key>
+	<string>smallAsset</string>
+	<key>largechooser</key>
+	<string>initializebloc</string>
+	<key>opaqueMusic</key>
+	<string>publicInformation</string>
+	<key>popflex</key>
+	<string>unmarshalAnimation</string>
+	<key>projectstyle</key>
+	<string>transpileHandler</string>
+	<key>rapidTrajectory</key>
+	<string>yieldresult</string>
+	<key>responsiveTentative</key>
+	<string>synchronousProcessor</string>
+	<key>singleFormat</key>
+	<string>normalDrawer</string>
+	<key>tweenShade</key>
+	<string>staticMember</string>
+</dict>
+</plist>

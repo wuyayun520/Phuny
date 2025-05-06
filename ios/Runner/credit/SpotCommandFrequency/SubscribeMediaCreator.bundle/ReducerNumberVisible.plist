@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animateddetector</key>
+	<string>disconnectchecklist</string>
+	<key>musicsink</key>
+	<string>transitionBitrate</string>
+	<key>occasionCount</key>
+	<string>canHandleMobile</string>
+	<key>paintershapeorigin</key>
+	<string>standaloneConfidentiality</string>
+	<key>pointDensity</key>
+	<string>routesegment</string>
+	<key>shouldPaintOverlay</key>
+	<string>requiredBehavior</string>
+	<key>statelessLog</key>
+	<string>listenGesture</string>
+</dict>
+</plist>

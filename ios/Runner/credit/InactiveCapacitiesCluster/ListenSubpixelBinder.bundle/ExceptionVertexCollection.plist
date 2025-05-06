@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushInset</key>
+	<string>presenterbrightness</string>
+	<key>eagerEntropy</key>
+	<string>canLayoutMediaQuery</string>
+	<key>intermediateResult</key>
+	<string>isBitrate</string>
+	<key>missedCompletion</key>
+	<string>selectedCheckbox</string>
+	<key>mountedsensor</key>
+	<string>semantictabview</string>
+	<key>shouldStreamPageView</key>
+	<string>canListenSlash</string>
+	<key>subsequentInteger</key>
+	<string>shouldAnimateArithmetic</string>
+</dict>
+</plist>

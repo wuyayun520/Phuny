@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonprocessor</key>
+	<string>animatedSound</string>
+	<key>copybutton</key>
+	<string>localcluster</string>
+	<key>deferredbuilder</key>
+	<string>canDeserializeCube</string>
+	<key>dimensionmargin</key>
+	<string>boxProcess</string>
+	<key>lazyMend</key>
+	<string>customizedMomentum</string>
+	<key>opaqueObserver</key>
+	<string>functionalNorm</string>
+	<key>sharedAperture</key>
+	<string>immediateEvolution</string>
+	<key>typicalreduction</key>
+	<string>desktopTimer</string>
+</dict>
+</plist>

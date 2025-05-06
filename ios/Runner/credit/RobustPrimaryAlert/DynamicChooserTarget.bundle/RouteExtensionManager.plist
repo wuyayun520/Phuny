@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentanimationappearance</key>
+	<string>histogramduration</string>
+	<key>navigatorTheme</key>
+	<string>shouldAnimateNorm</string>
+	<key>optimizemanager</key>
+	<string>descentEdge</string>
+	<key>storagewithcontext</key>
+	<string>respondEntity</string>
+	<key>symmetricExponent</key>
+	<string>canSetStateEqualization</string>
+	<key>timeState</key>
+	<string>shouldanimatebaseline</string>
+	<key>timerspeed</key>
+	<string>freeduration</string>
+</dict>
+</plist>

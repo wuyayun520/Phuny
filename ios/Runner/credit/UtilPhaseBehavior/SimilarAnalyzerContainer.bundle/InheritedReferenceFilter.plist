@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryplatformspacing</key>
+	<string>shouldPauseSwift</string>
+	<key>lazyGrain</key>
+	<string>batchForce</string>
+	<key>mediumBloc</key>
+	<string>configurationasparameter</string>
+	<key>nextSegment</key>
+	<string>singletonDensity</string>
+	<key>oldMapper</key>
+	<string>canPresentIcon</string>
+	<key>relationalconstraint</key>
+	<string>capacitySize</string>
+	<key>shouldCancelAlpha</key>
+	<string>statelessPressure</string>
+	<key>standaloneThread</key>
+	<string>robustChooser</string>
+</dict>
+</plist>

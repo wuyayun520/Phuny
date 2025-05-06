@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticcallback</key>
+	<string>channelsDistance</string>
+	<key>bulletDensity</key>
+	<string>asyncSpacing</string>
+	<key>listencertificate</key>
+	<string>canNotifyStamp</string>
+	<key>previewDirection</key>
+	<string>shouldPauseSine</string>
+	<key>primaryCheckbox</key>
+	<string>errorLevel</string>
+	<key>unmarshaloverlay</key>
+	<string>ismultiplication</string>
+</dict>
+</plist>

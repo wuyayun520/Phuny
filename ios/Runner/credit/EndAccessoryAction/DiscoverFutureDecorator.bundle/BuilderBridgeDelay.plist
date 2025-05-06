@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletDensity</key>
+	<string>mixincontroller</string>
+	<key>connectbutton</key>
+	<string>behaviorStructure</string>
+	<key>exponentworkflags</key>
+	<string>symmetricLoop</string>
+	<key>granularShape</key>
+	<string>smartGesture</string>
+	<key>intermediateAllocator</key>
+	<string>informationDistance</string>
+	<key>symmetricUtil</key>
+	<string>pinchableSingleton</string>
+	<key>typicalTheme</key>
+	<string>hasAccessory</string>
+</dict>
+</plist>

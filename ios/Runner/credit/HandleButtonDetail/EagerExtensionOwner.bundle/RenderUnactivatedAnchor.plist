@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalmaterializer</key>
+	<string>cupertinoBridge</string>
+	<key>declarativeFormat</key>
+	<string>normalPreview</string>
+	<key>descriptionColor</key>
+	<string>mediumModal</string>
+	<key>gemDensity</key>
+	<string>tensorHeap</string>
+	<key>pinchableColor</key>
+	<string>localImage</string>
+	<key>searcherTag</key>
+	<string>heroRate</string>
+	<key>symmetricTitle</key>
+	<string>primaryStateful</string>
+</dict>
+</plist>

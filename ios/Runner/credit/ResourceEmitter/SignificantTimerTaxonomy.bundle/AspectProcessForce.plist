@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesStyle</key>
+	<string>customizedGrid</string>
+	<key>greatComponent</key>
+	<string>stackVelocity</string>
+	<key>protectedShape</key>
+	<string>sizedboxFrequency</string>
+	<key>routedistance</key>
+	<string>sophisticatedInkWell</string>
+	<key>sustainableCurve</key>
+	<string>canCreateRole</string>
+	<key>sustainableTweak</key>
+	<string>polyfillTag</string>
+	<key>utilTheme</key>
+	<string>statelesscontaintask</string>
+</dict>
+</plist>

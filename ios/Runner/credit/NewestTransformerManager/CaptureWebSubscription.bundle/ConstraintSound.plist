@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativefilter</key>
+	<string>greatHeap</string>
+	<key>flexibleScheduler</key>
+	<string>asyncBrightness</string>
+	<key>granularOccasion</key>
+	<string>interfaceamongstrategy</string>
+	<key>serviceState</key>
+	<string>sortedZone</string>
+	<key>specifierSpacing</key>
+	<string>criticalSelector</string>
+	<key>specifierSpeed</key>
+	<string>completionVar</string>
+	<key>traincompleter</key>
+	<string>benchmarkUtil</string>
+</dict>
+</plist>

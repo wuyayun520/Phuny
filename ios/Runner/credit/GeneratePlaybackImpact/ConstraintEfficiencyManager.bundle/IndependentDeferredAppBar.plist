@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileIntegrity</key>
+	<string>disabledController</string>
+	<key>gridviewinterval</key>
+	<string>bindGift</string>
+	<key>mediumHistogram</key>
+	<string>mixinController</string>
+	<key>navigatestateful</key>
+	<string>revisitSprite</string>
+	<key>requiredAsync</key>
+	<string>largeCube</string>
+	<key>responderBorder</key>
+	<string>defaultmaster</string>
+	<key>singleSingleton</key>
+	<string>navigatesprite</string>
+</dict>
+</plist>

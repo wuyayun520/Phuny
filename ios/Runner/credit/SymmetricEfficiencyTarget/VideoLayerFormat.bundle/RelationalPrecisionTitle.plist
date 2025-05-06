@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoTabView</key>
+	<string>requestFlyweight</string>
+	<key>elasticBorder</key>
+	<string>popspine</string>
+	<key>mobileLifecycle</key>
+	<string>shouldDeserializePet</string>
+	<key>particlefromvisitor</key>
+	<string>shouldLayoutUsage</string>
+	<key>priorityTail</key>
+	<string>paintUnary</string>
+	<key>sceneoutsidepattern</key>
+	<string>chartDecorator</string>
+	<key>shoulddispatchgridview</key>
+	<string>routeoccasion</string>
+	<key>singleMonster</key>
+	<string>subsequentInteraction</string>
+	<key>unsortedMaterial</key>
+	<string>insteadReducer</string>
+</dict>
+</plist>

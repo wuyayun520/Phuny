@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousDelivery</key>
+	<string>mutableDetail</string>
+	<key>backwardTrajectory</key>
+	<string>shouldNavigateUnary</string>
+	<key>completionTint</key>
+	<string>shouldLayoutPainter</string>
+	<key>dependencyintegration</key>
+	<string>shouldLayoutTextField</string>
+	<key>immutableParticle</key>
+	<string>shouldAttachLabel</string>
+	<key>mobileCosine</key>
+	<string>alphaframe</string>
+	<key>shouldDeserializeWorkflow</key>
+	<string>particlevaluestyle</string>
+	<key>shouldTransformRow</key>
+	<string>canDispatchTransition</string>
+	<key>shouldValidateHeap</key>
+	<string>exceptionvalidation</string>
+</dict>
+</plist>

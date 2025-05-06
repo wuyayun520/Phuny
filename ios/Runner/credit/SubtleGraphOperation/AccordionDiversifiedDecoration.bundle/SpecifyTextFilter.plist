@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedaperture</key>
+	<string>autoIsolate</string>
+	<key>basicMethod</key>
+	<string>collectionShape</string>
+	<key>diffableRenderer</key>
+	<string>annotateloop</string>
+	<key>lazyVariant</key>
+	<string>transitionasplatform</string>
+	<key>resilienceTint</key>
+	<string>arithmeticMapper</string>
+	<key>sortedDialogs</key>
+	<string>reusabledurationborder</string>
+	<key>storageState</key>
+	<string>observerValidation</string>
+</dict>
+</plist>

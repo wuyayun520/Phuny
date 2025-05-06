@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityFlags</key>
+	<string>chapterProcess</string>
+	<key>certificatestrength</key>
+	<string>subscribePageView</string>
+	<key>delicateconfidentiality</key>
+	<string>currentService</string>
+	<key>fragmentsMode</key>
+	<string>tappableGrayscale</string>
+	<key>notificationhead</key>
+	<string>arithmeticDispatcher</string>
+	<key>shouldStartLayout</key>
+	<string>relationalLocalization</string>
+	<key>skirtColor</key>
+	<string>shouldhandlegesture</string>
+</dict>
+</plist>

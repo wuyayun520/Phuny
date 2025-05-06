@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionRight</key>
+	<string>curveParameter</string>
+	<key>dynamicDisclaimer</key>
+	<string>spritefrequency</string>
+	<key>loaderOffset</key>
+	<string>receiveGroup</string>
+	<key>notifyresponse</key>
+	<string>shouldDispatchMedia</string>
+	<key>petTheme</key>
+	<string>rebuildGram</string>
+	<key>queuefinder</key>
+	<string>blocSpacing</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineOpacity</key>
+	<string>utilfactory</string>
+	<key>batchFormat</key>
+	<string>regulatelistener</string>
+	<key>blocsystemdistance</key>
+	<string>paintGestureDetector</string>
+	<key>retainedStateless</key>
+	<string>chartScope</string>
+	<key>webUseCase</key>
+	<string>listenPageView</string>
+</dict>
+</plist>

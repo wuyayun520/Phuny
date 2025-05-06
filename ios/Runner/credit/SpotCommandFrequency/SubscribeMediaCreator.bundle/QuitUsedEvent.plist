@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopService</key>
+	<string>skipcoordinator</string>
+	<key>responsiveStateless</key>
+	<string>disabledScroll</string>
+	<key>responsiveasset</key>
+	<string>cacheAspectRatio</string>
+	<key>shouldHandleProject</key>
+	<string>listenDropdownButton</string>
+	<key>shouldNavigateContainer</key>
+	<string>subpixelMemento</string>
+	<key>shouldPauseColumn</key>
+	<string>opaqueTriangles</string>
+	<key>shouldPublishIcon</key>
+	<string>iconContrast</string>
+	<key>spotbottom</key>
+	<string>directswiftcenter</string>
+	<key>staticAsset</key>
+	<string>asyncVelocity</string>
+	<key>unactivatedUtil</key>
+	<string>shouldNotifyBoxShadow</string>
+</dict>
+</plist>

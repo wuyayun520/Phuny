@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>converterDelay</key>
+	<string>largeBloc</string>
+	<key>elasticcompletertransparency</key>
+	<string>playbackdispatcher</string>
+	<key>gemFormat</key>
+	<string>permissiveModal</string>
+	<key>injectionOrigin</key>
+	<string>semanticMerger</string>
+	<key>selectoracceleration</key>
+	<string>pinchableScaffold</string>
+	<key>symmetricMesh</key>
+	<string>measureInjection</string>
+</dict>
+</plist>

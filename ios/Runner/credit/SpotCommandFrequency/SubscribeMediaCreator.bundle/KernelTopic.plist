@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorcommandname</key>
+	<string>difficultStore</string>
+	<key>densereliability</key>
+	<string>strengthCenter</string>
+	<key>eagerTimeline</key>
+	<string>sampleScale</string>
+	<key>greatScalability</key>
+	<string>staticSign</string>
+	<key>priorVertex</key>
+	<string>easyStateful</string>
+	<key>shouldRouteModulus</key>
+	<string>optiontag</string>
+	<key>sustainableDropdownButton</key>
+	<string>completerborder</string>
+</dict>
+</plist>

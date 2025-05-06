@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisstatus</key>
+	<string>routerContext</string>
+	<key>brushBound</key>
+	<string>bandwidthStyle</string>
+	<key>emitterMode</key>
+	<string>quantizerroute</string>
+	<key>fusedController</key>
+	<string>overrideSubscription</string>
+	<key>immediategraph</key>
+	<string>graphicBottom</string>
+	<key>restartthread</key>
+	<string>canStartSlash</string>
+	<key>shouldStartSubpixel</key>
+	<string>canPauseCursor</string>
+</dict>
+</plist>

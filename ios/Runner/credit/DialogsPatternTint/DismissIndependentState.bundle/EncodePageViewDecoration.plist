@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descentTint</key>
+	<string>spriteSaturation</string>
+	<key>hierarchicalStatus</key>
+	<string>awaitType</string>
+	<key>interactiveBuffer</key>
+	<string>sessionBridge</string>
+	<key>lazyBuffer</key>
+	<string>canPresentProjection</string>
+	<key>lossFlags</key>
+	<string>notifyLog</string>
+	<key>resilientStack</key>
+	<string>setstatefeature</string>
+	<key>shouldfetchview</key>
+	<string>cupertinoNumber</string>
+	<key>staticProvider</key>
+	<string>unsortedContraction</string>
+</dict>
+</plist>

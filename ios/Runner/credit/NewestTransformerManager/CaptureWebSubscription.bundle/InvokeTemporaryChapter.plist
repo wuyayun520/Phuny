@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binderFrequency</key>
+	<string>composableCube</string>
+	<key>buffertempledistance</key>
+	<string>currentGraph</string>
+	<key>challengecurve</key>
+	<string>petCycle</string>
+	<key>fusedTraversal</key>
+	<string>canAnimateMusic</string>
+	<key>ignoredMonster</key>
+	<string>shouldMountedSlider</string>
+	<key>integrationAcceleration</key>
+	<string>gesturedetectoramongstage</string>
+	<key>lostCapacity</key>
+	<string>shouldUnmountShader</string>
+	<key>secondAnchor</key>
+	<string>updateMultiplication</string>
+	<key>sliderTheme</key>
+	<string>pivotalFilter</string>
+</dict>
+</plist>

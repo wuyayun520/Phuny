@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatordependency</key>
+	<string>canSetStateSwift</string>
+	<key>dynamicNavigator</key>
+	<string>generateTransformer</string>
+	<key>hardHandler</key>
+	<string>cacheContrast</string>
+	<key>ignoredAccessory</key>
+	<string>profileOperation</string>
+	<key>isDimension</key>
+	<string>canBuildOption</string>
+	<key>iterativecallbacklocation</key>
+	<string>canvasTier</string>
+	<key>pageviewBorder</key>
+	<string>renderTransition</string>
+	<key>publicPadding</key>
+	<string>deprecateRect</string>
+	<key>storageTheme</key>
+	<string>cursoraboutprototype</string>
+</dict>
+</plist>

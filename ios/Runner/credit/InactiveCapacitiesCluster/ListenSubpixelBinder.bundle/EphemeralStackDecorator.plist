@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directDescent</key>
+	<string>sequentialResult</string>
+	<key>immediateFragments</key>
+	<string>variantScale</string>
+	<key>instructionscopeleft</key>
+	<string>scrollrotation</string>
+	<key>iterativeView</key>
+	<string>grouporigin</string>
+	<key>multiplydependency</key>
+	<string>canMountDuration</string>
+	<key>shouldPaintProject</key>
+	<string>mediocreScaffold</string>
+	<key>unmountedmedia</key>
+	<string>canStopKernel</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartduringform</key>
+	<string>unregisterRequest</string>
+	<key>customizedMaster</key>
+	<string>shouldFormatPageView</string>
+	<key>notifierduringfacade</key>
+	<string>lostGrid</string>
+	<key>seamlessAppBar</key>
+	<string>intermediateAction</string>
+	<key>shouldRouteScreen</key>
+	<string>workflowlifecycle</string>
+	<key>shouldTrainRoute</key>
+	<string>uniformController</string>
+	<key>symmetricGesture</key>
+	<string>autoSkin</string>
+	<key>temporaryprovider</key>
+	<string>responsiveMatrix</string>
+</dict>
+</plist>

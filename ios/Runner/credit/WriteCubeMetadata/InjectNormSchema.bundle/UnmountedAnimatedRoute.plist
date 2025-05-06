@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>granularRouter</key>
+	<string>fixedTrajectory</string>
+	<key>imageslider</key>
+	<string>canLayoutDelegate</string>
+	<key>immediateElement</key>
+	<string>currentShape</string>
+	<key>shouldPopMember</key>
+	<string>behaviorOrientation</string>
+	<key>uniformCombiner</key>
+	<string>canFormatGraphic</string>
+</dict>
+</plist>

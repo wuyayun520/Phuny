@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedVolume</key>
+	<string>eageranchor</string>
+	<key>arithmeticproxyinteraction</key>
+	<string>shouldBindInterpolation</string>
+	<key>autopositionkind</key>
+	<string>scrollableConsumer</string>
+	<key>ephemeralFragment</key>
+	<string>mitigateController</string>
+	<key>retainedCatalyst</key>
+	<string>cancelMaster</string>
+	<key>semanticMerger</key>
+	<string>mitigateRepository</string>
+	<key>similarTaxonomy</key>
+	<string>navigateconfiguration</string>
+	<key>stackStyle</key>
+	<string>adaptiveTouch</string>
+	<key>tweakPosition</key>
+	<string>otherFlex</string>
+	<key>tweenPadding</key>
+	<string>observeObserver</string>
+</dict>
+</plist>

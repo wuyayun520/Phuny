@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>emittexture</key>
+	<string>canContinueHero</string>
+	<key>hasmatrix</key>
+	<string>materialFlags</string>
+	<key>lazyTimeline</key>
+	<string>mutableTask</string>
+	<key>parallelSemantics</key>
+	<string>crudeDuration</string>
+	<key>resizableConfiguration</key>
+	<string>shouldDecodeStateful</string>
+	<key>seamlessStorage</key>
+	<string>apertureFlags</string>
+	<key>sequentialCupertino</key>
+	<string>delegateStorage</string>
+	<key>videoOrientation</key>
+	<string>commondimension</string>
+</dict>
+</plist>

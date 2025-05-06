@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeSlider</key>
+	<string>canEndCharacter</string>
+	<key>brushscale</key>
+	<string>canPauseBox</string>
+	<key>lazyResponder</key>
+	<string>enhanceRow</string>
+	<key>persistentLog</key>
+	<string>nextsplitter</string>
+	<key>queuetype</key>
+	<string>splitterfeedback</string>
+	<key>robustPosition</key>
+	<string>statelessSound</string>
+	<key>shouldTrainPositioned</key>
+	<string>intensityviaplatform</string>
+	<key>symmetricMechanism</key>
+	<string>cardright</string>
+</dict>
+</plist>

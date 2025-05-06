@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchjoiner</key>
+	<string>popupLevel</string>
+	<key>polyfillinset</key>
+	<string>respectivevariantduration</string>
+	<key>routeTheme</key>
+	<string>canDisconnectDecoration</string>
+	<key>standaloneTicker</key>
+	<string>webLinker</string>
+</dict>
+</plist>

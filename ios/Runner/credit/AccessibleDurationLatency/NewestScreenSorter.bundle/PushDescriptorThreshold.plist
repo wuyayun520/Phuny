@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>injectionName</key>
+	<string>nativeLoss</string>
+	<key>injectionwrapper</key>
+	<string>canSaveEntropy</string>
+	<key>listviewFlags</key>
+	<string>resolverResponse</string>
+	<key>mediocreheaprate</key>
+	<string>projectVisitor</string>
+	<key>oldManager</key>
+	<string>detachDecoration</string>
+	<key>pagerVisible</key>
+	<string>permanentOptimizer</string>
+	<key>tickerincludetier</key>
+	<string>subtleEmitter</string>
+</dict>
+</plist>

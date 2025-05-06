@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeContraction</key>
+	<string>pushCharacter</string>
+	<key>difficultPromise</key>
+	<string>interpolateProvider</string>
+	<key>globalTable</key>
+	<string>enumerateTexture</string>
+	<key>hyperbolicLoss</key>
+	<string>fillAwait</string>
+	<key>lossrate</key>
+	<string>statefulsink</string>
+	<key>mapStyle</key>
+	<string>showcache</string>
+	<key>persistentAudio</key>
+	<string>streamBloc</string>
+	<key>shouldContinueAppBar</key>
+	<string>shouldTransitionResource</string>
+	<key>streamlinestore</key>
+	<string>commonStamp</string>
+</dict>
+</plist>

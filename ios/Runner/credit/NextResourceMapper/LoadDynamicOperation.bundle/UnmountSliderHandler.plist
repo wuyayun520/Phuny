@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customAperture</key>
+	<string>imperativePager</string>
+	<key>disabledSwitch</key>
+	<string>canUnbindBoxShadow</string>
+	<key>immutableTangent</key>
+	<string>seamlessmovement</string>
+	<key>layoutdescription</key>
+	<string>euclideanLifecycle</string>
+	<key>monsterrate</key>
+	<string>geometricAnalogy</string>
+	<key>shouldDisconnectProfile</key>
+	<string>synchronizeNode</string>
+</dict>
+</plist>

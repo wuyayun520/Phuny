@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonscenario</key>
+	<string>canFinishSample</string>
+	<key>durationpressure</key>
+	<string>methodBehavior</string>
+	<key>framefilter</key>
+	<string>sortedClipper</string>
+	<key>inactiveStateless</key>
+	<string>iconRotation</string>
+	<key>normalTask</key>
+	<string>ignoredTheme</string>
+	<key>topicTension</key>
+	<string>canPersistSpot</string>
+</dict>
+</plist>

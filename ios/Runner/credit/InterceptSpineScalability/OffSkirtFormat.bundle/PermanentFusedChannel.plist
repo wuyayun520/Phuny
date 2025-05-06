@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyFragment</key>
+	<string>certificateShade</string>
+	<key>inactiveScroller</key>
+	<string>ignoredProvision</string>
+	<key>materialEfficiency</key>
+	<string>rapidextension</string>
+	<key>meshInteraction</key>
+	<string>pinchableMenu</string>
+</dict>
+</plist>

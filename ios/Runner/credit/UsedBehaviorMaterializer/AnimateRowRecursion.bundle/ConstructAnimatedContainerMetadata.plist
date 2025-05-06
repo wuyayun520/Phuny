@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryphasetype</key>
+	<string>keepCursor</string>
+	<key>declarativeSignature</key>
+	<string>visualizeDependency</string>
+	<key>impressionSaturation</key>
+	<string>cacheMode</string>
+	<key>invisibleGesture</key>
+	<string>renameInjection</string>
+	<key>lastSprite</key>
+	<string>selectedMovement</string>
+	<key>rapidposition</key>
+	<string>reductionFrequency</string>
+	<key>shouldStopCapsule</key>
+	<string>behaviorShape</string>
+	<key>texturemementostatus</key>
+	<string>advancedbandwidth</string>
+</dict>
+</plist>

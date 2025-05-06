@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colorKind</key>
+	<string>typicalCache</string>
+	<key>logTop</key>
+	<string>consumerleft</string>
+	<key>navigationresource</key>
+	<string>shouldCacheEquipment</string>
+	<key>shouldResumeNorm</key>
+	<string>elasticTouch</string>
+	<key>sliderworksize</key>
+	<string>listenRect</string>
+</dict>
+</plist>

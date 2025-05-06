@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartdespitemethod</key>
+	<string>tappableAccessory</string>
+	<key>ignoredbase</key>
+	<string>unactivatedProgressBar</string>
+	<key>resultinadapter</key>
+	<string>canvaspressure</string>
+	<key>shouldTransitionBaseline</key>
+	<string>respectiveReducer</string>
+	<key>symboloperationindex</key>
+	<string>createObserver</string>
+</dict>
+</plist>

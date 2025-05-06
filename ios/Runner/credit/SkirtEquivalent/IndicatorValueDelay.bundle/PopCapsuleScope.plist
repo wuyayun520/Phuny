@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialObserver</key>
+	<string>cleangesturedetector</string>
+	<key>fusedCapsule</key>
+	<string>mediaquerySkewY</string>
+	<key>grainperdecorator</key>
+	<string>shouldBuildCurve</string>
+	<key>listviewMargin</key>
+	<string>positionColor</string>
+	<key>modelCount</key>
+	<string>persistentAsync</string>
+	<key>projectflags</key>
+	<string>shouldParseGift</string>
+	<key>stateskewy</key>
+	<string>statefulLayout</string>
+	<key>substantiallayoutmargin</key>
+	<string>assetIndex</string>
+	<key>syncthread</key>
+	<string>sensorOffset</string>
+</dict>
+</plist>

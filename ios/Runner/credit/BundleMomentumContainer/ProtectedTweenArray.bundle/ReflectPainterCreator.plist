@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builddependency</key>
+	<string>independentKernel</string>
+	<key>bundleoption</key>
+	<string>extensionFacade</string>
+	<key>decoupleasset</key>
+	<string>geometricCard</string>
+	<key>deferredSine</key>
+	<string>reducershapefrequency</string>
+	<key>directlyPriority</key>
+	<string>partitionUseCase</string>
+	<key>directlyScalability</key>
+	<string>axisMargin</string>
+	<key>iconfunctionshape</key>
+	<string>mitigateanimatedcontainer</string>
+	<key>shouldObserveSwift</key>
+	<string>shouldCreateRole</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncTheme</key>
+	<string>explicitListView</string>
+	<key>basicTolerance</key>
+	<string>pauseScroll</string>
+	<key>contractionTop</key>
+	<string>assetLevel</string>
+	<key>controllerbridgedepth</key>
+	<string>customizedObject</string>
+	<key>graphbeyondobserver</key>
+	<string>symmetricTime</string>
+	<key>independentGraphic</key>
+	<string>handlerParameter</string>
+	<key>permissiveMultiplication</key>
+	<string>coordinatorStyle</string>
+	<key>shouldUnmountRow</key>
+	<string>shouldUnbindText</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselinesubscription</key>
+	<string>listenMovement</string>
+	<key>enabledUsage</key>
+	<string>configurationNumber</string>
+	<key>imperativeSearcher</key>
+	<string>threadcommandbottom</string>
+	<key>lazytweensaturation</key>
+	<string>fixedShape</string>
+	<key>measurespot</key>
+	<string>layoutBuffer</string>
+	<key>newestLinker</key>
+	<string>priorTicker</string>
+	<key>otherItem</key>
+	<string>chartStructure</string>
+	<key>prevFilter</key>
+	<string>dataColor</string>
+	<key>uniqueTabView</key>
+	<string>completerStyle</string>
+</dict>
+</plist>

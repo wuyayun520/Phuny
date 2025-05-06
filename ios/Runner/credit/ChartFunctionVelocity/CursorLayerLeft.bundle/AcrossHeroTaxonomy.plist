@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedMetrics</key>
+	<string>globalRoute</string>
+	<key>conformdecoration</key>
+	<string>customizedAnalyzer</string>
+	<key>hascolumn</key>
+	<string>masterLayer</string>
+	<key>otherAxis</key>
+	<string>optimizervisible</string>
+	<key>shouldInflateSignature</key>
+	<string>multiAction</string>
+</dict>
+</plist>

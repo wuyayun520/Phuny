@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardGram</key>
+	<string>axisType</string>
+	<key>customizedFactory</key>
+	<string>pinchableSingleton</string>
+	<key>declarativeWorkflow</key>
+	<string>sustainableVector</string>
+	<key>dedicatedTransformer</key>
+	<string>reactivePositioned</string>
+	<key>shouldCancelMobile</key>
+	<string>injectcursor</string>
+	<key>shouldDismissInterpolation</key>
+	<string>reducercluster</string>
+	<key>shouldNotifyNotifier</key>
+	<string>crudeFlex</string>
+	<key>shouldUnmountSign</key>
+	<string>globalprovider</string>
+	<key>skipgrid</key>
+	<string>moduleFrequency</string>
+	<key>trianglesAppearance</key>
+	<string>precisionbottom</string>
+</dict>
+</plist>

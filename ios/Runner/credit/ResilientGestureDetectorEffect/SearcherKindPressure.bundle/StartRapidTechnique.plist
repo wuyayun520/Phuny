@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionFormat</key>
+	<string>webaxis</string>
+	<key>directlyMission</key>
+	<string>gesturedetectorAdapter</string>
+	<key>displaymanager</key>
+	<string>grainResponse</string>
+	<key>firstCosine</key>
+	<string>euclideanProjection</string>
+	<key>injectionShade</key>
+	<string>threadstate</string>
+	<key>lostlifecycle</key>
+	<string>signaturePlatform</string>
+	<key>materialDispatcher</key>
+	<string>concurrentData</string>
+	<key>smartNotification</key>
+	<string>oldInfrastructure</string>
+	<key>traversaltension</key>
+	<string>allocatoroutsideshape</string>
+</dict>
+</plist>

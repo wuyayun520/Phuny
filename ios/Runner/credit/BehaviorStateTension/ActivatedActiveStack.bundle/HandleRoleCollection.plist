@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>keyTransformer</key>
+	<string>freeDelegate</string>
+	<key>mutableVariant</key>
+	<string>immediateTransition</string>
+	<key>nextaxisspeed</key>
+	<string>presenterschema</string>
+	<key>rotatedrawer</key>
+	<string>canEndSign</string>
+	<key>shouldBuildAppBar</key>
+	<string>symmetricdecorationfrequency</string>
+	<key>shouldCreateSkirt</key>
+	<string>setstateInterpolation</string>
+	<key>showpet</key>
+	<string>storePadding</string>
+	<key>usedStroke</key>
+	<string>toolduration</string>
+</dict>
+</plist>

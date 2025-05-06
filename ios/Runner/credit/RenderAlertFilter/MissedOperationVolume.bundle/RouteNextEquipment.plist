@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activateddocument</key>
+	<string>protectedprovidershape</string>
+	<key>concurrentinteraction</key>
+	<string>newestCompletion</string>
+	<key>statefacadeborder</key>
+	<string>deferredObserver</string>
+</dict>
+</plist>

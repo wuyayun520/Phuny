@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalBehavior</key>
+	<string>texturefornumber</string>
+	<key>dependencyPadding</key>
+	<string>dedicatedNode</string>
+	<key>gesturedetectormementopressure</key>
+	<string>shouldrestartcontraction</string>
+	<key>mutableTopic</key>
+	<string>extensionKind</string>
+	<key>processcontraction</key>
+	<string>momentumlistener</string>
+	<key>significantmerger</key>
+	<string>rapidSound</string>
+	<key>statelessRadio</key>
+	<string>globalSound</string>
+</dict>
+</plist>

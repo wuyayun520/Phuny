@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudePosition</key>
+	<string>sensorDirection</string>
+	<key>delicateCupertino</key>
+	<string>canPauseBrush</string>
+	<key>localLayout</key>
+	<string>reduceFrame</string>
+	<key>resourceaspect</key>
+	<string>recursionContrast</string>
+	<key>tappableGraph</key>
+	<string>prismaticText</string>
+</dict>
+</plist>

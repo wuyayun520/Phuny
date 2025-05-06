@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintAlignment</key>
+	<string>soundvisible</string>
+	<key>directlybinary</key>
+	<string>protectedPopup</string>
+	<key>draggableModule</key>
+	<string>finderKind</string>
+	<key>hashcomponent</key>
+	<string>onmodaltap</string>
+	<key>provisionPressure</key>
+	<string>shouldunmountedborder</string>
+	<key>publisherStyle</key>
+	<string>pageviewWork</string>
+	<key>scrollablePresenter</key>
+	<string>mediocreCombiner</string>
+	<key>shaderTheme</key>
+	<string>animatedTolerance</string>
+	<key>shouldEndContraction</key>
+	<string>formatBrightness</string>
+</dict>
+</plist>

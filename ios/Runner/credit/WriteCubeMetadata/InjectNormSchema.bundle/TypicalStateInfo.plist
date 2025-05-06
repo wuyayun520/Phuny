@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentSegment</key>
+	<string>shouldContinueInkWell</string>
+	<key>featureContrast</key>
+	<string>debugLabel</string>
+	<key>persistentEquipment</key>
+	<string>oldScaffold</string>
+	<key>priorBloc</key>
+	<string>gramVariable</string>
+	<key>shouldPrepareProjection</key>
+	<string>opaqueinterpolationpadding</string>
+	<key>smallinteraction</key>
+	<string>captureService</string>
+	<key>statelessshape</key>
+	<string>itemBrightness</string>
+</dict>
+</plist>

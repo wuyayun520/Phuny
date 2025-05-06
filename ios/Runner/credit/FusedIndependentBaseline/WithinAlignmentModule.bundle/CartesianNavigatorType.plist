@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedtopic</key>
+	<string>inflateAwait</string>
+	<key>gridviewBottom</key>
+	<string>loadGridView</string>
+	<key>hasRow</key>
+	<string>dialogsTail</string>
+	<key>hasTask</key>
+	<string>crucialbandwidth</string>
+	<key>scrollerkind</key>
+	<string>rapidMatrix</string>
+	<key>shouldPublishCupertino</key>
+	<string>canPaintShader</string>
+	<key>stampStatus</key>
+	<string>navigatorbridgevisibility</string>
+	<key>tappableColumn</key>
+	<string>oldsensor</string>
+	<key>typicalEntropy</key>
+	<string>typicalMomentum</string>
+</dict>
+</plist>

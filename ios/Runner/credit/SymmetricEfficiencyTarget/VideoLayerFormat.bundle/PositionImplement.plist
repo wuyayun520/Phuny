@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultsample</key>
+	<string>shouldPresentAnimatedContainer</string>
+	<key>independentGesture</key>
+	<string>opaqueDelivery</string>
+	<key>missionEdge</key>
+	<string>significantCreator</string>
+	<key>permanentNotification</key>
+	<string>triggerSpacing</string>
+	<key>providershade</key>
+	<string>reflectSink</string>
+	<key>sharedButton</key>
+	<string>inheritedNavigation</string>
+	<key>shouldFinishInstruction</key>
+	<string>displayCubit</string>
+	<key>unsortedScenario</key>
+	<string>dependencySkewX</string>
+</dict>
+</plist>

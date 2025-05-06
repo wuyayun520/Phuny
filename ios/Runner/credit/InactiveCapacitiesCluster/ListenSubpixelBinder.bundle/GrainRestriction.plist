@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseBorder</key>
+	<string>fusedTimer</string>
+	<key>directlySine</key>
+	<string>advancedMenu</string>
+	<key>keyLoss</key>
+	<string>inactiveDrawer</string>
+	<key>memberVisible</key>
+	<string>disabledTitle</string>
+	<key>queueCount</key>
+	<string>shouldyieldoverlay</string>
+	<key>requiredEvolution</key>
+	<string>checklistInterval</string>
+	<key>richtextright</key>
+	<string>dissociateWidget</string>
+	<key>shouldKeepAnimation</key>
+	<string>sanitizeSlider</string>
+	<key>syncappbar</key>
+	<string>analyzerkind</string>
+</dict>
+</plist>

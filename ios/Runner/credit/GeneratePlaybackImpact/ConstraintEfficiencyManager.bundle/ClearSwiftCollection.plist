@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedPicker</key>
+	<string>marginInterval</string>
+	<key>dedicatedContainer</key>
+	<string>canLoadBorder</string>
+	<key>requiredDisclaimer</key>
+	<string>shouldAttachCycle</string>
+	<key>shouldFormatExponent</key>
+	<string>shouldRestartMember</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constantVisible</key>
+	<string>canResumeModal</string>
+	<key>crucialScaffold</key>
+	<string>videoOrientation</string>
+	<key>functionalDisclaimer</key>
+	<string>shouldCreateSample</string>
+	<key>lazyChart</key>
+	<string>permissiveStream</string>
+	<key>overlayinset</key>
+	<string>futureSkewX</string>
+	<key>sizeHue</key>
+	<string>cacheCenter</string>
+</dict>
+</plist>

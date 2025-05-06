@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedMethod</key>
+	<string>resizableInteger</string>
+	<key>evolutionForce</key>
+	<string>processorKind</string>
+	<key>interpolationTag</key>
+	<string>interactorOrigin</string>
+	<key>reductionsystemedge</key>
+	<string>transformerSize</string>
+	<key>segmentLocation</key>
+	<string>transformgradient</string>
+	<key>tabviewRight</key>
+	<string>shaderStructure</string>
+	<key>uniformTitle</key>
+	<string>localizationRotation</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>densePlayback</key>
+	<string>canPublishEffect</string>
+	<key>hierarchicaltween</key>
+	<string>canStreamStack</string>
+	<key>restrictionposition</key>
+	<string>subscriptiondelay</string>
+	<key>subpixelskewx</key>
+	<string>shouldPushPoint</string>
+	<key>vectorizeaction</key>
+	<string>enabledCompleter</string>
+	<key>webAscent</key>
+	<string>canStreamAxis</string>
+</dict>
+</plist>

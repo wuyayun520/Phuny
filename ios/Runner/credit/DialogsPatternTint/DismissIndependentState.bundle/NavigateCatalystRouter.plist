@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lossDelay</key>
+	<string>shouldSubscribeStream</string>
+	<key>multiplicationIndex</key>
+	<string>sortedDuration</string>
+	<key>queuenotation</key>
+	<string>stopListView</string>
+	<key>standalonetexture</key>
+	<string>finderStyle</string>
+	<key>varianttimer</key>
+	<string>previewBridge</string>
+</dict>
+</plist>

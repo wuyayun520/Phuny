@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>distinctionColor</key>
+	<string>screenSystem</string>
+	<key>iterativeTolerance</key>
+	<string>canCreateDecoration</string>
+	<key>permanentRange</key>
+	<string>cosineMediator</string>
+	<key>pointRight</key>
+	<string>collectionOpacity</string>
+	<key>reducerPosition</key>
+	<string>canEndCanvas</string>
+	<key>rendererInteraction</key>
+	<string>touchlayertheme</string>
+	<key>shouldUnmountedDecoration</key>
+	<string>observerHue</string>
+	<key>shouldloadmap</key>
+	<string>progressbarAcceleration</string>
+	<key>sustainableMetrics</key>
+	<string>shouldConnectDimension</string>
+</dict>
+</plist>

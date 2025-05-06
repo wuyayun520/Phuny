@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyTernary</key>
+	<string>largeoffsetcount</string>
+	<key>isWidget</key>
+	<string>quantizerProgressBar</string>
+	<key>multiplicationBorder</key>
+	<string>currentCaption</string>
+	<key>rapidFormat</key>
+	<string>hierarchicalAnimator</string>
+	<key>responsiveWorkflow</key>
+	<string>assetSkewY</string>
+	<key>semanticsofaction</key>
+	<string>advancedAnalyzer</string>
+	<key>similarVector</key>
+	<string>enabledCompletion</string>
+	<key>subsequentloader</key>
+	<string>removeException</string>
+</dict>
+</plist>

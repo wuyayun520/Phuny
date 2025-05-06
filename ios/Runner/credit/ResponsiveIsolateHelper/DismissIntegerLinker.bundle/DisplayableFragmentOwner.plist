@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedComponent</key>
+	<string>flexibleReduction</string>
+	<key>analogyResponse</key>
+	<string>substantialcard</string>
+	<key>beginnerAlignment</key>
+	<string>objectDelay</string>
+	<key>dedicatedScroller</key>
+	<string>canPopAccessory</string>
+	<key>entropyHead</key>
+	<string>oncanvastap</string>
+	<key>flexibleSensor</key>
+	<string>interactiveSelector</string>
+	<key>mobileMend</key>
+	<string>smartGestureDetector</string>
+	<key>utilSkewY</key>
+	<string>scheduleinterface</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleElement</key>
+	<string>petDelay</string>
+	<key>connectstoryboard</key>
+	<string>cupertinoDropdownButton</string>
+	<key>functionalmetadata</key>
+	<string>materialMethod</string>
+	<key>lostThread</key>
+	<string>storageFeedback</string>
+	<key>missedGrain</key>
+	<string>intercepthash</string>
+	<key>petMargin</key>
+	<string>mutabledetail</string>
+	<key>shouldNotifyListView</key>
+	<string>equipmentDensity</string>
+	<key>shouldObservePositioned</key>
+	<string>showcurve</string>
+</dict>
+</plist>

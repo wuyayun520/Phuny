@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexiblenavigationvisible</key>
+	<string>canInflateDropdownButton</string>
+	<key>herosize</key>
+	<string>arithmeticTemple</string>
+	<key>mediaqueryOrigin</key>
+	<string>materialConstraint</string>
+	<key>shadershade</key>
+	<string>chapterForm</string>
+	<key>shouldDecodeBase</key>
+	<string>mobileAnimatedContainer</string>
+	<key>shouldInflateProvider</key>
+	<string>canEmitTable</string>
+	<key>spotTension</key>
+	<string>disabledCheckbox</string>
+</dict>
+</plist>

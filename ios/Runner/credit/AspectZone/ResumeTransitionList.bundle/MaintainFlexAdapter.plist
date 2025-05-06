@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>converterResponse</key>
+	<string>modelBridge</string>
+	<key>hashinterval</key>
+	<string>capacitiesValue</string>
+	<key>largeCharacteristic</key>
+	<string>directRequest</string>
+	<key>moduleTint</key>
+	<string>timermesh</string>
+	<key>publicLabel</key>
+	<string>composableMaster</string>
+	<key>shouldNavigateRow</key>
+	<string>mutableResult</string>
+	<key>shouldserializepriority</key>
+	<string>hardStateless</string>
+	<key>temporaryMovement</key>
+	<string>schedulerSpeed</string>
+	<key>touchnumberdelay</key>
+	<string>renderSkirt</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerCapsule</key>
+	<string>pageviewAdapter</string>
+	<key>immediateExpanded</key>
+	<string>flexfactory</string>
+	<key>responsiveTolerance</key>
+	<string>viewFacade</string>
+	<key>stampdecoratoredge</key>
+	<string>canFormatSign</string>
+	<key>webcallback</key>
+	<string>shouldPersistIcon</string>
+</dict>
+</plist>

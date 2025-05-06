@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedStream</key>
+	<string>multiplicationIndex</string>
+	<key>diversifiedConvolution</key>
+	<string>fixedtexture</string>
+	<key>effectContrast</key>
+	<string>listenerDistance</string>
+	<key>mapperPadding</key>
+	<string>singleMusic</string>
+	<key>originalTopic</key>
+	<string>disposetable</string>
+	<key>seamlessMediaQuery</key>
+	<string>othercoordinatordistance</string>
+	<key>shouldTransformMedia</key>
+	<string>stepvalueorientation</string>
+	<key>timermementoacceleration</key>
+	<string>capturegesture</string>
+	<key>usedMedia</key>
+	<string>canDisconnectSegment</string>
+</dict>
+</plist>

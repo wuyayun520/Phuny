@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerdensity</key>
+	<string>precisionAlignment</string>
+	<key>globalInfrastructure</key>
+	<string>directPopup</string>
+	<key>movementSize</key>
+	<string>explicitConstraint</string>
+	<key>rebuildaccessory</key>
+	<string>columnMethod</string>
+	<key>shouldFetchPainter</key>
+	<string>shouldPresentScale</string>
+	<key>visibleConfiguration</key>
+	<string>canSubscribeContraction</string>
+</dict>
+</plist>

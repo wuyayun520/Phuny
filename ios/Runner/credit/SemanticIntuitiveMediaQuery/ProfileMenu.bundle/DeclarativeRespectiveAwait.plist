@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>embedasset</key>
+	<string>directlySemantics</string>
+	<key>imperativeVolume</key>
+	<string>overrideButton</string>
+	<key>painterpatternbound</key>
+	<string>shouldDisconnectNotifier</string>
+	<key>shouldCancelBuilder</key>
+	<string>shouldLayoutTernary</string>
+	<key>shouldRouteTool</key>
+	<string>elasticNavigator</string>
+	<key>statelessCapacity</key>
+	<string>directlyMapper</string>
+</dict>
+</plist>

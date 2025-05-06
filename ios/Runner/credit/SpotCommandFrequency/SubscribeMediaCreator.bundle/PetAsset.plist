@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concretevideo</key>
+	<string>composableRange</string>
+	<key>draggablePolyfill</key>
+	<string>fragmentSaturation</string>
+	<key>eagerTriangles</key>
+	<string>prevComponent</string>
+	<key>profileVisible</key>
+	<string>mainRectangle</string>
+	<key>providerdecoration</key>
+	<string>hierarchicalMapper</string>
+	<key>retainedGroup</key>
+	<string>shouldInflatePriority</string>
+	<key>seamlessConstraint</key>
+	<string>canContinueComposition</string>
+	<key>unmountedextension</key>
+	<string>progressbarSize</string>
+</dict>
+</plist>

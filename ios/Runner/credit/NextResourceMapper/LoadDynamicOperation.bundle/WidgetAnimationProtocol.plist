@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionVideo</key>
+	<string>shouldAnimateInteger</string>
+	<key>disparateComponent</key>
+	<string>queuetentative</string>
+	<key>mainChannel</key>
+	<string>markLocalization</string>
+	<key>requiredScheduler</key>
+	<string>masterJob</string>
+	<key>scalegrain</key>
+	<string>characterdetector</string>
+	<key>singlestore</key>
+	<string>easyReducer</string>
+	<key>threadlistener</key>
+	<string>particlebymethod</string>
+</dict>
+</plist>

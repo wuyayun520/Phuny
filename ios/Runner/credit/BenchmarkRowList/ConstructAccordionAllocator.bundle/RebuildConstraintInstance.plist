@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivelayout</key>
+	<string>slidertag</string>
+	<key>basepager</key>
+	<string>isEqualization</string>
+	<key>consumptionBorder</key>
+	<string>chartlevelbottom</string>
+	<key>diversifiedPicker</key>
+	<string>canLoadGesture</string>
+	<key>linkerAcceleration</key>
+	<string>meshCoord</string>
+	<key>pinchableIndicator</key>
+	<string>canDeserializeContainer</string>
+	<key>priorhero</key>
+	<string>transitionbesidemode</string>
+	<key>shouldPopVariant</key>
+	<string>shouldCancelStoryboard</string>
+</dict>
+</plist>

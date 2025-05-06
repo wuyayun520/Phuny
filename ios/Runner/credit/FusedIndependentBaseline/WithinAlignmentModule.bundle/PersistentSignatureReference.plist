@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableArithmetic</key>
+	<string>restoreTransition</string>
+	<key>deploytext</key>
+	<string>agileSign</string>
+	<key>diffablesingleton</key>
+	<string>declarativeAspectRatio</string>
+	<key>disabledSwift</key>
+	<string>ephemeralRadius</string>
+	<key>gradientFormat</key>
+	<string>shouldYieldContraction</string>
+	<key>metadataSize</key>
+	<string>drawModel</string>
+	<key>robusthandlerorientation</key>
+	<string>observeCanvas</string>
+	<key>shouldLoadPriority</key>
+	<string>schedulerOrigin</string>
+	<key>textfieldcyclename</key>
+	<string>greatVertex</string>
+</dict>
+</plist>

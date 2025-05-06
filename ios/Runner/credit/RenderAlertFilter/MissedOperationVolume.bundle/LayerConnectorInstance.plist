@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immediateTraversal</key>
+	<string>enabledRange</string>
+	<key>intermediateAscent</key>
+	<string>accordionTopic</string>
+	<key>numericalNotification</key>
+	<string>otherNotation</string>
+	<key>taxonomyCount</key>
+	<string>partitionText</string>
+	<key>tensorElasticity</key>
+	<string>shouldShowExtension</string>
+</dict>
+</plist>

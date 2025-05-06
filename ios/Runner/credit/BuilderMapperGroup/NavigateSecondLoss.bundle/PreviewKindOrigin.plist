@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>navigationAppearance</key>
+	<string>offsetCoordinator</string>
+	<key>optionvertex</key>
+	<string>containerparamdistance</string>
+	<key>otherConfiguration</key>
+	<string>startInkWell</string>
+	<key>protectedError</key>
+	<string>masterFeedback</string>
+	<key>seamlessSkin</key>
+	<string>disparateArchitecture</string>
+	<key>shouldAttachConsumer</key>
+	<string>loopCycle</string>
+	<key>textleft</key>
+	<string>granularTouch</string>
+</dict>
+</plist>

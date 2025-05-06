@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronoustransformer</key>
+	<string>isolateColor</string>
+	<key>displayableScalability</key>
+	<string>spineVisible</string>
+	<key>greatMenu</key>
+	<string>responsiveScaffold</string>
+	<key>shouldLoadSubpixel</key>
+	<string>updateInstruction</string>
+</dict>
+</plist>

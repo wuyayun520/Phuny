@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegatefuture</key>
+	<string>ephemeralAudio</string>
+	<key>enabledAlert</key>
+	<string>imperativeAnimatedContainer</string>
+	<key>explicitfuture</key>
+	<string>canLayoutGesture</string>
+	<key>hasCard</key>
+	<string>shouldEncodeContraction</string>
+	<key>isCard</key>
+	<string>finishTouch</string>
+	<key>oncontractiontap</key>
+	<string>multiInterface</string>
+	<key>othersessiondensity</key>
+	<string>checkisolate</string>
+	<key>replicaPadding</key>
+	<string>secondAnimation</string>
+	<key>subsequentStore</key>
+	<string>paintRow</string>
+	<key>synchronousProjection</key>
+	<string>slashBorder</string>
+</dict>
+</plist>

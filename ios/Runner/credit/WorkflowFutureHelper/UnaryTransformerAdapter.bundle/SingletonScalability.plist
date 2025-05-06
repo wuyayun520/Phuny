@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedReceiver</key>
+	<string>arithmeticTheme</string>
+	<key>boxshadowTransparency</key>
+	<string>cacheBoxShadow</string>
+	<key>consultativerichtextdirection</key>
+	<string>tensorMatrix</string>
+	<key>euclideanLoss</key>
+	<string>canRestartBullet</string>
+	<key>flexOrientation</key>
+	<string>shouldPersistMatrix</string>
+	<key>newestduration</key>
+	<string>canDeserializeAspect</string>
+	<key>primarySize</key>
+	<string>canPauseView</string>
+	<key>statusAlignment</key>
+	<string>baseOffset</string>
+	<key>subscriberSkewY</key>
+	<string>readInteractor</string>
+	<key>textdensity</key>
+	<string>textfielddetector</string>
+</dict>
+</plist>

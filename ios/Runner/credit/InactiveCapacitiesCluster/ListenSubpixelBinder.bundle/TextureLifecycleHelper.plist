@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerwithaction</key>
+	<string>cosinebehavior</string>
+	<key>decoupleternary</key>
+	<string>textDelay</string>
+	<key>explicitmatrixtail</key>
+	<string>asynchronousDescriptor</string>
+	<key>layoutSize</key>
+	<string>threadComposite</string>
+	<key>lifecycleSkewX</key>
+	<string>usedLifecycle</string>
+	<key>persistcoordinator</key>
+	<string>canDispatchContraction</string>
+	<key>plateprocessdirection</key>
+	<string>subpixeltype</string>
+	<key>selectedgridview</key>
+	<string>continueSwift</string>
+	<key>shouldPublishFuture</key>
+	<string>resilientMedia</string>
+	<key>shouldReplaceCursor</key>
+	<string>sorterPosition</string>
+</dict>
+</plist>

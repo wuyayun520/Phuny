@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aggregatecharacter</key>
+	<string>specifyDescription</string>
+	<key>animatedScroll</key>
+	<string>responsiveExtension</string>
+	<key>defaultstateless</key>
+	<string>specifyanimation</string>
+	<key>difficultTween</key>
+	<string>specifyLog</string>
+	<key>localmonsterstyle</key>
+	<string>dedicatedCustomPaint</string>
+	<key>presentprovider</key>
+	<string>stopFuture</string>
+	<key>specifyCursor</key>
+	<string>intuitiveCanvas</string>
+</dict>
+</plist>

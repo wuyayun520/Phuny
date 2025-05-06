@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedstatus</key>
+	<string>requestDecoration</string>
+	<key>bufferbinder</key>
+	<string>providerPosition</string>
+	<key>hyperbolicScheduler</key>
+	<string>canMountAspectRatio</string>
+	<key>materialSkirt</key>
+	<string>fixedManager</string>
+	<key>screenOrigin</key>
+	<string>overlayBuffer</string>
+	<key>yieldnorm</key>
+	<string>resilientReliability</string>
+</dict>
+</plist>

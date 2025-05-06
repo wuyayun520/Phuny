@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorLocation</key>
+	<string>dialogsanalyzer</string>
+	<key>directLayout</key>
+	<string>shouldResumeDrawer</string>
+	<key>gramStatus</key>
+	<string>entityDensity</string>
+	<key>inactiveInteractor</key>
+	<string>imperativeLabel</string>
+	<key>timerorientation</key>
+	<string>sorterPosition</string>
+	<key>usedRestriction</key>
+	<string>savePlate</string>
+</dict>
+</plist>

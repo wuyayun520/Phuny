@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardspecifiertail</key>
+	<string>ternaryParam</string>
+	<key>deferredReliability</key>
+	<string>shouldHandleMaster</string>
+	<key>equipmentorigin</key>
+	<string>mobiledropdownbutton</string>
+	<key>functionalScope</key>
+	<string>sampleTint</string>
+	<key>missedStream</key>
+	<string>timelineDensity</string>
+	<key>priorHandler</key>
+	<string>renderCursor</string>
+	<key>tweenContrast</key>
+	<string>mapFlyweight</string>
+</dict>
+</plist>

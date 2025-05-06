@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>loopForce</key>
+	<string>canBuildSegue</string>
+	<key>multiCurve</key>
+	<string>interactionTop</string>
+	<key>nativeMonster</key>
+	<string>canPublishTable</string>
+	<key>preparecell</key>
+	<string>encapsulateTransformer</string>
+	<key>requiredQuaternion</key>
+	<string>nextcustompaint</string>
+	<key>segmenteffect</key>
+	<string>divideRequest</string>
+	<key>shouldContinueThread</key>
+	<string>symbolComposite</string>
+</dict>
+</plist>

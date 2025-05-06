@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileDependency</key>
+	<string>calculategram</string>
+	<key>animatedRoute</key>
+	<string>dismissCanvas</string>
+	<key>explicitSprite</key>
+	<string>canTrainSpot</string>
+	<key>gramSkewY</key>
+	<string>signatureStyle</string>
+	<key>isolateIndex</key>
+	<string>entropyTier</string>
+	<key>mapperContrast</key>
+	<string>shouldanimatematerial</string>
+	<key>parallelSizedBox</key>
+	<string>formatAcceleration</string>
+	<key>responderResponse</key>
+	<string>sizeborder</string>
+	<key>shouldEndDimension</key>
+	<string>multiplicationBuffer</string>
+</dict>
+</plist>

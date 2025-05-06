@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerSkewX</key>
+	<string>observerActivity</string>
+	<key>currentCache</key>
+	<string>injectTexture</string>
+	<key>shouldCancelModal</key>
+	<string>uniqueCard</string>
+	<key>webCapsule</key>
+	<string>canUpdateSine</string>
+</dict>
+</plist>

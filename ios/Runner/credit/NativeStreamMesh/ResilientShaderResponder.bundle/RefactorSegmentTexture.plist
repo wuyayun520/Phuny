@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>momentumsincevisitor</key>
+	<string>permissiveProcessor</string>
+	<key>nativeloader</key>
+	<string>localizationtail</string>
+	<key>shouldpusheffect</key>
+	<string>pickerLeft</string>
+	<key>shouldstartpromise</key>
+	<string>canUnmountBrush</string>
+	<key>toleranceAcceleration</key>
+	<string>releaseFactory</string>
+	<key>toleranceName</key>
+	<string>oldButton</string>
+</dict>
+</plist>

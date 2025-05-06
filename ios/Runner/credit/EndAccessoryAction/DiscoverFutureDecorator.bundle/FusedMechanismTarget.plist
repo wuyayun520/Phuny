@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aggregateroute</key>
+	<string>captionFacade</string>
+	<key>diversifiedSymbol</key>
+	<string>canShowAnimation</string>
+	<key>enabledAscent</key>
+	<string>particleBuffer</string>
+	<key>groupType</key>
+	<string>pivotalRouter</string>
+	<key>numericalusageforce</key>
+	<string>shouldpushroute</string>
+	<key>ontabbarchanged</key>
+	<string>mechanismOpacity</string>
+	<key>priorSizedBox</key>
+	<string>shouldStopEffect</string>
+	<key>searcherTheme</key>
+	<string>hardUseCase</string>
+	<key>shouldNavigateSwift</key>
+	<string>eraseBuffer</string>
+</dict>
+</plist>

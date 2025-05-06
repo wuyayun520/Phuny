@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerDepth</key>
+	<string>provisionAlignment</string>
+	<key>backwardBullet</key>
+	<string>brushInterval</string>
+	<key>discardedFilter</key>
+	<string>featureposition</string>
+	<key>imperativeAlert</key>
+	<string>resultVisibility</string>
+	<key>initializerect</key>
+	<string>literesilience</string>
+	<key>shouldResumeExtension</key>
+	<string>shouldShowMap</string>
+	<key>standalonePriority</key>
+	<string>bitratechannel</string>
+	<key>touchRight</key>
+	<string>canYieldTransition</string>
+	<key>tweakVelocity</key>
+	<string>textshapeforce</string>
+</dict>
+</plist>

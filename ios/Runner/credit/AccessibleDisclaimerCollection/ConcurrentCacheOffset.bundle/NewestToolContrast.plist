@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitySaturation</key>
+	<string>advancedCluster</string>
+	<key>customTolerance</key>
+	<string>completionState</string>
+	<key>disabledTentative</key>
+	<string>disposeMission</string>
+	<key>intermediateConstraint</key>
+	<string>persistentReceiver</string>
+	<key>layoutgraph</key>
+	<string>resourceEdge</string>
+	<key>uniqueImpression</key>
+	<string>cosinebywork</string>
+</dict>
+</plist>

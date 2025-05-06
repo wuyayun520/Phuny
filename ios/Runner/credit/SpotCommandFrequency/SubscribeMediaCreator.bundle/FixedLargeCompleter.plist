@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedListView</key>
+	<string>combineConfiguration</string>
+	<key>dialogsFrequency</key>
+	<string>disabledMaster</string>
+	<key>expandedLocation</key>
+	<string>directlyAnimatedContainer</string>
+	<key>mobileconverter</key>
+	<string>canValidateVariant</string>
+	<key>normaleffect</key>
+	<string>loaderSkewY</string>
+	<key>persistentBox</key>
+	<string>routeSession</string>
+	<key>shouldCancelAxis</key>
+	<string>detachanimation</string>
+	<key>shouldyieldpositioned</key>
+	<string>multiManager</string>
+	<key>variantandstructure</key>
+	<string>shouldPrepareTechnique</string>
+</dict>
+</plist>

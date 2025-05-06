@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associateprogressbar</key>
+	<string>crucialhash</string>
+	<key>primaryArithmetic</key>
+	<string>significantImage</string>
+	<key>shouldObserveFuture</key>
+	<string>semanticTicker</string>
+	<key>shouldPaintGestureDetector</key>
+	<string>confidentialityTension</string>
+</dict>
+</plist>

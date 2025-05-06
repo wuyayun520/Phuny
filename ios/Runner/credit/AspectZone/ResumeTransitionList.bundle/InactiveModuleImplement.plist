@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentcoord</key>
+	<string>dataVelocity</string>
+	<key>autocontainerleft</key>
+	<string>canStopPet</string>
+	<key>blocTag</key>
+	<string>draggableTable</string>
+	<key>directState</key>
+	<string>encodeCapacities</string>
+	<key>discardedBorder</key>
+	<string>hasfuture</string>
+	<key>flexiblepromise</key>
+	<string>positionedPosition</string>
+	<key>mapAppearance</key>
+	<string>mediocreConstraint</string>
+	<key>newestTitle</key>
+	<string>promiseframeworkstatus</string>
+	<key>shouldNavigateNavigation</key>
+	<string>unsortedSubpixel</string>
+	<key>shouldPersistBinary</key>
+	<string>methodBottom</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customMaterializer</key>
+	<string>streamlineAsync</string>
+	<key>eagerDetail</key>
+	<string>fixedchart</string>
+	<key>grainemitter</key>
+	<string>destroyrequest</string>
+	<key>interactiveContrast</key>
+	<string>shouldEncodeTable</string>
+	<key>intermediatereliability</key>
+	<string>informationbottom</string>
+	<key>isAnimatedContainer</key>
+	<string>texttype</string>
+	<key>missedSpine</key>
+	<string>associatedParticle</string>
+	<key>respectiveGrayscale</key>
+	<string>drawerVisitor</string>
+</dict>
+</plist>

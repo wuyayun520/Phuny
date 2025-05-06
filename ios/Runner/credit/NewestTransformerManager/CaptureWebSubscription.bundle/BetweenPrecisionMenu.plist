@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocbufferappearance</key>
+	<string>materialMovement</string>
+	<key>shouldInflateCapacities</key>
+	<string>requestForce</string>
+	<key>shouldStopSlash</key>
+	<string>cellreducer</string>
+	<key>staticDistinction</key>
+	<string>unregisterModel</string>
+	<key>transitionFormat</key>
+	<string>reducerexceptactivity</string>
+</dict>
+</plist>

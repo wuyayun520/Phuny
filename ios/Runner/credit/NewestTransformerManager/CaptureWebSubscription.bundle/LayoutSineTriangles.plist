@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleCell</key>
+	<string>explicitmodulus</string>
+	<key>dependencydescription</key>
+	<string>dynamicTraversal</string>
+	<key>durationdepth</key>
+	<string>hierarchicalthemelocation</string>
+	<key>independentEfficiency</key>
+	<string>layerDelay</string>
+	<key>mediumConfiguration</key>
+	<string>canPauseMedia</string>
+	<key>mutableCell</key>
+	<string>shouldPersistExpanded</string>
+	<key>standaloneWorkflow</key>
+	<string>skinSkewX</string>
+</dict>
+</plist>

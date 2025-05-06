@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedThread</key>
+	<string>previewstate</string>
+	<key>interactiveShape</key>
+	<string>symmetriccapacities</string>
+	<key>missedColor</key>
+	<string>hardgraph</string>
+	<key>staticFactory</key>
+	<string>discardedChapter</string>
+</dict>
+</plist>

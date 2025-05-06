@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedSelector</key>
+	<string>cupertinoBatch</string>
+	<key>consumereffect</key>
+	<string>activatedChallenge</string>
+	<key>desktopTolerance</key>
+	<string>streamstateful</string>
+	<key>respectiveAnimator</key>
+	<string>greatanimatedcontainertension</string>
+	<key>singletonCenter</key>
+	<string>polygonSpacing</string>
+</dict>
+</plist>

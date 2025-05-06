@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateascent</key>
+	<string>bitrateBehavior</string>
+	<key>resultinterval</key>
+	<string>hardInteraction</string>
+	<key>resultstructureshade</key>
+	<string>signDensity</string>
+	<key>shouldMountTheme</key>
+	<string>significantsliderinterval</string>
+	<key>shouldRebuildMomentum</key>
+	<string>animationcontrast</string>
+</dict>
+</plist>

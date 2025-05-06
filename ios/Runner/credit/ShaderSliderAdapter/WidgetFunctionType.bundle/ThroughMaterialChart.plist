@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directnavigator</key>
+	<string>canFetchSwitch</string>
+	<key>intermediateFrame</key>
+	<string>popchannels</string>
+	<key>usedMission</key>
+	<string>shouldDispatchRoute</string>
+</dict>
+</plist>

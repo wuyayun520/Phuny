@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerscheduler</key>
+	<string>keyBatch</string>
+	<key>fixedDecoration</key>
+	<string>slidercluster</string>
+	<key>integrationAlignment</key>
+	<string>referenceTransparency</string>
+	<key>intuitiveCapsule</key>
+	<string>cubeContext</string>
+	<key>newestEntity</key>
+	<string>shouldRebuildConvolution</string>
+	<key>spritescenario</key>
+	<string>pushIcon</string>
+	<key>subpixelRotation</key>
+	<string>presenterorientation</string>
+</dict>
+</plist>

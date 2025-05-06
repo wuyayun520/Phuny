@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetforvar</key>
+	<string>injectionfeedback</string>
+	<key>methodtemplebrightness</key>
+	<string>shouldDisposeMovement</string>
+	<key>sequentialMonster</key>
+	<string>alphaDistance</string>
+	<key>singleVertex</key>
+	<string>constraintHead</string>
+</dict>
+</plist>

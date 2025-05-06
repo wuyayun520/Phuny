@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialPicker</key>
+	<string>canCacheDocument</string>
+	<key>sliderbesidedecorator</key>
+	<string>switchDecorator</string>
+	<key>sortedgrainalignment</key>
+	<string>substantialBehavior</string>
+	<key>staticlistener</key>
+	<string>unregisterContainer</string>
+</dict>
+</plist>

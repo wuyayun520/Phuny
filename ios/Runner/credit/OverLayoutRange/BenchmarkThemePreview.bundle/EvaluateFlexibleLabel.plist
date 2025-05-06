@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalInfo</key>
+	<string>primaryconstraint</string>
+	<key>contractionbridgealignment</key>
+	<string>canTransformGestureDetector</string>
+	<key>deferredConsumption</key>
+	<string>materialIntensity</string>
+	<key>draggablePageView</key>
+	<string>intuitiveRouter</string>
+	<key>publicCycle</key>
+	<string>smartReplica</string>
+	<key>resilientConsumption</key>
+	<string>finishAnchor</string>
+	<key>shouldmountconstraint</key>
+	<string>menuuntilcontext</string>
+	<key>visithash</key>
+	<string>prevComponent</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleflags</key>
+	<string>scalabilitySaturation</string>
+	<key>capsuleview</key>
+	<string>textfieldRotation</string>
+	<key>compositionalResponder</key>
+	<string>animatedGraph</string>
+	<key>criticalCreator</key>
+	<string>pageviewBehavior</string>
+	<key>criticalGrid</key>
+	<string>builderSkewY</string>
+	<key>disparateFactory</key>
+	<string>canObserveController</string>
+	<key>independentMap</key>
+	<string>exponentasbuffer</string>
+	<key>positionpadding</key>
+	<string>canInflateSpine</string>
+	<key>specifySplitter</key>
+	<string>retainedSearcher</string>
+</dict>
+</plist>

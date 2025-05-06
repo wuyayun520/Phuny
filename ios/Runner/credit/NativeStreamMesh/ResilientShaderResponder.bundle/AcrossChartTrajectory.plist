@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveRichText</key>
+	<string>interactionValidation</string>
+	<key>associatedInteger</key>
+	<string>offsetscenario</string>
+	<key>crudeUnary</key>
+	<string>replacebaseline</string>
+	<key>keytext</key>
+	<string>customPlayback</string>
+	<key>quantizationnavigator</key>
+	<string>lograte</string>
+	<key>shouldLoadCaption</key>
+	<string>minRole</string>
+	<key>sliderSize</key>
+	<string>lastInstruction</string>
+	<key>specifymediaqueryskewy</key>
+	<string>frameFacade</string>
+	<key>tolerancePressure</key>
+	<string>canContinueDescriptor</string>
+</dict>
+</plist>

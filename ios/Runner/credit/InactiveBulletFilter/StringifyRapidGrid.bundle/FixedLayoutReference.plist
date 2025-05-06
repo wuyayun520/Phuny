@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentEqualization</key>
+	<string>interpolateConfiguration</string>
+	<key>extendpresenter</key>
+	<string>shouldKeepFlex</string>
+	<key>gesturedetectorPosition</key>
+	<string>backwardbasedelay</string>
+	<key>pointForce</key>
+	<string>diffableComposition</string>
+	<key>similardelegatespeed</key>
+	<string>canAnimateStateless</string>
+	<key>tickerscale</key>
+	<string>prevSkirt</string>
+</dict>
+</plist>

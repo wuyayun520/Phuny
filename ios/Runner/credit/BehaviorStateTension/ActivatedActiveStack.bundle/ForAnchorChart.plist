@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hardCurve</key>
+	<string>shouldStopNavigation</string>
+	<key>originalPolygon</key>
+	<string>positionedForce</string>
+	<key>replicaLeft</key>
+	<string>deflategrid</string>
+	<key>retainedGrid</key>
+	<string>indicatorKind</string>
+	<key>shouldNotifyBox</key>
+	<string>respectiveProcessor</string>
+	<key>shouldPaintGram</key>
+	<string>screenservice</string>
+	<key>shouldPresentProfile</key>
+	<string>onshadertap</string>
+	<key>streammovement</key>
+	<string>webHash</string>
+	<key>unaryOrigin</key>
+	<string>providePopup</string>
+</dict>
+</plist>

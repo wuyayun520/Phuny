@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeIntegrity</key>
+	<string>subscriptionprototypetail</string>
+	<key>eventdetail</key>
+	<string>menuVar</string>
+	<key>latencyPosition</key>
+	<string>conformview</string>
+	<key>polyfillInteraction</key>
+	<string>streamhue</string>
+	<key>previewSpeed</key>
+	<string>canShowMusic</string>
+	<key>previnterpolationtransparency</key>
+	<string>respectiveCompleter</string>
+	<key>shouldAnimatePoint</key>
+	<string>shouldattachmaster</string>
+	<key>shouldYieldEquipment</key>
+	<string>memberLayer</string>
+	<key>storyboardimage</key>
+	<string>symbolPadding</string>
+</dict>
+</plist>

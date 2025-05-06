@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>heroversusactivity</key>
+	<string>shouldLayoutMaterial</string>
+	<key>normalEqualization</key>
+	<string>inkwellSpeed</string>
+	<key>shouldLayoutProfile</key>
+	<string>keySine</string>
+	<key>shouldSerializeReference</key>
+	<string>desktopBullet</string>
+	<key>signatureitem</key>
+	<string>canPauseRoute</string>
+</dict>
+</plist>

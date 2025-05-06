@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxcontextbound</key>
+	<string>draggableBehavior</string>
+	<key>materialtweenhead</key>
+	<string>shouldConnectComposition</string>
+	<key>observevector</key>
+	<string>mainStore</string>
+	<key>pageviewconnector</key>
+	<string>shouldPublishSensor</string>
+	<key>shouldtransformnib</key>
+	<string>standaloneCharacter</string>
+	<key>textfieldmend</key>
+	<string>statelessPublisher</string>
+</dict>
+</plist>

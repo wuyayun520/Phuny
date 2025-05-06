@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegatecapacity</key>
+	<string>resizableReducer</string>
+	<key>framedirection</key>
+	<string>shearInteractor</string>
+	<key>ignoredFragment</key>
+	<string>canSetStateFragment</string>
+	<key>imagedensity</key>
+	<string>updateMatrix</string>
+	<key>inheritedRect</key>
+	<string>divideConstraint</string>
+	<key>mapbound</key>
+	<string>integerDecorator</string>
+	<key>observermementovelocity</key>
+	<string>shouldLayoutNavigator</string>
+	<key>samplesound</key>
+	<string>canDisposeWorkflow</string>
+	<key>scrollableRestriction</key>
+	<string>responsiveText</string>
+	<key>semanticticker</key>
+	<string>pinchabletriangles</string>
+</dict>
+</plist>

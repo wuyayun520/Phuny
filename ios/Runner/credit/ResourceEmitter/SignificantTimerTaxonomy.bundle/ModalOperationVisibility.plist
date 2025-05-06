@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicreceiver</key>
+	<string>inactiveRemainder</string>
+	<key>filterTension</key>
+	<string>captureslider</string>
+	<key>independentGroup</key>
+	<string>activityVar</string>
+	<key>labellistener</key>
+	<string>keyCycle</string>
+	<key>pinchableSample</key>
+	<string>startGesture</string>
+	<key>prevAsset</key>
+	<string>canPersistGrayscale</string>
+	<key>selectedbrush</key>
+	<string>hasInstruction</string>
+	<key>sessiontype</key>
+	<string>canNotifyRemainder</string>
+	<key>shouldYieldDrawer</key>
+	<string>unmountedSpot</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentnumbertransparency</key>
+	<string>hardProfile</string>
+	<key>assetcontaindecorator</key>
+	<string>disparateCustomPaint</string>
+	<key>explicitGraphic</key>
+	<string>spineimpression</string>
+	<key>mediaqueryColor</key>
+	<string>slashOrientation</string>
+	<key>statefulSignature</key>
+	<string>canPaintUnary</string>
+</dict>
+</plist>

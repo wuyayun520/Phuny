@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateBaseline</key>
+	<string>discardedTweak</string>
+	<key>elasticSlash</key>
+	<string>shouldValidateSubpixel</string>
+	<key>lastInfrastructure</key>
+	<string>canEncodeGate</string>
+	<key>pagerName</key>
+	<string>capsuleBound</string>
+	<key>semanticnavigator</key>
+	<string>diffableSingleton</string>
+	<key>unbindbehavior</key>
+	<string>liteConverter</string>
+	<key>unbindmargin</key>
+	<string>desktopContraction</string>
+</dict>
+</plist>

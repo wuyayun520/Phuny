@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clusterFormat</key>
+	<string>autoCharacter</string>
+	<key>disparateTimeline</key>
+	<string>activityFormat</string>
+	<key>factoryTag</key>
+	<string>completedPageView</string>
+	<key>intuitiverestriction</key>
+	<string>traversalSkewY</string>
+	<key>missedThread</key>
+	<string>concurrentChecklist</string>
+	<key>shouldEndChannels</key>
+	<string>entropyOrientation</string>
+</dict>
+</plist>

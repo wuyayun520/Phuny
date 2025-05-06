@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gateValidation</key>
+	<string>interpolationRotation</string>
+	<key>reactiveDimension</key>
+	<string>shearMetadata</string>
+	<key>rectVelocity</key>
+	<string>rowperscope</string>
+	<key>synchronousGrain</key>
+	<string>permanentstream</string>
+</dict>
+</plist>

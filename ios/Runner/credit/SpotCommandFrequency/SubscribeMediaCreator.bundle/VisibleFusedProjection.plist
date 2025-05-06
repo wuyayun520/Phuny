@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appendmultiplication</key>
+	<string>streamCenter</string>
+	<key>cachefrequency</key>
+	<string>newestChooser</string>
+	<key>concurrenttouch</key>
+	<string>mediumCell</string>
+	<key>createbuilder</key>
+	<string>fillRow</string>
+	<key>inactiveCapacities</key>
+	<string>commonroutetype</string>
+	<key>scaleInset</key>
+	<string>initializeSink</string>
+</dict>
+</plist>

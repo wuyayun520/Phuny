@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateSpacing</key>
+	<string>featureEnvironment</string>
+	<key>dispatchcallback</key>
+	<string>signFormat</string>
+	<key>flexiblesize</key>
+	<string>statelessinteractorcolor</string>
+	<key>publicScenario</key>
+	<string>diffableTask</string>
+	<key>temporarySplitter</key>
+	<string>scaffoldlayerspacing</string>
+	<key>tickerinsidenumber</key>
+	<string>staticrequest</string>
+	<key>visibleScale</key>
+	<string>missioncommandspeed</string>
+</dict>
+</plist>

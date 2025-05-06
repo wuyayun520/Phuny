@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultstream</key>
+	<string>missedPreview</string>
+	<key>delegateLocation</key>
+	<string>segueVisible</string>
+	<key>localGrid</key>
+	<string>imperativelatency</string>
+	<key>sophisticatedVolume</key>
+	<string>canObserveAnimation</string>
+	<key>tabbarOpacity</key>
+	<string>groupForce</string>
+</dict>
+</plist>

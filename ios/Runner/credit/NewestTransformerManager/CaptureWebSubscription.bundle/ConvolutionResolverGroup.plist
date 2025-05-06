@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetthroughmediator</key>
+	<string>navigationKind</string>
+	<key>capacitiesBehavior</key>
+	<string>priorityValidation</string>
+	<key>fusedBaseline</key>
+	<string>encapsulateCubit</string>
+	<key>granularTentative</key>
+	<string>clusterMomentum</string>
+	<key>independentAnimation</key>
+	<string>disabledProfile</string>
+	<key>latencyCoord</key>
+	<string>keepSensor</string>
+	<key>replicaEdge</key>
+	<string>ephemeralConsumer</string>
+</dict>
+</plist>

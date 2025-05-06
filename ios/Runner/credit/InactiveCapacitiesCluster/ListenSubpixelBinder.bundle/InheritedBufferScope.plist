@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>addstorage</key>
+	<string>canUnbindGridView</string>
+	<key>hardInfrastructure</key>
+	<string>shouldUnmountSizedBox</string>
+	<key>keepentity</key>
+	<string>statefulRect</string>
+	<key>mediumStroke</key>
+	<string>uniqueRouter</string>
+	<key>pickerStatus</key>
+	<string>benchmarkAnimation</string>
+	<key>publisherBorder</key>
+	<string>invisibleSearcher</string>
+	<key>retainedPlayback</key>
+	<string>pageviewOperation</string>
+	<key>tabviewState</key>
+	<string>shouldHandleNavigator</string>
+</dict>
+</plist>

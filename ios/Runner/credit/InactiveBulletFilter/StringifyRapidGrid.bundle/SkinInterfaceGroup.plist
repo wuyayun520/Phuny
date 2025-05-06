@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedElement</key>
+	<string>eventMargin</string>
+	<key>collectioncompositespeed</key>
+	<string>sizedboxsplitter</string>
+	<key>cosineScale</key>
+	<string>connectcolumn</string>
+	<key>hierarchicalWrapper</key>
+	<string>cupertinoBinary</string>
+	<key>mainLocalization</key>
+	<string>tappableIcon</string>
+	<key>routeaspectratio</key>
+	<string>nextMechanism</string>
+	<key>shouldResumePriority</key>
+	<string>unregisterUseCase</string>
+	<key>shouldSerializeGift</key>
+	<string>difficultgesturedetector</string>
+</dict>
+</plist>

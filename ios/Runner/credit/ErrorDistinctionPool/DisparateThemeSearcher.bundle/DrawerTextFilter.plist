@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immediateAllocator</key>
+	<string>dispatchSample</string>
+	<key>intuitiveframe</key>
+	<string>opaquebinary</string>
+	<key>projectlikenumber</key>
+	<string>scrollableResolver</string>
+	<key>textlikeflyweight</key>
+	<string>encodeTexture</string>
+</dict>
+</plist>

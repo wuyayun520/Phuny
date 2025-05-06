@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentFeedback</key>
+	<string>canStreamCaption</string>
+	<key>aspectrate</key>
+	<string>shouldRouteDimension</string>
+	<key>buildswift</key>
+	<string>conformCurve</string>
+	<key>dependencythantask</key>
+	<string>canYieldCard</string>
+	<key>diversifiedRenderer</key>
+	<string>signinsidecontext</string>
+	<key>onsegmenttap</key>
+	<string>adaptiveChapter</string>
+	<key>seamlessCosine</key>
+	<string>dispatchSpine</string>
+	<key>shouldloadsizedbox</key>
+	<string>asyncLevel</string>
+</dict>
+</plist>

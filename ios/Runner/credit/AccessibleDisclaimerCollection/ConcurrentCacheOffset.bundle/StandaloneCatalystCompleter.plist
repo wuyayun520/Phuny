@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeSwift</key>
+	<string>traversalOrigin</string>
+	<key>dedicatedGrid</key>
+	<string>timelineBehavior</string>
+	<key>relationalRange</key>
+	<string>beginnerClipper</string>
+	<key>scrollMargin</key>
+	<string>multiplyFuture</string>
+	<key>shouldCreateDocument</key>
+	<string>moveCoordinator</string>
+	<key>titleState</key>
+	<string>directCanvas</string>
+</dict>
+</plist>

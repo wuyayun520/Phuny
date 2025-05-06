@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileNavigation</key>
+	<string>euclideanmethod</string>
+	<key>permissiveView</key>
+	<string>entityCoord</string>
+	<key>shouldNotifyCapsule</key>
+	<string>mediocreMetrics</string>
+	<key>shouldParseHero</key>
+	<string>paintFuture</string>
+	<key>shouldRenderSample</key>
+	<string>transitionAlert</string>
+	<key>statefulReduction</key>
+	<string>transitionframeworkstatus</string>
+</dict>
+</plist>

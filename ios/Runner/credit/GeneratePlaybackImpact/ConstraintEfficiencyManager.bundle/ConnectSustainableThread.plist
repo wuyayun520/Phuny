@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessorySkewX</key>
+	<string>hardcontroller</string>
+	<key>bindchapter</key>
+	<string>tweakSkewY</string>
+	<key>blocTail</key>
+	<string>pushCursor</string>
+	<key>ignoredScenario</key>
+	<string>introspectRow</string>
+	<key>statefulClipper</key>
+	<string>stampCenter</string>
+	<key>switchSpeed</key>
+	<string>canEncodeRadio</string>
+</dict>
+</plist>

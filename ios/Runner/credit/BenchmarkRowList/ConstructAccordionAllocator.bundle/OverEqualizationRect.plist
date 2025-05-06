@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintShape</key>
+	<string>nextColumn</string>
+	<key>defaultmargin</key>
+	<string>streamdirection</string>
+	<key>pivotalTime</key>
+	<string>backwardGraphic</string>
+	<key>resizableBullet</key>
+	<string>materialPicker</string>
+</dict>
+</plist>

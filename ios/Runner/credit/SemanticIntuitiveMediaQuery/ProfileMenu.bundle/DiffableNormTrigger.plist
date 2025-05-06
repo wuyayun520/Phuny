@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>multiAwait</key>
+	<string>immutableAsync</string>
+	<key>musicAlignment</key>
+	<string>inflateobserver</string>
+	<key>onsizedboxchanged</key>
+	<string>keepPainter</string>
+	<key>typicalExpanded</key>
+	<string>dynamicCaption</string>
+</dict>
+</plist>

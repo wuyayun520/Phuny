@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeTimer</key>
+	<string>collectionthreshold</string>
+	<key>difficultNib</key>
+	<string>checkboxContrast</string>
+	<key>diversifiedSample</key>
+	<string>secondcustompaint</string>
+	<key>materialFragment</key>
+	<string>unbindDocument</string>
+	<key>permissiveAperture</key>
+	<string>liteCustomPaint</string>
+	<key>reactiveResolver</key>
+	<string>partitionListener</string>
+	<key>replacecontainer</key>
+	<string>parallelBox</string>
+	<key>shouldYieldSpine</key>
+	<string>cupertinoInset</string>
+	<key>shouldkeepflex</key>
+	<string>skinForce</string>
+</dict>
+</plist>

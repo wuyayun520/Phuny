@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bandwidthFormat</key>
+	<string>accessibleDropdownButton</string>
+	<key>litereducerhead</key>
+	<string>brushitem</string>
+	<key>primaryView</key>
+	<string>skipDescriptor</string>
+	<key>shouldTransitionLayout</key>
+	<string>curveBound</string>
+	<key>tangentbeyondchain</key>
+	<string>prismaticArithmetic</string>
+</dict>
+</plist>

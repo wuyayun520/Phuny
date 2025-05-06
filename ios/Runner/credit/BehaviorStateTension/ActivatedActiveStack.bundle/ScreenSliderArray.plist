@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combineinterface</key>
+	<string>transpileSize</string>
+	<key>logarithmInteraction</key>
+	<string>composableCollection</string>
+	<key>resilientThread</key>
+	<string>shouldDetachDimension</string>
+	<key>shouldEncodeAlert</key>
+	<string>fixedRecursion</string>
+	<key>sustainableAspect</key>
+	<string>shouldRebuildSkirt</string>
+</dict>
+</plist>

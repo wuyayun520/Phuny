@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocSkewX</key>
+	<string>shouldConnectPlate</string>
+	<key>iterativeOperation</key>
+	<string>routeDistance</string>
+	<key>loopRight</key>
+	<string>introspectLabel</string>
+	<key>persistentIsolate</key>
+	<string>sanitizeChapter</string>
+	<key>pinchableOffset</key>
+	<string>subscribeTheme</string>
+	<key>rendererDensity</key>
+	<string>shouldStopBloc</string>
+	<key>screenEdge</key>
+	<string>shouldHandleLabel</string>
+	<key>shouldpreparecontroller</key>
+	<string>reflectAlignment</string>
+	<key>significantBase</key>
+	<string>canLayoutMaterial</string>
+	<key>usageColor</key>
+	<string>pinchableDetail</string>
+</dict>
+</plist>

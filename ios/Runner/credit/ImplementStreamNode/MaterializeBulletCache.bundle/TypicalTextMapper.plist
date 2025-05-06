@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chooserCount</key>
+	<string>resilientQuaternion</string>
+	<key>previewInterval</key>
+	<string>currentData</string>
+	<key>sessionDuration</key>
+	<string>colorLeft</string>
+	<key>shouldPublishMaterial</key>
+	<string>evaluategridview</string>
+	<key>shouldPushPriority</key>
+	<string>hyperbolicanchoracceleration</string>
+	<key>shouldSubscribeSpot</key>
+	<string>canPublishCertificate</string>
+	<key>shouldYieldInterpolation</key>
+	<string>mountedStep</string>
+	<key>subscribebatch</key>
+	<string>temporarycoordinatororigin</string>
+</dict>
+</plist>

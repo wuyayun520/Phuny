@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveAwait</key>
+	<string>sustainableSymbol</string>
+	<key>ephemeralDuration</key>
+	<string>shouldDisconnectOptimizer</string>
+	<key>listviewScale</key>
+	<string>mergerShade</string>
+	<key>shouldCacheTask</key>
+	<string>routeChannels</string>
+	<key>shouldStartBuilder</key>
+	<string>restoreCoordinator</string>
+</dict>
+</plist>

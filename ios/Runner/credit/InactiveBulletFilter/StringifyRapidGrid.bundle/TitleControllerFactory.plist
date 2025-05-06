@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoTag</key>
+	<string>themeVisibility</string>
+	<key>desktopisolate</key>
+	<string>canRebuildCaption</string>
+	<key>disabledResult</key>
+	<string>extensionObserver</string>
+	<key>lossFrequency</key>
+	<string>reusableHandler</string>
+	<key>optionStyle</key>
+	<string>visitfuture</string>
+	<key>routepainter</key>
+	<string>unmountedShader</string>
+	<key>shouldNavigateCatalyst</key>
+	<string>lastlooptint</string>
+	<key>shouldYieldCapsule</key>
+	<string>unlockpageview</string>
+	<key>standaloneRectangle</key>
+	<string>geometricAnimator</string>
+</dict>
+</plist>

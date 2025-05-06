@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptorFormat</key>
+	<string>shouldPopEntropy</string>
+	<key>inkwellStyle</key>
+	<string>shouldTransitionFuture</string>
+	<key>managerContrast</key>
+	<string>groupSystem</string>
+	<key>monsterinset</key>
+	<string>interactiveInstruction</string>
+	<key>nodeappearance</key>
+	<string>pinchableMember</string>
+	<key>parallelLogarithm</key>
+	<string>nibOffset</string>
+	<key>promiseSpeed</key>
+	<string>maintainConstraint</string>
+	<key>visibleTraversal</key>
+	<string>selectedstack</string>
+</dict>
+</plist>

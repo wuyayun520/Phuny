@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>keyHeap</key>
+	<string>visitPopup</string>
+	<key>mountedeffect</key>
+	<string>shouldBindMovement</string>
+	<key>presenterduringaction</key>
+	<string>canEncodePoint</string>
+	<key>smallAxis</key>
+	<string>retrieveAction</string>
+</dict>
+</plist>

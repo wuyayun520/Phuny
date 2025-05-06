@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedIntensity</key>
+	<string>shouldresumehero</string>
+	<key>fixedTechnique</key>
+	<string>unarysink</string>
+	<key>mounttask</key>
+	<string>discardedMap</string>
+	<key>musicRight</key>
+	<string>discardeddelegateskewx</string>
+	<key>streamFeedback</key>
+	<string>shouldRenderGram</string>
+	<key>unmountedsession</key>
+	<string>resumeMonster</string>
+	<key>unsortedScale</key>
+	<string>transformerBuffer</string>
+</dict>
+</plist>

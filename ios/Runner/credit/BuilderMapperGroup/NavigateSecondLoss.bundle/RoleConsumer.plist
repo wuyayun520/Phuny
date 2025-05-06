@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerslider</key>
+	<string>celldescent</string>
+	<key>eagerZone</key>
+	<string>canKeepAxis</string>
+	<key>ephemeralAperture</key>
+	<string>shouldAttachScroll</string>
+	<key>handleraction</key>
+	<string>subscribeDrawer</string>
+	<key>indicatorDepth</key>
+	<string>descriptionDensity</string>
+	<key>lastStateless</key>
+	<string>copyBuffer</string>
+	<key>responsiveComposition</key>
+	<string>interactoractionoffset</string>
+	<key>routerbufferskewy</key>
+	<string>coordinatortype</string>
+	<key>timerRotation</key>
+	<string>skipSensor</string>
+</dict>
+</plist>

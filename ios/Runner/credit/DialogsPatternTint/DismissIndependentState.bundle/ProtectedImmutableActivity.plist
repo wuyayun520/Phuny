@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticmerger</key>
+	<string>sizeshade</string>
+	<key>dependencyName</key>
+	<string>unmarshalTopic</string>
+	<key>eagertransformervisible</key>
+	<string>largeAlert</string>
+	<key>intermediateTernary</key>
+	<string>dismissposition</string>
+	<key>otherEffect</key>
+	<string>slashKind</string>
+	<key>prismaticParticle</key>
+	<string>fragmentName</string>
+	<key>requiredAsset</key>
+	<string>gridviewIndex</string>
+	<key>scrollanimator</key>
+	<string>challengequeue</string>
+	<key>seamlessTweak</key>
+	<string>binderbottom</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedcertificate</key>
+	<string>ignoredplayback</string>
+	<key>associatedInteraction</key>
+	<string>lazyException</string>
+	<key>decorationVisible</key>
+	<string>canSkipDropdownButton</string>
+	<key>decorationimpression</key>
+	<string>specifyConsumption</string>
+	<key>directlyNavigator</key>
+	<string>taskPrototype</string>
+	<key>exceptionversusactivity</key>
+	<string>shouldUnmountPlayback</string>
+	<key>findcontroller</key>
+	<string>precisionVar</string>
+	<key>fusedStamp</key>
+	<string>opaquedescription</string>
+	<key>optionVelocity</key>
+	<string>observePrecision</string>
+</dict>
+</plist>

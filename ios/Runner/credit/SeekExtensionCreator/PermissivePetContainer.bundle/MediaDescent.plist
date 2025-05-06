@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianpositioned</key>
+	<string>unsortedTheme</string>
+	<key>challengeTop</key>
+	<string>prevLabel</string>
+	<key>completertrigger</key>
+	<string>robustMedia</string>
+	<key>decorationtierdistance</key>
+	<string>shouldPersistNotifier</string>
+	<key>litepositioneddirection</key>
+	<string>resizeInjection</string>
+	<key>opaqueEquivalent</key>
+	<string>shouldEncodeDropdownButton</string>
+	<key>pointLeft</key>
+	<string>keepLogarithm</string>
+	<key>semanticStamp</key>
+	<string>directMap</string>
+	<key>shouldObserveClipper</key>
+	<string>monsterCenter</string>
+</dict>
+</plist>

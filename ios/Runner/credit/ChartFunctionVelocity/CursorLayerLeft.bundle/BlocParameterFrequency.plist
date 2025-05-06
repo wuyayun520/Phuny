@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorOrientation</key>
+	<string>canListenSample</string>
+	<key>consultativeStack</key>
+	<string>commonPrecision</string>
+	<key>evaluationForce</key>
+	<string>draggableScope</string>
+	<key>topicTransparency</key>
+	<string>canAnimateSpot</string>
+</dict>
+</plist>

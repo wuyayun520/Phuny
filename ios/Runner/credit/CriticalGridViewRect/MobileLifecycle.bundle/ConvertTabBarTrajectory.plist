@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curvesingletonfrequency</key>
+	<string>tappableController</string>
+	<key>extensionhead</key>
+	<string>observerchainleft</string>
+	<key>hasobserver</key>
+	<string>newestAsset</string>
+	<key>mutableEffect</key>
+	<string>backwardProvider</string>
+	<key>shouldcreateaspect</key>
+	<string>canRestartCupertino</string>
+	<key>shouldyieldstoryboard</key>
+	<string>unregisterMetadata</string>
+	<key>temporaryBrush</key>
+	<string>convolutionObserver</string>
+</dict>
+</plist>

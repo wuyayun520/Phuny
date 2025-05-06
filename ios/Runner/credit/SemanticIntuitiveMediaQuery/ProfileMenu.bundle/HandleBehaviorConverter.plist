@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatetopic</key>
+	<string>shouldTransformBorder</string>
+	<key>ephemeralDrawer</key>
+	<string>connectInterface</string>
+	<key>shouldPaintController</key>
+	<string>captureSink</string>
+	<key>wrappercontrast</key>
+	<string>streamlineState</string>
+</dict>
+</plist>

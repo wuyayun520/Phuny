@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buffervariabletransparency</key>
+	<string>parsespot</string>
+	<key>consultativeThroughput</key>
+	<string>ascentIndex</string>
+	<key>persistentTicker</key>
+	<string>seamlessContainer</string>
+	<key>resumeallocator</key>
+	<string>shouldPersistGrayscale</string>
+	<key>shouldDisconnectPoint</key>
+	<string>cubitName</string>
+	<key>shouldNavigateModulus</key>
+	<string>compositionalGram</string>
+	<key>specifiersinceaction</key>
+	<string>crudeVolume</string>
+	<key>strokeEdge</key>
+	<string>rectifySingleton</string>
+</dict>
+</plist>

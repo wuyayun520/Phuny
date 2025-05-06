@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exponentawaystyle</key>
+	<string>itemEdge</string>
+	<key>missedTolerance</key>
+	<string>pushprojection</string>
+	<key>nextCompleter</key>
+	<string>injectionTop</string>
+	<key>oldPicker</key>
+	<string>alignmenttheme</string>
+	<key>projectiontransparency</key>
+	<string>declarativeGate</string>
+	<key>remaindercreator</key>
+	<string>animateCustomPaint</string>
+	<key>visibleGroup</key>
+	<string>providerMethod</string>
+</dict>
+</plist>

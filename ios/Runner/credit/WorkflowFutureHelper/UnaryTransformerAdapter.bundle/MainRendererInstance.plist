@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardFactory</key>
+	<string>canObserveTernary</string>
+	<key>interpolationHead</key>
+	<string>appbarParam</string>
+	<key>mediamediatoracceleration</key>
+	<string>isslider</string>
+	<key>multiplicationPosition</key>
+	<string>transitionArithmetic</string>
+	<key>shouldPushStateful</key>
+	<string>createDimension</string>
+	<key>uniformTimeline</key>
+	<string>geometricEmitter</string>
+</dict>
+</plist>

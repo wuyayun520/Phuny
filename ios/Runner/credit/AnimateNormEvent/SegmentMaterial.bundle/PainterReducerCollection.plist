@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>liteCompletion</key>
+	<string>declarativeMusic</string>
+	<key>pivotalParticle</key>
+	<string>integerRotation</string>
+	<key>segueVisible</key>
+	<string>metadatafinder</string>
+	<key>shouldrebuildboxshadow</key>
+	<string>boxshadowVisitor</string>
+</dict>
+</plist>

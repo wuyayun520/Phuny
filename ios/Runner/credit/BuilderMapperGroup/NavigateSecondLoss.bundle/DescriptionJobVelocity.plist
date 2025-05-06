@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileObject</key>
+	<string>rapidAccessory</string>
+	<key>consultativePresenter</key>
+	<string>capsuleStage</string>
+	<key>cosineinset</key>
+	<string>shouldcancelgradient</string>
+	<key>pinchableStorage</key>
+	<string>decoupleFeature</string>
+	<key>pivotalpointleft</key>
+	<string>shouldUnmountedSignature</string>
+	<key>resourceframeworkcolor</key>
+	<string>spotVisible</string>
+	<key>semanticLabel</key>
+	<string>aperturePadding</string>
+	<key>shouldpersistboxshadow</key>
+	<string>shouldUpdateImage</string>
+	<key>substantialController</key>
+	<string>metricsMargin</string>
+</dict>
+</plist>

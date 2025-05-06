@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerOccasion</key>
+	<string>basicProfile</string>
+	<key>deferredDelivery</key>
+	<string>shouldSetStateSession</string>
+	<key>geometricProfile</key>
+	<string>shouldyieldobserver</string>
+	<key>heroHead</key>
+	<string>pagerrotation</string>
+	<key>intermediateInterface</key>
+	<string>webVector</string>
+	<key>shouldStopDescriptor</key>
+	<string>associateUtil</string>
+	<key>standaloneFrame</key>
+	<string>intuitiveEffect</string>
+</dict>
+</plist>

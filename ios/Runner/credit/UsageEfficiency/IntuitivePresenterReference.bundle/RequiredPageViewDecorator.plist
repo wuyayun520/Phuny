@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumptionFeedback</key>
+	<string>scrollStructure</string>
+	<key>fusedShader</key>
+	<string>shouldEmitDecoration</string>
+	<key>imperativeBox</key>
+	<string>tabviewbound</string>
+	<key>mapexceptnumber</key>
+	<string>canAnimateAnchor</string>
+	<key>streamlineborder</key>
+	<string>canYieldFragment</string>
+</dict>
+</plist>

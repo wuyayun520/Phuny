@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileTexture</key>
+	<string>displayController</string>
+	<key>difficultEmitter</key>
+	<string>equalUseCase</string>
+	<key>disparatepublisher</key>
+	<string>resolvervalidation</string>
+	<key>layerVelocity</key>
+	<string>syncGraph</string>
+	<key>rendererStyle</key>
+	<string>maxSkin</string>
+	<key>semanticentropy</key>
+	<string>reusableevent</string>
+	<key>shouldTransformResource</key>
+	<string>resumeBoxShadow</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>greatDispatcher</key>
+	<string>curvephasepadding</string>
+	<key>injectionVelocity</key>
+	<string>cartesianInteger</string>
+	<key>methodMomentum</key>
+	<string>calculateRow</string>
+	<key>persistentlayout</key>
+	<string>parallelAlpha</string>
+	<key>shouldFinishBuilder</key>
+	<string>skinscale</string>
+	<key>shouldPaintEqualization</key>
+	<string>priorRole</string>
+	<key>ternaryfacaderesponse</key>
+	<string>unactivatedRecursion</string>
+	<key>unactivatedResult</key>
+	<string>lossedge</string>
+</dict>
+</plist>

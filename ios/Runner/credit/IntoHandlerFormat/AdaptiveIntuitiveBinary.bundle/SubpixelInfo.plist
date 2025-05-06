@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintName</key>
+	<string>disclaimerVisible</string>
+	<key>deferredBoxShadow</key>
+	<string>lifecycleLocation</string>
+	<key>inactiveStatus</key>
+	<string>basicOverlay</string>
+	<key>showerror</key>
+	<string>resumeTable</string>
+	<key>uniformTransition</key>
+	<string>unsortedTriangles</string>
+	<key>zoneBehavior</key>
+	<string>shouldReplaceInteger</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveSpeed</key>
+	<string>debugChart</string>
+	<key>globalBehavior</key>
+	<string>canContinueCapsule</string>
+	<key>resilientPolyfill</key>
+	<string>deferredConstant</string>
+	<key>shouldFinishModulus</key>
+	<string>unmountedGift</string>
+	<key>shouldTrainCharacter</key>
+	<string>fetchGrayscale</string>
+	<key>streamroute</key>
+	<string>tangentFormat</string>
+</dict>
+</plist>

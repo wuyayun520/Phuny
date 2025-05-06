@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardKind</key>
+	<string>musicMediator</string>
+	<key>constantVisible</key>
+	<string>canSetStateScale</string>
+	<key>declarativeTolerance</key>
+	<string>synchronousAsset</string>
+	<key>displayableSpecifier</key>
+	<string>createScene</string>
+	<key>enabledresourcelocation</key>
+	<string>storeContainer</string>
+	<key>independentTopic</key>
+	<string>standalonePainter</string>
+	<key>isInterpolation</key>
+	<string>shouldUpdateMediaQuery</string>
+	<key>largeVideo</key>
+	<string>unactivatedGram</string>
+	<key>selectedGate</key>
+	<string>masterDecorator</string>
+</dict>
+</plist>

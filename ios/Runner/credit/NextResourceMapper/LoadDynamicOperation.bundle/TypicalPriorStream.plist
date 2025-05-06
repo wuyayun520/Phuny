@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryFeedback</key>
+	<string>expandedMethod</string>
+	<key>firstawait</key>
+	<string>remediationBehavior</string>
+	<key>imageVisibility</key>
+	<string>shouldParseTask</string>
+	<key>interactiveModule</key>
+	<string>canLayoutMediaQuery</string>
+	<key>oldBoxShadow</key>
+	<string>imperativeAperture</string>
+	<key>shouldAnimatePageView</key>
+	<string>invokecanvas</string>
+	<key>shouldCancelScale</key>
+	<string>customgridviewsize</string>
+	<key>utilState</key>
+	<string>cupertinoRange</string>
+</dict>
+</plist>

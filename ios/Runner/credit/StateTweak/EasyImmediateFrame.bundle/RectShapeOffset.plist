@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audioVelocity</key>
+	<string>draggableSubscription</string>
+	<key>columnForce</key>
+	<string>evolutionLeft</string>
+	<key>defaultMedia</key>
+	<string>shouldSubscribeNavigation</string>
+	<key>explicitObject</key>
+	<string>canTransformBrush</string>
+	<key>mendedge</key>
+	<string>tensorBorder</string>
+	<key>mobilecupertino</key>
+	<string>architectureStyle</string>
+	<key>momentuminset</key>
+	<string>mechanismMargin</string>
+	<key>offsetBound</key>
+	<string>secondMethod</string>
+	<key>optionPosition</key>
+	<string>normalModal</string>
+</dict>
+</plist>

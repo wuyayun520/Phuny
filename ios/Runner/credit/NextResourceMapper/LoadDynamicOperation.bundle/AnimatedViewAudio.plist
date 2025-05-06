@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasbottom</key>
+	<string>shouldContinueChannels</string>
+	<key>gatemethodinset</key>
+	<string>dimensionpolyfill</string>
+	<key>sensorprototypetop</key>
+	<string>segmentVelocity</string>
+	<key>shouldInflateSegment</key>
+	<string>materialLatency</string>
+	<key>stackBound</key>
+	<string>canAttachModal</string>
+</dict>
+</plist>

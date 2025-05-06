@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteUseCase</key>
+	<string>consumerBrightness</string>
+	<key>deferredInfrastructure</key>
+	<string>accordionblocvalidation</string>
+	<key>imperativeNib</key>
+	<string>mixinService</string>
+	<key>loglinker</key>
+	<string>shouldUpdateTextField</string>
+	<key>scaffoldPadding</key>
+	<string>popupspeed</string>
+	<key>scrollableInteraction</key>
+	<string>semanticCache</string>
+</dict>
+</plist>

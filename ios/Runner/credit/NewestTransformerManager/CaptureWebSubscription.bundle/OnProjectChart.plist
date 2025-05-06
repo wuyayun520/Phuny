@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalHistogram</key>
+	<string>canNotifyDialogs</string>
+	<key>crudeProgressBar</key>
+	<string>modeltag</string>
+	<key>ephemeralTask</key>
+	<string>shouldCancelAlpha</string>
+	<key>giftFeedback</key>
+	<string>signatureSingleton</string>
+	<key>missedStateless</key>
+	<string>statelessBaseline</string>
+	<key>normstylefrequency</key>
+	<string>rectBottom</string>
+	<key>otherfeature</key>
+	<string>imperativechannel</string>
+	<key>resizableFormat</key>
+	<string>resumeReduction</string>
+	<key>shouldrendercycle</key>
+	<string>projectName</string>
+	<key>switchVisible</key>
+	<string>minCaption</string>
+</dict>
+</plist>

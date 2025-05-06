@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedButton</key>
+	<string>parallelChannels</string>
+	<key>graintaxonomy</key>
+	<string>skipGesture</string>
+	<key>granularVideo</key>
+	<string>poolIntensity</string>
+	<key>interpolationType</key>
+	<string>unsortedcombiner</string>
+	<key>shouldNotifyIcon</key>
+	<string>transitionawayjob</string>
+	<key>shoulddismisspromise</key>
+	<string>channelsformat</string>
+	<key>unsortedMerger</key>
+	<string>hasstream</string>
+	<key>visibleSession</key>
+	<string>shouldloadsignature</string>
+</dict>
+</plist>

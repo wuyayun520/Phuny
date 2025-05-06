@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnBehavior</key>
+	<string>displayableOption</string>
+	<key>comprehensiveOption</key>
+	<string>spotPlatform</string>
+	<key>controllersystemposition</key>
+	<string>rapidDetail</string>
+	<key>hierarchicalGroup</key>
+	<string>descriptionPadding</string>
+	<key>mobileCurve</key>
+	<string>receiveTween</string>
+	<key>shouldBindAnimation</key>
+	<string>shouldBuildTabBar</string>
+	<key>shouldConnectActivity</key>
+	<string>semanticresolvervisibility</string>
+	<key>visibleSize</key>
+	<string>ephemeralSession</string>
+</dict>
+</plist>

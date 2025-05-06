@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedGesture</key>
+	<string>aperturePattern</string>
+	<key>activeInjection</key>
+	<string>retainedGrid</string>
+	<key>crudeAllocator</key>
+	<string>intuitiveManager</string>
+	<key>cupertinoinjectionrate</key>
+	<string>canMountCupertino</string>
+	<key>imperativeResponder</key>
+	<string>numericalProfile</string>
+	<key>mainResponse</key>
+	<string>cupertinoDetector</string>
+	<key>managerdistance</key>
+	<string>shouldLayoutScale</string>
+	<key>relationalSpine</key>
+	<string>connectorDepth</string>
+	<key>shouldMountedTransition</key>
+	<string>easyProfile</string>
+</dict>
+</plist>

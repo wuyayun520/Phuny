@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyInstruction</key>
+	<string>symmetricBorder</string>
+	<key>hierarchicalerror</key>
+	<string>semantictraversal</string>
+	<key>presenterBorder</key>
+	<string>annotateResult</string>
+	<key>shouldProcessClipper</key>
+	<string>polyfillCount</string>
+</dict>
+</plist>

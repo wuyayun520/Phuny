@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedComponent</key>
+	<string>secondstatevelocity</string>
+	<key>modalRight</key>
+	<string>tweenborder</string>
+	<key>shouldDetachPrecision</key>
+	<string>canCancelPlate</string>
+	<key>shouldStartCompletion</key>
+	<string>compositionVariable</string>
+	<key>statefulBinary</key>
+	<string>euclideanSorter</string>
+	<key>synchronousAspectRatio</key>
+	<string>routePageView</string>
+	<key>visibleBinary</key>
+	<string>onboxtap</string>
+</dict>
+</plist>

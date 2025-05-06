@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hashInterval</key>
+	<string>geometrictaskinteraction</string>
+	<key>persistentVector</key>
+	<string>subtlePrecision</string>
+	<key>reactivecallback</key>
+	<string>requiredEntity</string>
+	<key>responsiveDrawer</key>
+	<string>petsystemflags</string>
+	<key>shouldLoadScaffold</key>
+	<string>taskrecursion</string>
+	<key>subtleScheduler</key>
+	<string>startSubpixel</string>
+	<key>topicstatetint</key>
+	<string>linkerCenter</string>
+	<key>workflowValidation</key>
+	<string>tappableSymbol</string>
+</dict>
+</plist>

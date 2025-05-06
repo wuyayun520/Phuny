@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitPainter</key>
+	<string>shouldSaveSpot</string>
+	<key>functionalpicker</key>
+	<string>tappableconstraintskewy</string>
+	<key>impactTint</key>
+	<string>shouldLoadGridView</string>
+	<key>similarframestyle</key>
+	<string>paddingBrightness</string>
+	<key>typicalStroke</key>
+	<string>canCancelDuration</string>
+</dict>
+</plist>

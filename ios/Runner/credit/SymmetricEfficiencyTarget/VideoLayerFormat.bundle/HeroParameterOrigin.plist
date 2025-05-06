@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionvalidation</key>
+	<string>containerStage</string>
+	<key>draggablePosition</key>
+	<string>receiverPadding</string>
+	<key>iscanvas</key>
+	<string>mediumcontrollershape</string>
+	<key>removetext</key>
+	<string>oldoptimizer</string>
+	<key>resizablenormborder</key>
+	<string>defaultmodal</string>
+	<key>substantialAnimation</key>
+	<string>shouldValidateBox</string>
+	<key>textSize</key>
+	<string>rapidtween</string>
+	<key>timeRotation</key>
+	<string>aggregateScene</string>
+</dict>
+</plist>

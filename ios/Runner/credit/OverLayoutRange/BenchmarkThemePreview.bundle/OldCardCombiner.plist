@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customAsync</key>
+	<string>sizeEnvironment</string>
+	<key>granularFrame</key>
+	<string>symmetricsplitter</string>
+	<key>inactiveGram</key>
+	<string>offsetParticle</string>
+	<key>localcosine</key>
+	<string>mountedSensor</string>
+	<key>localizationinterpretercount</key>
+	<string>shouldListenCharacter</string>
+	<key>onfragmenttap</key>
+	<string>enabledTangent</string>
+	<key>positionedbottom</key>
+	<string>canCreateScale</string>
+	<key>prismaticBox</key>
+	<string>equipmentAction</string>
+	<key>shouldLoadVariant</key>
+	<string>functionalNode</string>
+	<key>shouldMountSignature</key>
+	<string>canInflateImage</string>
+</dict>
+</plist>

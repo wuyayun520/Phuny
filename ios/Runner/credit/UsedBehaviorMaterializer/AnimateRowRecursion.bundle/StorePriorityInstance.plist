@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionContraction</key>
+	<string>ignoredDocument</string>
+	<key>advancedAscent</key>
+	<string>sequentialGrain</string>
+	<key>newestDescent</key>
+	<string>awaitBorder</string>
+	<key>optimizebatch</key>
+	<string>showstoryboard</string>
+	<key>singleSymbol</key>
+	<string>permissiveFragments</string>
+</dict>
+</plist>

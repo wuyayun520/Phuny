@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferBehavior</key>
+	<string>globalIcon</string>
+	<key>fuseddocumentorigin</key>
+	<string>momentummerger</string>
+	<key>specifyAnchor</key>
+	<string>iterativeTask</string>
+	<key>tabbarworkinterval</key>
+	<string>publishScroll</string>
+	<key>utilTheme</key>
+	<string>asynchronousPadding</string>
+</dict>
+</plist>

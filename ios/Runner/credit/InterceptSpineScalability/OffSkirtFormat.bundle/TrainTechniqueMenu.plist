@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composablearchitecture</key>
+	<string>materialUsage</string>
+	<key>containertail</key>
+	<string>iscupertino</string>
+	<key>creatorInteraction</key>
+	<string>tabviewContext</string>
+	<key>documentTop</key>
+	<string>protectedInterface</string>
+	<key>shouldLoadCaption</key>
+	<string>showBatch</string>
+	<key>staticModulus</key>
+	<string>collectionHue</string>
+	<key>variantCount</key>
+	<string>trainSkirt</string>
+</dict>
+</plist>

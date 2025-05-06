@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionSkewY</key>
+	<string>accessoryProxy</string>
+	<key>cursorShape</key>
+	<string>prevoffset</string>
+	<key>curveinterpreterscale</key>
+	<string>unactivatedGridView</string>
+	<key>descriptionvaluestyle</key>
+	<string>providerFlyweight</string>
+	<key>dialogsincludeflyweight</key>
+	<string>discardedSymbol</string>
+	<key>disabledEquipment</key>
+	<string>respondTransition</string>
+	<key>dynamicborder</key>
+	<string>unlockTimer</string>
+	<key>objectInset</key>
+	<string>immutableTrajectory</string>
+	<key>startgrid</key>
+	<string>pivotalInterpolation</string>
+</dict>
+</plist>

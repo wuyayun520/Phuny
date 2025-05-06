@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bloccommandspeed</key>
+	<string>serializerequest</string>
+	<key>explicitView</key>
+	<string>clippercharacteristic</string>
+	<key>shouldPublishTabView</key>
+	<string>shouldUnmountedCoordinator</string>
+	<key>tabviewBrightness</key>
+	<string>curvetimeline</string>
+	<key>tweenShape</key>
+	<string>awaitTint</string>
+</dict>
+</plist>

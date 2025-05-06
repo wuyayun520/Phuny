@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeprocessappearance</key>
+	<string>keyPromise</string>
+	<key>disparateCubit</key>
+	<string>deactivateCompleter</string>
+	<key>enabledMember</key>
+	<string>shouldLayoutRemainder</string>
+	<key>entropyTop</key>
+	<string>composableReducer</string>
+	<key>functionalConsumer</key>
+	<string>storeOpacity</string>
+	<key>hardCurve</key>
+	<string>resourceForm</string>
+	<key>mutableOffset</key>
+	<string>canSetStatePageView</string>
+	<key>newestFuture</key>
+	<string>canLayoutAnimatedContainer</string>
+	<key>pivotalentropy</key>
+	<string>opaqueCompletion</string>
+</dict>
+</plist>

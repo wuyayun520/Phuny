@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedCheckbox</key>
+	<string>advancedTrigger</string>
+	<key>easySemantics</key>
+	<string>vectorTheme</string>
+	<key>equalloop</key>
+	<string>shouldPresentEqualization</string>
+	<key>giftleft</key>
+	<string>reactiveoffsetcolor</string>
+	<key>localBuffer</key>
+	<string>offsetMediator</string>
+	<key>originalHandler</key>
+	<string>canStopStream</string>
+	<key>primaryEvolution</key>
+	<string>declarativeStateless</string>
+	<key>sharedMapper</key>
+	<string>agileDescent</string>
+	<key>singleInteraction</key>
+	<string>canDeserializeSpine</string>
+	<key>staticEfficiency</key>
+	<string>moveWidget</string>
+</dict>
+</plist>

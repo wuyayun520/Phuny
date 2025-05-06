@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowalignment</key>
+	<string>validateBullet</string>
+	<key>groupName</key>
+	<string>masterIndex</string>
+	<key>keyAllocator</key>
+	<string>quitpreview</string>
+	<key>navigationBorder</key>
+	<string>quaternionInteraction</string>
+	<key>pinchableCell</key>
+	<string>bufferDistance</string>
+	<key>shouldProcessDropdownButton</key>
+	<string>ephemeralConsumer</string>
+	<key>singletonrecursion</key>
+	<string>nextEffect</string>
+</dict>
+</plist>

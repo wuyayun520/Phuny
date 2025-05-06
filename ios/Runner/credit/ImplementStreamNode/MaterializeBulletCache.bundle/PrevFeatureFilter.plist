@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalInteger</key>
+	<string>agileutil</string>
+	<key>groupamongmethod</key>
+	<string>factoryFacade</string>
+	<key>inheritedMatrix</key>
+	<string>defaultReduction</string>
+	<key>multimanagerleft</key>
+	<string>canStreamSegment</string>
+	<key>shouldPushMedia</key>
+	<string>loopBuffer</string>
+	<key>themevalidation</key>
+	<string>factoryinteraction</string>
+</dict>
+</plist>

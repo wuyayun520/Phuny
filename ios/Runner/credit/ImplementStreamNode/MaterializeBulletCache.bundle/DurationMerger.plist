@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autobuilder</key>
+	<string>uniqueStateless</string>
+	<key>cacheevent</key>
+	<string>shouldPrepareFuture</string>
+	<key>integerbeyondstate</key>
+	<string>compareRequest</string>
+	<key>intensityshade</key>
+	<string>immediateAllocator</string>
+	<key>reactiveHandler</key>
+	<string>delegatelocation</string>
+	<key>selectedMomentum</key>
+	<string>dividerepository</string>
+	<key>shouldListenScale</key>
+	<string>characterStructure</string>
+	<key>shouldcontinuecurve</key>
+	<string>providerStyle</string>
+	<key>transitionfilter</key>
+	<string>usageCoord</string>
+	<key>unsortedLoss</key>
+	<string>routeOrigin</string>
+</dict>
+</plist>

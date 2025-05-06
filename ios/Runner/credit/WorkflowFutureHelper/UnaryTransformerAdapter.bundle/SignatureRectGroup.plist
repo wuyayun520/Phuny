@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>presenterPadding</key>
+	<string>intensityinformation</string>
+	<key>shouldObserveGrayscale</key>
+	<string>usedResponse</string>
+	<key>subtleTimeline</key>
+	<string>numericalStamp</string>
+	<key>typicalInteraction</key>
+	<string>staticCache</string>
+</dict>
+</plist>

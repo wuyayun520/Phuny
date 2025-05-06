@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binderInteraction</key>
+	<string>nativeTransition</string>
+	<key>directlyInteractor</key>
+	<string>canDetachUsage</string>
+	<key>dividebloc</key>
+	<string>shouldPrepareScale</string>
+	<key>enabledNavigation</key>
+	<string>factoryProcess</string>
+	<key>hashofdecorator</key>
+	<string>synchronizeTopic</string>
+	<key>relationalExtension</key>
+	<string>listviewfuture</string>
+	<key>shouldInflateModulus</key>
+	<string>buttonbufferpressure</string>
+	<key>shouldSerializeImage</key>
+	<string>deserializeExtension</string>
+	<key>shouldpushhero</key>
+	<string>pushRect</string>
+	<key>spineFrequency</key>
+	<string>icondistance</string>
+</dict>
+</plist>

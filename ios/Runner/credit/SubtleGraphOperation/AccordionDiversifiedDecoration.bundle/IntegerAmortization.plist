@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeindex</key>
+	<string>immutableRadio</string>
+	<key>decodebloc</key>
+	<string>cartesianCallback</string>
+	<key>hasactivity</key>
+	<string>listviewdata</string>
+	<key>persisttransition</key>
+	<string>bindBloc</string>
+	<key>resizableInfo</key>
+	<string>declarativeBase</string>
+	<key>sharedduration</key>
+	<string>immediateGrid</string>
+	<key>shouldParseEffect</key>
+	<string>boxWork</string>
+	<key>tickerfactory</key>
+	<string>scenedescent</string>
+</dict>
+</plist>

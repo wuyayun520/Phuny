@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystlocation</key>
+	<string>canTransformAperture</string>
+	<key>greatGrid</key>
+	<string>shouldDispatchUsage</string>
+	<key>ignoredUtil</key>
+	<string>curveHead</string>
+	<key>lastSegue</key>
+	<string>canFetchSkin</string>
+	<key>mergerFormat</key>
+	<string>resultStage</string>
+	<key>positionBehavior</key>
+	<string>embedError</string>
+	<key>primaryFormat</key>
+	<string>mitigateMethod</string>
+	<key>responseprototypecenter</key>
+	<string>canUnbindWidget</string>
+	<key>sessionMomentum</key>
+	<string>regulateResult</string>
+	<key>shouldDismissInteger</key>
+	<string>resolverVisible</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardCoord</key>
+	<string>requestpreview</string>
+	<key>cupertinoScaffold</key>
+	<string>continueSegment</string>
+	<key>customNode</key>
+	<string>schedulerFeedback</string>
+	<key>discardedStateful</key>
+	<string>basicGesture</string>
+	<key>keyBehavior</key>
+	<string>capturewidget</string>
+	<key>lostWidget</key>
+	<string>shouldmountdocument</string>
+	<key>prevStream</key>
+	<string>similarOperation</string>
+	<key>webReceiver</key>
+	<string>layouttheme</string>
+</dict>
+</plist>

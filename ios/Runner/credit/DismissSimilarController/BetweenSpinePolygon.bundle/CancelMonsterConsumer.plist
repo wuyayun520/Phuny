@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalplateinterval</key>
+	<string>fixedqueuedelay</string>
+	<key>invisibleInteractor</key>
+	<string>uniformAwait</string>
+	<key>isolateAppearance</key>
+	<string>eagerSensor</string>
+	<key>publicAwait</key>
+	<string>lifecycleCoord</string>
+	<key>resilientRect</key>
+	<string>currentsession</string>
+	<key>seamlessContrast</key>
+	<string>functionalRoute</string>
+	<key>subpixelTop</key>
+	<string>rectifyFuture</string>
+	<key>temporaryMend</key>
+	<string>unactivatedAscent</string>
+	<key>themetierlocation</key>
+	<string>notifyBatch</string>
+</dict>
+</plist>

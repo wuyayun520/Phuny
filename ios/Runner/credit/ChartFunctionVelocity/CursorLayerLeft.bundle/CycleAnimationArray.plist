@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedNotifier</key>
+	<string>canRebuildMedia</string>
+	<key>descriptorTension</key>
+	<string>statelessNumber</string>
+	<key>managerdirection</key>
+	<string>intuitiveCluster</string>
+	<key>transitionFeedback</key>
+	<string>painterNumber</string>
+</dict>
+</plist>

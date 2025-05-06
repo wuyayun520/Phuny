@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllertype</key>
+	<string>largeInterface</string>
+	<key>detectorDensity</key>
+	<string>shouldNavigateCursor</string>
+	<key>immutableStream</key>
+	<string>animationInset</string>
+	<key>interactorMargin</key>
+	<string>missedCycle</string>
+</dict>
+</plist>

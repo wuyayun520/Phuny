@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>geometricContrast</key>
+	<string>catalysttransparency</string>
+	<key>releaseoverlay</key>
+	<string>interactiveLogarithm</string>
+	<key>shouldDeserializeSpot</key>
+	<string>marshalOffset</string>
+	<key>shouldEmitPadding</key>
+	<string>rectangleOrientation</string>
+	<key>spriteVelocity</key>
+	<string>crudeEmitter</string>
+	<key>tappableProjection</key>
+	<string>geometricData</string>
+</dict>
+</plist>

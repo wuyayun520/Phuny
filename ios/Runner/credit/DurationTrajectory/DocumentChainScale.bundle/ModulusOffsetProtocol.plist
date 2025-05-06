@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardState</key>
+	<string>shouldUpdateBehavior</string>
+	<key>mutableResult</key>
+	<string>deserializeState</string>
+	<key>respectiveWrapper</key>
+	<string>tooltieracceleration</string>
+	<key>shouldpresentextension</key>
+	<string>momentumInteraction</string>
+	<key>singleConfidentiality</key>
+	<string>cupertinoTweak</string>
+</dict>
+</plist>

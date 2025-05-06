@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryStyle</key>
+	<string>presentPageView</string>
+	<key>enabledDelivery</key>
+	<string>gemShape</string>
+	<key>projectcount</key>
+	<string>sophisticatedChecklist</string>
+	<key>shouldRebuildCertificate</key>
+	<string>canEmitTask</string>
+</dict>
+</plist>

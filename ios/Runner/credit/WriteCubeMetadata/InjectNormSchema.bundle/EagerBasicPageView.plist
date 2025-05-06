@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canceleffect</key>
+	<string>cacheScreen</string>
+	<key>layoutprogressbar</key>
+	<string>canPushAppBar</string>
+	<key>normalImpact</key>
+	<string>prevVideo</string>
+	<key>reusableSensor</key>
+	<string>eraseAlignment</string>
+	<key>richtextopacity</key>
+	<string>dissociateResponse</string>
+	<key>shouldMountTable</key>
+	<string>notificationwithcycle</string>
+	<key>shouldPrepareStep</key>
+	<string>resolverorientation</string>
+	<key>shouldUpdateStack</key>
+	<string>canRebuildModal</string>
+</dict>
+</plist>

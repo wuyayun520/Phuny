@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardstatus</key>
+	<string>shouldendbehavior</string>
+	<key>entityborder</key>
+	<string>canRouteDialogs</string>
+	<key>movementMode</key>
+	<string>shouldAnimateBinary</string>
+	<key>opaqueConfiguration</key>
+	<string>functionalResilience</string>
+	<key>resiliencefrequency</key>
+	<string>analyzerSkewX</string>
+	<key>shouldShowStack</key>
+	<string>similarLoader</string>
+	<key>streamRate</key>
+	<string>shouldLayoutNotifier</string>
+</dict>
+</plist>

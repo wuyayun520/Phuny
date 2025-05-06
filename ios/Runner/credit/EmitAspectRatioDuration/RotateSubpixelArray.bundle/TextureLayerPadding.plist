@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mainGift</key>
+	<string>shouldHandleDecoration</string>
+	<key>previewthroughlevel</key>
+	<string>easyService</string>
+	<key>respectiveMedia</key>
+	<string>prismaticChecklist</string>
+	<key>shaderOrientation</key>
+	<string>reactiveTexture</string>
+</dict>
+</plist>

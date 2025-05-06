@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblemesh</key>
+	<string>canPaintSubpixel</string>
+	<key>opaquehistogramfrequency</key>
+	<string>replaceSink</string>
+	<key>positionedDuration</key>
+	<string>shouldPublishDescriptor</string>
+	<key>pushroute</key>
+	<string>precisionlocalization</string>
+	<key>shouldYieldBaseline</key>
+	<string>subpixelSaturation</string>
+	<key>sliderkind</key>
+	<string>multiplicationComposite</string>
+	<key>throughputRight</key>
+	<string>shouldInflatePlayback</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicrect</key>
+	<string>orchestratespecifier</string>
+	<key>customizedtouch</key>
+	<string>responseMemento</string>
+	<key>directReceiver</key>
+	<string>videoCount</string>
+	<key>emitchallenge</key>
+	<string>logShape</string>
+	<key>gesturedelay</key>
+	<string>shouldSubscribeReduction</string>
+	<key>opaqueUseCase</key>
+	<string>responderTop</string>
+	<key>singleAppBar</key>
+	<string>accordionAccessory</string>
+	<key>spineType</key>
+	<string>augmentbullet</string>
+	<key>stringifyview</key>
+	<string>utilreducer</string>
+	<key>synchronousScenario</key>
+	<string>pointCycle</string>
+</dict>
+</plist>

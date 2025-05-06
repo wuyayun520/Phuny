@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continuewidget</key>
+	<string>characterCoord</string>
+	<key>detectorFrequency</key>
+	<string>prepareSign</string>
+	<key>graphicsinceframework</key>
+	<string>provideStream</string>
+	<key>inheritedSpecifier</key>
+	<string>declarativeHash</string>
+	<key>materialLocalization</key>
+	<string>asynchronousController</string>
+	<key>responsiveKernel</key>
+	<string>projectionForce</string>
+	<key>scrollPadding</key>
+	<string>defaultprojection</string>
+	<key>standaloneAnalyzer</key>
+	<string>shouldKeepSkirt</string>
+</dict>
+</plist>

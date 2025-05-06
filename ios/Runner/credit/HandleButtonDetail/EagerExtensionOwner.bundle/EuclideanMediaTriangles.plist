@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>greatController</key>
+	<string>constraintPrototype</string>
+	<key>ongridviewtap</key>
+	<string>inflateInkWell</string>
+	<key>optimizerVisibility</key>
+	<string>animationRight</string>
+	<key>shouldStartScreen</key>
+	<string>unsortedContrast</string>
+</dict>
+</plist>

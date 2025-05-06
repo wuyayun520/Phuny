@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentTimeline</key>
+	<string>canKeepScaffold</string>
+	<key>directOperation</key>
+	<string>shouldEndMusic</string>
+	<key>independentBuilder</key>
+	<string>canPaintGestureDetector</string>
+	<key>nativeFrame</key>
+	<string>dynamicText</string>
+	<key>paralleltransformerdirection</key>
+	<string>profileVisibility</string>
+	<key>providerpublisher</key>
+	<string>metadatatension</string>
+	<key>visibleGrain</key>
+	<string>sensorMode</string>
+</dict>
+</plist>

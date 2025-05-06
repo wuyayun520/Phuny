@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsulemoderate</key>
+	<string>stampWork</string>
+	<key>diversifiedWrapper</key>
+	<string>moveInterface</string>
+	<key>intuitiveTriangles</key>
+	<string>greatLoop</string>
+	<key>presenterLeft</key>
+	<string>deferredAwait</string>
+	<key>shouldAnimateStateless</key>
+	<string>scenebycommand</string>
+	<key>shouldPrepareMomentum</key>
+	<string>priorCompletion</string>
+	<key>shouldRenderGestureDetector</key>
+	<string>selectedChallenge</string>
+	<key>tappableTriangles</key>
+	<string>anchortweak</string>
+	<key>uniformScalability</key>
+	<string>agileProtocol</string>
+</dict>
+</plist>

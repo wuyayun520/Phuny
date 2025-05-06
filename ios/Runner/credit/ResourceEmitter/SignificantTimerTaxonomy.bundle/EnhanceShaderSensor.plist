@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyBrightness</key>
+	<string>publicSink</string>
+	<key>delicateMaterializer</key>
+	<string>convertFrame</string>
+	<key>euclideanOverlay</key>
+	<string>loadIndicator</string>
+	<key>immutableReceiver</key>
+	<string>gramlocation</string>
+	<key>sharedKernel</key>
+	<string>flexibleShader</string>
+	<key>shouldUnbindProfile</key>
+	<string>conformUseCase</string>
+	<key>sophisticatedReference</key>
+	<string>tappableAnchor</string>
+</dict>
+</plist>

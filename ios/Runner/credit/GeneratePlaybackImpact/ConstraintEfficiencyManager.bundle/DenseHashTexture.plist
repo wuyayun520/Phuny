@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultdocument</key>
+	<string>certificateagainsttemple</string>
+	<key>hardSelector</key>
+	<string>providercount</string>
+	<key>painterVisible</key>
+	<string>primaryGem</string>
+	<key>permissiveResponder</key>
+	<string>radiusContext</string>
+	<key>shouldContinueOption</key>
+	<string>secondCharacteristic</string>
+</dict>
+</plist>

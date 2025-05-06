@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineDirection</key>
+	<string>asynchronousChallenge</string>
+	<key>contrastOrientation</key>
+	<string>backwardMobile</string>
+	<key>flexibleTangent</key>
+	<string>synchronousConstant</string>
+	<key>independentdelegatetint</key>
+	<string>shouldEncodePainter</string>
+	<key>invisiblelayer</key>
+	<string>parallelpreview</string>
+	<key>marginspeed</key>
+	<string>iterativeMerger</string>
+	<key>shouldCreateCertificate</key>
+	<string>channelsInset</string>
+	<key>sustainableBuilder</key>
+	<string>customizedReducer</string>
+</dict>
+</plist>

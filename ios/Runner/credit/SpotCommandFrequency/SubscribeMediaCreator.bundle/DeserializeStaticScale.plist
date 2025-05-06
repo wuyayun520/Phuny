@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableAction</key>
+	<string>executeQueue</string>
+	<key>diffableChart</key>
+	<string>navigatorobserver</string>
+	<key>slashOrigin</key>
+	<string>resumeNotifier</string>
+	<key>sortedMusic</key>
+	<string>robustObject</string>
+	<key>statefulMend</key>
+	<string>disconnectMargin</string>
+	<key>tappableData</key>
+	<string>rapidSensor</string>
+	<key>uniquepreviewstyle</key>
+	<string>singletonfrequency</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousGraph</key>
+	<string>agileReference</string>
+	<key>differentiatetext</key>
+	<string>convolutionColor</string>
+	<key>equalizationcycleduration</key>
+	<string>deployParticle</string>
+	<key>factoryIndex</key>
+	<string>easyManager</string>
+	<key>positionedbutton</key>
+	<string>subpixelpercycle</string>
+	<key>shouldAnimateBoxShadow</key>
+	<string>canDisconnectNavigator</string>
+</dict>
+</plist>

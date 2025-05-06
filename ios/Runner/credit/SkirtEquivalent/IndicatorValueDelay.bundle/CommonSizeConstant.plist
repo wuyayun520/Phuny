@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationBound</key>
+	<string>taskstatus</string>
+	<key>animatorDensity</key>
+	<string>processRadio</string>
+	<key>criticalNode</key>
+	<string>shouldValidateMission</string>
+	<key>directDelivery</key>
+	<string>shaderMode</string>
+	<key>shouldSubscribeRadio</key>
+	<string>permissiveSink</string>
+	<key>specifyWidget</key>
+	<string>smallTime</string>
+	<key>tweakPressure</key>
+	<string>resizecapsule</string>
+	<key>unsortedSingleton</key>
+	<string>canCancelListView</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveDecoration</key>
+	<string>opaquePolyfill</string>
+	<key>functionalAmortization</key>
+	<string>builderSystem</string>
+	<key>replacesubpixel</key>
+	<string>boxdensity</string>
+	<key>selectedText</key>
+	<string>respectiveSlider</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentAnimation</key>
+	<string>annotateRepository</string>
+	<key>fusedDetail</key>
+	<string>musicSaturation</string>
+	<key>liteRoute</key>
+	<string>elasticityDuration</string>
+	<key>providerformat</key>
+	<string>dynamicVolume</string>
+	<key>shouldUpdateStream</key>
+	<string>pendingDescriptor</string>
+	<key>smartIsolate</key>
+	<string>featureSingleton</string>
+</dict>
+</plist>

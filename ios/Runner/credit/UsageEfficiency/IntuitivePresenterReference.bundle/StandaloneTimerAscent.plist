@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentDescent</key>
+	<string>disconnectspine</string>
+	<key>sorterSkewX</key>
+	<string>multiSine</string>
+	<key>unactivatedSession</key>
+	<string>clipHash</string>
+	<key>unmountvector</key>
+	<string>secondMatrix</string>
+</dict>
+</plist>

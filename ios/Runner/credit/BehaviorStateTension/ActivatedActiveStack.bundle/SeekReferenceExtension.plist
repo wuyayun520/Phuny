@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionAmortization</key>
+	<string>factoryorigin</string>
+	<key>characteristicOrientation</key>
+	<string>publicNavigator</string>
+	<key>documenttypeacceleration</key>
+	<string>requiredMobile</string>
+	<key>integernearinterpreter</key>
+	<string>missionFlags</string>
+	<key>measuredelegate</key>
+	<string>canKeepGate</string>
+	<key>multiplicationacceleration</key>
+	<string>compositionalAudio</string>
+	<key>reductiontransparency</key>
+	<string>stringifyEntity</string>
+	<key>reusableDispatcher</key>
+	<string>annotateCubit</string>
+	<key>specifyFuture</key>
+	<string>dynamicStamp</string>
+</dict>
+</plist>

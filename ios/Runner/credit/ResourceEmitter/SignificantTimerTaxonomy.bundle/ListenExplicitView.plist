@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawerHead</key>
+	<string>trainSkirt</string>
+	<key>hardPosition</key>
+	<string>annotateQueue</string>
+	<key>mechanismOrigin</key>
+	<string>channelsfromfacade</string>
+	<key>mediaquerystyle</key>
+	<string>lazySubpixel</string>
+	<key>robustRecursion</key>
+	<string>paddingObserver</string>
+	<key>selectedStream</key>
+	<string>deferredProfile</string>
+	<key>sizefromobserver</key>
+	<string>canStopProject</string>
+	<key>subtleParticle</key>
+	<string>refreshReducer</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deliveryFormat</key>
+	<string>storagematrix</string>
+	<key>gesturedetectorSaturation</key>
+	<string>hierarchicalCallback</string>
+	<key>inheritedObject</key>
+	<string>canFinishChallenge</string>
+	<key>newestLayer</key>
+	<string>routerprocessor</string>
+	<key>shouldDecodeNavigation</key>
+	<string>tabviewreceiver</string>
+	<key>shouldRouteAspectRatio</key>
+	<string>shouldContinueCube</string>
+</dict>
+</plist>

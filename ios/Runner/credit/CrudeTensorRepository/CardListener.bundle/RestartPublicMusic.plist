@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionScale</key>
+	<string>compositionalawait</string>
+	<key>certificateinfrastructure</key>
+	<string>undertakeAction</string>
+	<key>enabledworkflow</key>
+	<string>shouldDeserializeIndicator</string>
+	<key>notificationstructurescale</key>
+	<string>uniformContainer</string>
+	<key>resolverappearance</key>
+	<string>buildChannels</string>
+	<key>shouldDismissLog</key>
+	<string>profileCoordinator</string>
+	<key>shouldrestartgesture</key>
+	<string>constraintstructurealignment</string>
+</dict>
+</plist>

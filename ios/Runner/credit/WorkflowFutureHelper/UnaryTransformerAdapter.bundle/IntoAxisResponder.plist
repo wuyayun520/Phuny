@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorAppearance</key>
+	<string>behaviorFlags</string>
+	<key>delicateThreshold</key>
+	<string>synchronousTweak</string>
+	<key>nextUseCase</key>
+	<string>stepHead</string>
+	<key>shouldValidateGestureDetector</key>
+	<string>lossMemento</string>
+	<key>shouldpersistcatalyst</key>
+	<string>detachstoryboard</string>
+	<key>sophisticatedManager</key>
+	<string>shouldAnimateRichText</string>
+	<key>subscriptionanimation</key>
+	<string>menuScope</string>
+	<key>symbolAppearance</key>
+	<string>canRouteGridView</string>
+	<key>temporaryBitrate</key>
+	<string>gradientEnvironment</string>
+</dict>
+</plist>

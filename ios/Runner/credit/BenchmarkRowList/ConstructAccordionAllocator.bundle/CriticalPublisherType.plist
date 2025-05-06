@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetcontextvisibility</key>
+	<string>shouldpublishbinary</string>
+	<key>characterVisibility</key>
+	<string>equipmentinsideprototype</string>
+	<key>consultativeCharacter</key>
+	<string>shaderValue</string>
+	<key>requiredModel</key>
+	<string>loadReduction</string>
+	<key>shouldKeepCharacter</key>
+	<string>unaryJob</string>
+	<key>slashprocessor</key>
+	<string>composableView</string>
+	<key>synchronousStream</key>
+	<string>compilestream</string>
+</dict>
+</plist>

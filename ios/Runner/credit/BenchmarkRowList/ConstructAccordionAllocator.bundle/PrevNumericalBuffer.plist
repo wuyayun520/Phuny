@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackSaturation</key>
+	<string>observeChallenge</string>
+	<key>commonStream</key>
+	<string>discardedRect</string>
+	<key>consumerHue</key>
+	<string>canSubscribeLoss</string>
+	<key>matrixorientation</key>
+	<string>shouldUnmountedPainter</string>
+	<key>storyboardScale</key>
+	<string>shaderTint</string>
+	<key>synchronousthroughput</key>
+	<string>synchronousModal</string>
+	<key>techniquefunctiondistance</key>
+	<string>independentAsset</string>
+</dict>
+</plist>

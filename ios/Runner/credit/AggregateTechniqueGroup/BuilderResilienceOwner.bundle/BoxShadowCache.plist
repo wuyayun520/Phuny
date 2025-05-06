@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bordergraph</key>
+	<string>permissiveChapter</string>
+	<key>conformnavigator</key>
+	<string>joinerDensity</string>
+	<key>keylabel</key>
+	<string>displayableChart</string>
+	<key>movementStyle</key>
+	<string>deactivateTransition</string>
+	<key>pivotalReducer</key>
+	<string>scrollableOperation</string>
+	<key>previewsaturation</key>
+	<string>dynamicMetadata</string>
+	<key>priorAnalyzer</key>
+	<string>canSetStateBloc</string>
+	<key>rebuildspecifier</key>
+	<string>canEmitPriority</string>
+</dict>
+</plist>

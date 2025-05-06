@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerRole</key>
+	<string>canCreateEntropy</string>
+	<key>fusedHistogram</key>
+	<string>mergerfeedback</string>
+	<key>hierarchicalAscent</key>
+	<string>canStartAspectRatio</string>
+	<key>reactiveTimeline</key>
+	<string>tabletension</string>
+	<key>screenRight</key>
+	<string>hasMedia</string>
+	<key>shouldObserveCache</key>
+	<string>shouldUnmountedLogarithm</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedNotifier</key>
+	<string>captionDirection</string>
+	<key>agileradiusvisible</key>
+	<string>dialogsDecorator</string>
+	<key>latencyRight</key>
+	<string>flexiblesound</string>
+	<key>nativeBuffer</key>
+	<string>intuitiveHistogram</string>
+	<key>selectorContrast</key>
+	<string>eventTension</string>
+	<key>symmetricElasticity</key>
+	<string>missionSpacing</string>
+</dict>
+</plist>

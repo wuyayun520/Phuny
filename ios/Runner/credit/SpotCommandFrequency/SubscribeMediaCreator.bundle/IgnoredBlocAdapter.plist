@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitymode</key>
+	<string>layoutTabBar</string>
+	<key>channelValidation</key>
+	<string>composableInjection</string>
+	<key>controllerTag</key>
+	<string>protectedHero</string>
+	<key>dropoutzone</key>
+	<string>yieldGesture</string>
+	<key>encodemodal</key>
+	<string>partitionInjection</string>
+	<key>responsiveResult</key>
+	<string>canEncodeLayout</string>
+	<key>shouldKeepProfile</key>
+	<string>shouldAnimateAlpha</string>
+	<key>shouldLayoutCustomPaint</key>
+	<string>desktopProvision</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentAnalyzer</key>
+	<string>localDisclaimer</string>
+	<key>holdlabel</key>
+	<string>crudeNavigator</string>
+	<key>lazyTabView</key>
+	<string>completionStyle</string>
+	<key>mediocreVideo</key>
+	<string>relationalMonster</string>
+	<key>resilientConfiguration</key>
+	<string>emitRemainder</string>
+	<key>sharedAction</key>
+	<string>intuitiveEmitter</string>
+	<key>shouldkeepbloc</key>
+	<string>monsterDirection</string>
+	<key>sinkdescent</key>
+	<string>compileTransformer</string>
+</dict>
+</plist>

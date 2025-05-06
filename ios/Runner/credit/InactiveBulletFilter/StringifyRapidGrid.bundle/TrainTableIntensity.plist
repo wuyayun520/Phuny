@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachconvolution</key>
+	<string>inactiveModulus</string>
+	<key>concurrentGestureDetector</key>
+	<string>synchronousConfiguration</string>
+	<key>declarativeData</key>
+	<string>fixedSession</string>
+	<key>detectorInteraction</key>
+	<string>synchronousJoiner</string>
+	<key>iterativePermutation</key>
+	<string>inactiveGate</string>
+	<key>materialPadding</key>
+	<string>flexmanager</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyAppearance</key>
+	<string>parallelComposition</string>
+	<key>callbackSaturation</key>
+	<string>allocatordespitestate</string>
+	<key>differentiatetextfield</key>
+	<string>groupSkewX</string>
+	<key>ignoredHandler</key>
+	<string>publicSwitch</string>
+	<key>shouldAnimateContraction</key>
+	<string>movementMargin</string>
+	<key>unmountevent</key>
+	<string>musicTint</string>
+</dict>
+</plist>

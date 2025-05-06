@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binderMargin</key>
+	<string>onswitchchanged</string>
+	<key>cartesianSound</key>
+	<string>paralleldetector</string>
+	<key>defaultcanvas</key>
+	<string>characterSystem</string>
+	<key>expandedsplitter</key>
+	<string>resolveTimer</string>
+	<key>immediateQuaternion</key>
+	<string>allocatorAlignment</string>
+	<key>materialRepository</key>
+	<string>intuitiveSprite</string>
+	<key>retainedOperation</key>
+	<string>giftdescription</string>
+	<key>statefulTentative</key>
+	<string>infoValidation</string>
+	<key>sustainablePermutation</key>
+	<string>dependencyVar</string>
+</dict>
+</plist>

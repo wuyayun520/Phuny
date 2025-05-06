@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticOpacity</key>
+	<string>advancedScroller</string>
+	<key>arithmeticSpacing</key>
+	<string>serviceProxy</string>
+	<key>autoOperation</key>
+	<string>canDetachNib</string>
+	<key>dimensioninset</key>
+	<string>loadBox</string>
+	<key>immutableInteger</key>
+	<string>materialBinary</string>
+	<key>mediumFormat</key>
+	<string>autoLoss</string>
+	<key>mitigateradio</key>
+	<string>transitionValue</string>
+	<key>prismaticmonster</key>
+	<string>basicWidget</string>
+</dict>
+</plist>

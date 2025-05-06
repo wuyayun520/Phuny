@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitycenter</key>
+	<string>poolCoordinator</string>
+	<key>customExtension</key>
+	<string>documentnotation</string>
+	<key>movementutil</key>
+	<string>timerofpattern</string>
+	<key>selectedtask</key>
+	<string>shearView</string>
+	<key>shouldDisposeReference</key>
+	<string>cycleAction</string>
+	<key>sizeplatformbound</key>
+	<string>processstorage</string>
+</dict>
+</plist>

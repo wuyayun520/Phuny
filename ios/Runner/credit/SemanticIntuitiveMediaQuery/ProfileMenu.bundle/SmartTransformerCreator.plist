@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselinechainresponse</key>
+	<string>statefulsink</string>
+	<key>dedicatedIcon</key>
+	<string>permanentNode</string>
+	<key>draggableRow</key>
+	<string>detectorBrightness</string>
+	<key>elasticbaselineopacity</key>
+	<string>axisfromflyweight</string>
+	<key>fusedComponent</key>
+	<string>otherHash</string>
+	<key>mainInfo</key>
+	<string>reflectRequest</string>
+	<key>mobileImpact</key>
+	<string>hasMultiplication</string>
+	<key>petBound</key>
+	<string>canPopBloc</string>
+	<key>scaleintegrity</key>
+	<string>optionDuration</string>
+	<key>shouldNotifyNavigator</key>
+	<string>iconevolution</string>
+</dict>
+</plist>

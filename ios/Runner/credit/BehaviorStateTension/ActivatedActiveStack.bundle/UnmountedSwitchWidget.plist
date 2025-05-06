@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characteractiontype</key>
+	<string>normalTheme</string>
+	<key>delegatecompositeforce</key>
+	<string>shouldPushGestureDetector</string>
+	<key>gesturedetectormanager</key>
+	<string>compositionStrategy</string>
+	<key>granularrectinset</key>
+	<string>tableresponse</string>
+	<key>managerOrientation</key>
+	<string>refactorscene</string>
+	<key>shouldmountsegment</key>
+	<string>constantIndex</string>
+	<key>symmetricaperturealignment</key>
+	<string>uniformHandler</string>
+	<key>timelineskewy</key>
+	<string>disabledTexture</string>
+</dict>
+</plist>

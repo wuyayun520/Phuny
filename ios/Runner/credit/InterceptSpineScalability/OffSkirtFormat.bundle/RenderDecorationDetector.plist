@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constantPressure</key>
+	<string>isslider</string>
+	<key>criticalCard</key>
+	<string>decodeevent</string>
+	<key>customSingleton</key>
+	<string>shouldListenCaption</string>
+	<key>makeoptimizer</key>
+	<string>navigateSkin</string>
+	<key>relationalDecoration</key>
+	<string>controllerFacade</string>
+	<key>shouldBindBloc</key>
+	<string>processorCenter</string>
+	<key>subsequentPresenter</key>
+	<string>expandedBuffer</string>
+</dict>
+</plist>

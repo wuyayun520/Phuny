@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitGate</key>
+	<string>localizationorigin</string>
+	<key>functionalcycle</key>
+	<string>builderCount</string>
+	<key>observerSkewY</key>
+	<string>mendState</string>
+	<key>positionaboutpattern</key>
+	<string>shouldParseInterpolation</string>
+	<key>scalabilityName</key>
+	<string>shouldLayoutMovement</string>
+	<key>sizeascent</key>
+	<string>arithmeticImpression</string>
+	<key>tabviewIndex</key>
+	<string>timerfunctionfeedback</string>
+</dict>
+</plist>

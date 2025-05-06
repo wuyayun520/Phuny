@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerFilter</key>
+	<string>buildObserver</string>
+	<key>functionalAlignment</key>
+	<string>layerscale</string>
+	<key>imperativeresourcetag</key>
+	<string>fusedUsage</string>
+	<key>originaldata</key>
+	<string>keyAction</string>
+	<key>prioritySkewX</key>
+	<string>variantStage</string>
+	<key>publicRoute</key>
+	<string>continueasync</string>
+	<key>retainedcallbackname</key>
+	<string>layoutbeyondwork</string>
+	<key>shouldPushModulus</key>
+	<string>navigatoragainstpattern</string>
+	<key>shouldTransitionSkirt</key>
+	<string>pushTransition</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerorientation</key>
+	<string>diversifiedEquipment</string>
+	<key>diffableCapacities</key>
+	<string>canLoadBoxShadow</string>
+	<key>lostProvider</key>
+	<string>loadconstraint</string>
+	<key>resilientVector</key>
+	<string>activeIntensity</string>
+	<key>symmetrictransformer</key>
+	<string>layerValue</string>
+</dict>
+</plist>

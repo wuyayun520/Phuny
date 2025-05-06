@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyRate</key>
+	<string>shouldDetachChannels</string>
+	<key>imagevisible</key>
+	<string>displayableStorage</string>
+	<key>reactiveScene</key>
+	<string>statefulEqualization</string>
+	<key>shouldFinishAspectRatio</key>
+	<string>canTransitionEquipment</string>
+	<key>usedRequest</key>
+	<string>canParseMargin</string>
+</dict>
+</plist>

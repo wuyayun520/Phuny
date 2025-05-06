@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fillbinary</key>
+	<string>deserializevector</string>
+	<key>largepoint</key>
+	<string>materialcompleter</string>
+	<key>shouldtrainsubpixel</key>
+	<string>rectOrigin</string>
+	<key>specifierAlignment</key>
+	<string>buttonresponder</string>
+	<key>unsortedPoint</key>
+	<string>restartBoxShadow</string>
+</dict>
+</plist>

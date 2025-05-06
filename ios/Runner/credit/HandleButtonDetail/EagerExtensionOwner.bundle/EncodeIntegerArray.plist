@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisremediation</key>
+	<string>hierarchicalCheckbox</string>
+	<key>configureunary</key>
+	<string>projectinteraction</string>
+	<key>easyState</key>
+	<string>notifyPlate</string>
+	<key>geometricTabBar</key>
+	<string>exitFeature</string>
+	<key>mainCheckbox</key>
+	<string>performSprite</string>
+	<key>reactiveIsolate</key>
+	<string>shouldvalidatevariant</string>
+	<key>reductionBehavior</key>
+	<string>specifyRequest</string>
+	<key>shouldStreamExpanded</key>
+	<string>declarativePolygon</string>
+	<key>shoulddecodetextfield</key>
+	<string>shouldPopSession</string>
+	<key>strengthKind</key>
+	<string>menuInset</string>
+</dict>
+</plist>

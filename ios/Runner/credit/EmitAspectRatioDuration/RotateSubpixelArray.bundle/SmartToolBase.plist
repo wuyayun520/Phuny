@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableChapter</key>
+	<string>factorymode</string>
+	<key>gramduringfacade</key>
+	<string>nextSearcher</string>
+	<key>playbackContrast</key>
+	<string>overlayamongcycle</string>
+	<key>profileRate</key>
+	<string>originalOption</string>
+	<key>rowBound</key>
+	<string>nativeSlider</string>
+	<key>streamVelocity</key>
+	<string>canBindMap</string>
+</dict>
+</plist>

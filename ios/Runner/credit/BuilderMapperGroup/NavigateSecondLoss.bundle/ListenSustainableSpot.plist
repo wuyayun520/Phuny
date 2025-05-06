@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoEntity</key>
+	<string>menubehavior</string>
+	<key>emitstore</key>
+	<string>defaultarithmetic</string>
+	<key>geometricScroll</key>
+	<string>explicitDocument</string>
+	<key>offsettaskcolor</key>
+	<string>isactivity</string>
+	<key>shouldCancelCompletion</key>
+	<string>renameFrame</string>
+	<key>stampvalueinteraction</key>
+	<string>firstLabel</string>
+	<key>titleFrequency</key>
+	<string>shouldUnmountAccessory</string>
+	<key>transitionasset</key>
+	<string>offsetPlatform</string>
+</dict>
+</plist>

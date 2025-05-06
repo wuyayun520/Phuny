@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architectureSpacing</key>
+	<string>smallRole</string>
+	<key>customBitrate</key>
+	<string>canStartPromise</string>
+	<key>subscriptionRotation</key>
+	<string>functionalContainer</string>
+</dict>
+</plist>

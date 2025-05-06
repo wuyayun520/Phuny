@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentTicker</key>
+	<string>onintegertap</string>
+	<key>durationbutton</key>
+	<string>dependencyKind</string>
+	<key>moduleAppearance</key>
+	<string>gradientAppearance</string>
+	<key>screencount</key>
+	<string>easycontainertop</string>
+	<key>staticThreshold</key>
+	<string>reactiveEvent</string>
+	<key>typicalarchitecture</key>
+	<string>dynamicstore</string>
+</dict>
+</plist>

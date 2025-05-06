@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combinerSkewX</key>
+	<string>accordionText</string>
+	<key>intermediateConsumer</key>
+	<string>parallelStore</string>
+	<key>missedBoxShadow</key>
+	<string>canInflateResource</string>
+	<key>prismaticNode</key>
+	<string>trainArithmetic</string>
+	<key>respectiveResult</key>
+	<string>displayableCombiner</string>
+	<key>sceneSaturation</key>
+	<string>customScale</string>
+	<key>shouldFormatLayout</key>
+	<string>enabledMargin</string>
+	<key>shouldpublishcontroller</key>
+	<string>invisiblesizestate</string>
+	<key>transpilecoordinator</key>
+	<string>discardedOperation</string>
+	<key>yieldreference</key>
+	<string>dialogsLocation</string>
+</dict>
+</plist>

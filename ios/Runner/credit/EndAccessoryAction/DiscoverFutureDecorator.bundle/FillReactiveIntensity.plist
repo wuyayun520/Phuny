@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerBorder</key>
+	<string>delicateAppBar</string>
+	<key>relationalMetadata</key>
+	<string>sequentialChart</string>
+	<key>sequentialModulus</key>
+	<string>webObserver</string>
+	<key>shouldBindCupertino</key>
+	<string>segmentRotation</string>
+	<key>shouldPresentActivity</key>
+	<string>activitybesideplatform</string>
+	<key>shouldUnbindSignature</key>
+	<string>gradientTransparency</string>
+	<key>triggerfeedback</key>
+	<string>navigatoraroundjob</string>
+	<key>zoneColor</key>
+	<string>limitRect</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionCapacities</key>
+	<string>receiveGroup</string>
+	<key>binderContrast</key>
+	<string>disabledTolerance</string>
+	<key>durationMomentum</key>
+	<string>interactiveEntity</string>
+	<key>shouldDeserializeCapsule</key>
+	<string>delegateNavigator</string>
+	<key>spriteFlags</key>
+	<string>colorDirection</string>
+</dict>
+</plist>

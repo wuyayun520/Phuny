@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lifecycleTail</key>
+	<string>emitScene</string>
+	<key>mainRestriction</key>
+	<string>scrollableAnimator</string>
+	<key>primaryspot</key>
+	<string>referenceBrightness</string>
+	<key>servicelikenumber</key>
+	<string>shouldEncodeGate</string>
+	<key>sophisticatedSubscription</key>
+	<string>customObserver</string>
+	<key>staticChannels</key>
+	<string>sharedTouch</string>
+</dict>
+</plist>

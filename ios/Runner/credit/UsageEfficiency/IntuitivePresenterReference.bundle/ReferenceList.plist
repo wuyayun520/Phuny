@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalbutton</key>
+	<string>labelCycle</string>
+	<key>exceptionName</key>
+	<string>tickermatrix</string>
+	<key>fusedStream</key>
+	<string>locallayerinteraction</string>
+	<key>infoRight</key>
+	<string>methodPhase</string>
+	<key>metricsSize</key>
+	<string>resolverLeft</string>
+	<key>parallelCreator</key>
+	<string>explicitRequest</string>
+	<key>protectedTaxonomy</key>
+	<string>materialRight</string>
+	<key>shouldPaintMovement</key>
+	<string>notificationEnvironment</string>
+	<key>shouldSkipRow</key>
+	<string>requestspot</string>
+</dict>
+</plist>

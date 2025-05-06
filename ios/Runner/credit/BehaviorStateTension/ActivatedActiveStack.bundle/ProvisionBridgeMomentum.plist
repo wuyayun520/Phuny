@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>globalCharacteristic</key>
+	<string>adaptiveRow</string>
+	<key>intermediateTask</key>
+	<string>traversalVelocity</string>
+	<key>loadsize</key>
+	<string>directlySegue</string>
+	<key>modelmargin</key>
+	<string>shouldAttachAnchor</string>
+	<key>previewCoord</key>
+	<string>canValidateCurve</string>
+	<key>shouldReplaceCanvas</key>
+	<string>canDispatchMaterial</string>
+	<key>statefulActivity</key>
+	<string>presentNavigation</string>
+	<key>uniformFeature</key>
+	<string>shouldDisconnectAnchor</string>
+</dict>
+</plist>

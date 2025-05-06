@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoReceiver</key>
+	<string>canUnmountedExtension</string>
+	<key>configurationduration</key>
+	<string>projectconsumer</string>
+	<key>difficultAnimation</key>
+	<string>comprehensiveInstruction</string>
+	<key>findstack</key>
+	<string>shouldReplaceStateless</string>
+	<key>mediocreState</key>
+	<string>associateStore</string>
+	<key>responsiveCupertino</key>
+	<string>gridTint</string>
+	<key>toolperproxy</key>
+	<string>segmenttint</string>
+</dict>
+</plist>

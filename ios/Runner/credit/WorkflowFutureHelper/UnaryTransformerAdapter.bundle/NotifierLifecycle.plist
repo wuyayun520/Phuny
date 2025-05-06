@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousReceiver</key>
+	<string>skipreducer</string>
+	<key>clearnode</key>
+	<string>hyperbolicSkin</string>
+	<key>gesturedetectorsincelevel</key>
+	<string>imperativegrainsize</string>
+	<key>meshHead</key>
+	<string>oncharacterchanged</string>
+	<key>mixinevent</key>
+	<string>createComposition</string>
+	<key>shouldObserveExtension</key>
+	<string>discoverRepository</string>
+	<key>shouldRenderStack</key>
+	<string>stopBox</string>
+	<key>smallSwitch</key>
+	<string>gesturedetectorframe</string>
+	<key>throughputDuration</key>
+	<string>hyperbolicSound</string>
+</dict>
+</plist>

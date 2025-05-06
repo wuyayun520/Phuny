@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarmementodensity</key>
+	<string>emitCoordinator</string>
+	<key>comparelayer</key>
+	<string>lastBoxShadow</string>
+	<key>menusorter</key>
+	<string>shouldTransitionRemainder</string>
+	<key>petflags</key>
+	<string>intermediateGraph</string>
+	<key>semanticReduction</key>
+	<string>shaderComposite</string>
+</dict>
+</plist>

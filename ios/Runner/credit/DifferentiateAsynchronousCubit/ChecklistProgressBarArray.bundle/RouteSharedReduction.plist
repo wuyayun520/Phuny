@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customSession</key>
+	<string>multiplicationAction</string>
+	<key>desktopMaster</key>
+	<string>mixinWidget</string>
+	<key>globalobserverscale</key>
+	<string>rapidutil</string>
+	<key>loaderFrequency</key>
+	<string>statelessstate</string>
+	<key>rotatescale</key>
+	<string>alphaFunction</string>
+	<key>shouldDetachSine</key>
+	<string>semanticConfiguration</string>
+	<key>shouldFormatOverlay</key>
+	<string>dropoutDelegate</string>
+	<key>shouldStartActivity</key>
+	<string>swiftSaturation</string>
+	<key>subtleRouter</key>
+	<string>canPrepareCapacities</string>
+</dict>
+</plist>

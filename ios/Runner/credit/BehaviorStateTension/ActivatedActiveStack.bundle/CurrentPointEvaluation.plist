@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveIndicator</key>
+	<string>inheritedExpanded</string>
+	<key>displayableLog</key>
+	<string>shouldConnectDrawer</string>
+	<key>explicitMerger</key>
+	<string>stopStack</string>
+	<key>imperativeInteractor</key>
+	<string>completedSkin</string>
+	<key>shouldCacheNavigator</key>
+	<string>reactiveTweak</string>
+	<key>shouldFinishActivity</key>
+	<string>tickerFrequency</string>
+	<key>shouldValidateScreen</key>
+	<string>timeState</string>
+	<key>stateDepth</key>
+	<string>durationDensity</string>
+	<key>textureInterval</key>
+	<string>canInflateWidget</string>
+</dict>
+</plist>

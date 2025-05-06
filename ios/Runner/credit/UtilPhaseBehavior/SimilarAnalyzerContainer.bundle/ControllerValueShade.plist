@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncKind</key>
+	<string>modulusMargin</string>
+	<key>customizedAlignment</key>
+	<string>shouldResumeMusic</string>
+	<key>interactionCount</key>
+	<string>durationMemento</string>
+	<key>shouldDetachMargin</key>
+	<string>transformasset</string>
+	<key>shouldDispatchWidget</key>
+	<string>canDispatchCheckbox</string>
+	<key>shouldskipradio</key>
+	<string>shouldContinueCharacter</string>
+	<key>typicalevent</key>
+	<string>routefeedback</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentPressure</key>
+	<string>smartTechnique</string>
+	<key>draggableSpine</key>
+	<string>greatChooser</string>
+	<key>hierarchicalProject</key>
+	<string>brushvalidation</string>
+	<key>isMargin</key>
+	<string>activeLayer</string>
+	<key>shouldFinishArithmetic</key>
+	<string>canHandleListView</string>
+	<key>shouldlistencollection</key>
+	<string>streamstate</string>
+	<key>smallChallenge</key>
+	<string>loaderAppearance</string>
+	<key>usecaseTension</key>
+	<string>greatException</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableTween</key>
+	<string>intensityright</string>
+	<key>localAlignment</key>
+	<string>shouldUnmountedScreen</string>
+	<key>originalSubpixel</key>
+	<string>secondRichText</string>
+	<key>requiredBinder</key>
+	<string>priorityMode</string>
+	<key>splitteroffset</key>
+	<string>checkboxversuscontext</string>
+</dict>
+</plist>

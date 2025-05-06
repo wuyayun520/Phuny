@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleProfile</key>
+	<string>detailFrequency</string>
+	<key>curvepublisher</key>
+	<string>serializeSpine</string>
+	<key>entitystylestatus</key>
+	<string>firstProvider</string>
+	<key>grainactionresponse</key>
+	<string>subsequentbutton</string>
+	<key>mixincallback</key>
+	<string>responsiveCursor</string>
+	<key>nextOffset</key>
+	<string>startlocalization</string>
+	<key>removeremainder</key>
+	<string>canRenderProjection</string>
+	<key>singledrawer</key>
+	<string>tangentEdge</string>
+	<key>uniquerequest</key>
+	<string>segmentstagedistance</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocateusage</key>
+	<string>enabledmatrixskewx</string>
+	<key>buttonintensity</key>
+	<string>pivotalFormat</string>
+	<key>difficultUseCase</key>
+	<string>rotatecontainer</string>
+	<key>hyperbolicloop</key>
+	<string>enabledData</string>
+	<key>lostSubscription</key>
+	<string>visibleerrorvisible</string>
+	<key>onthemetap</key>
+	<string>skipKernel</string>
+	<key>pointcontroller</key>
+	<string>subtleThroughput</string>
+	<key>popupTransparency</key>
+	<string>advancedDocument</string>
+	<key>singletonAcceleration</key>
+	<string>requiredNib</string>
+</dict>
+</plist>

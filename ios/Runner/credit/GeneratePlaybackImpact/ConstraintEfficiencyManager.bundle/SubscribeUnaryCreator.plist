@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logarithmchaininterval</key>
+	<string>shouldSerializeMovement</string>
+	<key>missedStream</key>
+	<string>resilientFormat</string>
+	<key>observerusecase</key>
+	<string>updateSession</string>
+	<key>positionedForce</key>
+	<string>finishNotifier</string>
+	<key>smallTimeline</key>
+	<string>textfieldFunction</string>
+	<key>smartWidget</key>
+	<string>resizableboxshadow</string>
+	<key>subscriptionSkewY</key>
+	<string>disparateContrast</string>
+	<key>substantialusecase</key>
+	<string>mapperduration</string>
+</dict>
+</plist>

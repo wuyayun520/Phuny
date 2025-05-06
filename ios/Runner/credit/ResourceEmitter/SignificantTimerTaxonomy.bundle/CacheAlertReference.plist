@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentanimationskewx</key>
+	<string>cartesianSingleton</string>
+	<key>decorationHead</key>
+	<string>localeventtag</string>
+	<key>polygonMode</key>
+	<string>topicScale</string>
+	<key>shouldStartTernary</key>
+	<string>invisibleDelegate</string>
+	<key>shouldStopPriority</key>
+	<string>timeBottom</string>
+	<key>statefulascent</key>
+	<string>trajectoryTop</string>
+</dict>
+</plist>

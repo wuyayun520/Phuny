@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionDistance</key>
+	<string>synchronousCallback</string>
+	<key>discardedSpecifier</key>
+	<string>lostBorder</string>
+	<key>displayableAction</key>
+	<string>controllerrow</string>
+	<key>drawerVisibility</key>
+	<string>asynchronousDescriptor</string>
+	<key>evolutionskewy</key>
+	<string>shouldDismissSlash</string>
+	<key>interactivechapter</key>
+	<string>shouldPopDrawer</string>
+	<key>paddingformat</key>
+	<string>canDecodeAlpha</string>
+	<key>scrollablePoint</key>
+	<string>canSubscribeRoute</string>
+</dict>
+</plist>

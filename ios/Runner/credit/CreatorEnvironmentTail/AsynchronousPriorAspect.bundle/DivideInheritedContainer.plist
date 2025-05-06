@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitscale</key>
+	<string>sessionPrototype</string>
+	<key>basicAnimatedContainer</key>
+	<string>analyzerOrientation</string>
+	<key>elasticSkirt</key>
+	<string>gesturedetectorasync</string>
+	<key>immutableMethod</key>
+	<string>relationalNib</string>
+	<key>shouldStreamTouch</key>
+	<string>animatedmethod</string>
+	<key>shoulddecodeproject</key>
+	<string>pendingFlex</string>
+	<key>statefulTolerance</key>
+	<string>explicitCatalyst</string>
+</dict>
+</plist>

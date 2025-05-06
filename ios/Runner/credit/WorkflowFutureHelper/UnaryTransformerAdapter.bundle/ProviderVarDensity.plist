@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerOrigin</key>
+	<string>featureinsideinterpreter</string>
+	<key>elasticEfficiency</key>
+	<string>canYieldTool</string>
+	<key>explicitConsumer</key>
+	<string>canSaveSkirt</string>
+	<key>factorystyle</key>
+	<string>touchconfiguration</string>
+	<key>observerTheme</key>
+	<string>mediumBinder</string>
+	<key>persistentqueuepadding</key>
+	<string>coordinatorParameter</string>
+	<key>resourceedge</key>
+	<string>canListenGradient</string>
+	<key>routejoiner</key>
+	<string>descentMode</string>
+	<key>shouldDecodeAccessory</key>
+	<string>formatAperture</string>
+</dict>
+</plist>

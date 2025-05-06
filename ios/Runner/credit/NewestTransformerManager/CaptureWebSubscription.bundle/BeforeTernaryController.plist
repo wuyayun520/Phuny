@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistColor</key>
+	<string>cursorFramework</string>
+	<key>gesturedetectorchainrotation</key>
+	<string>completedSegue</string>
+	<key>globalPlate</key>
+	<string>skipcompletion</string>
+	<key>iterativeChannel</key>
+	<string>progressbarColor</string>
+	<key>moduleposition</key>
+	<string>shouldUnmountSession</string>
+	<key>mutableObserver</key>
+	<string>extensionFramework</string>
+	<key>oldInfrastructure</key>
+	<string>deserializeSubscription</string>
+	<key>publisherFormat</key>
+	<string>firstSize</string>
+	<key>sustainableModulus</key>
+	<string>shouldFetchTernary</string>
+</dict>
+</plist>

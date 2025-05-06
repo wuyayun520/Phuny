@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperleft</key>
+	<string>statelessMember</string>
+	<key>textfieldwithframework</key>
+	<string>shouldTransformGram</string>
+</dict>
+</plist>

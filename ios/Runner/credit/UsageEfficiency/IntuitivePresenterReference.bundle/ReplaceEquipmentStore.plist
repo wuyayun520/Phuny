@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>filterVelocity</key>
+	<string>scaffoldState</string>
+	<key>interactiveCombiner</key>
+	<string>converterVisibility</string>
+	<key>liteArithmetic</key>
+	<string>binderAlignment</string>
+	<key>positionparametercenter</key>
+	<string>staticInfrastructure</string>
+	<key>shouldDismissDescriptor</key>
+	<string>largetableopacity</string>
+	<key>shouldTransformBaseline</key>
+	<string>canDismissSemantics</string>
+</dict>
+</plist>

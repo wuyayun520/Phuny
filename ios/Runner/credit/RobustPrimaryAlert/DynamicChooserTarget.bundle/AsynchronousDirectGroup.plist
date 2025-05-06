@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionisolatealignment</key>
+	<string>dedicatedStream</string>
+	<key>baselineticker</key>
+	<string>latencyTransparency</string>
+	<key>customizedExpanded</key>
+	<string>traversalMode</string>
+	<key>displayablefactory</key>
+	<string>commonInkWell</string>
+	<key>escalateresult</key>
+	<string>skipGem</string>
+	<key>inheritedchallengehead</key>
+	<string>materialFinder</string>
+	<key>multiplicationStatus</key>
+	<string>bulletProxy</string>
+	<key>seguetension</key>
+	<string>transitionOrientation</string>
+	<key>shouldBuildIcon</key>
+	<string>onplatechanged</string>
+	<key>showdrawer</key>
+	<string>draggableListView</string>
+</dict>
+</plist>

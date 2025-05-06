@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicTheme</key>
+	<string>hasMediaQuery</string>
+	<key>characteristicFrequency</key>
+	<string>boxOperation</string>
+	<key>combineroffset</key>
+	<string>operationDirection</string>
+	<key>startchart</key>
+	<string>activatedBinary</string>
+</dict>
+</plist>

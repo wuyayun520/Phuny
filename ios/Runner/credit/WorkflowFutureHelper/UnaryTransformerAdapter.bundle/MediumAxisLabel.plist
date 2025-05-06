@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableFragments</key>
+	<string>actionperflyweight</string>
+	<key>customProjection</key>
+	<string>petCoord</string>
+	<key>deactivateinjection</key>
+	<string>mobileIsolate</string>
+	<key>directlyCombiner</key>
+	<string>canLoadExponent</string>
+	<key>eagerConfidentiality</key>
+	<string>shouldUnmountedDocument</string>
+	<key>normalsessionright</key>
+	<string>expandedmerger</string>
+	<key>prevEqualization</key>
+	<string>pauseAspect</string>
+	<key>resizableFinder</key>
+	<string>moveAction</string>
+	<key>shouldSubscribeDrawer</key>
+	<string>bulletMode</string>
+	<key>statefulRow</key>
+	<string>unarydisclaimer</string>
+</dict>
+</plist>

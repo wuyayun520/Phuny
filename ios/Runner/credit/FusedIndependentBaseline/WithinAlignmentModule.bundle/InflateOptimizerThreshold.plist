@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorMargin</key>
+	<string>adaptiveFinder</string>
+	<key>flexibletextfieldresponse</key>
+	<string>deferredSize</string>
+	<key>hyperbolicCard</key>
+	<string>priorityBrightness</string>
+	<key>iterativeRemediation</key>
+	<string>adaptiveStatus</string>
+	<key>multiobservertop</key>
+	<string>completerDirection</string>
+</dict>
+</plist>

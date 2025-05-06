@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gifthead</key>
+	<string>storeStructure</string>
+	<key>graphicdelegate</key>
+	<string>dynamicCapacities</string>
+	<key>gridviewInterval</key>
+	<string>allocateTransformer</string>
+	<key>primaryRestriction</key>
+	<string>canStreamRoute</string>
+	<key>reliabilityDuration</key>
+	<string>offsetHue</string>
+	<key>resolvestack</key>
+	<string>requiredMesh</string>
+	<key>routeconstant</key>
+	<string>shaderbyvalue</string>
+	<key>selectorVisible</key>
+	<string>canRestartProject</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buffersubscriber</key>
+	<string>checkGrid</string>
+	<key>channelinterval</key>
+	<string>cupertinoSearcher</string>
+	<key>compositionalAlpha</key>
+	<string>shouldEmitButton</string>
+	<key>easyTitle</key>
+	<string>pushmaster</string>
+	<key>inheritedHero</key>
+	<string>ephemeralService</string>
+	<key>positionedVelocity</key>
+	<string>unmountedConsumer</string>
+	<key>referencefacadeposition</key>
+	<string>rebuildDialogs</string>
+</dict>
+</plist>

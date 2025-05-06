@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deliveryMargin</key>
+	<string>evaluateAwait</string>
+	<key>interactiveClipper</key>
+	<string>interactionsize</string>
+	<key>keyChallenge</key>
+	<string>unactivatedReliability</string>
+	<key>layoutwithoutenvironment</key>
+	<string>controllercontainvar</string>
+	<key>localprocessor</key>
+	<string>resourceFacade</string>
+	<key>metadatatail</key>
+	<string>attachBaseline</string>
+	<key>otherVector</key>
+	<string>escalatePosition</string>
+	<key>primaryView</key>
+	<string>convolutionBrightness</string>
+	<key>referenceDepth</key>
+	<string>deliveryVelocity</string>
+	<key>similarScenario</key>
+	<string>opaqueConfidentiality</string>
+</dict>
+</plist>

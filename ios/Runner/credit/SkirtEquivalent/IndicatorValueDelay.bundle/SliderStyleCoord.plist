@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerlocation</key>
+	<string>saveusage</string>
+	<key>directCreator</key>
+	<string>reflectpresenter</string>
+	<key>functionalReceiver</key>
+	<string>optimizerOperation</string>
+	<key>handlertail</key>
+	<string>hierarchicalStream</string>
+	<key>loadview</key>
+	<string>flexAction</string>
+	<key>mergerPressure</key>
+	<string>tensorThread</string>
+	<key>shouldtrainsignature</key>
+	<string>refreshPreview</string>
+	<key>singleAnimatedContainer</key>
+	<string>substantialController</string>
+	<key>sophisticatedSkin</key>
+	<string>moveRoute</string>
+	<key>tabbarShape</key>
+	<string>completionTop</string>
+</dict>
+</plist>

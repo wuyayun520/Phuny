@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableentityvalidation</key>
+	<string>deferredObject</string>
+	<key>eventLeft</key>
+	<string>liteMission</string>
+	<key>fixedBox</key>
+	<string>switchDistance</string>
+	<key>mobilematerialdistance</key>
+	<string>inkwelllocalization</string>
+	<key>updatemediaquery</key>
+	<string>bindrect</string>
+</dict>
+</plist>

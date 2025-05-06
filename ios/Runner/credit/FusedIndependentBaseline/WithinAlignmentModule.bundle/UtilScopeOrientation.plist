@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>labelDuration</key>
+	<string>exponentVelocity</string>
+	<key>missionDuration</key>
+	<string>denseDetector</string>
+	<key>mutableTransformer</key>
+	<string>processorOffset</string>
+	<key>smallDescriptor</key>
+	<string>scaffoldWork</string>
+	<key>topicInteraction</key>
+	<string>shouldEmitStack</string>
+</dict>
+</plist>

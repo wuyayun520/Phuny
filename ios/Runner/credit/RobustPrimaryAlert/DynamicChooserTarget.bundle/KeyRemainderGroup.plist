@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>globalTween</key>
+	<string>asynchronousCycle</string>
+	<key>inactiveBox</key>
+	<string>shouldFormatSine</string>
+	<key>publishlayout</key>
+	<string>maintainLoop</string>
+	<key>shouldContinueCurve</key>
+	<string>protectedCharacter</string>
+	<key>shouldPopRadio</key>
+	<string>convertPopup</string>
+	<key>transitionwithoutflyweight</key>
+	<string>reactivenotifierscale</string>
+</dict>
+</plist>

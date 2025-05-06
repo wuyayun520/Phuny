@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedStorage</key>
+	<string>smallprojectfrequency</string>
+	<key>groupappearance</key>
+	<string>linkerLeft</string>
+	<key>isCurve</key>
+	<string>smartBullet</string>
+	<key>processorresponse</key>
+	<string>composablePrecision</string>
+	<key>renderpopup</key>
+	<string>constraintstate</string>
+	<key>schemaTension</key>
+	<string>localCallback</string>
+	<key>tickerkindvisibility</key>
+	<string>hardLoss</string>
+</dict>
+</plist>

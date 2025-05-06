@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardBandwidth</key>
+	<string>missedAsset</string>
+	<key>bufferimpact</key>
+	<string>tablestylesize</string>
+	<key>buttoncycletop</key>
+	<string>keycell</string>
+	<key>interactiveNavigator</key>
+	<string>cardfinder</string>
+	<key>lostHeap</key>
+	<string>usedParticle</string>
+	<key>numericalstorage</key>
+	<string>associatedInfo</string>
+	<key>priortitleopacity</key>
+	<string>canParseCertificate</string>
+	<key>protectedPositioned</key>
+	<string>clonePresenter</string>
+	<key>shouldConnectPlate</key>
+	<string>interpolationhead</string>
+	<key>unsortedScene</key>
+	<string>polyfillInset</string>
+</dict>
+</plist>

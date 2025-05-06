@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianOccasion</key>
+	<string>protectedParticle</string>
+	<key>cycleType</key>
+	<string>anchorType</string>
+	<key>logarithmOrigin</key>
+	<string>coordinatororigin</string>
+	<key>requestgrain</key>
+	<string>uniqueTimer</string>
+	<key>sequentialJoiner</key>
+	<string>numericalGrain</string>
+	<key>shouldDecodeMap</key>
+	<string>shouldRouteHistogram</string>
+	<key>smartquaternion</key>
+	<string>animatelayout</string>
+</dict>
+</plist>

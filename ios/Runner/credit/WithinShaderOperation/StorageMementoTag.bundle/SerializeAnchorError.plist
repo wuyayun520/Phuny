@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticLifecycle</key>
+	<string>associatedPainter</string>
+	<key>dynamicTransition</key>
+	<string>serializeInteractor</string>
+	<key>futureadapterpadding</key>
+	<string>floatRouter</string>
+	<key>graphicstate</key>
+	<string>activatedBehavior</string>
+	<key>hardselector</key>
+	<string>sequentialFilter</string>
+	<key>rapidFeature</key>
+	<string>responsiveDimension</string>
+	<key>shouldRebuildConsumer</key>
+	<string>shouldNavigateActivity</string>
+	<key>sinkthanadapter</key>
+	<string>painterBridge</string>
+	<key>sortedstack</key>
+	<string>sequentialCell</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedEvent</key>
+	<string>encodeBox</string>
+	<key>ascentStyle</key>
+	<string>streamDecoration</string>
+	<key>sharedMatrix</key>
+	<string>shouldRestartBox</string>
+	<key>smartPolyfill</key>
+	<string>emitDuration</string>
+</dict>
+</plist>

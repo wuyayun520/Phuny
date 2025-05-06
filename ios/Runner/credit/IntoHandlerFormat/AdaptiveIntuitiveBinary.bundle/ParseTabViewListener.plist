@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedArchitecture</key>
+	<string>ephemeralblocleft</string>
+	<key>consultativePadding</key>
+	<string>localizationbridgecoord</string>
+	<key>declarativehandlermargin</key>
+	<string>errorName</string>
+	<key>dynamicConstraint</key>
+	<string>provideTransformer</string>
+	<key>parallelWrapper</key>
+	<string>nativeTabView</string>
+	<key>shadermargin</key>
+	<string>mobileBoxShadow</string>
+	<key>shouldResumeTable</key>
+	<string>backwardContrast</string>
+	<key>shouldSubscribeArithmetic</key>
+	<string>canUnbindCatalyst</string>
+</dict>
+</plist>

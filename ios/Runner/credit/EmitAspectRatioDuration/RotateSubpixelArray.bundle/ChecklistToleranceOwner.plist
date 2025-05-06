@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticConstant</key>
+	<string>anchorCycle</string>
+	<key>deserializeobserver</key>
+	<string>normalSelector</string>
+	<key>fixedrouter</key>
+	<string>canPublishMovement</string>
+	<key>gestureshade</key>
+	<string>specifyFuture</string>
+	<key>normalremediation</key>
+	<string>newestChecklist</string>
+	<key>queueCenter</key>
+	<string>injectRadius</string>
+	<key>shouldattachbox</key>
+	<string>mutableLatency</string>
+	<key>statelessTop</key>
+	<string>columnrate</string>
+	<key>webRichText</key>
+	<string>shouldUpdateSlash</string>
+	<key>workflowState</key>
+	<string>captureBuffer</string>
+</dict>
+</plist>

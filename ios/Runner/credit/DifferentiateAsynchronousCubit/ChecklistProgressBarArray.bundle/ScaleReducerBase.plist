@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousBase</key>
+	<string>canShowModal</string>
+	<key>contractionInset</key>
+	<string>groupObserver</string>
+	<key>deferredgesturedetectorkind</key>
+	<string>unbindLabel</string>
+	<key>equalrect</key>
+	<string>fragmenttraversal</string>
+	<key>mapBound</key>
+	<string>semanticGradient</string>
+	<key>shouldSkipTechnique</key>
+	<string>arithmeticGraphic</string>
+	<key>stateInteraction</key>
+	<string>emitSlash</string>
+</dict>
+</plist>

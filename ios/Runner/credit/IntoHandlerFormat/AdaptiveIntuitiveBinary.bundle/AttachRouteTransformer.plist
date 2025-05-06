@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>geometriclogarithm</key>
+	<string>chartfilter</string>
+	<key>globalModule</key>
+	<string>touchtransparency</string>
+	<key>lastMaster</key>
+	<string>resourceHead</string>
+	<key>responsiveTextField</key>
+	<string>selectedlog</string>
+	<key>shouldValidateNavigation</key>
+	<string>shouldDeserializeNotification</string>
+</dict>
+</plist>

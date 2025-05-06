@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptorBound</key>
+	<string>similarRow</string>
+	<key>fusedCollection</key>
+	<string>shoulddetachheap</string>
+	<key>lossevent</key>
+	<string>prevDelivery</string>
+	<key>mediaqueryStatus</key>
+	<string>platepolyfill</string>
+	<key>singletonFlags</key>
+	<string>axisBorder</string>
+	<key>sorterBehavior</key>
+	<string>shouldBuildMargin</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animateprecision</key>
+	<string>sliderhue</string>
+	<key>managerFeedback</key>
+	<string>variantBehavior</string>
+	<key>selectedLog</key>
+	<string>readintensity</string>
+	<key>shouldPersistRemainder</key>
+	<string>reductiontolerance</string>
+</dict>
+</plist>

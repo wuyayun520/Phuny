@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllersincework</key>
+	<string>shouldUnmountedSample</string>
+	<key>liteNotifier</key>
+	<string>resizableComponent</string>
+	<key>secondScaffold</key>
+	<string>allocatorLeft</string>
+	<key>shouldParseCupertino</key>
+	<string>provideBuilder</string>
+	<key>symmetricDistinction</key>
+	<string>referenceComposite</string>
+	<key>symmetricMapper</key>
+	<string>clipperShade</string>
+	<key>videoFrequency</key>
+	<string>layoutCapsule</string>
+</dict>
+</plist>

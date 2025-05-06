@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateutil</key>
+	<string>canRouteDelegate</string>
+	<key>capsuleoutsidecontext</key>
+	<string>effectinteraction</string>
+	<key>shouldTransformSensor</key>
+	<string>hashScale</string>
+	<key>thresholdTint</key>
+	<string>evaluationInterval</string>
+	<key>trajectoryPadding</key>
+	<string>configurationState</string>
+</dict>
+</plist>

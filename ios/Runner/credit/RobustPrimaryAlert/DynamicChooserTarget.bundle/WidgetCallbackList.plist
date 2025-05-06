@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveLifecycle</key>
+	<string>canLayoutScreen</string>
+	<key>chartfactory</key>
+	<string>impressionPosition</string>
+	<key>materialMetadata</key>
+	<string>similarCard</string>
+	<key>newestIndicator</key>
+	<string>masterVisibility</string>
+	<key>segmentTop</key>
+	<string>ignoredTabView</string>
+	<key>shouldDetachWidget</key>
+	<string>diffableEffect</string>
+	<key>substantialChannel</key>
+	<string>currentmovement</string>
+	<key>varianttransparency</key>
+	<string>processGradient</string>
+</dict>
+</plist>

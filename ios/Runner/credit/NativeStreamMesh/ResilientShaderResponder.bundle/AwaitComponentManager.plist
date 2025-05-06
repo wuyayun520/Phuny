@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarpressure</key>
+	<string>kernelScale</string>
+	<key>behaviormargin</key>
+	<string>sequentialError</string>
+	<key>protocolBound</key>
+	<string>adaptiveTween</string>
+	<key>remediationScale</key>
+	<string>backwardVolume</string>
+	<key>scrollacceleration</key>
+	<string>canDeserializeLayout</string>
+	<key>segueStatus</key>
+	<string>shouldSkipCollection</string>
+	<key>shouldStopNorm</key>
+	<string>cardbridgekind</string>
+	<key>spotValidation</key>
+	<string>formatMobile</string>
+</dict>
+</plist>

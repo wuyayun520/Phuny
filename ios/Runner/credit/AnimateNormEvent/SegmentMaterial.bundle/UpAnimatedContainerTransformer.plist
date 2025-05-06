@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableconsumption</key>
+	<string>labelSize</string>
+	<key>firstBuffer</key>
+	<string>iterativeLifecycle</string>
+	<key>granularAwait</key>
+	<string>mutableMedia</string>
+	<key>intuitivemediaqueryorientation</key>
+	<string>stopFragment</string>
+	<key>liteutiltransparency</key>
+	<string>activatedSchema</string>
+	<key>mapperContrast</key>
+	<string>sensorFlyweight</string>
+	<key>plateFeedback</key>
+	<string>activitysaturation</string>
+	<key>responsivetransition</key>
+	<string>nativeListener</string>
+</dict>
+</plist>

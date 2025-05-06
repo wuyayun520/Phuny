@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedTextField</key>
+	<string>transformPageView</string>
+	<key>basicMaster</key>
+	<string>viewpermutation</string>
+	<key>dispatcherDelay</key>
+	<string>rotateInteractor</string>
+	<key>mainBuffer</key>
+	<string>locateOffset</string>
+	<key>originalinteractor</key>
+	<string>executeDependency</string>
+	<key>retainedException</key>
+	<string>globalMatrix</string>
+	<key>robustReducer</key>
+	<string>basicPet</string>
+	<key>singletonadapterdensity</key>
+	<string>asyncstructurelocation</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorSpeed</key>
+	<string>nibOrientation</string>
+	<key>cupertinosemantics</key>
+	<string>accessibleSine</string>
+	<key>disabledelement</key>
+	<string>animationCycle</string>
+	<key>ephemeralaspect</key>
+	<string>publishaxis</string>
+	<key>explicitindicatorpressure</key>
+	<string>shouldSaveNavigation</string>
+	<key>previewvarfeedback</key>
+	<string>rapidMovement</string>
+	<key>textfieldlayercount</key>
+	<string>substantialLinker</string>
+	<key>textmode</key>
+	<string>prismaticUtil</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetleveltype</key>
+	<string>textfieldtriangles</string>
+	<key>interactiveOptimizer</key>
+	<string>publicroute</string>
+	<key>statelessNotifier</key>
+	<string>setupmultiplication</string>
+	<key>statelessamongmethod</key>
+	<string>provideTitle</string>
+	<key>synchronouswrapper</key>
+	<string>eventSpacing</string>
+	<key>temporaryScreen</key>
+	<string>requiredTitle</string>
+</dict>
+</plist>

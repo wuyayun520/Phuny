@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxcontrast</key>
+	<string>ephemeraloffset</string>
+	<key>containeroutsideparam</key>
+	<string>standaloneCallback</string>
+	<key>graphTransparency</key>
+	<string>hyperbolicaspectcount</string>
+	<key>popupRate</key>
+	<string>thresholdVisible</string>
+	<key>resilientpositioned</key>
+	<string>disabledPrecision</string>
+	<key>shouldDisconnectDescriptor</key>
+	<string>saveFuture</string>
+</dict>
+</plist>

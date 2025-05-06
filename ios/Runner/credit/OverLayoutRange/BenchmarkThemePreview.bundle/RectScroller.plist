@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticCapsule</key>
+	<string>stringifyDelegate</string>
+	<key>shouldNotifyAnchor</key>
+	<string>uniqueScroller</string>
+	<key>shouldmountcustompaint</key>
+	<string>selectedPageView</string>
+	<key>statelessMargin</key>
+	<string>fusedReduction</string>
+	<key>synchronousLoader</key>
+	<string>onbuildertap</string>
+	<key>uniformSwift</key>
+	<string>binaryticker</string>
+</dict>
+</plist>

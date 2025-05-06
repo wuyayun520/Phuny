@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellvariablename</key>
+	<string>converterType</string>
+	<key>functionalCapsule</key>
+	<string>associatedCosine</string>
+	<key>largeAccessory</key>
+	<string>radiusHue</string>
+	<key>mediocrelistener</key>
+	<string>shouldLoadRemainder</string>
+	<key>metadatathroughlayer</key>
+	<string>crucialBullet</string>
+	<key>shouldUnbindNotifier</key>
+	<string>shouldStopTouch</string>
+	<key>shouldtransitiontext</key>
+	<string>playPopup</string>
+</dict>
+</plist>

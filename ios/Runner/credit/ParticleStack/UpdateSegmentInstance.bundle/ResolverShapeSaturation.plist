@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activetechniquedirection</key>
+	<string>replaceButton</string>
+	<key>axisTransparency</key>
+	<string>boxshadowbrightness</string>
+	<key>compositionalSlider</key>
+	<string>insteadSubscription</string>
+	<key>directScenario</key>
+	<string>fetchCursor</string>
+	<key>nativeReplica</key>
+	<string>shouldnotifygesture</string>
+	<key>shoulddispatchcanvas</key>
+	<string>permissivetopic</string>
+	<key>storageoccasion</key>
+	<string>retainedCreator</string>
+	<key>storeSkewY</key>
+	<string>dismissService</string>
+</dict>
+</plist>

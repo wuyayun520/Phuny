@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmetictint</key>
+	<string>typicalAlignment</string>
+	<key>discardedProjection</key>
+	<string>buffervertex</string>
+	<key>firstWidget</key>
+	<string>composableResponse</string>
+	<key>hashSkewY</key>
+	<string>disabledLoader</string>
+	<key>lossDirection</key>
+	<string>detachProjection</string>
+	<key>permanentGestureDetector</key>
+	<string>notifyProvider</string>
+	<key>pivotalCapacities</key>
+	<string>routebloc</string>
+	<key>replicatail</key>
+	<string>shouldPrepareSymbol</string>
+	<key>statelessCubit</key>
+	<string>activityBehavior</string>
+</dict>
+</plist>

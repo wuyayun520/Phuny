@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedNode</key>
+	<string>shouldObserveCoordinator</string>
+	<key>globalModulus</key>
+	<string>segmentCoord</string>
+	<key>presenterlocation</key>
+	<string>staticRange</string>
+	<key>shouldprocessinterpolation</key>
+	<string>handleInjection</string>
+	<key>tappablesegueresponse</key>
+	<string>tappableentityinset</string>
+</dict>
+</plist>

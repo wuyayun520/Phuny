@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedTicker</key>
+	<string>activechannelsskewy</string>
+	<key>controllerTop</key>
+	<string>sharedOverlay</string>
+	<key>euclideanOverlay</key>
+	<string>sortedEvaluation</string>
+	<key>ignoredPadding</key>
+	<string>evaluateConstraint</string>
+	<key>intuitiveStamp</key>
+	<string>canValidateOperation</string>
+	<key>methodTop</key>
+	<string>visitProgressBar</string>
+	<key>pivotalDropdownButton</key>
+	<string>shouldpresentcycle</string>
+	<key>typicalBinder</key>
+	<string>navigationFlags</string>
+	<key>uniformPicker</key>
+	<string>rowbinder</string>
+</dict>
+</plist>

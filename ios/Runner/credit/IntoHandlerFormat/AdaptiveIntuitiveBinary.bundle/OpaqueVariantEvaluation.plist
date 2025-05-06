@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completiondensity</key>
+	<string>hasremainder</string>
+	<key>deferreddocumentcontrast</key>
+	<string>transitionStateful</string>
+	<key>inactiveTaxonomy</key>
+	<string>dynamicReducer</string>
+	<key>interactiveOverlay</key>
+	<string>mediocreBoxShadow</string>
+	<key>obtainview</key>
+	<string>layerbrightness</string>
+	<key>providerDistance</key>
+	<string>disabledrequest</string>
+	<key>shoulddispatchchallenge</key>
+	<string>vectorVelocity</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedConstraint</key>
+	<string>validateTable</string>
+	<key>capacityTint</key>
+	<string>futureName</string>
+	<key>concurrentLifecycle</key>
+	<string>gridActivity</string>
+	<key>declarativeAnimatedContainer</key>
+	<string>activatedFeature</string>
+	<key>fixedstreamshape</key>
+	<string>persistArithmetic</string>
+	<key>scheduletitle</key>
+	<string>autocursorappearance</string>
+	<key>seamlessbinary</key>
+	<string>certificateFlags</string>
+	<key>statefulscale</key>
+	<string>spineProcess</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyVelocity</key>
+	<string>greatRestriction</string>
+	<key>easyEvent</key>
+	<string>finishTable</string>
+	<key>loaderedge</key>
+	<string>columnDecorator</string>
+	<key>mobilePresenter</key>
+	<string>shouldattachpromise</string>
+	<key>mutableBitrate</key>
+	<string>connectcoordinator</string>
+	<key>shouldAnimateTable</key>
+	<string>shouldrendermargin</string>
+</dict>
+</plist>

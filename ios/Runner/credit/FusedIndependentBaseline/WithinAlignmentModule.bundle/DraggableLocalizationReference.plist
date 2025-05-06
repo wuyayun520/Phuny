@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>loopDuration</key>
+	<string>servicemethodstate</string>
+	<key>responsiveMedia</key>
+	<string>overlayfromprototype</string>
+	<key>responsiveVariant</key>
+	<string>mobileState</string>
+	<key>tappableTransformer</key>
+	<string>invisibletextureforce</string>
+	<key>topicchainrotation</key>
+	<string>dedicatedShape</string>
+</dict>
+</plist>

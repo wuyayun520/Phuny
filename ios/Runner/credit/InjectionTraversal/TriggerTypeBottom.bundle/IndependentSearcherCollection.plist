@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeSwitch</key>
+	<string>moveAsync</string>
+	<key>dialogsOpacity</key>
+	<string>denseDrawer</string>
+	<key>materialprototypelocation</key>
+	<string>handlerasfacade</string>
+	<key>requiredtime</key>
+	<string>actionContext</string>
+	<key>shouldPaintOption</key>
+	<string>sliderorigin</string>
+	<key>shouldPresentSine</key>
+	<string>continueFragment</string>
+	<key>swiftTop</key>
+	<string>profileAllocator</string>
+	<key>tentativefeedback</key>
+	<string>gramShade</string>
+</dict>
+</plist>

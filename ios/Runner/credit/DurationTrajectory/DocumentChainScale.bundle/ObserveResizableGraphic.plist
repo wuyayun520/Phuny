@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorInteraction</key>
+	<string>enabledDescriptor</string>
+	<key>diversifiedGraph</key>
+	<string>shoulddeserializereduction</string>
+	<key>shouldcreatetabview</key>
+	<string>cursorDelay</string>
+	<key>smartAnimatedContainer</key>
+	<string>canBindComposition</string>
+</dict>
+</plist>

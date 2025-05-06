@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardButton</key>
+	<string>onactivitychanged</string>
+	<key>computeconsumer</key>
+	<string>poolRect</string>
+	<key>dynamicBuffer</key>
+	<string>smallBandwidth</string>
+	<key>inactiveScroller</key>
+	<string>canMountedSign</string>
+	<key>pinchableZone</key>
+	<string>streamlineMetadata</string>
+	<key>stampvideo</key>
+	<string>synchronizeaxis</string>
+	<key>statefulGestureDetector</key>
+	<string>vertexRotation</string>
+</dict>
+</plist>

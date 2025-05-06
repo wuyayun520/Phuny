@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseScene</key>
+	<string>layerVisible</string>
+	<key>numericalEqualization</key>
+	<string>customProjection</string>
+	<key>particleamongmediator</key>
+	<string>subpixelTail</string>
+	<key>shouldShowCharacter</key>
+	<string>descentPressure</string>
+	<key>titledensity</key>
+	<string>schedulerRight</string>
+	<key>tweakFlags</key>
+	<string>activatedOffset</string>
+</dict>
+</plist>

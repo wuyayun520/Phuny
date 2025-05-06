@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertnode</key>
+	<string>dynamicVolume</string>
+	<key>collectionaslevel</key>
+	<string>directTitle</string>
+	<key>entropyTransparency</key>
+	<string>lazyGrayscale</string>
+	<key>spriteMode</key>
+	<string>hardCursor</string>
+	<key>stateSize</key>
+	<string>checklistbuffertransparency</string>
+</dict>
+</plist>

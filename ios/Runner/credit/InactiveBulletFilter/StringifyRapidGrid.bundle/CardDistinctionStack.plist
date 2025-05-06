@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileTextField</key>
+	<string>deactivatequeue</string>
+	<key>constraintinteraction</key>
+	<string>requestTopic</string>
+	<key>constraintsubscriber</key>
+	<string>bitratePressure</string>
+	<key>effectPosition</key>
+	<string>disabledcardscale</string>
+	<key>firstMultiplication</key>
+	<string>singleGem</string>
+	<key>marshalrow</key>
+	<string>exceptionWork</string>
+	<key>providerOrientation</key>
+	<string>logarithmBottom</string>
+	<key>shouldMountedConsumer</key>
+	<string>usageSkewY</string>
+	<key>unsortedPolygon</key>
+	<string>futurelatency</string>
+</dict>
+</plist>

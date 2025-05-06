@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedMember</key>
+	<string>sanitizeProgressBar</string>
+	<key>insteadcell</key>
+	<string>touchcolor</string>
+	<key>isolateaboutchain</key>
+	<string>displayablesubpixelstyle</string>
+	<key>offsetBound</key>
+	<string>transitionDocument</string>
+	<key>offsetbinary</key>
+	<string>showParticle</string>
+	<key>shouldUnmountedMaterial</key>
+	<string>accordionMonster</string>
+</dict>
+</plist>

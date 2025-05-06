@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeChart</key>
+	<string>renameHash</string>
+	<key>globalMethod</key>
+	<string>modalJob</string>
+	<key>resilientStateful</key>
+	<string>canMountedMap</string>
+	<key>responsiveSpot</key>
+	<string>shouldPauseStream</string>
+	<key>sizemodebound</key>
+	<string>alertLeft</string>
+	<key>sortedTopic</key>
+	<string>mobileTension</string>
+</dict>
+</plist>

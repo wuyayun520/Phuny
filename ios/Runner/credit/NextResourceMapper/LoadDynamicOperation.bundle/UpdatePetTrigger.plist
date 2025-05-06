@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartMargin</key>
+	<string>cardPrototype</string>
+	<key>eagerMusic</key>
+	<string>permanentDuration</string>
+	<key>makenotification</key>
+	<string>shouldParseScroll</string>
+	<key>resizableExtension</key>
+	<string>localConverter</string>
+	<key>shouldPaintFragment</key>
+	<string>symmetricHash</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bandwidthScale</key>
+	<string>bindAnimatedContainer</string>
+	<key>durationCenter</key>
+	<string>updateclipper</string>
+	<key>objectSpeed</key>
+	<string>multiplyTask</string>
+	<key>significantPositioned</key>
+	<string>beginnerLifecycle</string>
+	<key>singletonmode</key>
+	<string>permissiveResource</string>
+	<key>tensorColor</key>
+	<string>uniformRect</string>
+</dict>
+</plist>

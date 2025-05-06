@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activitystatus</key>
+	<string>animationInterval</string>
+	<key>consumertweak</key>
+	<string>shouldHandleEffect</string>
+	<key>fixedoptimizername</key>
+	<string>grainedge</string>
+	<key>histogramenvironmentinterval</key>
+	<string>shouldBuildCanvas</string>
+	<key>joinerStyle</key>
+	<string>pageviewMargin</string>
+	<key>nibawaysystem</key>
+	<string>reactiveState</string>
+	<key>publicImpression</key>
+	<string>desktopInkWell</string>
+	<key>smallTween</key>
+	<string>fetchMap</string>
+	<key>textDepth</key>
+	<string>inactiveImpact</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonMetadata</key>
+	<string>intuitivelifecycle</string>
+	<key>fixedRow</key>
+	<string>interactivePet</string>
+	<key>imperativeTimeline</key>
+	<string>decodeWidget</string>
+	<key>inkwellatstyle</key>
+	<string>standaloneSpot</string>
+	<key>prismaticMaster</key>
+	<string>criticalReduction</string>
+	<key>reductionType</key>
+	<string>zoneBorder</string>
+	<key>sharedLatency</key>
+	<string>controllerMediator</string>
+	<key>shouldParseCharacter</key>
+	<string>typicalstoresaturation</string>
+	<key>shouldResumeLabel</key>
+	<string>canStopLoss</string>
+	<key>smartMapper</key>
+	<string>intermediateStateful</string>
+</dict>
+</plist>

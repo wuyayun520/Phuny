@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleReducer</key>
+	<string>prepareCustomPaint</string>
+	<key>blocSize</key>
+	<string>inactiveStateful</string>
+	<key>commonBuilder</key>
+	<string>keepExpanded</string>
+	<key>easyAction</key>
+	<string>canDisposeStack</string>
+	<key>impressionCount</key>
+	<string>validatepainter</string>
+	<key>shouldUnmountAnimatedContainer</key>
+	<string>remainderLeft</string>
+	<key>synchronousText</key>
+	<string>persistentnotifiercontrast</string>
+</dict>
+</plist>

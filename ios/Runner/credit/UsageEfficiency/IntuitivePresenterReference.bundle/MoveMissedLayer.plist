@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelscale</key>
+	<string>firstTernary</string>
+	<key>firstLayer</key>
+	<string>lazyError</string>
+	<key>intuitiveUseCase</key>
+	<string>plateCycle</string>
+	<key>queueorigin</key>
+	<string>cardInset</string>
+	<key>similarTrigger</key>
+	<string>slashBuffer</string>
+	<key>smartFrame</key>
+	<string>dynamicProvider</string>
+</dict>
+</plist>

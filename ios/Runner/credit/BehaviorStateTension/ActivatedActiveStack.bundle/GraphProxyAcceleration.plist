@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryName</key>
+	<string>keepsine</string>
+	<key>awaitcenter</key>
+	<string>consultativeRepository</string>
+	<key>delegateinterpreterfeedback</key>
+	<string>ongemchanged</string>
+	<key>dependencyTransparency</key>
+	<string>smartSwitch</string>
+	<key>enabledutilcount</key>
+	<string>shouldCacheText</string>
+	<key>isslider</key>
+	<string>tablePadding</string>
+	<key>multiplicationShape</key>
+	<string>intensityEnvironment</string>
+	<key>tangentVisibility</key>
+	<string>addResolver</string>
+</dict>
+</plist>

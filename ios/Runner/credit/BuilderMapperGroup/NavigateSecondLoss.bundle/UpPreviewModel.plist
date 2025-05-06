@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mobileChart</key>
+	<string>resizableInterpolation</string>
+	<key>offsetexceptmode</key>
+	<string>baselineVar</string>
+	<key>processspine</key>
+	<string>materialLoader</string>
+	<key>rectangleSkewY</key>
+	<string>provideTopic</string>
+	<key>shouldDismissRadio</key>
+	<string>lazyAnimatedContainer</string>
+	<key>smallDescriptor</key>
+	<string>navigatorChain</string>
+	<key>strokecount</key>
+	<string>sliderscenario</string>
+	<key>uniformcontrast</key>
+	<string>iterativeTaxonomy</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsprototypeindex</key>
+	<string>liteTraversal</string>
+	<key>dispatcherDuration</key>
+	<string>notifyservice</string>
+	<key>graphofcycle</key>
+	<string>buildersize</string>
+	<key>modalFlags</key>
+	<string>canLayoutColumn</string>
+	<key>opaqueTimeline</key>
+	<string>easyMethod</string>
+	<key>shouldHandleAspectRatio</key>
+	<string>transitioncluster</string>
+	<key>statelessInteraction</key>
+	<string>independentHash</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionsensor</key>
+	<string>canResumeStateless</string>
+	<key>herostyledelay</key>
+	<string>endhero</string>
+	<key>inactiveMethod</key>
+	<string>fillgrain</string>
+	<key>missedResponse</key>
+	<string>canObserveBitrate</string>
+	<key>shouldPopStateless</key>
+	<string>baselineinterval</string>
+	<key>soundState</key>
+	<string>dialogsInset</string>
+</dict>
+</plist>

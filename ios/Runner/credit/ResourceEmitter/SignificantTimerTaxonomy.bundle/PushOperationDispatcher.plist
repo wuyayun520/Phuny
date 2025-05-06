@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedEffect</key>
+	<string>accessibleTrigger</string>
+	<key>fusedModal</key>
+	<string>denseMetadata</string>
+	<key>sophisticatedRadius</key>
+	<string>canNotifyAppBar</string>
+	<key>splitterInset</key>
+	<string>detachInterpolation</string>
+	<key>switchTransparency</key>
+	<string>popExpanded</string>
+</dict>
+</plist>

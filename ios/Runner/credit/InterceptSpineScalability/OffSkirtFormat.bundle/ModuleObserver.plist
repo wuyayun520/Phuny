@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleRole</key>
+	<string>hierarchicalAnalogy</string>
+	<key>notifierAlignment</key>
+	<string>channelsresponse</string>
+	<key>relationalLayer</key>
+	<string>cosinemode</string>
+	<key>reusableBuffer</key>
+	<string>grainchooser</string>
+	<key>selectedpoint</key>
+	<string>staticReduction</string>
+	<key>shouldemitsession</key>
+	<string>statelessMonster</string>
+	<key>shouldupdatemusic</key>
+	<string>specifierCenter</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerConverter</key>
+	<string>interactionfrequency</string>
+	<key>customizedreducermargin</key>
+	<string>canKeepAxis</string>
+	<key>cycleDepth</key>
+	<string>persistTouch</string>
+	<key>differentiateintensity</key>
+	<string>bandwidthSpeed</string>
+	<key>distinctionCount</key>
+	<string>consultativeState</string>
+	<key>handlequeue</key>
+	<string>visitresult</string>
+	<key>masterSkewY</key>
+	<string>sequentialStateful</string>
+	<key>mutableListView</key>
+	<string>sustainableException</string>
+	<key>primaryLinker</key>
+	<string>smartScaffold</string>
+	<key>shouldPopTangent</key>
+	<string>formatFlex</string>
+</dict>
+</plist>

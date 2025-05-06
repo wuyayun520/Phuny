@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousDispatcher</key>
+	<string>diversifiedCompleter</string>
+	<key>imageLeft</key>
+	<string>invisibleBitrate</string>
+	<key>interpolationjobmargin</key>
+	<string>rectFlyweight</string>
+	<key>nextComposition</key>
+	<string>mediumSingleton</string>
+	<key>notificationBehavior</key>
+	<string>unbindCard</string>
+	<key>requestcontainmediator</key>
+	<string>localizationslider</string>
+	<key>selectedColumn</key>
+	<string>fixedCanvas</string>
+	<key>synchronousRange</key>
+	<string>canReplaceListView</string>
+	<key>transitionmethodedge</key>
+	<string>discardedEfficiency</string>
+</dict>
+</plist>

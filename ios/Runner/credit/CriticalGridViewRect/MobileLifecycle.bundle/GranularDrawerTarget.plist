@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customHistogram</key>
+	<string>notifiertop</string>
+	<key>disabledMechanism</key>
+	<string>convertscale</string>
+	<key>ephemeralRemainder</key>
+	<string>tensorDetector</string>
+	<key>ismobile</key>
+	<string>shouldUnbindMomentum</string>
+	<key>resultsystemvelocity</key>
+	<string>resilientBox</string>
+	<key>shouldEndDecoration</key>
+	<string>restrictionBorder</string>
+	<key>shouldFetchAnimatedContainer</key>
+	<string>defaultGem</string>
+	<key>similarTextField</key>
+	<string>analogyCoord</string>
+</dict>
+</plist>

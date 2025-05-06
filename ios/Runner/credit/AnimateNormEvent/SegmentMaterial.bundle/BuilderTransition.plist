@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatortypedepth</key>
+	<string>rectScale</string>
+	<key>materialKind</key>
+	<string>slashAction</string>
+	<key>newestCurve</key>
+	<string>tweakCenter</string>
+	<key>numericalTrigger</key>
+	<string>sequentialChapter</string>
+	<key>paintertint</key>
+	<string>repositoryBehavior</string>
+	<key>prismaticWrapper</key>
+	<string>decodeSizedBox</string>
+	<key>responsiveprotocol</key>
+	<string>poolStorage</string>
+	<key>shapeState</key>
+	<string>directExponent</string>
+	<key>subscriberBorder</key>
+	<string>dynamicCallback</string>
+</dict>
+</plist>

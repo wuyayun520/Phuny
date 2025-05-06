@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionProgressBar</key>
+	<string>augmentSink</string>
+	<key>adaptiveCell</key>
+	<string>synchronousLayer</string>
+	<key>animatedcontainerDelay</key>
+	<string>presenterActivity</string>
+	<key>dataScale</key>
+	<string>requiredBehavior</string>
+	<key>precisionShape</key>
+	<string>statefulSizedBox</string>
+	<key>rendererPressure</key>
+	<string>activatedAperture</string>
+	<key>showdecoration</key>
+	<string>analyzeResolver</string>
+</dict>
+</plist>

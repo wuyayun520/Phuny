@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cachechapter</key>
+	<string>fetchPositioned</string>
+	<key>crudeEqualization</key>
+	<string>shouldRestartKernel</string>
+	<key>meshDuration</key>
+	<string>methodIndex</string>
+	<key>prismaticdependency</key>
+	<string>canRebuildColumn</string>
+	<key>pushconstraint</key>
+	<string>mobileWrapper</string>
+	<key>responsiveUnary</key>
+	<string>canAttachTechnique</string>
+	<key>shouldSerializeExtension</key>
+	<string>scrollableTextField</string>
+</dict>
+</plist>

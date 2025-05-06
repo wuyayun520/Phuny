@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaittriangles</key>
+	<string>explicitProvider</string>
+	<key>customDocument</key>
+	<string>connectPlayback</string>
+	<key>displayableGradient</key>
+	<string>graphicVisitor</string>
+	<key>independentElasticity</key>
+	<string>shouldFetchSpine</string>
+	<key>intermediateStack</key>
+	<string>persistentLabel</string>
+	<key>mountappbar</key>
+	<string>similarMenu</string>
+	<key>prismaticMultiplication</key>
+	<string>unsortedProject</string>
+	<key>processgrayscale</key>
+	<string>monsterCount</string>
+	<key>symmetricMethod</key>
+	<string>loststoryboard</string>
+</dict>
+</plist>

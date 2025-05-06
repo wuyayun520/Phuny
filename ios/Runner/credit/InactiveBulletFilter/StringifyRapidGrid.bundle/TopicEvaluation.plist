@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectorEdge</key>
+	<string>isolateWork</string>
+	<key>constantKind</key>
+	<string>canReplaceLabel</string>
+	<key>kernelloop</key>
+	<string>staticSubscription</string>
+	<key>nativeCubit</key>
+	<string>contractionAdapter</string>
+	<key>radiusDirection</key>
+	<string>ignoredPrecision</string>
+	<key>subsequentMonster</key>
+	<string>pendingBullet</string>
+	<key>timeRight</key>
+	<string>combineRouter</string>
+</dict>
+</plist>

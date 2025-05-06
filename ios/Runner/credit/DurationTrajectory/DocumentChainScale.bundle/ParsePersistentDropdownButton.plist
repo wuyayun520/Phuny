@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatormetrics</key>
+	<string>shouldSetStateSkin</string>
+	<key>anchorcount</key>
+	<string>typicalScenario</string>
+	<key>disparateAmortization</key>
+	<string>canDeserializeOverlay</string>
+	<key>invisibleanimatedcontainerstate</key>
+	<string>inkwellSkewY</string>
+	<key>layoutborder</key>
+	<string>sizecount</string>
+	<key>scrollgrid</key>
+	<string>rapidInteger</string>
+	<key>shouldEmitCheckbox</key>
+	<string>statefulWrapper</string>
+	<key>specifySearcher</key>
+	<string>completedMonster</string>
+	<key>transitiondirection</key>
+	<string>shouldListenInstruction</string>
+</dict>
+</plist>

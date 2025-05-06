@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryTint</key>
+	<string>cleanreducer</string>
+	<key>actionname</key>
+	<string>standaloneCache</string>
+	<key>descentstate</key>
+	<string>repositoryValidation</string>
+	<key>interfaceOffset</key>
+	<string>transitionDecorator</string>
+	<key>normalConsumer</key>
+	<string>tweakAppearance</string>
+	<key>scrollableCubit</key>
+	<string>managerFormat</string>
+	<key>stepResponse</key>
+	<string>textDecorator</string>
+</dict>
+</plist>

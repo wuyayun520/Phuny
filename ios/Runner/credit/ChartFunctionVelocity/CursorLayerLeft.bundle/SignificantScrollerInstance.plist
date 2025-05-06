@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackTag</key>
+	<string>prismaticNotifier</string>
+	<key>liteGridView</key>
+	<string>particlesize</string>
+	<key>quantizerutil</key>
+	<string>elasticanchor</string>
+	<key>uniformTraversal</key>
+	<string>extendProgressBar</string>
+</dict>
+</plist>

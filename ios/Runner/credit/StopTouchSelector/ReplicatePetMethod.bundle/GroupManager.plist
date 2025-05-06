@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audioColor</key>
+	<string>asynchronousResilience</string>
+	<key>invisiblereliability</key>
+	<string>canPersistActivity</string>
+	<key>iterativeeffectduration</key>
+	<string>notifySingleton</string>
+	<key>numericalRadius</key>
+	<string>soundStatus</string>
+	<key>shouldConnectExpanded</key>
+	<string>commonSlash</string>
+</dict>
+</plist>

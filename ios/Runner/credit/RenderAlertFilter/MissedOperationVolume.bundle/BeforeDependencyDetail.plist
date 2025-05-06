@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeDispatcher</key>
+	<string>pauseUsage</string>
+	<key>cartesianSubpixel</key>
+	<string>encodeAction</string>
+	<key>eagerNotifier</key>
+	<string>partitionMethod</string>
+	<key>interfaceoperation</key>
+	<string>descriptorMargin</string>
+	<key>isprecision</key>
+	<string>shouldUpdateRadio</string>
+	<key>layoutcallback</key>
+	<string>columnfrequency</string>
+	<key>movementVisibility</key>
+	<string>animatedcontainerInteraction</string>
+	<key>nodefilter</key>
+	<string>shouldNavigateMomentum</string>
+	<key>originalChannels</key>
+	<string>directlyTabBar</string>
+	<key>seguepertemple</key>
+	<string>arithmeticborder</string>
+</dict>
+</plist>

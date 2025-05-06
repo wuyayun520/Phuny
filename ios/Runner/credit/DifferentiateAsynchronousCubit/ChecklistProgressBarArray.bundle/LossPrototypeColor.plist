@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativecolor</key>
+	<string>observerskewy</string>
+	<key>gridviewFlags</key>
+	<string>inkwellStage</string>
+	<key>mediumCompletion</key>
+	<string>meshFrequency</string>
+	<key>pageviewSpeed</key>
+	<string>easyindicator</string>
+	<key>pinchableConstant</key>
+	<string>chapterTint</string>
+	<key>presenterCenter</key>
+	<string>directMethod</string>
+	<key>shouldUnmountCustomPaint</key>
+	<string>routeappearance</string>
+</dict>
+</plist>

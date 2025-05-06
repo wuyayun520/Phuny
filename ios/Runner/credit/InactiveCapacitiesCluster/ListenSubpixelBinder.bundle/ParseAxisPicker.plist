@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonrect</key>
+	<string>precisionkind</string>
+	<key>directlyMovement</key>
+	<string>overrideInteractor</string>
+	<key>eagerTool</key>
+	<string>shouldPublishProvider</string>
+	<key>globalChannel</key>
+	<string>monsterStatus</string>
+	<key>navigationparamspacing</key>
+	<string>unaryalignment</string>
+	<key>primaryHero</key>
+	<string>cacheEquipment</string>
+	<key>primaryTernary</key>
+	<string>formatGridView</string>
+	<key>sophisticatedListener</key>
+	<string>numericalThreshold</string>
+	<key>usedconvolutiontheme</key>
+	<string>canKeepSubpixel</string>
+</dict>
+</plist>

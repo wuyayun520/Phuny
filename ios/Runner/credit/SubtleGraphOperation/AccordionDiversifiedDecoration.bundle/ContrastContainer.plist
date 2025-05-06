@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteSlider</key>
+	<string>floatVector</string>
+	<key>crucialOffset</key>
+	<string>webInteger</string>
+	<key>enabledHandler</key>
+	<string>presentProtocol</string>
+	<key>factoryphasesize</key>
+	<string>observeConsumer</string>
+	<key>mainpointcontrast</key>
+	<string>staticAnimatedContainer</string>
+	<key>mitigatebase</key>
+	<string>canSetStateResource</string>
+	<key>priorPlayback</key>
+	<string>subtlesorter</string>
+	<key>toleranceFlags</key>
+	<string>subpixelContrast</string>
+</dict>
+</plist>

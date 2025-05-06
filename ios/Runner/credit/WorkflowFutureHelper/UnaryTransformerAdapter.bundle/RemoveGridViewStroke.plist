@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoError</key>
+	<string>animatedEntropy</string>
+	<key>checkboxfunctionbehavior</key>
+	<string>escalateConstraint</string>
+	<key>coordinatorcycleskewy</key>
+	<string>replaceState</string>
+	<key>desktopheap</key>
+	<string>hyperbolicUnary</string>
+	<key>dynamicIndicator</key>
+	<string>usagePlatform</string>
+	<key>eagerpolyfill</key>
+	<string>publisherSpeed</string>
+	<key>hyperbolicDecoration</key>
+	<string>enabledSemantics</string>
+	<key>shouldNotifyHistogram</key>
+	<string>resumerequest</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aperturepainter</key>
+	<string>localUnary</string>
+	<key>currentResponder</key>
+	<string>sessionName</string>
+	<key>equipmentDepth</key>
+	<string>workflowanalyzer</string>
+	<key>largePainter</key>
+	<string>smallNotification</string>
+	<key>notationForce</key>
+	<string>requestDelegate</string>
+	<key>pointHead</key>
+	<string>canTransformPadding</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultWorkflow</key>
+	<string>awaitconverter</string>
+	<key>explicitAlert</key>
+	<string>paintSubpixel</string>
+	<key>fusedConverter</key>
+	<string>axisSystem</string>
+	<key>fusedcubevisibility</key>
+	<string>poolPreview</string>
+	<key>normalmaterializer</key>
+	<string>mobileCache</string>
+	<key>tolerancePressure</key>
+	<string>iconLevel</string>
+	<key>unsortedLogarithm</key>
+	<string>shoulddeserializemonster</string>
+</dict>
+</plist>

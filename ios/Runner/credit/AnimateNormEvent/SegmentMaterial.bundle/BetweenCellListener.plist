@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeLocalization</key>
+	<string>modelMargin</string>
+	<key>hardText</key>
+	<string>utilTemple</string>
+	<key>lazynavigator</key>
+	<string>celltentative</string>
+	<key>respectivePoint</key>
+	<string>rapidDispatcher</string>
+	<key>searcherBorder</key>
+	<string>streamRichText</string>
+	<key>shouldSetStateNavigation</key>
+	<string>canDismissCurve</string>
+	<key>swiftAcceleration</key>
+	<string>materializeParticle</string>
+</dict>
+</plist>

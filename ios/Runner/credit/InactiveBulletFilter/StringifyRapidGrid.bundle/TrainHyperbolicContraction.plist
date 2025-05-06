@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyPreview</key>
+	<string>hardasync</string>
+	<key>elasticBoxShadow</key>
+	<string>presentMember</string>
+	<key>nextAwait</key>
+	<string>globalBatch</string>
+	<key>sessionandstage</key>
+	<string>concurrentShader</string>
+	<key>shouldRebuildInkWell</key>
+	<string>fetchActivity</string>
+	<key>spriteacceleration</key>
+	<string>geometricHandler</string>
+	<key>tappableLayer</key>
+	<string>storeShade</string>
+</dict>
+</plist>

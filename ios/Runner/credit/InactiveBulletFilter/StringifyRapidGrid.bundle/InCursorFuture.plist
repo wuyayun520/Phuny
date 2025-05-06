@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorprovider</key>
+	<string>transformInteractor</string>
+	<key>associatedStateful</key>
+	<string>delegateRow</string>
+	<key>difficultLocalization</key>
+	<string>diffableframe</string>
+	<key>drawisolate</key>
+	<string>builderBuffer</string>
+	<key>painteffect</key>
+	<string>trianglesVisibility</string>
+	<key>setstatealignment</key>
+	<string>shouldParseRoute</string>
+	<key>visibleScale</key>
+	<string>processFactory</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedChannels</key>
+	<string>concurrententropy</string>
+	<key>findcolumn</key>
+	<string>cleanGrid</string>
+	<key>histogramhandler</key>
+	<string>tangentDuration</string>
+	<key>quaternionRate</key>
+	<string>shouldContinueGrayscale</string>
+	<key>shapeOpacity</key>
+	<string>subtleTime</string>
+	<key>sizelayerformat</key>
+	<string>nativeStateful</string>
+	<key>tableorientation</key>
+	<string>autoscaffold</string>
+	<key>tappableHash</key>
+	<string>lostMenu</string>
+	<key>threadsize</key>
+	<string>animatorOffset</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>multishader</key>
+	<string>descriptionDuration</string>
+	<key>synchronousArithmetic</key>
+	<string>canDispatchCapsule</string>
+	<key>typicalTexture</key>
+	<string>canTransitionCard</string>
+	<key>videoDirection</key>
+	<string>resizetask</string>
+</dict>
+</plist>

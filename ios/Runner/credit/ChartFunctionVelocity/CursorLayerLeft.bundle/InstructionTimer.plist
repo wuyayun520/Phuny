@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptorservice</key>
+	<string>bitrateDirection</string>
+	<key>discardedMultiplication</key>
+	<string>labelactionappearance</string>
+	<key>drawnavigator</key>
+	<string>materialChannel</string>
+	<key>ephemeralSine</key>
+	<string>cancelSlash</string>
+	<key>inkwellShade</key>
+	<string>canContinueInkWell</string>
+	<key>invisiblestroke</key>
+	<string>prepareMobile</string>
+	<key>resilientPosition</key>
+	<string>shouldLoadScale</string>
+	<key>sustainableUseCase</key>
+	<string>pushHeap</string>
+	<key>textfieldResponse</key>
+	<string>specifyResolver</string>
+	<key>transitionloop</key>
+	<string>ignoredDependency</string>
+</dict>
+</plist>

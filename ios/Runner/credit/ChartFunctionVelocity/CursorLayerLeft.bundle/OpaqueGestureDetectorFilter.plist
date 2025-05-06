@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>futureFeedback</key>
+	<string>prevResponse</string>
+	<key>harddecoration</key>
+	<string>hashBrightness</string>
+	<key>imperativeExponent</key>
+	<string>alignmentexceptmemento</string>
+	<key>mediumCursor</key>
+	<string>rectDepth</string>
+	<key>specifyReduction</key>
+	<string>nativeCurve</string>
+	<key>spotresource</key>
+	<string>globalclipperfrequency</string>
+	<key>uniqueSwift</key>
+	<string>precisionOrientation</string>
+</dict>
+</plist>

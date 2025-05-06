@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeNorm</key>
+	<string>richtextlocation</string>
+	<key>draggableStroke</key>
+	<string>diffableScroll</string>
+	<key>gradientOrigin</key>
+	<string>canUpdateSlider</string>
+	<key>layerOrientation</key>
+	<string>formatAnimatedContainer</string>
+	<key>otherHash</key>
+	<string>optionphasespacing</string>
+	<key>shouldPausePromise</key>
+	<string>shouldCreateTable</string>
+	<key>subtleManager</key>
+	<string>embraceTask</string>
+</dict>
+</plist>

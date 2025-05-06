@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerinset</key>
+	<string>intensityhandler</string>
+	<key>gesturedetectorshape</key>
+	<string>canParseInstruction</string>
+	<key>mapperAlignment</key>
+	<string>prevroute</string>
+	<key>optimizemetadata</key>
+	<string>hardcanvas</string>
+	<key>precisioncubit</key>
+	<string>tweenwithprototype</string>
+	<key>responsiveMusic</key>
+	<string>memberAction</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grayscaleflags</key>
+	<string>convertResource</string>
+	<key>gridbeyondenvironment</key>
+	<string>respectiveDispatcher</string>
+	<key>rendererDepth</key>
+	<string>factoryaudio</string>
+	<key>shouldroutecontroller</key>
+	<string>observeNotification</string>
+	<key>shouldyieldpriority</key>
+	<string>semanticKernel</string>
+	<key>skinInteraction</key>
+	<string>dissociateUseCase</string>
+	<key>textureDelay</key>
+	<string>sliderlayertail</string>
+	<key>uniformInkWell</key>
+	<string>playstream</string>
+</dict>
+</plist>

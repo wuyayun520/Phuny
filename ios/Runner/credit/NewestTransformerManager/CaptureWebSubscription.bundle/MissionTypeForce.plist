@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeActivity</key>
+	<string>taskEnvironment</string>
+	<key>directlyBuilder</key>
+	<string>transpileTask</string>
+	<key>priorityagainsttier</key>
+	<string>deployBuilder</string>
+	<key>skipexpanded</key>
+	<string>fixedMapper</string>
+</dict>
+</plist>

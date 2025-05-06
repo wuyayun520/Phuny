@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasprovision</key>
+	<string>observeCallback</string>
+	<key>criticalUseCase</key>
+	<string>playbackHue</string>
+	<key>crudeAlpha</key>
+	<string>otherMovement</string>
+	<key>directlyInformation</key>
+	<string>missedRow</string>
+	<key>disabledternary</key>
+	<string>canStopAppBar</string>
+	<key>equalizationalignment</key>
+	<string>storeDelegate</string>
+	<key>lostStream</key>
+	<string>gemFrequency</string>
+	<key>mediocreAmortization</key>
+	<string>typicalMend</string>
+	<key>relationaltransformer</key>
+	<string>shouldLayoutHeap</string>
+	<key>significantModel</key>
+	<string>combinerDepth</string>
+</dict>
+</plist>

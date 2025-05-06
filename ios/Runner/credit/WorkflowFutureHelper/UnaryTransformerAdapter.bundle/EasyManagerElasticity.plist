@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousChapter</key>
+	<string>textureTheme</string>
+	<key>disabledLoader</key>
+	<string>disabledCapacities</string>
+	<key>disparateaspect</key>
+	<string>capsulelabel</string>
+	<key>ignoredCurve</key>
+	<string>cubeLeft</string>
+	<key>shouldCreateWidget</key>
+	<string>globalProcessor</string>
+	<key>shouldFetchSegue</key>
+	<string>immutableVector</string>
+	<key>similarSubscriber</key>
+	<string>textfieldContext</string>
+	<key>usedJoiner</key>
+	<string>eraserequest</string>
+	<key>zoneSaturation</key>
+	<string>observeCache</string>
+</dict>
+</plist>

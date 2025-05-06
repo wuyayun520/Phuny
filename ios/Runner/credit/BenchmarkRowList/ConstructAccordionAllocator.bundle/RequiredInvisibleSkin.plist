@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileDelegate</key>
+	<string>hyperbolicTrigger</string>
+	<key>criticalsplitter</key>
+	<string>canCacheTabBar</string>
+	<key>disclaimerPadding</key>
+	<string>opaqueCursor</string>
+	<key>interactorinformation</key>
+	<string>layoutNotification</string>
+	<key>marginLocation</key>
+	<string>unlockHash</string>
+	<key>mobileIndicator</key>
+	<string>asynchronousSample</string>
+	<key>publicEfficiency</key>
+	<string>constantSkewY</string>
+	<key>resizableEqualization</key>
+	<string>efficiencySkewX</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bindswitch</key>
+	<string>shouldPresentProject</string>
+	<key>consultativeSound</key>
+	<string>canPublishMobile</string>
+	<key>oldStateless</key>
+	<string>immediateTime</string>
+	<key>shouldsetstatecompletion</key>
+	<string>subscribeInterpolation</string>
+</dict>
+</plist>

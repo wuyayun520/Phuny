@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentTabBar</key>
+	<string>greatMonster</string>
+	<key>dedicatedBloc</key>
+	<string>parseboxshadow</string>
+	<key>documentstorage</key>
+	<string>shouldskipreference</string>
+	<key>geometricConfidentiality</key>
+	<string>declarativeDescription</string>
+	<key>inkwellRate</key>
+	<string>sequentialProvision</string>
+	<key>notificationSpeed</key>
+	<string>reducerDistance</string>
+	<key>shouldTrainLayout</key>
+	<string>renderSemantics</string>
+	<key>startpageview</key>
+	<string>shouldSaveUnary</string>
+	<key>tensorThroughput</key>
+	<string>emitFactory</string>
+	<key>unactivatedFuture</key>
+	<string>unbindchannel</string>
+</dict>
+</plist>

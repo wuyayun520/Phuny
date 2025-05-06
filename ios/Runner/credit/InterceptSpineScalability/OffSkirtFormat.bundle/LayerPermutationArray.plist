@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerFeedback</key>
+	<string>appendRect</string>
+	<key>defaultcharacter</key>
+	<string>formattext</string>
+	<key>screenFormat</key>
+	<string>hierarchicalConsumer</string>
+	<key>staticPet</key>
+	<string>shouldRenderSkirt</string>
+</dict>
+</plist>

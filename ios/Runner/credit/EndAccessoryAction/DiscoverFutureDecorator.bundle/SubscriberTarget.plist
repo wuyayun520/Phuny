@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>materialModel</key>
+	<string>renderGift</string>
+	<key>priorAction</key>
+	<string>cartesianPoint</string>
+	<key>requiredModal</key>
+	<string>dissociateConfiguration</string>
+	<key>roleresource</key>
+	<string>crudeimage</string>
+	<key>servicereplica</key>
+	<string>immediateShape</string>
+	<key>shouldTransitionCertificate</key>
+	<string>disabledWidget</string>
+</dict>
+</plist>

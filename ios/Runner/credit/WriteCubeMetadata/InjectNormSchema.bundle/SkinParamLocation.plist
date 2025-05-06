@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationalongstage</key>
+	<string>shouldDeserializeIndicator</string>
+	<key>criticalTimer</key>
+	<string>discardedProfile</string>
+	<key>delicaterouterfeedback</key>
+	<string>statefulTask</string>
+	<key>eagerEqualization</key>
+	<string>formatCursor</string>
+	<key>granularCursor</key>
+	<string>canRenderTool</string>
+	<key>gridviewSaturation</key>
+	<string>notifierbloc</string>
+	<key>permissiveConstant</key>
+	<string>startEqualization</string>
+	<key>permissiveTransition</key>
+	<string>descriptorObserver</string>
+	<key>protocolEdge</key>
+	<string>batchTask</string>
+	<key>throughputtail</key>
+	<string>paintIndicator</string>
+</dict>
+</plist>

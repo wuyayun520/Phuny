@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>greatMedia</key>
+	<string>publicAlpha</string>
+	<key>popobserver</key>
+	<string>euclideanTransformer</string>
+	<key>requeststyle</key>
+	<string>lastMaterializer</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoCycle</key>
+	<string>uniqueHandler</string>
+	<key>basicInteractor</key>
+	<string>shouldFormatStep</string>
+	<key>presenterPressure</key>
+	<string>deactivateLocalization</string>
+	<key>shouldAttachHeap</key>
+	<string>processTextField</string>
+	<key>shouldSaveCertificate</key>
+	<string>executemember</string>
+</dict>
+</plist>

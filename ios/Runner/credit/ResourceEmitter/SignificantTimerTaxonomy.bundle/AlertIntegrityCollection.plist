@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicEmitter</key>
+	<string>canUnmountProject</string>
+	<key>hardlayoutinset</key>
+	<string>accordionGestureDetector</string>
+	<key>inheritedWorkflow</key>
+	<string>equalModel</string>
+	<key>mediocreCustomPaint</key>
+	<string>reductionRate</string>
+	<key>obtainoption</key>
+	<string>euclideanStream</string>
+	<key>scrollableeventvalidation</key>
+	<string>touchWidget</string>
+	<key>subsequentBandwidth</key>
+	<string>uniformBehavior</string>
+	<key>sustainableusage</key>
+	<string>priorityPosition</string>
+</dict>
+</plist>

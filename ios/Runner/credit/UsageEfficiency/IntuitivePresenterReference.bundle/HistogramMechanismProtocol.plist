@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarhead</key>
+	<string>currentChecklist</string>
+	<key>checklistdelay</key>
+	<string>associatedInfo</string>
+	<key>dedicatedSingleton</key>
+	<string>dynamicSegment</string>
+	<key>lostscaffold</key>
+	<string>storedirection</string>
+	<key>presenteroutsideenvironment</key>
+	<string>normalmapper</string>
+	<key>respectiveMaster</key>
+	<string>callbackborder</string>
+	<key>sortedPublisher</key>
+	<string>canStartCertificate</string>
+	<key>typicalPromise</key>
+	<string>directlySelector</string>
+</dict>
+</plist>

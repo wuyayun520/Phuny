@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileVideo</key>
+	<string>canDisconnectSubpixel</string>
+	<key>checklistContrast</key>
+	<string>prevContrast</string>
+	<key>gesturescale</key>
+	<string>completerObserver</string>
+	<key>intuitiveFilter</key>
+	<string>decorationMode</string>
+	<key>lazyState</key>
+	<string>mountsubscription</string>
+	<key>originalrole</key>
+	<string>maxDescriptor</string>
+	<key>plateagainstcontext</key>
+	<string>dependencyMediator</string>
+	<key>shouldRenderSine</key>
+	<string>statefulVideo</string>
+	<key>singleRectangle</key>
+	<string>sorterBehavior</string>
+	<key>sophisticatedCoordinator</key>
+	<string>shouldEndIndicator</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileModulus</key>
+	<string>scrollableQueue</string>
+	<key>keyStoryboard</key>
+	<string>pinchableResilience</string>
+	<key>prevOccasion</key>
+	<string>seekGrid</string>
+	<key>prismaticservicevelocity</key>
+	<string>undertakeObserver</string>
+	<key>resilientNotification</key>
+	<string>constraintMomentum</string>
+	<key>textfieldSaturation</key>
+	<string>shouldPopSlider</string>
+	<key>tolerancebehavior</key>
+	<string>replicateProgressBar</string>
+</dict>
+</plist>

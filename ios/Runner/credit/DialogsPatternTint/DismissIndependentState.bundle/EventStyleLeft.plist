@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedNib</key>
+	<string>bulletasset</string>
+	<key>iconStatus</key>
+	<string>draggableaction</string>
+	<key>independentTime</key>
+	<string>allocateMenu</string>
+	<key>iterativeCollection</key>
+	<string>pinchableSkirt</string>
+	<key>popupvarbehavior</key>
+	<string>synchronizebuilder</string>
+	<key>receivertail</key>
+	<string>nextInfo</string>
+</dict>
+</plist>

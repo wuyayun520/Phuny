@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>functionalMaterializer</key>
+	<string>offsetActivity</string>
+	<key>iconSaturation</key>
+	<string>gemAdapter</string>
+	<key>interactionvisible</key>
+	<string>delicateStateful</string>
+	<key>shouldPaintPoint</key>
+	<string>releaseCompleter</string>
+	<key>shouldStreamScaffold</key>
+	<string>crudeInformation</string>
+	<key>singleTask</key>
+	<string>appbarDuration</string>
+</dict>
+</plist>

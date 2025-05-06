@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleStateful</key>
+	<string>significantTopic</string>
+	<key>advancedAwait</key>
+	<string>discoverFrame</string>
+	<key>dedicatedrect</key>
+	<string>requestTail</string>
+	<key>enabledAction</key>
+	<string>encodeCaption</string>
+	<key>futureinteraction</key>
+	<string>pauseBuilder</string>
+	<key>globalAwait</key>
+	<string>semanticDuration</string>
+	<key>greatZone</key>
+	<string>notifierDistance</string>
+	<key>layoutstagehead</key>
+	<string>keyDecoration</string>
+	<key>standaloneAlert</key>
+	<string>shouldCreateOptimizer</string>
+</dict>
+</plist>

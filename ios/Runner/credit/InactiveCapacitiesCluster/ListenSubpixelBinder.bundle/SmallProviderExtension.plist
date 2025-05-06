@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteMesh</key>
+	<string>setstateCursor</string>
+	<key>directlyPermutation</key>
+	<string>agilerect</string>
+	<key>dropoutresolver</key>
+	<string>bundleskin</string>
+	<key>exceptioncoord</key>
+	<string>mainAnimator</string>
+	<key>iconright</key>
+	<string>temporaryTabBar</string>
+	<key>inkwellpressure</key>
+	<string>operationdelegate</string>
+	<key>labelstatus</key>
+	<string>paintervianumber</string>
+	<key>pinchableparticle</key>
+	<string>requestvisible</string>
+	<key>respectivetransitionalignment</key>
+	<string>canDecodeBrush</string>
+	<key>robustCapacity</key>
+	<string>shouldInflateAnimatedContainer</string>
+</dict>
+</plist>

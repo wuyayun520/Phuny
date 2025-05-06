@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deserializerequest</key>
+	<string>aspectParameter</string>
+	<key>keymaterial</key>
+	<string>cartesianMaster</string>
+	<key>pivotalVertex</key>
+	<string>musicForm</string>
+	<key>resilientModule</key>
+	<string>renderBorder</string>
+	<key>retainedSkin</key>
+	<string>shaderSingleton</string>
+	<key>shouldKeepUnary</key>
+	<string>subsequentSorter</string>
+	<key>stackRotation</key>
+	<string>associatedmethodvelocity</string>
+</dict>
+</plist>

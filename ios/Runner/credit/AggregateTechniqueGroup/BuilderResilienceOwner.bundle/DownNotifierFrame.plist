@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deserializemodel</key>
+	<string>disposemovement</string>
+	<key>discardedSplitter</key>
+	<string>resizeaspectratio</string>
+	<key>integrationValidation</key>
+	<string>routerreliability</string>
+	<key>lostJoiner</key>
+	<string>unsortedEntity</string>
+	<key>restartinteractor</key>
+	<string>integrationCenter</string>
+	<key>shouldListenScaffold</key>
+	<string>resizableSegment</string>
+</dict>
+</plist>

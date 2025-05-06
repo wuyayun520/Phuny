@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateSkewX</key>
+	<string>invokeAlignment</string>
+	<key>dialogspadding</key>
+	<string>shouldPaintGraphic</string>
+	<key>firstExponent</key>
+	<string>hierarchicalPosition</string>
+	<key>nodepadding</key>
+	<string>uniformSorter</string>
+	<key>radiusOffset</key>
+	<string>playbackTint</string>
+	<key>shouldRebuildDocument</key>
+	<string>diffableDistinction</string>
+	<key>signtop</key>
+	<string>sinkFormat</string>
+</dict>
+</plist>

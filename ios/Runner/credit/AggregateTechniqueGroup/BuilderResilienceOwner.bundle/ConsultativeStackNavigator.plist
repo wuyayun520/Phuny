@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachtable</key>
+	<string>advancedColumn</string>
+	<key>enabledGrayscale</key>
+	<string>quitChart</string>
+	<key>flexScale</key>
+	<string>shouldStopStamp</string>
+	<key>kernelAcceleration</key>
+	<string>diffableColumn</string>
+	<key>prevRestriction</key>
+	<string>canUnmountedLayout</string>
+	<key>segueBrightness</key>
+	<string>flexSingleton</string>
+</dict>
+</plist>

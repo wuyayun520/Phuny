@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionrect</key>
+	<string>similarAlignment</string>
+	<key>custompaintRate</key>
+	<string>sortedScroller</string>
+	<key>directlyTabView</key>
+	<string>shouldDispatchSignature</string>
+	<key>imperativeCallback</key>
+	<string>transformticker</string>
+	<key>intermediateSession</key>
+	<string>clearPresenter</string>
+	<key>shouldConnectAccessory</key>
+	<string>draggablegroupmode</string>
+	<key>shouldNavigateDropdownButton</key>
+	<string>inkwellJob</string>
+	<key>shouldPushDropdownButton</key>
+	<string>agileDistinction</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeForce</key>
+	<string>cacheDrawer</string>
+	<key>regulatecomposition</key>
+	<string>implementPreview</string>
+	<key>scrollableNavigation</key>
+	<string>consultativeMethod</string>
+	<key>strokeVisibility</key>
+	<string>setstateAlpha</string>
+	<key>trianglesbrightness</key>
+	<string>canUpdateTabView</string>
+	<key>usecaseHue</key>
+	<string>intermediateRouter</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedGem</key>
+	<string>shouldPaintContainer</string>
+	<key>audiodensity</key>
+	<string>moduleoffset</string>
+	<key>prevObserver</key>
+	<string>seekQueue</string>
+	<key>retainedNode</key>
+	<string>replaceCube</string>
+	<key>stopmodal</key>
+	<string>notationOpacity</string>
+</dict>
+</plist>

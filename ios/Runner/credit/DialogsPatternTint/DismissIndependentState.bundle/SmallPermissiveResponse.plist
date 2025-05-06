@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartstyle</key>
+	<string>statescale</string>
+	<key>crudeFeature</key>
+	<string>sustainableUtil</string>
+	<key>semanticCapsule</key>
+	<string>signatureBehavior</string>
+	<key>sophisticatedRecursion</key>
+	<string>implementIsolate</string>
+</dict>
+</plist>

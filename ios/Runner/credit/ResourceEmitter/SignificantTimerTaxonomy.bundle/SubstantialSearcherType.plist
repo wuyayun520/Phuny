@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardRow</key>
+	<string>denseTheme</string>
+	<key>disabledInfrastructure</key>
+	<string>monsterrouter</string>
+	<key>displayableGraph</key>
+	<string>boxVelocity</string>
+	<key>dynamicSegment</key>
+	<string>usageMethod</string>
+	<key>exceptionhue</key>
+	<string>inflateBitrate</string>
+	<key>materializerContrast</key>
+	<string>aggregateUtil</string>
+	<key>numericalSubscriber</key>
+	<string>bitrateForm</string>
+	<key>sequentialPrecision</key>
+	<string>detachEvent</string>
+	<key>shouldPresentBitrate</key>
+	<string>attachError</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparatePlayback</key>
+	<string>handlerStage</string>
+	<key>flexibleoptimizer</key>
+	<string>nativeSubscriber</string>
+	<key>greatitem</key>
+	<string>shouldHandleDialogs</string>
+	<key>largeTween</key>
+	<string>disclaimerStatus</string>
+	<key>popupandaction</key>
+	<string>criticalAnimation</string>
+	<key>respectiveStatus</key>
+	<string>shouldMountClipper</string>
+	<key>scrollerMode</key>
+	<string>titletypetension</string>
+	<key>shouldMountExpanded</key>
+	<string>compareResponse</string>
+	<key>sortedEquipment</key>
+	<string>resultSpacing</string>
+	<key>videoDuration</key>
+	<string>currentlayout</string>
+</dict>
+</plist>

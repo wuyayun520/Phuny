@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileSensor</key>
+	<string>requiredController</string>
+	<key>decorationtheme</key>
+	<string>shouldYieldMediaQuery</string>
+	<key>granularRoute</key>
+	<string>specifyCursor</string>
+	<key>greatlocalizationvalidation</key>
+	<string>petJob</string>
+	<key>inheritedPolyfill</key>
+	<string>delicateAsset</string>
+	<key>interactorRotation</key>
+	<string>displayableColor</string>
+	<key>mutableActivity</key>
+	<string>presentProtocol</string>
+	<key>shoulddisposeremainder</key>
+	<string>updateConsumer</string>
+	<key>themeFrequency</key>
+	<string>isMatrix</string>
+	<key>tickerinterpretername</key>
+	<string>mediumMetrics</string>
+</dict>
+</plist>

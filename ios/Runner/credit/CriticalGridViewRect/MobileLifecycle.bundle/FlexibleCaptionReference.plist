@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedDropdownButton</key>
+	<string>hierarchicalscaffoldbehavior</string>
+	<key>ephemeralexceptioninteraction</key>
+	<string>propagateManager</string>
+	<key>firsttimertransparency</key>
+	<string>concatenateResolver</string>
+	<key>pinchableSwift</key>
+	<string>sanitizeEntity</string>
+	<key>referenceCount</key>
+	<string>playbackSize</string>
+	<key>routeSaturation</key>
+	<string>retainedCanvas</string>
+	<key>shouldStartCard</key>
+	<string>taxonomyVisible</string>
+	<key>startcupertino</key>
+	<string>monsterBehavior</string>
+	<key>subsequentScroller</key>
+	<string>cacheActivity</string>
+	<key>utilname</key>
+	<string>advancedbutton</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentStack</key>
+	<string>sampleappearance</string>
+	<key>drawswift</key>
+	<string>mobileImage</string>
+	<key>ephemeralCallback</key>
+	<string>requestagainstvalue</string>
+	<key>eventopacity</key>
+	<string>shouldPresentAnchor</string>
+	<key>geometricInteger</key>
+	<string>transposeresolver</string>
+	<key>maketext</key>
+	<string>renameSprite</string>
+	<key>missedInterface</key>
+	<string>brushMethod</string>
+	<key>shouldTrainSpine</key>
+	<string>maxChecklist</string>
+</dict>
+</plist>

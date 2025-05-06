@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>injectionAppearance</key>
+	<string>scopeStyle</string>
+	<key>layoutResponse</key>
+	<string>concurrentSegue</string>
+	<key>seamlessBoxShadow</key>
+	<string>globalTransformer</string>
+	<key>shouldListenAnimation</key>
+	<string>canFinishBatch</string>
+	<key>shouldpainteffect</key>
+	<string>canFetchAnimation</string>
+	<key>uniqueMethod</key>
+	<string>handlerDuration</string>
+</dict>
+</plist>

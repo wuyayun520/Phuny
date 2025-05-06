@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interfaceSpeed</key>
+	<string>persistentscroll</string>
+	<key>shouldPersistLabel</key>
+	<string>metricsSkewX</string>
+	<key>shouldtransformgradient</key>
+	<string>adaptiveLinker</string>
+	<key>skirtState</key>
+	<string>canEncodeGesture</string>
+	<key>swifttheme</key>
+	<string>consumeResource</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarOrigin</key>
+	<string>consumerdetail</string>
+	<key>boxshadowexception</key>
+	<string>titleTheme</string>
+	<key>dataAlignment</key>
+	<string>convertbloc</string>
+	<key>movementMargin</key>
+	<string>reactiveSize</string>
+	<key>persistentscalespacing</key>
+	<string>timelineDelay</string>
+</dict>
+</plist>

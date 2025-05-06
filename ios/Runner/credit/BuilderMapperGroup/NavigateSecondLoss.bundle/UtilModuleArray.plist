@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorInterval</key>
+	<string>collectionDensity</string>
+	<key>concurrentDropdownButton</key>
+	<string>canMountNorm</string>
+	<key>euclideanConvolution</key>
+	<string>activeVector</string>
+	<key>imperativeTolerance</key>
+	<string>canCreateCanvas</string>
+	<key>shouldFormatAspectRatio</key>
+	<string>convolutionBorder</string>
+	<key>shouldStopProtocol</key>
+	<string>fusedprojectskewy</string>
+	<key>significantRange</key>
+	<string>stackAdapter</string>
+</dict>
+</plist>

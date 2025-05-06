@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionuntilstructure</key>
+	<string>shouldEndAppBar</string>
+	<key>decorationfeedback</key>
+	<string>utilBuffer</string>
+	<key>invisibleAperture</key>
+	<string>tappableTime</string>
+	<key>sensornumberpressure</key>
+	<string>activatedInterface</string>
+	<key>showrouter</key>
+	<string>canListenBitrate</string>
+</dict>
+</plist>

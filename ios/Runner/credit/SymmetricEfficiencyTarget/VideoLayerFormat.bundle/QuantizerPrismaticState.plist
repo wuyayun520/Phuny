@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>isolateitem</key>
+	<string>shouldNotifyEffect</string>
+	<key>loginterpreterindex</key>
+	<string>skipSlider</string>
+	<key>responderPressure</key>
+	<string>interactiveCanvas</string>
+	<key>shouldListenMedia</key>
+	<string>bindLayout</string>
+</dict>
+</plist>

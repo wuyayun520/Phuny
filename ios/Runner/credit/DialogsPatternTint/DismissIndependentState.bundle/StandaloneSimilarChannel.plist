@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>offsetVisible</key>
+	<string>transitionrepository</string>
+	<key>priorCycle</key>
+	<string>shouldFetchMaster</string>
+	<key>resizableRequest</key>
+	<string>mutableservicevelocity</string>
+	<key>screenScale</key>
+	<string>materialCapacities</string>
+	<key>segueSkewX</key>
+	<string>resilientLoader</string>
+	<key>smartPreview</key>
+	<string>trainCapacities</string>
+</dict>
+</plist>

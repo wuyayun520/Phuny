@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveprovider</key>
+	<string>replaceAnimation</string>
+	<key>elementMode</key>
+	<string>shouldLayoutSegue</string>
+	<key>loopactivitycontrast</key>
+	<string>concurrentBuilder</string>
+	<key>notationHue</key>
+	<string>opaqueResolver</string>
+	<key>radiusContrast</key>
+	<string>commonPolyfill</string>
+	<key>shouldRebuildCanvas</key>
+	<string>metadataCoord</string>
+	<key>statefulElasticity</key>
+	<string>cubitColor</string>
+	<key>webDelivery</key>
+	<string>intermediateTolerance</string>
+</dict>
+</plist>

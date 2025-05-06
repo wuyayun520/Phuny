@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectpadding</key>
+	<string>canTransitionCurve</string>
+	<key>chapterSize</key>
+	<string>resumeTable</string>
+	<key>immediateAllocator</key>
+	<string>shouldPopMember</string>
+	<key>inkwellstore</key>
+	<string>subtleAlignment</string>
+	<key>mediumStore</key>
+	<string>shouldTransformCache</string>
+	<key>mountnotification</key>
+	<string>fusedMapper</string>
+	<key>resizableEvent</key>
+	<string>inactiveNib</string>
+	<key>shouldpauseprotocol</key>
+	<string>futurescopeforce</string>
+	<key>stopreducer</key>
+	<string>canContinueFuture</string>
+</dict>
+</plist>

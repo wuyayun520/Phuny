@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxpager</key>
+	<string>controllerscroller</string>
+	<key>dependencyvalidation</key>
+	<string>seamlessEquivalent</string>
+	<key>dispatchbloc</key>
+	<string>canSerializeContraction</string>
+	<key>intermediateConstraint</key>
+	<string>requestFlyweight</string>
+	<key>mediachart</key>
+	<string>euclideanRectangle</string>
+	<key>parallelcapsule</key>
+	<string>subpixelCenter</string>
+	<key>requestBrightness</key>
+	<string>deprecateLabel</string>
+	<key>responsiveprofiletheme</key>
+	<string>disconnectTechnique</string>
+</dict>
+</plist>

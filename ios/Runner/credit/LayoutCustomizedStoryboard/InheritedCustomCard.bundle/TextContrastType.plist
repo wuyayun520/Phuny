@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryinteraction</key>
+	<string>instructionRate</string>
+	<key>certificateAppearance</key>
+	<string>oniconchanged</string>
+	<key>cursorofvalue</key>
+	<string>robustSound</string>
+	<key>firstCubit</key>
+	<string>permissiveCache</string>
+	<key>relationalpainter</key>
+	<string>visibleTopic</string>
+	<key>scrollerFormat</key>
+	<string>replicaVisibility</string>
+	<key>selectedTextField</key>
+	<string>constantFlags</string>
+	<key>shouldMountController</key>
+	<string>canStopRichText</string>
+</dict>
+</plist>

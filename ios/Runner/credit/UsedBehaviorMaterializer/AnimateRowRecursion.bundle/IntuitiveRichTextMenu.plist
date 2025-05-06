@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionthancycle</key>
+	<string>mapForm</string>
+	<key>transitionbeyondkind</key>
+	<string>onpointchanged</string>
+	<key>zonekind</key>
+	<string>sophisticatedRow</string>
+	<key>zoneloader</key>
+	<string>sorterRate</string>
+</dict>
+</plist>

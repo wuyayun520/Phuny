@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedFormat</key>
+	<string>validateAnchor</string>
+	<key>explicitTransformer</key>
+	<string>directAwait</string>
+	<key>nativeDescent</key>
+	<string>awaitStyle</string>
+	<key>nextEvent</key>
+	<string>positionedaboutfacade</string>
+	<key>shouldCacheEquipment</key>
+	<string>shouldNotifyDuration</string>
+	<key>ternaryMode</key>
+	<string>arithmeticTentative</string>
+	<key>unbindstamp</key>
+	<string>backwardSample</string>
+</dict>
+</plist>

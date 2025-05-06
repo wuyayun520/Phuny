@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileDependency</key>
+	<string>pushBorder</string>
+	<key>dependencyShade</key>
+	<string>statelessHash</string>
+	<key>liteLatency</key>
+	<string>publicResponder</string>
+	<key>protectedSprite</key>
+	<string>canDecodeText</string>
+	<key>respectiveListView</key>
+	<string>shouldUnbindCapacities</string>
+	<key>shouldFinishExponent</key>
+	<string>pushSemantics</string>
+	<key>sizeprocesscoord</key>
+	<string>overridePopup</string>
+	<key>synchronousRow</key>
+	<string>shouldResumeOperation</string>
+	<key>typicalProgressBar</key>
+	<string>shouldEncodeSensor</string>
+</dict>
+</plist>

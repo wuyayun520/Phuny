@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactiveResource</key>
+	<string>convertTicker</string>
+	<key>keyLog</key>
+	<string>aspectStatus</string>
+	<key>lostStack</key>
+	<string>constraintparameterstatus</string>
+	<key>tweenTag</key>
+	<string>maxDocument</string>
+</dict>
+</plist>

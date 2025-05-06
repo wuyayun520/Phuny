@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveRestriction</key>
+	<string>tangentDistance</string>
+	<key>missedTrigger</key>
+	<string>missedAlert</string>
+	<key>mobilebykind</key>
+	<string>tangentMethod</string>
+	<key>oldRect</key>
+	<string>builderborder</string>
+	<key>pivotalAspectRatio</key>
+	<string>canTransformCursor</string>
+	<key>quitgate</key>
+	<string>pivotalSpine</string>
+	<key>shouldDisposeCurve</key>
+	<string>metadataatmode</string>
+	<key>subtleSizedBox</key>
+	<string>canDeserializePlayback</string>
+	<key>tabviewHue</key>
+	<string>animatedcontainerDelay</string>
+	<key>volumeStatus</key>
+	<string>controlleralongprocess</string>
+</dict>
+</plist>

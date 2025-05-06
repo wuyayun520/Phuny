@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicNavigation</key>
+	<string>canRouteSlash</string>
+	<key>chartactionlocation</key>
+	<string>normalConsumption</string>
+	<key>connectorcontrast</key>
+	<string>emitError</string>
+	<key>currentdimension</key>
+	<string>synchronousslidertint</string>
+	<key>hyperbolicResponder</key>
+	<string>evaluateRadius</string>
+	<key>prismaticParticle</key>
+	<string>baseProcess</string>
+	<key>reactiveexception</key>
+	<string>measureAllocator</string>
+	<key>similarConstraint</key>
+	<string>responsiveSign</string>
+	<key>vectorbound</key>
+	<string>notifyAction</string>
+</dict>
+</plist>

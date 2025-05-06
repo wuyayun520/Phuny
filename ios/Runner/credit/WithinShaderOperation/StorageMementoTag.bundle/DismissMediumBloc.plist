@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitratedependency</key>
+	<string>canDispatchSizedBox</string>
+	<key>deployconfiguration</key>
+	<string>declarativeResolver</string>
+	<key>matrixparameterdirection</key>
+	<string>labelCycle</string>
+	<key>resizableSlash</key>
+	<string>crudeDescription</string>
+	<key>resultawaymode</key>
+	<string>canShowDimension</string>
+	<key>secondRole</key>
+	<string>shouldDecodeExtension</string>
+	<key>shouldCacheConstraint</key>
+	<string>permissiveCharacter</string>
+</dict>
+</plist>

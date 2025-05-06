@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxspacing</key>
+	<string>componentPadding</string>
+	<key>displayableDelegate</key>
+	<string>dispatchnib</string>
+	<key>granularUsage</key>
+	<string>materialGradient</string>
+	<key>lastInfrastructure</key>
+	<string>currentcosine</string>
+	<key>pivotalChallenge</key>
+	<string>granularInteraction</string>
+	<key>secondLifecycle</key>
+	<string>modulusalignment</string>
+	<key>shouldPopNorm</key>
+	<string>methodInteraction</string>
+	<key>shouldResumeTabView</key>
+	<string>popTask</string>
+	<key>toolcontainer</key>
+	<string>disparateSignature</string>
+</dict>
+</plist>

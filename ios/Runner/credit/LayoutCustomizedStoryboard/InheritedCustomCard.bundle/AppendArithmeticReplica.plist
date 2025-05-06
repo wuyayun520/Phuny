@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityDirection</key>
+	<string>permissivetimer</string>
+	<key>asynchronousScroller</key>
+	<string>declarativeCupertino</string>
+	<key>expandedInterval</key>
+	<string>sliderMomentum</string>
+	<key>fragmentsBrightness</key>
+	<string>repositoryinmediator</string>
+	<key>hyperbolicStorage</key>
+	<string>handleLocalization</string>
+	<key>imagesize</key>
+	<string>nextPolygon</string>
+	<key>mediumRemediation</key>
+	<string>navigationVisitor</string>
+	<key>opaqueoperation</key>
+	<string>effectFramework</string>
+	<key>shouldStartRoute</key>
+	<string>canValidateImage</string>
+	<key>synchronousConstant</key>
+	<string>layoutBridge</string>
+</dict>
+</plist>

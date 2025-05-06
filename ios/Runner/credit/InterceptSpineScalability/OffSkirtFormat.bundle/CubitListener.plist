@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalBoxShadow</key>
+	<string>managerSingleton</string>
+	<key>delicateBrush</key>
+	<string>annotateBloc</string>
+	<key>diffableDialogs</key>
+	<string>responderCenter</string>
+	<key>exceptionloader</key>
+	<string>shouldFinishAnimatedContainer</string>
+	<key>localAppBar</key>
+	<string>playbackCycle</string>
+	<key>newestfactory</key>
+	<string>animationbrightness</string>
+	<key>radioSkewY</key>
+	<string>canShowStream</string>
+	<key>shouldConnectActivity</key>
+	<string>tappableScenario</string>
+	<key>subscriptionBorder</key>
+	<string>shouldSaveCollection</string>
+</dict>
+</plist>

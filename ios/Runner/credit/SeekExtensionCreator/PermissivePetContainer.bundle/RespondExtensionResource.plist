@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectorlocation</key>
+	<string>liteMetrics</string>
+	<key>firstRole</key>
+	<string>thresholdTransparency</string>
+	<key>lossdistance</key>
+	<string>entropyDuration</string>
+	<key>parallelMomentum</key>
+	<string>rendererSkewX</string>
+	<key>prismaticLoss</key>
+	<string>releaseScene</string>
+</dict>
+</plist>

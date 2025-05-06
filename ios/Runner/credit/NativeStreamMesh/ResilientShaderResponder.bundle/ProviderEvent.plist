@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredMedia</key>
+	<string>sampleTransparency</string>
+	<key>enabledAspect</key>
+	<string>shouldFormatExtension</string>
+	<key>evaluationbound</key>
+	<string>fetchEntropy</string>
+	<key>nextTangent</key>
+	<string>occasionorientation</string>
+	<key>oldMaterializer</key>
+	<string>publicAnalogy</string>
+	<key>parallelTraversal</key>
+	<string>geometricMaterial</string>
+	<key>prismaticBox</key>
+	<string>paintersincejob</string>
+	<key>toolName</key>
+	<string>cancelButton</string>
+</dict>
+</plist>

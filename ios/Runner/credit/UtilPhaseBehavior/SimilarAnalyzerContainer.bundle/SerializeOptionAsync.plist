@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianLifecycle</key>
+	<string>detachSemantics</string>
+	<key>compositionalPriority</key>
+	<string>compositionOffset</string>
+	<key>materialDuration</key>
+	<string>appbarSpacing</string>
+	<key>positionedState</key>
+	<string>cartesiantabbar</string>
+	<key>semanticMember</key>
+	<string>canParseMap</string>
+	<key>shouldUnmountedController</key>
+	<string>statefulAlignment</string>
+	<key>sinkspacing</key>
+	<string>parseModal</string>
+	<key>unsortedCosine</key>
+	<string>persistentSign</string>
+</dict>
+</plist>

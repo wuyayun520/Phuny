@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hasscreen</key>
+	<string>canRebuildOptimizer</string>
+	<key>hasscroll</key>
+	<string>currentAnimation</string>
+	<key>isrow</key>
+	<string>functionalState</string>
+	<key>popupStyle</key>
+	<string>shouldFormatSpecifier</string>
+	<key>prismaticInstruction</key>
+	<string>retainedRouter</string>
+	<key>projectionDepth</key>
+	<string>lastemitter</string>
+	<key>retainedrect</key>
+	<string>retainedFactory</string>
+	<key>scrollableProfile</key>
+	<string>updateNotification</string>
+	<key>shouldNavigateProtocol</key>
+	<string>subtleCanvas</string>
+	<key>shouldObserveMember</key>
+	<string>resultContext</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>benchmarkshader</key>
+	<string>catalystPadding</string>
+	<key>chooserPosition</key>
+	<string>loglinker</string>
+	<key>nativeModel</key>
+	<string>asyncMethod</string>
+	<key>shouldCancelTheme</key>
+	<string>cancelStateless</string>
+	<key>significantreceiver</key>
+	<string>reducerCenter</string>
+	<key>standalonesineorientation</key>
+	<string>shouldDispatchHero</string>
+	<key>viewoutsidework</key>
+	<string>equalizationStrategy</string>
+	<key>webRemainder</key>
+	<string>convolutionIndex</string>
+</dict>
+</plist>

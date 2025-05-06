@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultSkirt</key>
+	<string>canAnimateMargin</string>
+	<key>ignoredData</key>
+	<string>columnLeft</string>
+	<key>kernelsprite</key>
+	<string>trianglesSpeed</string>
+	<key>onextensiontap</key>
+	<string>adjustResponse</string>
+	<key>shouldBindNavigation</key>
+	<string>sizeconsumer</string>
+	<key>shouldTransitionConstraint</key>
+	<string>uniqueAwait</string>
+	<key>significantBullet</key>
+	<string>shouldObserveTouch</string>
+</dict>
+</plist>

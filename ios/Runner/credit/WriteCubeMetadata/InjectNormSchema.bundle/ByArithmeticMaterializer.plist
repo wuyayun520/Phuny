@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardforce</key>
+	<string>integerAction</string>
+	<key>eagerFilter</key>
+	<string>explicitProvision</string>
+	<key>imperativeappbar</key>
+	<string>materializerOrientation</string>
+	<key>lazystreamrate</key>
+	<string>shouldCancelColumn</string>
+	<key>pushparticle</key>
+	<string>concatenateGraph</string>
+	<key>secondView</key>
+	<string>cubitAcceleration</string>
+	<key>shouldUnmountCosine</key>
+	<string>overlayContrast</string>
+	<key>shoulddetachtheme</key>
+	<string>decodeBullet</string>
+</dict>
+</plist>

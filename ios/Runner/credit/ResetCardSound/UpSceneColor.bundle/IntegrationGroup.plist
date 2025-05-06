@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredTernary</key>
+	<string>resilientLogarithm</string>
+	<key>distinctionDuration</key>
+	<string>bindtransformer</string>
+	<key>interactiveSlash</key>
+	<string>lockUseCase</string>
+	<key>permissiveSwitch</key>
+	<string>uniqueMetadata</string>
+	<key>prevSegue</key>
+	<string>replaceAlignment</string>
+	<key>reactiveGestureDetector</key>
+	<string>accessorylifecycle</string>
+	<key>requiredAxis</key>
+	<string>similarpager</string>
+	<key>shouldSubscribeHero</key>
+	<string>shouldUnmountedMaterial</string>
+	<key>smartquaternion</key>
+	<string>primaryservice</string>
+</dict>
+</plist>

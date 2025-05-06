@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalListener</key>
+	<string>canUnmountCache</string>
+	<key>easyQueue</key>
+	<string>canConnectScaffold</string>
+	<key>grouptransparency</key>
+	<string>spotScale</string>
+	<key>searcherCount</key>
+	<string>triggerTransparency</string>
+	<key>sharedTimer</key>
+	<string>scrollableIcon</string>
+	<key>shouldPopFuture</key>
+	<string>adaptivelocalizationtype</string>
+	<key>symbolDirection</key>
+	<string>currenttransitionorigin</string>
+	<key>tappablePermutation</key>
+	<string>canPushIndicator</string>
+	<key>uniformequipmentdistance</key>
+	<string>synchronousSegue</string>
+</dict>
+</plist>

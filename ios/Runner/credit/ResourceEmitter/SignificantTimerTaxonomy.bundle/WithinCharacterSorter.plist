@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyPageView</key>
+	<string>shouldValidateHero</string>
+	<key>enabledBox</key>
+	<string>selectedanchor</string>
+	<key>largeAmortization</key>
+	<string>reusableAsset</string>
+	<key>notificationMode</key>
+	<string>heapMode</string>
+	<key>pinchablelistenerstyle</key>
+	<string>canShowConvolution</string>
+	<key>shouldTransitionSkin</key>
+	<string>segueactivityskewy</string>
+	<key>shouldUnmountEqualization</key>
+	<string>resilientScroller</string>
+	<key>shouldbuildinteger</key>
+	<string>normalVariant</string>
+	<key>startinstruction</key>
+	<string>intermediateThroughput</string>
+</dict>
+</plist>

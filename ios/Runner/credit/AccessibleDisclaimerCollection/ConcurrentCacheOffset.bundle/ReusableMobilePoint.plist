@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileExpanded</key>
+	<string>protectedStorage</string>
+	<key>histogrambehavior</key>
+	<string>channelforminterval</string>
+	<key>ignoredGem</key>
+	<string>pendingTabView</string>
+	<key>ignoredSizedBox</key>
+	<string>buildSlider</string>
+	<key>iterativeService</key>
+	<string>routeSegment</string>
+	<key>mobilePriority</key>
+	<string>expandedState</string>
+	<key>numericalAperture</key>
+	<string>deactivateInjection</string>
+	<key>reactiverecursion</key>
+	<string>captureLabel</string>
+	<key>usedalignmentvelocity</key>
+	<string>containerVariable</string>
+</dict>
+</plist>

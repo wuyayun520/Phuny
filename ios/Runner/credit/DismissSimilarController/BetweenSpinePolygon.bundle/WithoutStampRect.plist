@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletrotation</key>
+	<string>rendergrayscale</string>
+	<key>customSink</key>
+	<string>canDetachProvider</string>
+	<key>discardedBitrate</key>
+	<string>callbackAction</string>
+	<key>intermediateResolver</key>
+	<string>consultativeDescription</string>
+	<key>projectionrange</key>
+	<string>enumerateView</string>
+	<key>semanticprojection</key>
+	<string>liteLoss</string>
+</dict>
+</plist>

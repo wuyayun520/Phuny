@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioAlignment</key>
+	<string>concreteReduction</string>
+	<key>columnshaperesponse</key>
+	<string>evaluationColor</string>
+	<key>crucialGrain</key>
+	<string>primaryBatch</string>
+	<key>directlyDispatcher</key>
+	<string>checkboxPattern</string>
+	<key>multiplicationStatus</key>
+	<string>publicDetector</string>
+	<key>prioritysingletondirection</key>
+	<string>shouldPublishReference</string>
+	<key>tensorEfficiency</key>
+	<string>concreteReducer</string>
+</dict>
+</plist>

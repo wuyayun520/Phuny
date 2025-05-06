@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticchannelsstyle</key>
+	<string>webFragment</string>
+	<key>containerMode</key>
+	<string>hardAnimation</string>
+	<key>declarativeComposition</key>
+	<string>setstateImage</string>
+	<key>futurerange</key>
+	<string>otherReliability</string>
+	<key>missedPageView</key>
+	<string>generateNode</string>
+	<key>partitioncontroller</key>
+	<string>multiplyPopup</string>
+	<key>prismaticConfidentiality</key>
+	<string>optimizerFeedback</string>
+</dict>
+</plist>

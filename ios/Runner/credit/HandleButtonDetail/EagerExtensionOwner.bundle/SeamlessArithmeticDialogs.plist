@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitspeed</key>
+	<string>shearRect</string>
+	<key>immutableEvolution</key>
+	<string>viewthreshold</string>
+	<key>independentVector</key>
+	<string>ternaryTheme</string>
+	<key>integrityShape</key>
+	<string>consumptionSkewY</string>
+	<key>interactiveConsumer</key>
+	<string>canSubscribeAccessory</string>
+	<key>layernearsingleton</key>
+	<string>keyRectangle</string>
+	<key>resourcehue</key>
+	<string>mountChannels</string>
+	<key>sessionbehavior</key>
+	<string>elasticDuration</string>
+	<key>shouldUpdatePlayback</key>
+	<string>canEncodeShader</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorlistener</key>
+	<string>decodeTask</string>
+	<key>beginnernavigator</key>
+	<string>defaultequalization</string>
+	<key>diffableRouter</key>
+	<string>lastMetrics</string>
+	<key>iconTransparency</key>
+	<string>spriteFlags</string>
+	<key>masterloop</key>
+	<string>invisibleCompletion</string>
+	<key>priorPager</key>
+	<string>shouldYieldPlate</string>
+	<key>shouldBindInstruction</key>
+	<string>touchmodebound</string>
+	<key>timeDepth</key>
+	<string>canEndInterpolation</string>
+	<key>usageTail</key>
+	<string>regulateRouter</string>
+</dict>
+</plist>

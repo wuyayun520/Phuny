@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveMethod</key>
+	<string>notifyGridView</string>
+	<key>assetBound</key>
+	<string>rowpermode</string>
+	<key>mediaqueryOffset</key>
+	<string>deserializeGesture</string>
+	<key>resilientasset</key>
+	<string>shaderStatus</string>
+	<key>responsiveMend</key>
+	<string>petCount</string>
+	<key>rotatenode</key>
+	<string>hasanimatedcontainer</string>
+	<key>shouldtrainaspectratio</key>
+	<string>routerAction</string>
+	<key>transitionthroughput</key>
+	<string>resilientBatch</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentInteractor</key>
+	<string>capsuledirection</string>
+	<key>cupertinoRichText</key>
+	<string>shouldyieldpriority</string>
+	<key>explicitDuration</key>
+	<string>permissiveProcessor</string>
+	<key>geometricCupertino</key>
+	<string>labelprototypeacceleration</string>
+	<key>nibaroundscope</key>
+	<string>shouldSaveLoss</string>
+	<key>typicalEqualization</key>
+	<string>sceneframeworkorientation</string>
+	<key>vectoropacity</key>
+	<string>encodeRadio</string>
+</dict>
+</plist>

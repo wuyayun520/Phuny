@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralSorter</key>
+	<string>descentResponse</string>
+	<key>hierarchicalNode</key>
+	<string>canRenderExpanded</string>
+	<key>ignoredSensor</key>
+	<string>unbindGift</string>
+	<key>permanentSink</key>
+	<string>activatedTicker</string>
+	<key>retainedinterfacecoord</key>
+	<string>selectedCustomPaint</string>
+	<key>semanticoffsetinteraction</key>
+	<string>embraceSingleton</string>
+	<key>vertexStatus</key>
+	<string>statelessLifecycle</string>
+</dict>
+</plist>

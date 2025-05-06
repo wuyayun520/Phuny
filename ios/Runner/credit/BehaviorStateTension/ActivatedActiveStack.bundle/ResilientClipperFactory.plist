@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedSpine</key>
+	<string>publishOption</string>
+	<key>granularInteraction</key>
+	<string>selectedBatch</string>
+	<key>lazyPicker</key>
+	<string>retrieveEntity</string>
+	<key>momentumOrientation</key>
+	<string>isicon</string>
+	<key>shouldPersistScreen</key>
+	<string>visualizeButton</string>
+</dict>
+</plist>

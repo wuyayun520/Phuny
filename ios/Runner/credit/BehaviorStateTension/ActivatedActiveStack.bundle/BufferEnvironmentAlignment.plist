@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorDelay</key>
+	<string>quantizerbuilder</string>
+	<key>curveincludecontext</key>
+	<string>shouldshowborder</string>
+	<key>hardTernary</key>
+	<string>agilemethodcount</string>
+	<key>navigatortype</key>
+	<string>statetriangles</string>
+	<key>processsingleton</key>
+	<string>shouldKeepBullet</string>
+	<key>shouldAttachBloc</key>
+	<string>characterMode</string>
+	<key>shouldPersistStamp</key>
+	<string>serviceHue</string>
+	<key>statefulMember</key>
+	<string>tweenfilter</string>
+</dict>
+</plist>

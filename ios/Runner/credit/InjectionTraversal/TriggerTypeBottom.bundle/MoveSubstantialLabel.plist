@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveReplica</key>
+	<string>firstCube</string>
+	<key>formatHue</key>
+	<string>detachTabBar</string>
+	<key>nextListView</key>
+	<string>resilienceTail</string>
+	<key>persistsegue</key>
+	<string>shouldEmitChecklist</string>
+	<key>queueInterval</key>
+	<string>observerCycle</string>
+	<key>subsequentBitrate</key>
+	<string>specifyFinder</string>
+	<key>taskanalyzer</key>
+	<string>canStopShader</string>
+</dict>
+</plist>

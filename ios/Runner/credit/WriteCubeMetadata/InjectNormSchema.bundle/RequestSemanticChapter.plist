@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicInterpolation</key>
+	<string>hierarchicalOffset</string>
+	<key>flexcount</key>
+	<string>shouldPersistLayout</string>
+	<key>hierarchicalRequest</key>
+	<string>sequentialException</string>
+	<key>intuitiveheapstatus</key>
+	<string>seekFuture</string>
+	<key>mediocreChooser</key>
+	<string>shouldEmitCell</string>
+	<key>notifierCenter</key>
+	<string>accessibleColumn</string>
+	<key>protectedrect</key>
+	<string>mediocreAnalyzer</string>
+	<key>shouldUnbindDecoration</key>
+	<string>smallStep</string>
+	<key>usageleft</key>
+	<string>tensorstreamcontrast</string>
+</dict>
+</plist>

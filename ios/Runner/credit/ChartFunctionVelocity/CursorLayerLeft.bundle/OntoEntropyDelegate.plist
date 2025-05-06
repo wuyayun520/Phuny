@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activestore</key>
+	<string>nextTaxonomy</string>
+	<key>graphexceptstructure</key>
+	<string>endCurve</string>
+	<key>lazyroute</key>
+	<string>canYieldStateful</string>
+	<key>primaryAlert</key>
+	<string>textOperation</string>
+	<key>prismaticConstant</key>
+	<string>unmountSwift</string>
+	<key>publicKernel</key>
+	<string>litecontroller</string>
+	<key>routerproxyhue</key>
+	<string>subscribeTernary</string>
+	<key>shouldFormatRemainder</key>
+	<string>canUnmountedThread</string>
+	<key>statefulConsumer</key>
+	<string>animationconsumer</string>
+</dict>
+</plist>

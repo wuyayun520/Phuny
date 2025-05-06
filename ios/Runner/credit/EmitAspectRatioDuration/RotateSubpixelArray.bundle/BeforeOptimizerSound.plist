@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorrenderer</key>
+	<string>globalGraph</string>
+	<key>cartesianMethod</key>
+	<string>semanticInjection</string>
+	<key>denseThreshold</key>
+	<string>receivertheme</string>
+	<key>shouldParseThread</key>
+	<string>permissiveTime</string>
+	<key>shouldStopGem</key>
+	<string>shouldObserveEqualization</string>
+	<key>tensoraspectvelocity</key>
+	<string>onchallengechanged</string>
+</dict>
+</plist>

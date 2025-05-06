@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colortop</key>
+	<string>serviceBridge</string>
+	<key>convolutionstatestyle</key>
+	<string>unaryCenter</string>
+	<key>discardedProvision</key>
+	<string>mediaqueryLevel</string>
+	<key>filterVisible</key>
+	<string>mobileScene</string>
+	<key>resizableSubscriber</key>
+	<string>webHero</string>
+	<key>shouldBuildModulus</key>
+	<string>shouldFetchPriority</string>
+	<key>shouldRestartMargin</key>
+	<string>shouldCancelCursor</string>
+</dict>
+</plist>

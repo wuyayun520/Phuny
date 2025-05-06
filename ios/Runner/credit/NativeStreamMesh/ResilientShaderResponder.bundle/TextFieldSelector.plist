@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseAlert</key>
+	<string>endScreen</string>
+	<key>multiElasticity</key>
+	<string>mobileClipper</string>
+	<key>selectedCharacter</key>
+	<string>collectiontolerance</string>
+	<key>timeHue</key>
+	<string>animatedScreen</string>
+</dict>
+</plist>

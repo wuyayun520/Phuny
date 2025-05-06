@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerAsync</key>
+	<string>shouldShowInkWell</string>
+	<key>cartesianCatalyst</key>
+	<string>objectSkewX</string>
+	<key>equalizationsprite</key>
+	<string>specifyChannels</string>
+	<key>intuitiveRole</key>
+	<string>disabledIntegration</string>
+	<key>listviewphaseoffset</key>
+	<string>nativeClipper</string>
+	<key>usecasenumberscale</key>
+	<string>eventVar</string>
+</dict>
+</plist>

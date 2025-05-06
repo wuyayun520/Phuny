@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseoperationtype</key>
+	<string>baselineCount</string>
+	<key>intermediateSink</key>
+	<string>normalDependency</string>
+	<key>invisibleAperture</key>
+	<string>exponenttweak</string>
+	<key>invisibleHistogram</key>
+	<string>containerHead</string>
+	<key>radioBorder</key>
+	<string>customBloc</string>
+	<key>radioDistance</key>
+	<string>criticalInteraction</string>
+	<key>reducercenter</key>
+	<string>shouldKeepCurve</string>
+	<key>sequentialCapacities</key>
+	<string>shouldEmitCosine</string>
+	<key>shouldBuildNotification</key>
+	<string>checkboxOrigin</string>
+	<key>spritepressure</key>
+	<string>exceptionloader</string>
+</dict>
+</plist>

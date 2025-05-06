@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedIsolate</key>
+	<string>playstorage</string>
+	<key>ephemeralComposition</key>
+	<string>allocatorStyle</string>
+	<key>immediateProvision</key>
+	<string>histogramuntilpattern</string>
+	<key>intuitiveLatency</key>
+	<string>canDetachInstruction</string>
+	<key>pagervalidation</key>
+	<string>shouldDeserializeLoss</string>
+	<key>shouldConnectSine</key>
+	<string>challengeMediator</string>
+	<key>shouldNavigateAccessory</key>
+	<string>yieldHistogram</string>
+</dict>
+</plist>

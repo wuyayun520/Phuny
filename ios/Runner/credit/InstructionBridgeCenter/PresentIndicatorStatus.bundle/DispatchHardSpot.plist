@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorShape</key>
+	<string>notifyusecase</string>
+	<key>enumeratefactory</key>
+	<string>benchmarkcache</string>
+	<key>exceptiontag</key>
+	<string>precisionCommand</string>
+	<key>frameedge</key>
+	<string>shouldMountedCurve</string>
+	<key>gramappearance</key>
+	<string>serviceJob</string>
+	<key>pivotalResource</key>
+	<string>dynamicElement</string>
+	<key>protectedShader</key>
+	<string>durationBrightness</string>
+	<key>reusableInfrastructure</key>
+	<string>zoneLevel</string>
+	<key>shouldPopObserver</key>
+	<string>minGem</string>
+</dict>
+</plist>

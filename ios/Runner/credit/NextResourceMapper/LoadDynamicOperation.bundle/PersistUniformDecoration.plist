@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>greatDescriptor</key>
+	<string>zoneSkewX</string>
+	<key>mainMapper</key>
+	<string>reductionTier</string>
+	<key>ondimensiontap</key>
+	<string>tensorcache</string>
+	<key>richtextcount</key>
+	<string>timerskewx</string>
+	<key>statefulconstant</key>
+	<string>prepareButton</string>
+	<key>tweentexture</key>
+	<string>retainappbar</string>
+</dict>
+</plist>

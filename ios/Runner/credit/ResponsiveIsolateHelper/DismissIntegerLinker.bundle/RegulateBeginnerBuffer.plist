@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionselector</key>
+	<string>sampleHead</string>
+	<key>converterfeedback</key>
+	<string>keyNavigator</string>
+	<key>hardGrid</key>
+	<string>canCreateDialogs</string>
+	<key>localStroke</key>
+	<string>consumerIndex</string>
+	<key>scrollableMomentum</key>
+	<string>destroyService</string>
+	<key>spritedepth</key>
+	<string>canReplaceArithmetic</string>
+</dict>
+</plist>

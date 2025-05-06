@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedObserver</key>
+	<string>shouldstopnavigator</string>
+	<key>independentFactory</key>
+	<string>quantizerParticle</string>
+	<key>shouldAttachStep</key>
+	<string>diffablemethodstyle</string>
+	<key>shouldMountedModal</key>
+	<string>directNotation</string>
+	<key>shouldRebuildBitrate</key>
+	<string>threadSpacing</string>
+	<key>smallHero</key>
+	<string>activeGesture</string>
+</dict>
+</plist>

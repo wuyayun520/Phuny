@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineduringtier</key>
+	<string>canBindCertificate</string>
+	<key>buildercommandinterval</key>
+	<string>associatedBuilder</string>
+	<key>diffableSample</key>
+	<string>specifierofframework</string>
+	<key>replicatepageview</key>
+	<string>quantizationDescription</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedDelegate</key>
+	<string>prevObserver</string>
+	<key>capsuleTheme</key>
+	<string>compositionalSplitter</string>
+	<key>deferredElement</key>
+	<string>imageForce</string>
+	<key>grainOffset</key>
+	<string>crucialBinary</string>
+	<key>sequentialbuttonmargin</key>
+	<string>kernelStatus</string>
+</dict>
+</plist>

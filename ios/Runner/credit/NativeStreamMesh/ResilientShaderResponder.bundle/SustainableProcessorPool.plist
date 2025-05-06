@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedContrast</key>
+	<string>lazyMomentum</string>
+	<key>cursororsingleton</key>
+	<string>unscheduleGrid</string>
+	<key>defaultNorm</key>
+	<string>checklistFrequency</string>
+	<key>fixedloopskewy</key>
+	<string>explicitConfiguration</string>
+	<key>gridSkewX</key>
+	<string>aspectInterval</string>
+	<key>protocolsaturation</key>
+	<string>canDecodeSubpixel</string>
+	<key>shouldAttachNib</key>
+	<string>comprehensiveHash</string>
+	<key>shouldFormatBox</key>
+	<string>asynchronousPreview</string>
+	<key>uniformKernel</key>
+	<string>signatureDirection</string>
+	<key>vectororbuffer</key>
+	<string>paintaction</string>
+</dict>
+</plist>

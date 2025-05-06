@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableEquivalent</key>
+	<string>parsegrain</string>
+	<key>integrityRight</key>
+	<string>normmediatororientation</string>
+	<key>interfaceName</key>
+	<string>resizeCallback</string>
+	<key>intuitiveDetector</key>
+	<string>originaldata</string>
+	<key>invisiblePlayback</key>
+	<string>shouldkeepactivity</string>
+	<key>iterativecomposition</key>
+	<string>rowTheme</string>
+	<key>overlaystyleforce</key>
+	<string>gatecapacity</string>
+	<key>quaternionmode</key>
+	<string>effectdistance</string>
+	<key>shouldFormatSkirt</key>
+	<string>cupertinoTransformer</string>
+	<key>shouldLoadOptimizer</key>
+	<string>priorityStrategy</string>
+</dict>
+</plist>

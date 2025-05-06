@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleService</key>
+	<string>consumerInset</string>
+	<key>alphastrategyrotation</key>
+	<string>listviewSkewX</string>
+	<key>capturemusic</key>
+	<string>protocolBrightness</string>
+	<key>lastPoint</key>
+	<string>documentBehavior</string>
+	<key>mutablechart</key>
+	<string>deferredelasticity</string>
+	<key>shouldRestartTabBar</key>
+	<string>boxtheme</string>
+	<key>smartTextField</key>
+	<string>cardDelay</string>
+	<key>synchronousTolerance</key>
+	<string>shouldUnmountGestureDetector</string>
+</dict>
+</plist>

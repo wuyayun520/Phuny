@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedrequestacceleration</key>
+	<string>interpolationBorder</string>
+	<key>responseoraction</key>
+	<string>decoupleGrain</string>
+	<key>shouldPrepareStream</key>
+	<string>clipperdelay</string>
+	<key>shouldTrainBrush</key>
+	<string>cacheBatch</string>
+	<key>significantTopic</key>
+	<string>difficultSound</string>
+	<key>sizecolor</key>
+	<string>touchDistance</string>
+</dict>
+</plist>

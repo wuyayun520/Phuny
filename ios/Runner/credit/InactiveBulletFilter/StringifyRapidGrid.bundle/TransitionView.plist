@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexbuilder</key>
+	<string>commongrainopacity</string>
+	<key>intuitiveLayer</key>
+	<string>transformAllocator</string>
+	<key>monsterstructureshade</key>
+	<string>eagerMesh</string>
+	<key>playbackawaycomposite</key>
+	<string>statelessTopic</string>
+	<key>statefulCursor</key>
+	<string>brushName</string>
+</dict>
+</plist>

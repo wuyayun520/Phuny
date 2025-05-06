@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>keybuttoninteraction</key>
+	<string>materializeState</string>
+	<key>schemaCount</key>
+	<string>beginnerAxis</string>
+	<key>shouldNotifySpine</key>
+	<string>shouldBuildTextField</string>
+</dict>
+</plist>

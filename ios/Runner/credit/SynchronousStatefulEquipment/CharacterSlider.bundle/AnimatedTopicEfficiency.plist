@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperDensity</key>
+	<string>canNavigateSkin</string>
+	<key>filterVelocity</key>
+	<string>canInflateMobile</string>
+	<key>globalConnector</key>
+	<string>bufferborder</string>
+	<key>globalPet</key>
+	<string>reusableChooser</string>
+	<key>mediaqueryCenter</key>
+	<string>retainRow</string>
+	<key>mergerskewx</key>
+	<string>cacheGridView</string>
+	<key>skirtColor</key>
+	<string>canPersistSlash</string>
+	<key>sortedChallenge</key>
+	<string>inheritedOverlay</string>
+</dict>
+</plist>

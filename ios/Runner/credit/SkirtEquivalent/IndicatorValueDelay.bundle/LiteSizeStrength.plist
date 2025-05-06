@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivehandlertint</key>
+	<string>scaffoldContrast</string>
+	<key>comprehensiveLayout</key>
+	<string>tangentstate</string>
+	<key>deferredzone</key>
+	<string>canRouteConsumer</string>
+	<key>elementFeedback</key>
+	<string>ternaryOrientation</string>
+	<key>gaterepository</key>
+	<string>listenerTail</string>
+	<key>marginappearance</key>
+	<string>diffableResponder</string>
+	<key>permanentMapper</key>
+	<string>consultativePopup</string>
+	<key>sequentialSegue</key>
+	<string>canShowTransition</string>
+	<key>shouldEndSample</key>
+	<string>permanentmatrixmode</string>
+</dict>
+</plist>

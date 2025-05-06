@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletexceptsingleton</key>
+	<string>usedmethod</string>
+	<key>cycletierstate</key>
+	<string>exceptionversusactivity</string>
+	<key>ephemeralAnimator</key>
+	<string>basicSkin</string>
+	<key>fragmentprogressbar</key>
+	<string>animatedState</string>
+	<key>hasExpanded</key>
+	<string>timeOffset</string>
+	<key>inactiveRichText</key>
+	<string>mapParam</string>
+	<key>semanticswiftname</key>
+	<string>canDeserializeCertificate</string>
+	<key>shouldMountStream</key>
+	<string>shouldCacheBase</string>
+	<key>strokeinterval</key>
+	<string>concreteExponent</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveOperation</key>
+	<string>greatGroup</string>
+	<key>bindrichtext</key>
+	<string>tickermediatorname</string>
+	<key>coordinatoramongvalue</key>
+	<string>symbolCommand</string>
+	<key>interactiveMesh</key>
+	<string>transformmaterial</string>
+	<key>shouldResumeEqualization</key>
+	<string>visualizetextfield</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedGestureDetector</key>
+	<string>persistentCustomPaint</string>
+	<key>loaderalignment</key>
+	<string>symmetricCapsule</string>
+	<key>methodactionorientation</key>
+	<string>globalUsage</string>
+	<key>restorebase</key>
+	<string>modelScale</string>
+	<key>textstorage</key>
+	<string>discardedLoss</string>
+</dict>
+</plist>

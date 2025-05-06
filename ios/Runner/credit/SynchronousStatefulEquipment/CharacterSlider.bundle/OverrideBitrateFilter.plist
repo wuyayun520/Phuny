@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveError</key>
+	<string>colorContrast</string>
+	<key>decorationMargin</key>
+	<string>deferredCell</string>
+	<key>oldScalability</key>
+	<string>pinchableservice</string>
+	<key>resourcecompositecolor</key>
+	<string>shouldCancelSegue</string>
+	<key>shouldAnimateTechnique</key>
+	<string>marshalBuilder</string>
+	<key>shouldAttachMovement</key>
+	<string>dismissservice</string>
+	<key>singleData</key>
+	<string>touchinjection</string>
+</dict>
+</plist>

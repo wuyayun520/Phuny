@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionDispatcher</key>
+	<string>cyclevolume</string>
+	<key>disparateScenario</key>
+	<string>pinchableslashposition</string>
+	<key>efficiencyResponse</key>
+	<string>denseCombiner</string>
+	<key>reactiveTool</key>
+	<string>shouldprocessradio</string>
+	<key>servicephaseindex</key>
+	<string>diversifiedSegue</string>
+	<key>shouldRebuildCanvas</key>
+	<string>protocolPhase</string>
+</dict>
+</plist>

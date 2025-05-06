@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>heroscale</key>
+	<string>shouldBindBatch</string>
+	<key>keyloopspeed</key>
+	<string>canContinueSensor</string>
+	<key>missedDropdownButton</key>
+	<string>gridviewAdapter</string>
+	<key>plateincycle</key>
+	<string>validateMonster</string>
+	<key>reactiveContainer</key>
+	<string>decorationState</string>
+	<key>selectedmultiplication</key>
+	<string>synchronizeChart</string>
+	<key>shouldAnimateSession</key>
+	<string>sensorDepth</string>
+	<key>standalonebaseline</key>
+	<string>sophisticatedCertificate</string>
+	<key>temporaryFilter</key>
+	<string>musicMethod</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousProcessor</key>
+	<string>canResumeSemantics</string>
+	<key>backwardSign</key>
+	<string>priorityuntiljob</string>
+	<key>contrastflags</key>
+	<string>resizableVector</string>
+	<key>diffableprecision</key>
+	<string>combineDescription</string>
+	<key>shouldDeserializeInkWell</key>
+	<string>maxIndicator</string>
+	<key>shoulddetachchannels</key>
+	<string>initializeResponse</string>
+	<key>tappableCanvas</key>
+	<string>reusableBrush</string>
+	<key>visiblePicker</key>
+	<string>dissociateState</string>
+</dict>
+</plist>

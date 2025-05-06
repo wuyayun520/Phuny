@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorscenario</key>
+	<string>canRestartWidget</string>
+	<key>asynchronousThread</key>
+	<string>sineTop</string>
+	<key>oncardchanged</key>
+	<string>schedulersize</string>
+	<key>reductionbrightness</key>
+	<string>navigateinkwell</string>
+	<key>sorterInteraction</key>
+	<string>routeDuration</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createprogressbar</key>
+	<string>stopStateful</string>
+	<key>euclideanIntensity</key>
+	<string>shouldEmitDescriptor</string>
+	<key>eventnearcycle</key>
+	<string>canDisposeEquipment</string>
+	<key>imperativeinteractor</key>
+	<string>respectiveResult</string>
+	<key>joinerAlignment</key>
+	<string>operationkind</string>
+	<key>layoutshapedelay</key>
+	<string>screenMediator</string>
+	<key>notifytimer</key>
+	<string>ignoredReceiver</string>
+	<key>shouldEmitMap</key>
+	<string>paintCosine</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mobileComponent</key>
+	<string>customizedLocalization</string>
+	<key>newestChooser</key>
+	<string>iterativenavigator</string>
+	<key>nibtag</key>
+	<string>embracePosition</string>
+	<key>profilepressure</key>
+	<string>inflateGem</string>
+	<key>scalemesh</key>
+	<string>isAppBar</string>
+	<key>similarCertificate</key>
+	<string>stampNumber</string>
+	<key>stepresource</key>
+	<string>greatPicker</string>
+</dict>
+</plist>

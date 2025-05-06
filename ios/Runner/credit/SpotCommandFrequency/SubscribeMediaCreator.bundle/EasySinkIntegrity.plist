@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorflyweightfrequency</key>
+	<string>easySymbol</string>
+	<key>greatevolution</key>
+	<string>chartdelay</string>
+	<key>inkwellhue</key>
+	<string>colorCenter</string>
+	<key>seeksubscription</key>
+	<string>prismaticError</string>
+	<key>shouldDetachAlert</key>
+	<string>agileCursor</string>
+	<key>shouldResumeCollection</key>
+	<string>nextProfile</string>
+	<key>standaloneResult</key>
+	<string>tabviewmode</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveChart</key>
+	<string>parallelMetrics</string>
+	<key>hierarchicalscroll</key>
+	<string>draggableScroller</string>
+	<key>mobileAperture</key>
+	<string>cosineState</string>
+	<key>movementright</key>
+	<string>aggregateConfiguration</string>
+	<key>resizablestateful</key>
+	<string>iterativeMovement</string>
+	<key>specifyCoordinator</key>
+	<string>conformZone</string>
+</dict>
+</plist>

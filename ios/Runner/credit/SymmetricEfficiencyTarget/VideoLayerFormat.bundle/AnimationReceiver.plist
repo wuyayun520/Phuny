@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousDimension</key>
+	<string>activateBuffer</string>
+	<key>commonSplitter</key>
+	<string>layerandtask</string>
+	<key>hierarchicalRequest</key>
+	<string>converterResponse</string>
+	<key>informationCount</key>
+	<string>cycleDecorator</string>
+	<key>metricsbrightness</key>
+	<string>nextcachemargin</string>
+	<key>normalPublisher</key>
+	<string>transformNorm</string>
+	<key>notationshade</key>
+	<string>immediatebaseline</string>
+	<key>oldBoxShadow</key>
+	<string>unaryFunction</string>
+	<key>shouldBindGestureDetector</key>
+	<string>canUnmountModulus</string>
+</dict>
+</plist>

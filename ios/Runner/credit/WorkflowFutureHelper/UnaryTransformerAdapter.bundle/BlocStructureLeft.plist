@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticTint</key>
+	<string>tentativeOrigin</string>
+	<key>ignoredbuttonacceleration</key>
+	<string>replaceEvent</string>
+	<key>informationname</key>
+	<string>disabledResponder</string>
+	<key>logexceptaction</key>
+	<string>denseReceiver</string>
+</dict>
+</plist>

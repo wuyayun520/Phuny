@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chooserStyle</key>
+	<string>shouldCacheSwitch</string>
+	<key>declarativeOffset</key>
+	<string>smallPageView</string>
+	<key>mediaOffset</key>
+	<string>autoGesture</string>
+	<key>uniformspecifier</key>
+	<string>profileFlags</string>
+	<key>visibleClipper</key>
+	<string>newesticoncontrast</string>
+</dict>
+</plist>

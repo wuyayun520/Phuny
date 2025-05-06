@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationTransparency</key>
+	<string>loopFlyweight</string>
+	<key>draggablemanagerinteraction</key>
+	<string>buttonInterval</string>
+	<key>factoryinterval</key>
+	<string>canListenNotifier</string>
+	<key>prevcompletion</key>
+	<string>marginRight</string>
+</dict>
+</plist>

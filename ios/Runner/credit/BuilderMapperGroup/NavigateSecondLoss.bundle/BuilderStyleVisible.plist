@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveRestriction</key>
+	<string>monsterDepth</string>
+	<key>borderSaturation</key>
+	<string>canvasduringbridge</string>
+	<key>commonRequest</key>
+	<string>enumerateResult</string>
+	<key>concreteAxis</key>
+	<string>boxshadowProcess</string>
+	<key>concurrentconnector</key>
+	<string>combineSprite</string>
+	<key>diversifiedPreview</key>
+	<string>shouldEncodeListView</string>
+	<key>invisibleBuffer</key>
+	<string>shouldObserveUsage</string>
+	<key>scrollableScene</key>
+	<string>bufferposition</string>
+	<key>shouldShowTheme</key>
+	<string>canResumeEqualization</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedScale</key>
+	<string>evaluateUseCase</string>
+	<key>disconnectspot</key>
+	<string>widgetProcess</string>
+	<key>missedTool</key>
+	<string>shouldnavigatemediaquery</string>
+	<key>mobileAnimation</key>
+	<string>canSubscribeConstraint</string>
+	<key>nextfragmentappearance</key>
+	<string>canPrepareMomentum</string>
+	<key>smartgraph</key>
+	<string>compositionalAlpha</string>
+	<key>usedState</key>
+	<string>overrideCurve</string>
+</dict>
+</plist>

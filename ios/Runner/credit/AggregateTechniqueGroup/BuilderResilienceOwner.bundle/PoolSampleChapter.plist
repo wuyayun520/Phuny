@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeFactory</key>
+	<string>injectionvalidation</string>
+	<key>basicComposition</key>
+	<string>denseLayout</string>
+	<key>cupertinoAspect</key>
+	<string>combineRoute</string>
+	<key>custompaintquaternion</key>
+	<string>synchronousNavigator</string>
+	<key>hascosine</key>
+	<string>entityOrientation</string>
+	<key>ignoredassetindex</key>
+	<string>ignoredBullet</string>
+	<key>injectionType</key>
+	<string>semanticsvector</string>
+	<key>mobileInterface</key>
+	<string>crudeLoss</string>
+	<key>permanentSprite</key>
+	<string>momentummaterial</string>
+</dict>
+</plist>

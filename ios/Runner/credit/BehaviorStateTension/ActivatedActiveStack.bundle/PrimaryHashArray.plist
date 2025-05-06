@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedData</key>
+	<string>diversifiedequalizationshade</string>
+	<key>activatedProfile</key>
+	<string>retrieveInjection</string>
+	<key>advancedAspect</key>
+	<string>inflateBox</string>
+	<key>disabledMaterializer</key>
+	<string>selectedtheme</string>
+	<key>layoutuntilprocess</key>
+	<string>tickerContrast</string>
+	<key>nibsincetask</key>
+	<string>searcherSpeed</string>
+	<key>originalStrength</key>
+	<string>agilestack</string>
+	<key>shouldDisconnectBorder</key>
+	<string>requiredtouch</string>
+	<key>shouldRebuildDelegate</key>
+	<string>canPresentGridView</string>
+	<key>shouldRouteBatch</key>
+	<string>observeWidget</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionsubscriber</key>
+	<string>shouldUnbindMargin</string>
+	<key>currentTriangles</key>
+	<string>alphavarduration</string>
+	<key>customRemainder</key>
+	<string>transitionSpot</string>
+	<key>granularSubscription</key>
+	<string>keyDrawer</string>
+	<key>nativeAsync</key>
+	<string>iterativeHero</string>
+	<key>sceneduration</key>
+	<string>heroFlyweight</string>
+	<key>statelessSkin</key>
+	<string>boxshadowStatus</string>
+</dict>
+</plist>

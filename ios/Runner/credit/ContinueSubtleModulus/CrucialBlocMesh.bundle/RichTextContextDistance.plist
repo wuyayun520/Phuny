@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionOrigin</key>
+	<string>dependencydecoratororientation</string>
+	<key>equivalentCenter</key>
+	<string>mediaSpeed</string>
+	<key>globalpopup</key>
+	<string>contractiontop</string>
+	<key>publicequivalent</key>
+	<string>permanentEntity</string>
+	<key>shouldCreateSwitch</key>
+	<string>geometricChannels</string>
+</dict>
+</plist>

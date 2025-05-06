@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileTimeline</key>
+	<string>interpolationValidation</string>
+	<key>criticalpreviewacceleration</key>
+	<string>advancedReducer</string>
+	<key>documentorframework</key>
+	<string>concreteSink</string>
+	<key>elasticMesh</key>
+	<string>scrollerAppearance</string>
+	<key>publisherInteraction</key>
+	<string>persistSegue</string>
+	<key>relationalHandler</key>
+	<string>transitionGridView</string>
+	<key>remainderorproxy</key>
+	<string>pickerFrequency</string>
+	<key>shouldAnimateCache</key>
+	<string>shouldContinueView</string>
+</dict>
+</plist>

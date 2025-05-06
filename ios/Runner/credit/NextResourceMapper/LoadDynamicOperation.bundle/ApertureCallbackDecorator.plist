@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistHead</key>
+	<string>symmetricGridView</string>
+	<key>flexiblelabelinteraction</key>
+	<string>deprecateCubit</string>
+	<key>kernelOpacity</key>
+	<string>aspectBorder</string>
+	<key>streamlikesingleton</key>
+	<string>unbindmargin</string>
+	<key>viewinfo</key>
+	<string>chartDistance</string>
+	<key>widgetstatus</key>
+	<string>extensionLeft</string>
+</dict>
+</plist>

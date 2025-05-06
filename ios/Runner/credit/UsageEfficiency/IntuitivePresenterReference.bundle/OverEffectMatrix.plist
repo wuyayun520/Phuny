@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customCurve</key>
+	<string>cleanDependency</string>
+	<key>permanentTouch</key>
+	<string>maintainEvent</string>
+	<key>positionRotation</key>
+	<string>canUnmountedHeap</string>
+	<key>retainedRect</key>
+	<string>traversalKind</string>
+	<key>selectedtext</key>
+	<string>arithmeticPlatform</string>
+</dict>
+</plist>

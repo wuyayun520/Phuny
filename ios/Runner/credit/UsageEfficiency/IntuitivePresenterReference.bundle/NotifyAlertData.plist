@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartAlignment</key>
+	<string>multiplystoryboard</string>
+	<key>denseUseCase</key>
+	<string>standaloneDropdownButton</string>
+	<key>localStatus</key>
+	<string>staticBehavior</string>
+	<key>mobileenvironmentformat</key>
+	<string>reconcileLayout</string>
+	<key>propagatecompleter</key>
+	<string>fusedRouter</string>
+	<key>rectangleOrientation</key>
+	<string>videostatus</string>
+	<key>skinname</key>
+	<string>spriteskewx</string>
+	<key>usecaselayerformat</key>
+	<string>canRebuildBinary</string>
+</dict>
+</plist>

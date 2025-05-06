@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoActivity</key>
+	<string>diversifiedMetadata</string>
+	<key>dedicatedTweak</key>
+	<string>diversifiedUnary</string>
+	<key>heroatform</key>
+	<string>replaceBatch</string>
+	<key>mendShade</key>
+	<string>compositionalcollectionopacity</string>
+	<key>persistentNotification</key>
+	<string>canUnbindEqualization</string>
+	<key>shouldEmitCollection</key>
+	<string>shouldprocesschallenge</string>
+	<key>statelessdurationtransparency</key>
+	<string>freeParticle</string>
+</dict>
+</plist>

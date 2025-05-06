@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureRotation</key>
+	<string>staticMember</string>
+	<key>boxshadowbrightness</key>
+	<string>intuitiveKernel</string>
+	<key>bulletAlignment</key>
+	<string>cancelTabView</string>
+	<key>graphOffset</key>
+	<string>animationComposite</string>
+	<key>hyperbolicPlayback</key>
+	<string>statelessPolyfill</string>
+	<key>receiverResponse</key>
+	<string>retrieveLayout</string>
+	<key>similarcyclesize</key>
+	<string>canSetStateMomentum</string>
+	<key>sortedBullet</key>
+	<string>shouldUpdateCharacter</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocRate</key>
+	<string>prevShader</string>
+	<key>cellconnector</key>
+	<string>controllerFlags</string>
+	<key>compositionalFactory</key>
+	<string>activateCompleter</string>
+	<key>draggableTextField</key>
+	<string>modelresilience</string>
+	<key>entropyInterval</key>
+	<string>euclideanHash</string>
+	<key>immutablescreenleft</key>
+	<string>shouldLoadMedia</string>
+	<key>opaqueState</key>
+	<string>prismaticProject</string>
+	<key>shouldStreamResource</key>
+	<string>sampleComposite</string>
+</dict>
+</plist>

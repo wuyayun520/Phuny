@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activitythroughparameter</key>
+	<string>interfaceflags</string>
+	<key>bandwidthdelay</key>
+	<string>intermediategridview</string>
+	<key>emitterdistance</key>
+	<string>resizableEffect</string>
+	<key>independentticker</key>
+	<string>channelinvar</string>
+	<key>inheritedequalizationkind</key>
+	<string>profileformat</string>
+	<key>publicCluster</key>
+	<string>dedicatedColumn</string>
+	<key>reactiveinjectionresponse</key>
+	<string>secondGem</string>
+	<key>shouldParseProtocol</key>
+	<string>cacheMap</string>
+</dict>
+</plist>

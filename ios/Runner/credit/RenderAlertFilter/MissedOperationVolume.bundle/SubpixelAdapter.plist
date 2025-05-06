@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousAperture</key>
+	<string>mediumChooser</string>
+	<key>blocimpression</key>
+	<string>permanentSegue</string>
+	<key>checkboxOffset</key>
+	<string>promiseSize</string>
+	<key>disabledbuffer</key>
+	<string>shouldparseanchor</string>
+	<key>distinctionvelocity</key>
+	<string>convertLayout</string>
+	<key>heapPadding</key>
+	<string>transformerMargin</string>
+	<key>listenerSpacing</key>
+	<string>sizeorientation</string>
+	<key>titleformtint</key>
+	<string>groupJob</string>
+</dict>
+</plist>

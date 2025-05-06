@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianResolver</key>
+	<string>rangeVisibility</string>
+	<key>clipperVisibility</key>
+	<string>functionalLoss</string>
+	<key>keyScene</key>
+	<string>thresholdShape</string>
+	<key>mediastatus</key>
+	<string>adjustRoute</string>
+	<key>respectiveExponent</key>
+	<string>persistentnib</string>
+	<key>shouldCacheScreen</key>
+	<string>canDismissCapacities</string>
+	<key>timerVisible</key>
+	<string>lazyCycle</string>
+</dict>
+</plist>

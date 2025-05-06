@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasviatask</key>
+	<string>modelcontrast</string>
+	<key>denseCallback</key>
+	<string>processScene</string>
+	<key>disparateModel</key>
+	<string>mobileRecursion</string>
+	<key>firstDescent</key>
+	<string>sanitizeStore</string>
+	<key>inflatecursor</key>
+	<string>scenekindtag</string>
+	<key>protectedTransformer</key>
+	<string>mediocrePriority</string>
+	<key>shouldRouteCheckbox</key>
+	<string>processMaterial</string>
+</dict>
+</plist>

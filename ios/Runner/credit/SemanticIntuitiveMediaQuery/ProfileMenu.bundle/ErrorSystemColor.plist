@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertframeworkbehavior</key>
+	<string>handlerShape</string>
+	<key>delicateInfrastructure</key>
+	<string>inheritedAction</string>
+	<key>disabledHash</key>
+	<string>animatedSegue</string>
+	<key>fragmentVelocity</key>
+	<string>multiplicationgrain</string>
+	<key>interactionbound</key>
+	<string>iterativeScroll</string>
+	<key>missedAnalyzer</key>
+	<string>shouldEncodeMusic</string>
+	<key>numericalBloc</key>
+	<string>geometricReduction</string>
+	<key>shouldPaintProvider</key>
+	<string>statelessLoader</string>
+	<key>synchronousListener</key>
+	<string>cosineShape</string>
+	<key>titleinset</key>
+	<string>fixedImpact</string>
+</dict>
+</plist>

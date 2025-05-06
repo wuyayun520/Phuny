@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowSkewX</key>
+	<string>fragmentEdge</string>
+	<key>columnFeedback</key>
+	<string>customizedLatency</string>
+	<key>disparaterequestvisibility</key>
+	<string>continueCatalyst</string>
+	<key>intermediateRichText</key>
+	<string>entitySpacing</string>
+	<key>opaqueProfile</key>
+	<string>canSaveChallenge</string>
+	<key>shouldPublishDropdownButton</key>
+	<string>nativeTransition</string>
+	<key>shouldSetStateWidget</key>
+	<string>exponentbridgevelocity</string>
+</dict>
+</plist>

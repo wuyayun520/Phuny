@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterstatus</key>
+	<string>projectEdge</string>
+	<key>fragmentsresponse</key>
+	<string>keyAnimation</string>
+	<key>fusedStep</key>
+	<string>geometricslider</string>
+	<key>notifyimage</key>
+	<string>debugView</string>
+	<key>prepareview</key>
+	<string>intuitiveRadio</string>
+</dict>
+</plist>

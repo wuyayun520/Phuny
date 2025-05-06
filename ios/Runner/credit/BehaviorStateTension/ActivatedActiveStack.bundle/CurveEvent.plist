@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationmethodflags</key>
+	<string>specifierParam</string>
+	<key>customizedAspectRatio</key>
+	<string>tensorMap</string>
+	<key>desktopBox</key>
+	<string>canShowMusic</string>
+	<key>displayableTriangles</key>
+	<string>mediocreCluster</string>
+	<key>mutableasset</key>
+	<string>robustactiontail</string>
+	<key>stamporigin</key>
+	<string>dismissBorder</string>
+</dict>
+</plist>

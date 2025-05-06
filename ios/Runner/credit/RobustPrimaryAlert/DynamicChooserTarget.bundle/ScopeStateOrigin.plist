@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterskewy</key>
+	<string>persistentTransition</string>
+	<key>currentMaterializer</key>
+	<string>mitigateNode</string>
+	<key>findwidget</key>
+	<string>navigategrain</string>
+	<key>globalLatency</key>
+	<string>markProvider</string>
+	<key>oldDetector</key>
+	<string>accessibleProtocol</string>
+	<key>shouldContinueExponent</key>
+	<string>scopeCount</string>
+	<key>tickercommandstyle</key>
+	<string>baseDirection</string>
+</dict>
+</plist>

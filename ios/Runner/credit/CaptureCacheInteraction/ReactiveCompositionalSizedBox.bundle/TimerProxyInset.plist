@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedNotification</key>
+	<string>desktopSemantics</string>
+	<key>dedicatedusagemode</key>
+	<string>synchronousListView</string>
+	<key>normalScalability</key>
+	<string>agileCapacity</string>
+	<key>shouldEndCertificate</key>
+	<string>emitModel</string>
+	<key>shouldPopSwift</key>
+	<string>seamlessCompletion</string>
+</dict>
+</plist>

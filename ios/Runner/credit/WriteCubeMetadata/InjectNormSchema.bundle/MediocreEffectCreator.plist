@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animateutil</key>
+	<string>shouldFinishSizedBox</string>
+	<key>basecoord</key>
+	<string>profileProgressBar</string>
+	<key>graphicresponse</key>
+	<string>canDismissNotifier</string>
+	<key>materialBloc</key>
+	<string>rectactivitybound</string>
+	<key>prevlistener</key>
+	<string>completedMomentum</string>
+	<key>shouldAnimatePlayback</key>
+	<string>requestIndex</string>
+	<key>shouldKeepBullet</key>
+	<string>retrieveOffset</string>
+	<key>shouldPrepareTabView</key>
+	<string>remediationLocation</string>
+	<key>shouldyieldsign</key>
+	<string>processorValidation</string>
+	<key>sustainableConsumer</key>
+	<string>sharedTraversal</string>
+</dict>
+</plist>

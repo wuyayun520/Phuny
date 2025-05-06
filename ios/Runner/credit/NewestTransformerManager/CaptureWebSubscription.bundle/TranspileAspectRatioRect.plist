@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detailname</key>
+	<string>listenIndicator</string>
+	<key>mediocreStroke</key>
+	<string>mediumProjection</string>
+	<key>permanentLoop</key>
+	<string>adaptiveAudio</string>
+	<key>significantTriangles</key>
+	<string>isIcon</string>
+</dict>
+</plist>

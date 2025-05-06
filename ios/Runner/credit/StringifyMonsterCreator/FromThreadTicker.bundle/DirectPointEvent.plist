@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinospine</key>
+	<string>resilientCompleter</string>
+	<key>densePager</key>
+	<string>invokeUtil</string>
+	<key>globalhandler</key>
+	<string>marginSaturation</string>
+	<key>vectorVisible</key>
+	<string>imagestate</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialMerger</key>
+	<string>canPersistBrush</string>
+	<key>directNotifier</key>
+	<string>processmovement</string>
+	<key>disparateframe</key>
+	<string>canNotifyThread</string>
+	<key>immediateChart</key>
+	<string>momentumCenter</string>
+	<key>providerinform</key>
+	<string>stateAppearance</string>
+</dict>
+</plist>

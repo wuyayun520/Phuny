@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intermediatenotation</key>
+	<string>missedScenario</string>
+	<key>iterativeEntity</key>
+	<string>updateGrain</string>
+	<key>prismaticConfiguration</key>
+	<string>viewscroller</string>
+	<key>shouldFormatSlider</key>
+	<string>staticTabView</string>
+	<key>shouldObserveOption</key>
+	<string>routernumberfeedback</string>
+	<key>shouldcachecharacter</key>
+	<string>diffableStore</string>
+</dict>
+</plist>

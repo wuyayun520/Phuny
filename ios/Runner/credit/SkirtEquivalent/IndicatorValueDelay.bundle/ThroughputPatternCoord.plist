@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultTrigger</key>
+	<string>canSubscribeMember</string>
+	<key>granularListener</key>
+	<string>shouldPrepareProvider</string>
+	<key>mediaqueryOffset</key>
+	<string>activatedIntegrity</string>
+	<key>polygonbottom</key>
+	<string>deferreddropdownbuttonopacity</string>
+	<key>shouldTransitionPoint</key>
+	<string>durationProxy</string>
+	<key>spotdecoratorsaturation</key>
+	<string>imagepreview</string>
+	<key>spritewithoutdecorator</key>
+	<string>sophisticatedBehavior</string>
+	<key>titlethreshold</key>
+	<string>transformdecoration</string>
+</dict>
+</plist>

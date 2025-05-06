@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachcontroller</key>
+	<string>routerDecorator</string>
+	<key>criticalAnalogy</key>
+	<string>completionInteraction</string>
+	<key>equalizationelement</key>
+	<string>mapperType</string>
+	<key>missedNode</key>
+	<string>shouldEncodeDocument</string>
+	<key>nativedialogscontrast</key>
+	<string>iconBehavior</string>
+	<key>notificationVelocity</key>
+	<string>declarativeAnchor</string>
+	<key>opaqueSkin</key>
+	<string>secondTaxonomy</string>
+	<key>recursionPadding</key>
+	<string>flexibleMethod</string>
+	<key>shouldCreateText</key>
+	<string>persistentdialogscount</string>
+	<key>subpixelSpeed</key>
+	<string>stateOpacity</string>
+</dict>
+</plist>

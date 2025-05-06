@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedLoss</key>
+	<string>projectiondrawer</string>
+	<key>compositionalScreen</key>
+	<string>oldtaxonomy</string>
+	<key>customPicker</key>
+	<string>arithmeticModel</string>
+	<key>elasticBinder</key>
+	<string>persistentMechanism</string>
+	<key>loaderSkewY</key>
+	<string>permanentanimation</string>
+	<key>responsiveRouter</key>
+	<string>shouldDismissSubpixel</string>
+	<key>tensorGridView</key>
+	<string>criticalAspect</string>
+	<key>widgettypeforce</key>
+	<string>shouldInflateAnchor</string>
+</dict>
+</plist>

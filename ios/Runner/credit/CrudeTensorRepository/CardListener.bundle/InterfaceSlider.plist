@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyWidget</key>
+	<string>beginnerCanvas</string>
+	<key>gatepicker</key>
+	<string>poppopup</string>
+	<key>inheritedCell</key>
+	<string>optionFlags</string>
+	<key>quantizertechnique</key>
+	<string>providerStage</string>
+	<key>retainedConsumer</key>
+	<string>mountLoss</string>
+</dict>
+</plist>

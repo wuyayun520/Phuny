@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessorySize</key>
+	<string>scaleVisibility</string>
+	<key>accordionGridView</key>
+	<string>shouldpersistaspectratio</string>
+	<key>currentStatus</key>
+	<string>sophisticatedGridView</string>
+	<key>imperativeTabView</key>
+	<string>rectangleDuration</string>
+	<key>richtextTail</key>
+	<string>topicScale</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>freepoint</key>
+	<string>sizedboxVelocity</string>
+	<key>futurename</key>
+	<string>fixedData</string>
+	<key>kernelSkewX</key>
+	<string>canRebuildStoryboard</string>
+	<key>materialProvision</key>
+	<string>stampIndex</string>
+	<key>responsivevectordistance</key>
+	<string>vectorOffset</string>
+	<key>robustIcon</key>
+	<string>dropoutMenu</string>
+	<key>shaderSkewX</key>
+	<string>shouldDisposeListView</string>
+	<key>shouldFinishGesture</key>
+	<string>subscriberBottom</string>
+</dict>
+</plist>

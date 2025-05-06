@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorshade</key>
+	<string>plateCenter</string>
+	<key>decorationduringplatform</key>
+	<string>updateDelegate</string>
+	<key>fusedProfile</key>
+	<string>minIcon</string>
+	<key>hasDelegate</key>
+	<string>unschedulenavigator</string>
+	<key>multidescription</key>
+	<string>canDeserializeSession</string>
+	<key>shouldRenderThread</key>
+	<string>flexTension</string>
+	<key>variantPosition</key>
+	<string>shoulddisposelabel</string>
+</dict>
+</plist>

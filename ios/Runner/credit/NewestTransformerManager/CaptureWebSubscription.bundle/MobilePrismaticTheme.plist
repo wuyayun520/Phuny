@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuletop</key>
+	<string>cartesiansessionright</string>
+	<key>largeDelegate</key>
+	<string>builderAlignment</string>
+	<key>requiredImpression</key>
+	<string>richtextCoord</string>
+	<key>sessionDuration</key>
+	<string>cupertinoIndicator</string>
+	<key>shouldMountedCanvas</key>
+	<string>shouldPrepareColumn</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalyststate</key>
+	<string>shouldNotifySkirt</string>
+	<key>deliveryDensity</key>
+	<string>hasUnary</string>
+	<key>finishaction</key>
+	<string>canDetachAperture</string>
+	<key>lifecycleState</key>
+	<string>dismissConsumer</string>
+	<key>mediocreGradient</key>
+	<string>subsequentAsset</string>
+	<key>unsortedRestriction</key>
+	<string>unsortedtimerorientation</string>
+	<key>usedThroughput</key>
+	<string>accordionDetail</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioFormat</key>
+	<string>scaleRate</string>
+	<key>behaviorDepth</key>
+	<string>gestureFormat</string>
+	<key>concreteComposition</key>
+	<string>statelessNorm</string>
+	<key>isgesture</key>
+	<string>stopBehavior</string>
+	<key>protectedTabView</key>
+	<string>onconsumertap</string>
+	<key>robustSpecifier</key>
+	<string>layerComposite</string>
+	<key>shouldAttachCursor</key>
+	<string>gestureCount</string>
+</dict>
+</plist>

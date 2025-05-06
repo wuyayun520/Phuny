@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerSlash</key>
+	<string>intermediateBehavior</string>
+	<key>cacheState</key>
+	<string>retainedSound</string>
+	<key>matrixbrightness</key>
+	<string>reliabilityappearance</string>
+	<key>mobileSample</key>
+	<string>shoulddeserializespot</string>
+	<key>resilientResolver</key>
+	<string>positionedSkewY</string>
+	<key>shouldNavigateGesture</key>
+	<string>appendRadius</string>
+</dict>
+</plist>

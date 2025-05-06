@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationsystemduration</key>
+	<string>updateBuilder</string>
+	<key>keynotification</key>
+	<string>reflectConfiguration</string>
+	<key>largeEquipment</key>
+	<string>canFinishAspect</string>
+	<key>meshStyle</key>
+	<string>parseCharacter</string>
+	<key>primaryHero</key>
+	<string>semanticsScale</string>
+	<key>smallCycle</key>
+	<string>shouldDecodeCertificate</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoBloc</key>
+	<string>scaleSingleton</string>
+	<key>awaitviabuffer</key>
+	<string>notifyNotifier</string>
+	<key>parsespot</key>
+	<string>baselineMethod</string>
+	<key>sorterInset</key>
+	<string>scrollFeedback</string>
+</dict>
+</plist>

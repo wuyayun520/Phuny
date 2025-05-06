@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeStep</key>
+	<string>attachBase</string>
+	<key>sequentialstatus</key>
+	<string>canEndCheckbox</string>
+	<key>shouldFinishScroll</key>
+	<string>pickerContrast</string>
+	<key>staticData</key>
+	<string>descriptionprocesstension</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gesturedetectorState</key>
+	<string>backwardSpine</string>
+	<key>sliderhue</key>
+	<string>skirtInset</string>
+	<key>slidermethoddelay</key>
+	<string>statefulContainer</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleAscent</key>
+	<string>canSetStateCurve</string>
+	<key>agileChecklist</key>
+	<string>subscriberOffset</string>
+	<key>creatorAlignment</key>
+	<string>extendPresenter</string>
+	<key>distinctionFeedback</key>
+	<string>explicitentityskewy</string>
+	<key>instructioncontrast</key>
+	<string>canValidateStream</string>
+	<key>materialInteractor</key>
+	<string>crucialSingleton</string>
+	<key>requiredGram</key>
+	<string>materialVisibility</string>
+	<key>shouldTransformPainter</key>
+	<string>agileRectangle</string>
+</dict>
+</plist>

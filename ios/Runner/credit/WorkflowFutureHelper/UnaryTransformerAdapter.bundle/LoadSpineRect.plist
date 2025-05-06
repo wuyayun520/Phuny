@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedSwitch</key>
+	<string>smallprojectname</string>
+	<key>dedicatedCustomPaint</key>
+	<string>directlyPainter</string>
+	<key>eagerBoxShadow</key>
+	<string>mountSegment</string>
+	<key>globalresource</key>
+	<string>encodeAlert</string>
+	<key>largeusagepadding</key>
+	<string>beginnerContraction</string>
+	<key>mobileDropdownButton</key>
+	<string>canRenderHistogram</string>
+	<key>permissiveConnector</key>
+	<string>lazyRange</string>
+	<key>shouldmountedspine</key>
+	<string>formatGradient</string>
+</dict>
+</plist>

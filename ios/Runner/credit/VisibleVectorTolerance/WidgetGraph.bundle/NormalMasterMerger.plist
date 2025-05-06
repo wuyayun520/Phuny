@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileInjection</key>
+	<string>sliderstructuretop</string>
+	<key>asynchronousAwait</key>
+	<string>canEndRow</string>
+	<key>independentAscent</key>
+	<string>combinerDensity</string>
+	<key>interpolationawaylayer</key>
+	<string>queueScale</string>
+	<key>metricsShape</key>
+	<string>fusedVertex</string>
+	<key>shouldLayoutBoxShadow</key>
+	<string>lazySizedBox</string>
+	<key>shouldunbindpositioned</key>
+	<string>searcherSkewX</string>
+	<key>slashForce</key>
+	<string>declarativeTicker</string>
+	<key>unaryBottom</key>
+	<string>sampleMomentum</string>
+</dict>
+</plist>

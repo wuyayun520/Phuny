@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerlikeaction</key>
+	<string>invokeRow</string>
+	<key>descriptorScale</key>
+	<string>shouldDispatchDelegate</string>
+	<key>gesturedetectorMargin</key>
+	<string>spriteSize</string>
+	<key>priorFinder</key>
+	<string>canPushMomentum</string>
+	<key>resilienceTop</key>
+	<string>techniqueAction</string>
+	<key>shouldListenVariant</key>
+	<string>gridValidation</string>
+	<key>statefultickervisibility</key>
+	<string>diffableBuilder</string>
+	<key>unmountedsingleton</key>
+	<string>interpolationPhase</string>
+</dict>
+</plist>

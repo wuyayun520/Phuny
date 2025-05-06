@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalslider</key>
+	<string>requiredcoordinatorcoord</string>
+	<key>largeFilter</key>
+	<string>anchorbufferflags</string>
+	<key>mediocrerectforce</key>
+	<string>retainoffset</string>
+	<key>stackSkewX</key>
+	<string>visibleaxis</string>
+	<key>sustainableradius</key>
+	<string>aspectbehavior</string>
+	<key>synchronousConfiguration</key>
+	<string>documenttype</string>
+</dict>
+</plist>

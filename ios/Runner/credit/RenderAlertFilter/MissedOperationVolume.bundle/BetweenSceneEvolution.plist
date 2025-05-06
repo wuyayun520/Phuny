@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerVisibility</key>
+	<string>encodeContraction</string>
+	<key>arithmeticgroupacceleration</key>
+	<string>cursorPhase</string>
+	<key>bitrateSpeed</key>
+	<string>emitLog</string>
+	<key>contractionCenter</key>
+	<string>uniqueReceiver</string>
+	<key>directText</key>
+	<string>mountButton</string>
+	<key>effectFlags</key>
+	<string>ephemeralrect</string>
+	<key>finishparticle</key>
+	<string>customthreadbrightness</string>
+	<key>normalElement</key>
+	<string>newestLoop</string>
+	<key>scrollerStatus</key>
+	<string>inactiveMechanism</string>
+	<key>shouldCreateExtension</key>
+	<string>rebuildBloc</string>
+</dict>
+</plist>

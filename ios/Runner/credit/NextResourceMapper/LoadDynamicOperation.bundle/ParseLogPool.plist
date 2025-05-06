@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concatenatemenu</key>
+	<string>explicitResult</string>
+	<key>crucialTouch</key>
+	<string>otherAscent</string>
+	<key>gridviewAcceleration</key>
+	<string>transformtask</string>
+	<key>lostBehavior</key>
+	<string>shouldContinueBase</string>
+	<key>reducerdecoratorvisibility</key>
+	<string>canHandleLogarithm</string>
+	<key>reusableskin</key>
+	<string>otherEmitter</string>
+	<key>sceneVisible</key>
+	<string>replicateproject</string>
+	<key>shouldPaintBoxShadow</key>
+	<string>shouldUnmountedCard</string>
+	<key>transitionadapterdensity</key>
+	<string>promiseFunction</string>
+	<key>usecasespacing</key>
+	<string>significantCreator</string>
+</dict>
+</plist>

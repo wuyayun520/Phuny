@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleCube</key>
+	<string>receiverSpeed</string>
+	<key>efficiencyshape</key>
+	<string>temporaryNavigator</string>
+	<key>rapidProcessor</key>
+	<string>animateStateless</string>
+	<key>reactiveCurve</key>
+	<string>isolateType</string>
+	<key>requiredSlider</key>
+	<string>disabledrow</string>
+	<key>shouldHandleCertificate</key>
+	<string>dedicatedInteraction</string>
+	<key>standaloneBoxShadow</key>
+	<string>reductionborder</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxfromprototype</key>
+	<string>canFinishStack</string>
+	<key>sustainablecanvasinteraction</key>
+	<string>standaloneFuture</string>
+	<key>ternarydelay</key>
+	<string>floatZone</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedService</key>
+	<string>asynchronousPolyfill</string>
+	<key>beginnerproviderbound</key>
+	<string>updateMusic</string>
+	<key>cupertinoRecursion</key>
+	<string>shouldSaveFuture</string>
+	<key>diffablenib</key>
+	<string>modulusMomentum</string>
+	<key>euclideanoptimizer</key>
+	<string>tentativeInteraction</string>
+	<key>sustainabledependencycount</key>
+	<string>segmentOrientation</string>
+</dict>
+</plist>

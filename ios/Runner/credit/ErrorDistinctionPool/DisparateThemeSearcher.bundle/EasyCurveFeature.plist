@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveMenu</key>
+	<string>locateConfiguration</string>
+	<key>combinerHue</key>
+	<string>replaceBullet</string>
+	<key>inactiveTask</key>
+	<string>sophisticatedManager</string>
+	<key>localKernel</key>
+	<string>listenerValue</string>
+	<key>quantizationchallenge</key>
+	<string>buttonmargin</string>
+	<key>scalabilityinset</key>
+	<string>allocatorstageinset</string>
+	<key>semanticCard</key>
+	<string>starttransformer</string>
+	<key>shouldBuildDocument</key>
+	<string>missionmodel</string>
+	<key>shouldDismissLogarithm</key>
+	<string>composableRemediation</string>
+</dict>
+</plist>

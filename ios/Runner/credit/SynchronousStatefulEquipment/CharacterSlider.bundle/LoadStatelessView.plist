@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalTool</key>
+	<string>sanitizecomposition</string>
+	<key>concurrentSingleton</key>
+	<string>disposeListView</string>
+	<key>niboccasion</key>
+	<string>ignoredCupertino</string>
+	<key>painterpadding</key>
+	<string>shouldReplaceTask</string>
+	<key>shouldUnbindRemainder</key>
+	<string>animatorBrightness</string>
+</dict>
+</plist>

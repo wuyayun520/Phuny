@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actioncompositetransparency</key>
+	<string>multiplyEvent</string>
+	<key>makesegment</key>
+	<string>transformChecklist</string>
+	<key>semanticRouter</key>
+	<string>subscriptionStage</string>
+	<key>shouldNotifySignature</key>
+	<string>displayableSkin</string>
+	<key>vertexstate</key>
+	<string>uniformSubscriber</string>
+</dict>
+</plist>

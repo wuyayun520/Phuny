@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerHead</key>
+	<string>greatRecursion</string>
+	<key>compositionalRouter</key>
+	<string>subscriberBound</string>
+	<key>consumptionCount</key>
+	<string>histogramRate</string>
+	<key>maintainobserver</key>
+	<string>liteDispatcher</string>
+	<key>slashspeed</key>
+	<string>fetchMatrix</string>
+	<key>uniqueScenario</key>
+	<string>presentModal</string>
+</dict>
+</plist>

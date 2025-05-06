@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianObject</key>
+	<string>mobileDialogs</string>
+	<key>convolutionName</key>
+	<string>gradientScale</string>
+	<key>cupertinoRadius</key>
+	<string>prevConfiguration</string>
+	<key>customSprite</key>
+	<string>completedMonster</string>
+	<key>difficultLinker</key>
+	<string>shouldRouteMobile</string>
+	<key>gestureScale</key>
+	<string>intermediateInterpolation</string>
+	<key>sharedsubscriptionmode</key>
+	<string>shoulddisconnecthero</string>
+	<key>shouldInflateVariant</key>
+	<string>parallelEqualization</string>
+</dict>
+</plist>

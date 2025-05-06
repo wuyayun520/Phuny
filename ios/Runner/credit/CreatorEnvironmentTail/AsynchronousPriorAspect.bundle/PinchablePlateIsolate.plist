@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleMargin</key>
+	<string>updateSize</string>
+	<key>compositionalObject</key>
+	<string>cupertinoTangent</string>
+	<key>elasticScroll</key>
+	<string>numericalLoop</string>
+	<key>fusedResult</key>
+	<string>basicThroughput</string>
+	<key>granularMember</key>
+	<string>resolverRight</string>
+	<key>numericalHeap</key>
+	<string>lostSine</string>
+	<key>priorStatus</key>
+	<string>shouldDispatchOptimizer</string>
+	<key>shouldObserveCatalyst</key>
+	<string>unsortedTimer</string>
+</dict>
+</plist>

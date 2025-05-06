@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsingletonpadding</key>
+	<string>canBindStamp</string>
+	<key>decodeoverlay</key>
+	<string>subtlemetadataskewy</string>
+	<key>optimizerwithoutstate</key>
+	<string>shouldresumecube</string>
+	<key>pivotalsliderfeedback</key>
+	<string>storyboardwithvariable</string>
+	<key>resolverasjob</key>
+	<string>convertSprite</string>
+	<key>retainedreliability</key>
+	<string>featureIndex</string>
+	<key>shouldYieldPageView</key>
+	<string>statefulUtil</string>
+	<key>significantSplitter</key>
+	<string>alertValue</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileSchema</key>
+	<string>dedicatedradiusresponse</string>
+	<key>columnType</key>
+	<string>geometrichashorigin</string>
+	<key>informationInset</key>
+	<string>composabletangenttag</string>
+	<key>ongrayscaletap</key>
+	<string>shouldSubscribeSession</string>
+	<key>primaryLayout</key>
+	<string>smartBullet</string>
+	<key>tentativeTheme</key>
+	<string>intermediateTriangles</string>
+</dict>
+</plist>

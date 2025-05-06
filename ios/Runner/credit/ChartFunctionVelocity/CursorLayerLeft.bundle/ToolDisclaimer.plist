@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryIndex</key>
+	<string>checkTransition</string>
+	<key>accordionHeap</key>
+	<string>entitykind</string>
+	<key>agileError</key>
+	<string>elasticResilience</string>
+	<key>amortizationTheme</key>
+	<string>trajectorySize</string>
+	<key>asyncOffset</key>
+	<string>syncDuration</string>
+	<key>fixedResolver</key>
+	<string>sophisticatedResilience</string>
+	<key>injectionType</key>
+	<string>appendmargin</string>
+	<key>interactiveRecursion</key>
+	<string>canPaintWidget</string>
+	<key>sliderstaterotation</key>
+	<string>draggableSound</string>
+	<key>smartSink</key>
+	<string>sliderscale</string>
+</dict>
+</plist>

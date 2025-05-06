@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionScope</key>
+	<string>backwardTouch</string>
+	<key>firstAmortization</key>
+	<string>shouldNotifyPoint</string>
+	<key>independentchannels</key>
+	<string>dynamicDrawer</string>
+	<key>permanentDelegate</key>
+	<string>shouldParseSkin</string>
+	<key>retainedpager</key>
+	<string>rendererScale</string>
+	<key>temporarytransitionborder</key>
+	<string>dimensionTint</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>layouttaskrotation</key>
+	<string>layoutMatrix</string>
+	<key>missedParticle</key>
+	<string>significantLayout</string>
+	<key>reusableHash</key>
+	<string>requiredlistenerbound</string>
+	<key>reusableProtocol</key>
+	<string>connectStateless</string>
+	<key>shouldEncodeCosine</key>
+	<string>persistenttimerkind</string>
+	<key>shouldSkipUsage</key>
+	<string>permanentChecklist</string>
+	<key>visibleElement</key>
+	<string>mitigatetabbar</string>
+</dict>
+</plist>

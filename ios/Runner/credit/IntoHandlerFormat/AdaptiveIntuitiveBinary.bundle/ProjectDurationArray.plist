@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeTextField</key>
+	<string>canDispatchCapsule</string>
+	<key>displayableResilience</key>
+	<string>encodePreview</string>
+	<key>maketransformer</key>
+	<string>canParseCycle</string>
+	<key>multiProcessor</key>
+	<string>challengeInterval</string>
+	<key>rapidRestriction</key>
+	<string>mitigateRadius</string>
+	<key>shouldDecodeAlert</key>
+	<string>canNotifyLabel</string>
+	<key>shouldStopGram</key>
+	<string>mapperLeft</string>
+	<key>tappableevent</key>
+	<string>accessibleMaterial</string>
+</dict>
+</plist>

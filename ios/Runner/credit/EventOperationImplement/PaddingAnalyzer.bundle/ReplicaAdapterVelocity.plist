@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hierarchicalLayout</key>
+	<string>canFetchAccessory</string>
+	<key>inheritedPolygon</key>
+	<string>canCreateDelegate</string>
+	<key>mediaStatus</key>
+	<string>consumptionOffset</string>
+	<key>originalSize</key>
+	<string>minSkirt</string>
+	<key>originalrectbrightness</key>
+	<string>pointVariable</string>
+</dict>
+</plist>

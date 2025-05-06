@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>embracezone</key>
+	<string>tappableThread</string>
+	<key>keyGrayscale</key>
+	<string>robustRadius</string>
+	<key>priorCosine</key>
+	<string>rectangleInset</string>
+	<key>shouldEncodeCompletion</key>
+	<string>executeCoordinator</string>
+	<key>statefulStorage</key>
+	<string>canPublishOptimizer</string>
+	<key>statelessAsync</key>
+	<string>copyrole</string>
+	<key>tweakFormat</key>
+	<string>customizedMission</string>
+</dict>
+</plist>

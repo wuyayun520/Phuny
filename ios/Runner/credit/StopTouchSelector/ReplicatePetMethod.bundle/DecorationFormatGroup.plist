@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityhead</key>
+	<string>mutableTopic</string>
+	<key>diffableTicker</key>
+	<string>shaderTheme</string>
+	<key>diffablegesturedetectordepth</key>
+	<string>adaptiveMaterializer</string>
+	<key>equipmentIndex</key>
+	<string>builderbyadapter</string>
+	<key>eventhead</key>
+	<string>wrapperEdge</string>
+	<key>globalRichText</key>
+	<string>unsortedRect</string>
+	<key>painteropacity</key>
+	<string>touchModel</string>
+	<key>specifytext</key>
+	<string>declarativeAnimatedContainer</string>
+</dict>
+</plist>

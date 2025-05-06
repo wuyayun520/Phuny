@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseManager</key>
+	<string>currentplayback</string>
+	<key>directlyCell</key>
+	<string>nextCertificate</string>
+	<key>largemediaquery</key>
+	<string>poolView</string>
+	<key>typicalpager</key>
+	<string>geometricInfo</string>
+</dict>
+</plist>

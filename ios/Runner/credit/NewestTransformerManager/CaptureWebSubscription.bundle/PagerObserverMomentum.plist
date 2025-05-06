@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerWrapper</key>
+	<string>eagerStamp</string>
+	<key>globalElement</key>
+	<string>smallGraphic</string>
+	<key>largeAlpha</key>
+	<string>resizableSpot</string>
+	<key>loopForce</key>
+	<string>requiredGroup</string>
+	<key>shouldPauseExtension</key>
+	<string>lastinjectionbound</string>
+	<key>skinwidget</key>
+	<string>navigationBottom</string>
+</dict>
+</plist>

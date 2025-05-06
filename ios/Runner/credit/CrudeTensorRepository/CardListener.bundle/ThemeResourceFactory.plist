@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorconsumption</key>
+	<string>completerobserverflags</string>
+	<key>descriptionBottom</key>
+	<string>accordionQuaternion</string>
+	<key>lossFrequency</key>
+	<string>canResumeCoordinator</string>
+	<key>publicTouch</key>
+	<string>compositionalTaxonomy</string>
+	<key>scrollableButton</key>
+	<string>configurationDistance</string>
+	<key>shouldAttachModulus</key>
+	<string>analyzerOrientation</string>
+	<key>shouldLoadSwitch</key>
+	<string>serializeInkWell</string>
+	<key>topicobserverposition</key>
+	<string>relationalObserver</string>
+</dict>
+</plist>

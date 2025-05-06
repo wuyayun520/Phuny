@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoAspect</key>
+	<string>cacheProvider</string>
+	<key>checklistVelocity</key>
+	<string>fixedCustomPaint</string>
+	<key>crudeBoxShadow</key>
+	<string>autoConvolution</string>
+	<key>eagerSignature</key>
+	<string>tweenBorder</string>
+	<key>radioDelay</key>
+	<string>discoveraspectratio</string>
+	<key>shouldfetchanimatedcontainer</key>
+	<string>hierarchicalError</string>
+	<key>utilInteraction</key>
+	<string>retainedDelivery</string>
+</dict>
+</plist>

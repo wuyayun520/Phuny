@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosinebound</key>
+	<string>unmountedpreview</string>
+	<key>customSlash</key>
+	<string>priorDialogs</string>
+	<key>directInteraction</key>
+	<string>symbolScope</string>
+	<key>mapmode</key>
+	<string>responderFeedback</string>
+	<key>shouldDecodeMediaQuery</key>
+	<string>accelerateCompleter</string>
+	<key>splitterOrigin</key>
+	<string>ternaryatjob</string>
+</dict>
+</plist>

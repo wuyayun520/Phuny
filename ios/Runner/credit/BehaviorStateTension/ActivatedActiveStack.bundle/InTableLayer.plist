@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileSubpixel</key>
+	<string>declarativeMap</string>
+	<key>immediatePoint</key>
+	<string>componentBehavior</string>
+	<key>inflatetopic</key>
+	<string>declarativeInfrastructure</string>
+	<key>pauseservice</key>
+	<string>previewstate</string>
+	<key>robustStore</key>
+	<string>typicalSubscription</string>
+	<key>tensorArithmetic</key>
+	<string>loopPhase</string>
+	<key>unaryOffset</key>
+	<string>fetchTheme</string>
+</dict>
+</plist>

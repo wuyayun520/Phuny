@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxdirection</key>
+	<string>popupcyclestate</string>
+	<key>greatNotifier</key>
+	<string>locateScene</string>
+	<key>lazysensor</key>
+	<string>shouldPopGift</string>
+	<key>lostSession</key>
+	<string>defaultlistview</string>
+	<key>opaquePicker</key>
+	<string>sensorbysystem</string>
+	<key>positionInterval</key>
+	<string>sustainableInterpolation</string>
+	<key>replicaVisible</key>
+	<string>groupObserver</string>
+	<key>robustFragment</key>
+	<string>singleThreshold</string>
+	<key>significantMatrix</key>
+	<string>fetchHero</string>
+	<key>synchronizecubit</key>
+	<string>canDismissLayout</string>
+</dict>
+</plist>

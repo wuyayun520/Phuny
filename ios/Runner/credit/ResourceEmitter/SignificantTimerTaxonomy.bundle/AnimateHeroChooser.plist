@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intermediateProjection</key>
+	<string>shouldPrepareMedia</string>
+	<key>requiredCheckbox</key>
+	<string>timeDensity</string>
+	<key>shouldLoadLabel</key>
+	<string>shouldRestartTechnique</string>
+	<key>usedPicker</key>
+	<string>channelbylayer</string>
+</dict>
+</plist>

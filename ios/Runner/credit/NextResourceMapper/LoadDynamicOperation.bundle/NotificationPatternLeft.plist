@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchortype</key>
+	<string>nextLogarithm</string>
+	<key>concurrentMaterializer</key>
+	<string>materialTint</string>
+	<key>hierarchicalAsset</key>
+	<string>flexibleStrength</string>
+	<key>inheritedMultiplication</key>
+	<string>shouldReplaceActivity</string>
+	<key>semanticFeature</key>
+	<string>shouldParseDropdownButton</string>
+	<key>vertextint</key>
+	<string>tableFormat</string>
+</dict>
+</plist>

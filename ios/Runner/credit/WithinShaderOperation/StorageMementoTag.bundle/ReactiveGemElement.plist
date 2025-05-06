@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerdecoration</key>
+	<string>storyboardDensity</string>
+	<key>ephemeralDimension</key>
+	<string>accessibleCube</string>
+	<key>fragmentsDensity</key>
+	<string>cacheDirection</string>
+	<key>granularAnimation</key>
+	<string>responseBuffer</string>
+	<key>queuetypemode</key>
+	<string>techniqueChain</string>
+	<key>shouldCacheMomentum</key>
+	<string>shouldTransformProjection</string>
+	<key>shouldParseCompletion</key>
+	<string>disparateIntegrity</string>
+	<key>singleScale</key>
+	<string>similarModel</string>
+	<key>unmountscaffold</key>
+	<string>requiredUseCase</string>
+</dict>
+</plist>

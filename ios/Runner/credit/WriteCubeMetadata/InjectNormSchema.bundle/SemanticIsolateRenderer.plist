@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartType</key>
+	<string>shouldListenOption</string>
+	<key>dropdownbuttondescent</key>
+	<string>completionMargin</string>
+	<key>gradientinflyweight</key>
+	<string>tappableBehavior</string>
+	<key>modalDelay</key>
+	<string>numericalScene</string>
+	<key>processslider</key>
+	<string>shouldPaintPlayback</string>
+	<key>unsortedResponder</key>
+	<string>startKernel</string>
+</dict>
+</plist>

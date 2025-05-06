@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dataOffset</key>
+	<string>richtextLeft</string>
+	<key>factorytop</key>
+	<string>gateDecorator</string>
+	<key>largeChapter</key>
+	<string>nativeCustomPaint</string>
+	<key>retainedPager</key>
+	<string>canResumeComposition</string>
+	<key>shouldBindCosine</key>
+	<string>reactiveCard</string>
+	<key>shouldRouteImage</key>
+	<string>addRadius</string>
+	<key>smartRemediation</key>
+	<string>presentHero</string>
+	<key>statelessFilter</key>
+	<string>zoneBridge</string>
+	<key>tappableConstraint</key>
+	<string>shouldBuildStack</string>
+	<key>transitionlocation</key>
+	<string>gridTop</string>
+</dict>
+</plist>

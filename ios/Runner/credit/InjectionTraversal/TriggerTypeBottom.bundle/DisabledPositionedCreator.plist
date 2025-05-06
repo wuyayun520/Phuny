@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateTail</key>
+	<string>desktopDocument</string>
+	<key>criticalDescriptor</key>
+	<string>autotabbar</string>
+	<key>deferredRoute</key>
+	<string>exceptionOrientation</string>
+	<key>desktoppadding</key>
+	<string>cartesianDescriptor</string>
+	<key>robustAllocator</key>
+	<string>impactStatus</string>
+	<key>shouldRenderTheme</key>
+	<string>formatSensor</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleCosine</key>
+	<string>contrastcolor</string>
+	<key>clusterTint</key>
+	<string>cartesianSensor</string>
+	<key>materialAnimatedContainer</key>
+	<string>hasbrush</string>
+	<key>materialStorage</key>
+	<string>tentativeTail</string>
+	<key>shouldDisconnectBullet</key>
+	<string>tweenatbridge</string>
+	<key>shouldFormatSpine</key>
+	<string>unmountedAnimation</string>
+</dict>
+</plist>

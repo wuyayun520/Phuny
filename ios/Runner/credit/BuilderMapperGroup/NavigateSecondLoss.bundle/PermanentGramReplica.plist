@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorLocation</key>
+	<string>seamlessSelector</string>
+	<key>evaluatescaffold</key>
+	<string>presenterdespitephase</string>
+	<key>lastAsync</key>
+	<string>declarativeIndicator</string>
+	<key>lostData</key>
+	<string>binaryDistance</string>
+	<key>materialTimer</key>
+	<string>canEncodeMusic</string>
+	<key>nodeamongmode</key>
+	<string>giftValidation</string>
+	<key>shouldCancelGestureDetector</key>
+	<string>switchCoord</string>
+	<key>shouldpausetool</key>
+	<string>typicalLocalization</string>
+	<key>usageOpacity</key>
+	<string>autoPolyfill</string>
+</dict>
+</plist>

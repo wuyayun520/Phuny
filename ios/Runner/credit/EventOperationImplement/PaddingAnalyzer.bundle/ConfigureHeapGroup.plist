@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelBrightness</key>
+	<string>widgetacceleration</string>
+	<key>dynamicTime</key>
+	<string>shearMethod</string>
+	<key>geometricsprite</key>
+	<string>searcherAppearance</string>
+	<key>globalCubit</key>
+	<string>currentPager</string>
+	<key>histogramName</key>
+	<string>denseMechanism</string>
+	<key>positionSaturation</key>
+	<string>composableIntegrity</string>
+	<key>rapidHash</key>
+	<string>extenddialogs</string>
+	<key>requestIndex</key>
+	<string>frameTheme</string>
+	<key>wrapperRight</key>
+	<string>sensorKind</string>
+</dict>
+</plist>

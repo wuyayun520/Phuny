@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledAnalyzer</key>
+	<string>searchFactory</string>
+	<key>errorvariablecolor</key>
+	<string>histogramtail</string>
+	<key>flexiblehistogramduration</key>
+	<string>activeTangent</string>
+	<key>iterativeBase</key>
+	<string>intuitiveTransformer</string>
+	<key>sessionFlags</key>
+	<string>maintainFrame</string>
+	<key>shouldUpdateWorkflow</key>
+	<string>setstatemobile</string>
+	<key>shouldkeepappbar</key>
+	<string>directlyTextField</string>
+	<key>tappableCollection</key>
+	<string>desktopTransition</string>
+</dict>
+</plist>

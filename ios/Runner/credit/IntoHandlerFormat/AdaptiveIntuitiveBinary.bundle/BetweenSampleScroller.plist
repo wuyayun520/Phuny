@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dimensionparamdelay</key>
+	<string>playTopic</string>
+	<key>flexTag</key>
+	<string>schedulestoryboard</string>
+	<key>nativeNib</key>
+	<string>collectionSpeed</string>
+	<key>oldTabView</key>
+	<string>platedecoratorcontrast</string>
+	<key>permanentConfidentiality</key>
+	<string>topicTail</string>
+	<key>shouldDetachCertificate</key>
+	<string>prevsubscription</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gridviewContrast</key>
+	<string>immediateSink</string>
+	<key>liteShader</key>
+	<string>backwardKernel</string>
+	<key>mediocrecallback</key>
+	<string>rapidScale</string>
+	<key>opaqueInstruction</key>
+	<string>catalystprovider</string>
+	<key>persistentTicker</key>
+	<string>pausealignment</string>
+	<key>relationalPoint</key>
+	<string>viewIndex</string>
+	<key>requestBottom</key>
+	<string>escalatepopup</string>
+	<key>respectivePositioned</key>
+	<string>mapperType</string>
+</dict>
+</plist>

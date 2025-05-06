@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentEquipment</key>
+	<string>composableWorkflow</string>
+	<key>filterresponse</key>
+	<string>desktopTransformer</string>
+	<key>imperativePopup</key>
+	<string>mountScreen</string>
+	<key>infoOffset</key>
+	<string>presentStack</string>
+	<key>notifierType</key>
+	<string>shouldLayoutCompletion</string>
+	<key>semanticproviderrate</key>
+	<string>bundleView</string>
+	<key>sharedNotification</key>
+	<string>deferredChapter</string>
+	<key>sliderborder</key>
+	<string>animateReference</string>
+</dict>
+</plist>

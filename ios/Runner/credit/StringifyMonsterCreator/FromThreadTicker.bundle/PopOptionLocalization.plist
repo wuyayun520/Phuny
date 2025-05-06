@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveController</key>
+	<string>shouldRestartSession</string>
+	<key>beginnerlifecycle</key>
+	<string>reactiveemitter</string>
+	<key>buttonadaptervelocity</key>
+	<string>graphicFramework</string>
+	<key>dedicatedMenu</key>
+	<string>uniformSpecifier</string>
+	<key>inheritedGrid</key>
+	<string>mapperDirection</string>
+	<key>listentimer</key>
+	<string>canDismissSkirt</string>
+	<key>oldfragment</key>
+	<string>asynchronousPosition</string>
+	<key>reliabilityDelay</key>
+	<string>certificateaction</string>
+	<key>shouldMountStoryboard</key>
+	<string>shouldResumeStack</string>
+</dict>
+</plist>

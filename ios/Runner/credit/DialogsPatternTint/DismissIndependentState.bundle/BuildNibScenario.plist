@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentStateful</key>
+	<string>discardedFeature</string>
+	<key>directevent</key>
+	<string>accordionTrajectory</string>
+	<key>independentAnimator</key>
+	<string>enabledTaxonomy</string>
+	<key>persistentMetadata</key>
+	<string>alertlayerposition</string>
+	<key>resourceAlignment</key>
+	<string>completerValidation</string>
+	<key>savecube</key>
+	<string>sequentialLifecycle</string>
+	<key>shouldPresentEntropy</key>
+	<string>immutableRange</string>
+	<key>signSaturation</key>
+	<string>clipperResponse</string>
+	<key>statelesssemanticsshade</key>
+	<string>dispatchpoint</string>
+</dict>
+</plist>

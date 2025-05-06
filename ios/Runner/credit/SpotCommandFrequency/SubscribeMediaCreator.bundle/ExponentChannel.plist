@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedtransformerforce</key>
+	<string>pushMargin</string>
+	<key>grainamongfacade</key>
+	<string>offsetgroup</string>
+	<key>notifierdisclaimer</key>
+	<string>rapidsound</string>
+	<key>webMetrics</key>
+	<string>accelerateTask</string>
+</dict>
+</plist>

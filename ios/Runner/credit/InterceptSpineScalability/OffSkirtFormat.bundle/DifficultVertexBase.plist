@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelview</key>
+	<string>textfieldParam</string>
+	<key>configurationType</key>
+	<string>concreteConverter</string>
+	<key>greatCheckbox</key>
+	<string>shouldPauseExtension</string>
+	<key>persistentIcon</key>
+	<string>lazySymbol</string>
+	<key>previewamongoperation</key>
+	<string>cancelBaseline</string>
+	<key>smartIntegration</key>
+	<string>transitionStoryboard</string>
+	<key>stopstamp</key>
+	<string>ephemeralSkin</string>
+	<key>tappableOverlay</key>
+	<string>listenAlert</string>
+</dict>
+</plist>

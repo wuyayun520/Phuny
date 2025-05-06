@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedSprite</key>
+	<string>challengeMomentum</string>
+	<key>commonDecoration</key>
+	<string>defaultGate</string>
+	<key>concreteMechanism</key>
+	<string>pageviewdecoratorcenter</string>
+	<key>interpolationSpacing</key>
+	<string>immutableTernary</string>
+	<key>localConsumer</key>
+	<string>aggregateResult</string>
+	<key>marginTag</key>
+	<string>renderSegue</string>
+	<key>replacequeue</key>
+	<string>rectInteraction</string>
+	<key>shouldShowProvider</key>
+	<string>topicMediator</string>
+	<key>titleandoperation</key>
+	<string>schemaType</string>
+	<key>topicspeed</key>
+	<string>canStopContraction</string>
+</dict>
+</plist>

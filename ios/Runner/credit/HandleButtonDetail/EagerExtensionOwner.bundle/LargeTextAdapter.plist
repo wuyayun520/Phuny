@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticBehavior</key>
+	<string>dynamicReduction</string>
+	<key>associatedPadding</key>
+	<string>shouldPaintResource</string>
+	<key>diffableLog</key>
+	<string>processorVisibility</string>
+	<key>resultAlignment</key>
+	<string>intuitiveBinder</string>
+</dict>
+</plist>

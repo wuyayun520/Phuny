@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>futureOpacity</key>
+	<string>responsiveInterpolation</string>
+	<key>keyReducer</key>
+	<string>persistentState</string>
+	<key>mainlinker</key>
+	<string>iterativeDecoration</string>
+	<key>newestInfo</key>
+	<string>operationlikefacade</string>
+	<key>previewFormat</key>
+	<string>expandedVisible</string>
+	<key>responsivethreadtension</key>
+	<string>borderBound</string>
+	<key>shouldUnbindArithmetic</key>
+	<string>griddistinction</string>
+	<key>sinkPosition</key>
+	<string>shouldAnimateMatrix</string>
+</dict>
+</plist>

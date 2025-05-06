@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryskewy</key>
+	<string>zoneDepth</string>
+	<key>customMechanism</key>
+	<string>clipperCenter</string>
+	<key>draggableInkWell</key>
+	<string>composableController</string>
+	<key>modalCenter</key>
+	<string>fusedrouter</string>
+	<key>onprojecttap</key>
+	<string>addTransition</string>
+	<key>respectiveTheme</key>
+	<string>finishdescription</string>
+	<key>shouldTransitionWorkflow</key>
+	<string>formatusecase</string>
+	<key>smallInterface</key>
+	<string>durationAcceleration</string>
+	<key>symmetricDescription</key>
+	<string>encodeIndicator</string>
+</dict>
+</plist>

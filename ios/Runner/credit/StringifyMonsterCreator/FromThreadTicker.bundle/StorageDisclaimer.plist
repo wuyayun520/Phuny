@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clusterDistance</key>
+	<string>canStartBullet</string>
+	<key>criticalBinder</key>
+	<string>iconTier</string>
+	<key>crucialScope</key>
+	<string>factoryBridge</string>
+	<key>defaultprovider</key>
+	<string>responseobserver</string>
+	<key>difficultalignment</key>
+	<string>nativeOffset</string>
+	<key>geometricMonster</key>
+	<string>subpixelPadding</string>
+	<key>keySine</key>
+	<string>enabledMatrix</string>
+	<key>radiusbesideobserver</key>
+	<string>restrictionEdge</string>
+	<key>shouldProcessConvolution</key>
+	<string>analyzeInteractor</string>
+</dict>
+</plist>

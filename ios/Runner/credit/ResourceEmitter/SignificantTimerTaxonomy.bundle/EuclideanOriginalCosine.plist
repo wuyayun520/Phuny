@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autovector</key>
+	<string>resilientCharacter</string>
+	<key>intermediateRoute</key>
+	<string>materializerCenter</string>
+	<key>protectedGridView</key>
+	<string>popupShade</string>
+	<key>shouldContinueScroll</key>
+	<string>polygonMomentum</string>
+	<key>shouldSetStateCube</key>
+	<string>zoneTask</string>
+	<key>shouldnavigatesizedbox</key>
+	<string>tweenInterval</string>
+</dict>
+</plist>

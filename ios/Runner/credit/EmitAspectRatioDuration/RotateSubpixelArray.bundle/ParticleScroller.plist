@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveData</key>
+	<string>canMountHeap</string>
+	<key>concreteMatrix</key>
+	<string>prismaticDelegate</string>
+	<key>fixedtimerfeedback</key>
+	<string>functionalActivity</string>
+	<key>listenerScale</key>
+	<string>minCupertino</string>
+	<key>onscreentap</key>
+	<string>provideLocalization</string>
+	<key>respectiveDecoration</key>
+	<string>notifyPromise</string>
+	<key>respectiveFactory</key>
+	<string>calculateContainer</string>
+</dict>
+</plist>

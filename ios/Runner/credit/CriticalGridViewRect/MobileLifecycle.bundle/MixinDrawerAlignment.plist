@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleEvent</key>
+	<string>canDetachLog</string>
+	<key>clipperactivityfrequency</key>
+	<string>unmountTable</string>
+	<key>robustDetector</key>
+	<string>normalrouterrate</string>
+</dict>
+</plist>

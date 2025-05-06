@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentAudio</key>
+	<string>pivotalProfile</string>
+	<key>concurrenttaxonomy</key>
+	<string>singleTriangles</string>
+	<key>dismissslider</key>
+	<string>canMountNorm</string>
+	<key>explicitSubpixel</key>
+	<string>activatedView</string>
+	<key>hyperbolicBehavior</key>
+	<string>prismaticImage</string>
+	<key>loaderLeft</key>
+	<string>respectiveAmortization</string>
+	<key>normalarithmetic</key>
+	<string>annotateProgressBar</string>
+	<key>shouldTrainSpecifier</key>
+	<string>cartesianCapacities</string>
+	<key>trajectoryState</key>
+	<string>navigationStage</string>
+</dict>
+</plist>

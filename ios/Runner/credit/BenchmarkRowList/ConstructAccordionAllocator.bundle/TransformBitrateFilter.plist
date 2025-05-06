@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalFactory</key>
+	<string>zoneContext</string>
+	<key>elementValidation</key>
+	<string>encapsulatematerial</string>
+	<key>lazyConvolution</key>
+	<string>multiPositioned</string>
+	<key>lossscheduler</key>
+	<string>keyEvaluation</string>
+	<key>shouldLayoutArithmetic</key>
+	<string>beginnerResolver</string>
+	<key>shouldPaintStep</key>
+	<string>keepBatch</string>
+	<key>substantialDecoration</key>
+	<string>hasSubpixel</string>
+	<key>usedMap</key>
+	<string>chapterdescription</string>
+</dict>
+</plist>

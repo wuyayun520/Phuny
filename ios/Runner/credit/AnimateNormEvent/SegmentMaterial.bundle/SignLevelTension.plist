@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationcenter</key>
+	<string>infoTag</string>
+	<key>factoryStatus</key>
+	<string>hardFrame</string>
+	<key>interactionlocation</key>
+	<string>canObserveColumn</string>
+	<key>listviewsensor</key>
+	<string>reactiveFlex</string>
+	<key>numericalmediaresponse</key>
+	<string>shouldTransformProject</string>
+	<key>originalSearcher</key>
+	<string>axisChain</string>
+	<key>scrollabletitleedge</key>
+	<string>interactorRotation</string>
+	<key>shouldStartTangent</key>
+	<string>comprehensiveBatch</string>
+	<key>sophisticatedSignature</key>
+	<string>stepwithtier</string>
+</dict>
+</plist>

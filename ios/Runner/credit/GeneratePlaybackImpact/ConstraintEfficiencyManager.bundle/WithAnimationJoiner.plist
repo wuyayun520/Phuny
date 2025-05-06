@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeCubit</key>
+	<string>flexibleNib</string>
+	<key>largePopup</key>
+	<string>agileBehavior</string>
+	<key>pageviewTail</key>
+	<string>unactivatedElasticity</string>
+	<key>prevTicker</key>
+	<string>consumerCommand</string>
+	<key>routeResponse</key>
+	<string>consultativeEffect</string>
+	<key>shouldrebuildmission</key>
+	<string>traversalPosition</string>
+	<key>similargradienttail</key>
+	<string>sortedPicker</string>
+</dict>
+</plist>

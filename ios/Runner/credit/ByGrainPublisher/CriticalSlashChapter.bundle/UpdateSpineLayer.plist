@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushType</key>
+	<string>effectHue</string>
+	<key>imperativeprovider</key>
+	<string>repositoryMode</string>
+	<key>keepgridview</key>
+	<string>hasinstruction</string>
+	<key>memberinset</key>
+	<string>lastSelector</string>
+	<key>shouldKeepKernel</key>
+	<string>subtleDropdownButton</string>
+	<key>shouldUnmountedEqualization</key>
+	<string>visualizePopup</string>
+	<key>splitterDistance</key>
+	<string>prismaticPlayback</string>
+</dict>
+</plist>

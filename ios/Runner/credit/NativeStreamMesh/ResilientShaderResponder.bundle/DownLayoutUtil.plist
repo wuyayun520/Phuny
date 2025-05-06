@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lazyCallback</key>
+	<string>defaultanimatedcontainer</string>
+	<key>newestLoader</key>
+	<string>dissociateService</string>
+	<key>primaryBloc</key>
+	<string>subsequentFlex</string>
+	<key>registerzone</key>
+	<string>diffablethreadflags</string>
+	<key>shouldUnmountGestureDetector</key>
+	<string>spotActivity</string>
+	<key>sinkbrightness</key>
+	<string>shearRoute</string>
+	<key>startticker</key>
+	<string>allocatorchooser</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>missionHue</key>
+	<string>flexSaturation</string>
+	<key>nodeacceleration</key>
+	<string>factoryStyle</string>
+	<key>occasionPressure</key>
+	<string>previewVar</string>
+	<key>respectiveCompletion</key>
+	<string>shouldRouteSemantics</string>
+	<key>servicemementostyle</key>
+	<string>shouldDispatchAspectRatio</string>
+	<key>subscriptioncommandbehavior</key>
+	<string>smartTopic</string>
+	<key>usedtabviewopacity</key>
+	<string>mitigatePreview</string>
+</dict>
+</plist>

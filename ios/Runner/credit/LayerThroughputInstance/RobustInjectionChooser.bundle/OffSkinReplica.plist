@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeExpanded</key>
+	<string>directlyprofile</string>
+	<key>criticalConstraint</key>
+	<string>asynchronousAllocator</string>
+	<key>cubeInset</key>
+	<string>globalAllocator</string>
+	<key>newestMargin</key>
+	<string>autoFrame</string>
+	<key>parallelFragment</key>
+	<string>missedSchema</string>
+	<key>relationalUnary</key>
+	<string>shouldHandleCertificate</string>
+	<key>shouldResumeModulus</key>
+	<string>cubitActivity</string>
+	<key>shouldSaveMatrix</key>
+	<string>canStreamContraction</string>
+</dict>
+</plist>

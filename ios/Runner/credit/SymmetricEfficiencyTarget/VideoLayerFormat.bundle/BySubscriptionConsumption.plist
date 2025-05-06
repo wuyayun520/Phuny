@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledHandler</key>
+	<string>hardMetrics</string>
+	<key>integrationTop</key>
+	<string>mainCaption</string>
+	<key>shouldNavigateModulus</key>
+	<string>protectedAscent</string>
+	<key>significantimpression</key>
+	<string>unactivatedStroke</string>
+	<key>sineShade</key>
+	<string>workflowStrategy</string>
+</dict>
+</plist>

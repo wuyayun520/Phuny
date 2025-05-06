@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnMode</key>
+	<string>directQueue</string>
+	<key>cupertinoSwitch</key>
+	<string>loadProfile</string>
+	<key>expliciterrorspacing</key>
+	<string>keepTextField</string>
+	<key>factorystagecolor</key>
+	<string>easyGem</string>
+	<key>normalCurve</key>
+	<string>awaitTransparency</string>
+	<key>pivotalSprite</key>
+	<string>associatedAlert</string>
+	<key>protectedSwitch</key>
+	<string>replaceService</string>
+	<key>respectivetechniquevalidation</key>
+	<string>materialawaystyle</string>
+	<key>shouldDecodePet</key>
+	<string>staticMapper</string>
+	<key>shouldEndProvider</key>
+	<string>shouldUnmountedMobile</string>
+</dict>
+</plist>

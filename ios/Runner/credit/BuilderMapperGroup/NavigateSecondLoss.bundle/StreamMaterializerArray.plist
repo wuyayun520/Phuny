@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardCharacter</key>
+	<string>originalGrid</string>
+	<key>containerRate</key>
+	<string>divideUtil</string>
+	<key>elasticIntensity</key>
+	<string>popIndicator</string>
+	<key>pinchableMetadata</key>
+	<string>toleranceBottom</string>
+	<key>respectiveawait</key>
+	<string>canDismissDescriptor</string>
+	<key>sequentialPoint</key>
+	<string>multiplyMetadata</string>
+	<key>shouldSubscribeSemantics</key>
+	<string>smartScale</string>
+</dict>
+</plist>

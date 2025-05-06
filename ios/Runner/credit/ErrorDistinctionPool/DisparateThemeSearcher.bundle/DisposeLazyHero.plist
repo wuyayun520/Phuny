@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarOffset</key>
+	<string>uniquelocalization</string>
+	<key>futureAppearance</key>
+	<string>standaloneCapacity</string>
+	<key>isConsumer</key>
+	<string>multiAccessory</string>
+	<key>mediocreTopic</key>
+	<string>shouldEncodeAnimation</string>
+	<key>projectionfactory</key>
+	<string>activatestamp</string>
+	<key>shouldcancelternary</key>
+	<string>overlayoperationright</string>
+	<key>strengthDensity</key>
+	<string>canRenderScaffold</string>
+</dict>
+</plist>

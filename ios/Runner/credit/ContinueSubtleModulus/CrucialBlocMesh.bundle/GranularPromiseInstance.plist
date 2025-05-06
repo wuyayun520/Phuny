@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveLocalization</key>
+	<string>signDecorator</string>
+	<key>exceptionTop</key>
+	<string>directGroup</string>
+	<key>expandedHue</key>
+	<string>canSetStateGraphic</string>
+	<key>tappableLog</key>
+	<string>canCancelProject</string>
+	<key>triggerDelay</key>
+	<string>taxonomyValidation</string>
+	<key>tweenchainleft</key>
+	<string>lossSkewX</string>
+</dict>
+</plist>

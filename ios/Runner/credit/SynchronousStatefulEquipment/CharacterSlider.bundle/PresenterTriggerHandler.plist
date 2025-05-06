@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveService</key>
+	<string>firstScalability</string>
+	<key>elementValidation</key>
+	<string>greatConsumer</string>
+	<key>immediateSorter</key>
+	<string>activeIntegration</string>
+	<key>remainderOffset</key>
+	<string>fuseddependency</string>
+	<key>vectorasobserver</key>
+	<string>stampLayer</string>
+</dict>
+</plist>

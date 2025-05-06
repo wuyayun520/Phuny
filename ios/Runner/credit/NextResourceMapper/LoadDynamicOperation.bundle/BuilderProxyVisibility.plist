@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioornumber</key>
+	<string>opaqueAwait</string>
+	<key>backwardSegue</key>
+	<string>sequentialLoop</string>
+	<key>compositionalMargin</key>
+	<string>disabledMethod</string>
+	<key>histogramperkind</key>
+	<string>interactorduringnumber</string>
+	<key>listenerFrequency</key>
+	<string>encodetimer</string>
+	<key>precisionKind</key>
+	<string>containerenvironmenttype</string>
+	<key>precisionlocation</key>
+	<string>similarAnimator</string>
+</dict>
+</plist>

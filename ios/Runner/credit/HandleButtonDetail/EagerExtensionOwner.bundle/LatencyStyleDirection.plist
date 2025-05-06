@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterpicker</key>
+	<string>listenerMemento</string>
+	<key>dedicatedDelegate</key>
+	<string>refreshTask</string>
+	<key>explicitAwait</key>
+	<string>standaloneAllocator</string>
+	<key>fixedTriangles</key>
+	<string>shouldMountedModulus</string>
+	<key>ignoredtext</key>
+	<string>transitionmomentum</string>
+	<key>missedTweak</key>
+	<string>shouldCancelCapacities</string>
+	<key>paddingOrientation</key>
+	<string>dropdownbuttonProcess</string>
+	<key>protectedPresenter</key>
+	<string>playQueue</string>
+	<key>sortedTaxonomy</key>
+	<string>detachCurve</string>
+</dict>
+</plist>

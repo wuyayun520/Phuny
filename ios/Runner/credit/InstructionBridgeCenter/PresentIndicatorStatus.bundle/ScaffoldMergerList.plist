@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>creatorIndex</key>
+	<string>arithmeticSign</string>
+	<key>imperativeAppBar</key>
+	<string>immutableRenderer</string>
+	<key>retainedNavigator</key>
+	<string>canStreamPoint</string>
+	<key>robustSignature</key>
+	<string>discardedCreator</string>
+	<key>shouldEncodeCupertino</key>
+	<string>cacheSpeed</string>
+</dict>
+</plist>

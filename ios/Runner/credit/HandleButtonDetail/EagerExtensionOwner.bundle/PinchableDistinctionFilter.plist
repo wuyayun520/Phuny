@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveQuaternion</key>
+	<string>monsteroutsidemethod</string>
+	<key>backwardStroke</key>
+	<string>shouldInflateCache</string>
+	<key>boxPressure</key>
+	<string>robustMargin</string>
+	<key>bundlereference</key>
+	<string>defaultcupertino</string>
+	<key>selectedUsage</key>
+	<string>imageOrigin</string>
+	<key>sharedCheckbox</key>
+	<string>canEndSine</string>
+	<key>tappableCharacteristic</key>
+	<string>canEncodeSegue</string>
+</dict>
+</plist>

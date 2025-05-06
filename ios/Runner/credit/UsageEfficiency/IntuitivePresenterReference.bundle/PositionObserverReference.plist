@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticOption</key>
+	<string>layoutAlert</string>
+	<key>currentAccessory</key>
+	<string>localizationValidation</string>
+	<key>masterInteraction</key>
+	<string>mobileReceiver</string>
+	<key>semanticEmitter</key>
+	<string>mobileFlyweight</string>
+	<key>shouldProcessCustomPaint</key>
+	<string>flexhue</string>
+	<key>tappableTraversal</key>
+	<string>animatedObserver</string>
+	<key>uniqueMomentum</key>
+	<string>cellMethod</string>
+</dict>
+</plist>

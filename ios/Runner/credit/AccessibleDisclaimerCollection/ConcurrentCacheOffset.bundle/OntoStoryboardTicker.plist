@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contrasttype</key>
+	<string>cupertinoSubscription</string>
+	<key>dedicatedScaffold</key>
+	<string>shouldlistenmusic</string>
+	<key>explicitMobile</key>
+	<string>shouldShowMultiplication</string>
+	<key>shouldYieldRemainder</key>
+	<string>multiLatency</string>
+	<key>textInset</key>
+	<string>documentSkewX</string>
+	<key>webBorder</key>
+	<string>pivotalRichText</string>
+</dict>
+</plist>

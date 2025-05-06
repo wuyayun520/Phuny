@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channeluntilparameter</key>
+	<string>borderVariable</string>
+	<key>managerTheme</key>
+	<string>cubeDuration</string>
+	<key>shouldshowmovement</key>
+	<string>startsprite</string>
+</dict>
+</plist>

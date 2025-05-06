@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentNavigation</key>
+	<string>scaffoldFeedback</string>
+	<key>lazyFeature</key>
+	<string>scheduleLocalization</string>
+	<key>movementobserver</key>
+	<string>dynamicStroke</string>
+	<key>newestDuration</key>
+	<string>publicCompleter</string>
+	<key>operationwithmode</key>
+	<string>primaryRemediation</string>
+	<key>pinchableBinary</key>
+	<string>minAperture</string>
+	<key>shouldRenderSkirt</key>
+	<string>unsortedLocalization</string>
+	<key>shouldSerializePlate</key>
+	<string>quitMetadata</string>
+	<key>textureForce</key>
+	<string>keySlider</string>
+</dict>
+</plist>

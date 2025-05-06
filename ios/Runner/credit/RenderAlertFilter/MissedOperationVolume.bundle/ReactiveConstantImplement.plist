@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>impactFrequency</key>
+	<string>currentTolerance</string>
+	<key>materializerPressure</key>
+	<string>canStartCheckbox</string>
+	<key>navigatorResponse</key>
+	<string>disabledEvolution</string>
+	<key>optionfunctionleft</key>
+	<string>findSingleton</string>
+	<key>publishbuilder</key>
+	<string>queueAppearance</string>
+	<key>routertempleduration</key>
+	<string>parallelRect</string>
+	<key>selectedEqualization</key>
+	<string>shouldPresentPoint</string>
+	<key>shouldAttachDecoration</key>
+	<string>viewMode</string>
+</dict>
+</plist>

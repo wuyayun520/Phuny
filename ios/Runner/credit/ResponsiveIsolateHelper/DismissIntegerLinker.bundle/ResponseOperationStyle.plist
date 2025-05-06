@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedlayoutshape</key>
+	<string>cursorCycle</string>
+	<key>basicMission</key>
+	<string>listenRoute</string>
+	<key>componentshade</key>
+	<string>storeHue</string>
+	<key>desktopCubit</key>
+	<string>shouldObserveSegment</string>
+	<key>inkwellfeedback</key>
+	<string>shouldNavigateSignature</string>
+	<key>primaryStrength</key>
+	<string>touchMenu</string>
+	<key>rolestatevelocity</key>
+	<string>yieldtransition</string>
+	<key>subsequentproject</key>
+	<string>rapidTrajectory</string>
+</dict>
+</plist>

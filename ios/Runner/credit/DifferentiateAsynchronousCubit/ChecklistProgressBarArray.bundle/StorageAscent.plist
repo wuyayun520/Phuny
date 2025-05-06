@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableBloc</key>
+	<string>characterrecursion</string>
+	<key>constantBound</key>
+	<string>marginParameter</string>
+	<key>flexibleCycle</key>
+	<string>secondinjection</string>
+	<key>marginStatus</key>
+	<string>shouldResumeController</string>
+	<key>nodeTransparency</key>
+	<string>shouldSetStateInteger</string>
+	<key>shouldNotifyListView</key>
+	<string>divideButton</string>
+	<key>shouldunmountedcache</key>
+	<string>temporaryAperture</string>
+	<key>utilValidation</key>
+	<string>textureCenter</string>
+</dict>
+</plist>

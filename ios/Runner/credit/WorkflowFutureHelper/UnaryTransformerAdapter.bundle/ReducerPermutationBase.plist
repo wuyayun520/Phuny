@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bindfuture</key>
+	<string>profileForce</string>
+	<key>semanticEfficiency</key>
+	<string>firstTangent</string>
+	<key>shouldSetStateCanvas</key>
+	<string>handlerStatus</string>
+	<key>tappableScroller</key>
+	<string>disabledTransformer</string>
+</dict>
+</plist>

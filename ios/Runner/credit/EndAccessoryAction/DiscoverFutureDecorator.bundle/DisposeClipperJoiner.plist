@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>multiplicationcubit</key>
+	<string>canAnimateInteger</string>
+	<key>providerplatforminterval</key>
+	<string>canPersistFlex</string>
+	<key>requestresponse</key>
+	<string>axisScope</string>
+	<key>shouldPushCharacter</key>
+	<string>fixedConstraint</string>
+	<key>shouldUnmountedActivity</key>
+	<string>compositionalMonster</string>
+</dict>
+</plist>

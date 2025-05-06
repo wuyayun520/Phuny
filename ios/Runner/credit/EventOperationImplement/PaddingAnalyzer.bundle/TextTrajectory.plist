@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cyclePadding</key>
+	<string>movementAcceleration</string>
+	<key>diffableParticle</key>
+	<string>pauseStoryboard</string>
+	<key>dynamicRect</key>
+	<string>vectorizeZone</string>
+	<key>mutablemultiplication</key>
+	<string>limitSlider</string>
+	<key>originalArchitecture</key>
+	<string>audioDuration</string>
+	<key>preparecache</key>
+	<string>enabledModal</string>
+	<key>prismaticMatrix</key>
+	<string>functionalDialogs</string>
+	<key>shouldTransitionAccessory</key>
+	<string>taskTheme</string>
+	<key>singleFuture</key>
+	<string>blocorfacade</string>
+</dict>
+</plist>

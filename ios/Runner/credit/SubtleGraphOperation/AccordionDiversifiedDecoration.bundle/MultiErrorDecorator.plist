@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>annotateallocator</key>
+	<string>alignmentParameter</string>
+	<key>brushTransparency</key>
+	<string>progressbarbeyondbuffer</string>
+	<key>compositionalRichText</key>
+	<string>processTopic</string>
+	<key>extensionbyscope</key>
+	<string>shouldDismissMonster</string>
+	<key>shouldCreateFuture</key>
+	<string>hardShape</string>
+</dict>
+</plist>

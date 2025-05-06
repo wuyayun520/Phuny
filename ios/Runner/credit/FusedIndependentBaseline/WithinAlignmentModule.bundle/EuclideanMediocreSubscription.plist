@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardTabView</key>
+	<string>statelessPrecision</string>
+	<key>fusedIndicator</key>
+	<string>techniqueAppearance</string>
+	<key>independentGraphic</key>
+	<string>shouldAttachNotification</string>
+	<key>renderrequest</key>
+	<string>cartesianInteraction</string>
+	<key>shouldPresentPageView</key>
+	<string>aggregateLocalization</string>
+	<key>sizedboxInterval</key>
+	<string>completedActivity</string>
+	<key>synchronousOffset</key>
+	<string>canAnimateCycle</string>
+</dict>
+</plist>

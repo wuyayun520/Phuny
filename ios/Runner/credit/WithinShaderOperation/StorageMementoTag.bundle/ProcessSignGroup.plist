@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerBullet</key>
+	<string>densestore</string>
+	<key>defaultcolumn</key>
+	<string>petDelay</string>
+	<key>disclaimerSkewX</key>
+	<string>masterflyweightcolor</string>
+	<key>expandedState</key>
+	<string>resulthue</string>
+	<key>requiredScale</key>
+	<string>pageviewCoord</string>
+	<key>resultbesideactivity</key>
+	<string>widgetParameter</string>
+	<key>shouldAnimateCube</key>
+	<string>transformerContext</string>
+	<key>shouldUnmountIcon</key>
+	<string>reductionSpacing</string>
+</dict>
+</plist>

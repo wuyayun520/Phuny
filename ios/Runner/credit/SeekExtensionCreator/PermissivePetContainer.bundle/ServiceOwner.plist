@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardcallbackskewx</key>
+	<string>debugTopic</string>
+	<key>discardedAxis</key>
+	<string>toolthanvar</string>
+	<key>endnotification</key>
+	<string>conformState</string>
+	<key>materialAperture</key>
+	<string>invokeText</string>
+	<key>modelacceleration</key>
+	<string>numericalHeap</string>
+	<key>shouldValidateRemainder</key>
+	<string>substantialTouch</string>
+</dict>
+</plist>

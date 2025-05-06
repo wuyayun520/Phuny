@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedPlate</key>
+	<string>canAnimateGestureDetector</string>
+	<key>asyncexceptjob</key>
+	<string>canEmitGridView</string>
+	<key>custompaintinsidebuffer</key>
+	<string>createTransformer</string>
+	<key>diversifiedAsync</key>
+	<string>composableListener</string>
+	<key>greatOverlay</key>
+	<string>exponentTransparency</string>
+	<key>painteraboutenvironment</key>
+	<string>cupertinoConstant</string>
+	<key>relationalHandler</key>
+	<string>loadBatch</string>
+	<key>shouldObserveUnary</key>
+	<string>orchestrateBuilder</string>
+</dict>
+</plist>

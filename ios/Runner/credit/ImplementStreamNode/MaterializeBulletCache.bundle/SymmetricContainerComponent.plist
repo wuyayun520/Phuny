@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesorientation</key>
+	<string>relationalSorter</string>
+	<key>configurationvisitorname</key>
+	<string>startfeature</string>
+	<key>geometricAppBar</key>
+	<string>previewPressure</string>
+	<key>keepnavigation</key>
+	<string>immutableInformation</string>
+	<key>shouldEndMatrix</key>
+	<string>shouldendequipment</string>
+	<key>workflowEdge</key>
+	<string>canPrepareCosine</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueoffset</key>
+	<string>nodebound</string>
+	<key>elasticFinder</key>
+	<string>fetchClipper</string>
+	<key>shouldEncodeController</key>
+	<string>containerbehavior</string>
+	<key>typicalController</key>
+	<string>synchronousModulus</string>
+	<key>uniquedescription</key>
+	<string>metricsFeedback</string>
+	<key>unmountedview</key>
+	<string>mutableStorage</string>
+</dict>
+</plist>

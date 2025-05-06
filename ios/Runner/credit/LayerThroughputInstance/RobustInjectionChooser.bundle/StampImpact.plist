@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityTint</key>
+	<string>generateInterface</string>
+	<key>characteristicTint</key>
+	<string>customizedStream</string>
+	<key>defaultaccessory</key>
+	<string>explicitDrawer</string>
+	<key>hierarchicalequipmentinset</key>
+	<string>discardedFeature</string>
+	<key>lossjobfeedback</key>
+	<string>selectedVariant</string>
+	<key>momentumDelay</key>
+	<string>substantialStore</string>
+	<key>notifierTheme</key>
+	<string>prioraction</string>
+	<key>positionedCount</key>
+	<string>unsortedRenderer</string>
+</dict>
+</plist>

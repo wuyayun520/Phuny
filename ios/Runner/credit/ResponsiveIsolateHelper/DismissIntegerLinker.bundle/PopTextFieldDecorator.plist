@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hierarchicalEntity</key>
+	<string>asynchronousRenderer</string>
+	<key>holdcubit</key>
+	<string>buttonStrategy</string>
+	<key>intermediateMap</key>
+	<string>controllerlocation</string>
+	<key>mainStroke</key>
+	<string>buildCustomPaint</string>
+	<key>reactiverow</key>
+	<string>presentBinary</string>
+	<key>removeroute</key>
+	<string>canNotifyGraphic</string>
+	<key>statelessStore</key>
+	<string>mountedBitrate</string>
+</dict>
+</plist>

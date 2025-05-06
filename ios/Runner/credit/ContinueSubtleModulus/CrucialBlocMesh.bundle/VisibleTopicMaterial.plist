@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedEffect</key>
+	<string>instructionStrategy</string>
+	<key>diffablecomposition</key>
+	<string>logfrequency</string>
+	<key>hardActivity</key>
+	<string>attachTopic</string>
+	<key>shouldCreateOption</key>
+	<string>shouldCreateMaster</string>
+	<key>shouldProcessImage</key>
+	<string>resilientSubpixel</string>
+	<key>shouldStartProfile</key>
+	<string>bufferobserverbottom</string>
+	<key>tappableDescription</key>
+	<string>mendDelay</string>
+	<key>typicalMomentum</key>
+	<string>shearAsync</string>
+</dict>
+</plist>

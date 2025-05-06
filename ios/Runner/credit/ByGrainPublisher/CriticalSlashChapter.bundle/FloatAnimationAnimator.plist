@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentname</key>
+	<string>handlerFramework</string>
+	<key>clipperTransparency</key>
+	<string>routeshade</string>
+	<key>customLabel</key>
+	<string>adaptiveHandler</string>
+	<key>densetask</key>
+	<string>sustainableListView</string>
+	<key>filterRate</key>
+	<string>holdhistogram</string>
+	<key>shouldPersistFragment</key>
+	<string>shouldCreateCell</string>
+	<key>significantComponent</key>
+	<string>normininterpreter</string>
+</dict>
+</plist>

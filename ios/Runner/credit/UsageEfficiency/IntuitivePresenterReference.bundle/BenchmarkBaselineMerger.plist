@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleRole</key>
+	<string>blocdetail</string>
+	<key>projectinterface</key>
+	<string>shouldListenSymbol</string>
+	<key>shouldstopsizedbox</key>
+	<string>largeSlider</string>
+	<key>usecaseoperationappearance</key>
+	<string>unactivatedInkWell</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateChooser</key>
+	<string>rebuildFuture</string>
+	<key>shouldPauseLog</key>
+	<string>sliderdecoratoredge</string>
+	<key>singleStore</key>
+	<string>projectionTier</string>
+</dict>
+</plist>

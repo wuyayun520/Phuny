@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyColor</key>
+	<string>multiLoss</string>
+	<key>commonScreen</key>
+	<string>canCancelSample</string>
+	<key>mechanismfeedback</key>
+	<string>shouldUnmountObserver</string>
+	<key>mediumgradient</key>
+	<string>canShowEquipment</string>
+	<key>sophisticatedobserverstatus</key>
+	<string>newestGradient</string>
+	<key>sustainablematrix</key>
+	<string>onstampchanged</string>
+	<key>zonenotation</key>
+	<string>completionawayvalue</string>
+</dict>
+</plist>

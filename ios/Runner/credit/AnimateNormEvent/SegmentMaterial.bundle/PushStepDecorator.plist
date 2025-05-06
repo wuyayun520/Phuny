@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentTouch</key>
+	<string>denseListener</string>
+	<key>consultativeGraph</key>
+	<string>dimensionOperation</string>
+	<key>ephemeralPreview</key>
+	<string>spineTag</string>
+	<key>ignoredConsumption</key>
+	<string>typicalCertificate</string>
+	<key>insteadswift</key>
+	<string>largeexpanded</string>
+	<key>publishhistogram</key>
+	<string>canPrepareBox</string>
+	<key>responsiveNavigator</key>
+	<string>specifyCoordinator</string>
+	<key>shouldAnimateTool</key>
+	<string>capacityHead</string>
+	<key>spinprogressbar</key>
+	<string>inactiveCapsule</string>
+</dict>
+</plist>

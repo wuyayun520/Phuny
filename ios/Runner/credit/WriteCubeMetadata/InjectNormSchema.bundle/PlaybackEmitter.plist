@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionAspect</key>
+	<string>prevPageView</string>
+	<key>allocatorRight</key>
+	<string>singleBoxShadow</string>
+	<key>defaultThread</key>
+	<string>shouldUnbindStateful</string>
+	<key>draggableEffect</key>
+	<string>prepareFlex</string>
+	<key>expandednearstate</key>
+	<string>refactorIntensity</string>
+	<key>mediocreDuration</key>
+	<string>originalResponse</string>
+	<key>shouldObserveDuration</key>
+	<string>arithmeticVector</string>
+	<key>utilShade</key>
+	<string>intermediateRect</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativefactoryformat</key>
+	<string>canAnimateTable</string>
+	<key>easyObserver</key>
+	<string>menuProxy</string>
+	<key>ismedia</key>
+	<string>declarativeUnary</string>
+	<key>listviewForce</key>
+	<string>defaultCertificate</string>
+	<key>mapStyle</key>
+	<string>formatListView</string>
+	<key>scrollableOperation</key>
+	<string>unmountSine</string>
+	<key>shouldContinueReduction</key>
+	<string>accessibleSelector</string>
+	<key>shouldMountedStateful</key>
+	<string>encodeEntropy</string>
+	<key>shouldUnbindAccessory</key>
+	<string>shouldEndReduction</string>
+	<key>shouldnotifytabview</key>
+	<string>visitsingleton</string>
+</dict>
+</plist>

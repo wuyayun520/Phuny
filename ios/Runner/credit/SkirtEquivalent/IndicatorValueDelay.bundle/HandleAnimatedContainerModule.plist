@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedPadding</key>
+	<string>graphicStrategy</string>
+	<key>inkwellimage</key>
+	<string>resethero</string>
+	<key>labelInteraction</key>
+	<string>scheduleLayout</string>
+	<key>shouldPaintAnimatedContainer</key>
+	<string>drawerScale</string>
+</dict>
+</plist>

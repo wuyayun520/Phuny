@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderTransparency</key>
+	<string>schemaLocation</string>
+	<key>compositionalStatus</key>
+	<string>pinchableTransformer</string>
+	<key>deserializeduration</key>
+	<string>unmountCache</string>
+	<key>listenerBottom</key>
+	<string>graphposition</string>
+	<key>nativeSwitch</key>
+	<string>shouldDecodeView</string>
+	<key>sessionVisible</key>
+	<string>presenterMemento</string>
+	<key>shouldYieldMargin</key>
+	<string>textfieldsize</string>
+	<key>specifierKind</key>
+	<string>shouldDecodeEntropy</string>
+</dict>
+</plist>

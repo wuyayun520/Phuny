@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphatexture</key>
+	<string>flexibleAxis</string>
+	<key>backwardinstruction</key>
+	<string>radioLevel</string>
+	<key>fixedMend</key>
+	<string>scaffoldSystem</string>
+	<key>mediumoffset</key>
+	<string>particleSaturation</string>
+	<key>reactivechanneledge</key>
+	<string>directlyPosition</string>
+	<key>shouldListenSubpixel</key>
+	<string>shouldTrainIndicator</string>
+	<key>zoneDistance</key>
+	<string>toolOpacity</string>
+</dict>
+</plist>

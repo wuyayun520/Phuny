@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegatelayerpressure</key>
+	<string>canEmitMedia</string>
+	<key>greatException</key>
+	<string>shouldSkipPrecision</string>
+	<key>positionedsystemskewx</key>
+	<string>cachePrecision</string>
+	<key>queuestate</key>
+	<string>trainRemainder</string>
+	<key>shouldStreamCache</key>
+	<string>firstEmitter</string>
+	<key>smallsingleton</key>
+	<string>canPaintWidget</string>
+	<key>uniformPet</key>
+	<string>ignoredDetail</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteScreen</key>
+	<string>canRenderSlider</string>
+	<key>cupertinoAnalyzer</key>
+	<string>interactionSpeed</string>
+	<key>denseLoader</key>
+	<string>yieldTheme</string>
+	<key>metadatashape</key>
+	<string>cancelRemainder</string>
+	<key>retainedPoint</key>
+	<string>constraintbuffer</string>
+	<key>semanticController</key>
+	<string>concurrentVideo</string>
+</dict>
+</plist>

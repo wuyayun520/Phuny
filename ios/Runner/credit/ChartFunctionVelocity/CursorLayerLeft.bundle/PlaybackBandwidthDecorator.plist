@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicSign</key>
+	<string>clipperanimator</string>
+	<key>coordinatorhue</key>
+	<string>mapTier</string>
+	<key>dedicatedAudio</key>
+	<string>touchcolor</string>
+	<key>directlyMesh</key>
+	<string>shearsession</string>
+	<key>granularStoryboard</key>
+	<string>documentLocation</string>
+	<key>shouldDismissOperation</key>
+	<string>concurrentSlider</string>
+	<key>tickerexceptbridge</key>
+	<string>disabledCubit</string>
+</dict>
+</plist>

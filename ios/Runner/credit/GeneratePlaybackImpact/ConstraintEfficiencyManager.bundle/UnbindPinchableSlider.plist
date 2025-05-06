@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorTag</key>
+	<string>fixedRepository</string>
+	<key>dropdownbuttonCenter</key>
+	<string>replaceMetadata</string>
+	<key>hasCapsule</key>
+	<string>shouldUnbindRadio</string>
+	<key>notificationHead</key>
+	<string>intermediateOverlay</string>
+	<key>popupTension</key>
+	<string>attachUnary</string>
+	<key>remainderworktransparency</key>
+	<string>writeWidget</string>
+	<key>resolvermodetop</key>
+	<string>permanentNotation</string>
+	<key>seamlessSwitch</key>
+	<string>navigatorForce</string>
+	<key>singleworkflow</key>
+	<string>aspectmargin</string>
+</dict>
+</plist>

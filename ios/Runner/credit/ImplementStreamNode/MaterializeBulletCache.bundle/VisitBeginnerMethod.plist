@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchTag</key>
+	<string>smartConnector</string>
+	<key>diffableGram</key>
+	<string>completedMap</string>
+	<key>drawerPressure</key>
+	<string>constraintedge</string>
+	<key>itemDistance</key>
+	<string>observeskirt</string>
+	<key>particleappearance</key>
+	<string>shouldInflateFlex</string>
+	<key>shouldDetachMonster</key>
+	<string>enumerateTicker</string>
+	<key>shouldSubscribeActivity</key>
+	<string>spriteAdapter</string>
+</dict>
+</plist>

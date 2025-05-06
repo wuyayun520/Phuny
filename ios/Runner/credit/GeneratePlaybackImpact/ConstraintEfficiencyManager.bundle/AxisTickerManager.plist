@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetVelocity</key>
+	<string>refreshCompleter</string>
+	<key>asynchronousInstruction</key>
+	<string>pushDescriptor</string>
+	<key>futurejobtheme</key>
+	<string>multiplicationcount</string>
+	<key>listviewCenter</key>
+	<string>richtextMode</string>
+	<key>losscubit</key>
+	<string>spinSlider</string>
+	<key>modelamongvar</key>
+	<string>tangentVisibility</string>
+	<key>navigatecycle</key>
+	<string>criticalAudio</string>
+	<key>shouldUpdateOption</key>
+	<string>bufferBrightness</string>
+	<key>subtleAlignment</key>
+	<string>encodechannels</string>
+</dict>
+</plist>

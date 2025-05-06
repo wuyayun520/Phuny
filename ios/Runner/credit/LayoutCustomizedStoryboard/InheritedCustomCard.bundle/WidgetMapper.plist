@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredTitle</key>
+	<string>singlereductiontint</string>
+	<key>detachtask</key>
+	<string>offsetStatus</string>
+	<key>draggabledelegate</key>
+	<string>bufferaroundmediator</string>
+	<key>dynamicDisclaimer</key>
+	<string>shouldDecodeOption</string>
+	<key>parallelResource</key>
+	<string>segueDensity</string>
+	<key>shouldtraincaption</key>
+	<string>decodeAnimation</string>
+	<key>tweenShape</key>
+	<string>shouldNotifyProvider</string>
+	<key>utilContrast</key>
+	<string>resizableoptimizer</string>
+</dict>
+</plist>

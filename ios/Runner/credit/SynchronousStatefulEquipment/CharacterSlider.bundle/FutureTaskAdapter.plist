@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticscopeacceleration</key>
+	<string>freeappbar</string>
+	<key>consumerLeft</key>
+	<string>draggableModulus</string>
+	<key>customIntensity</key>
+	<string>resizableThread</string>
+	<key>fusedPolygon</key>
+	<string>shouldYieldHero</string>
+	<key>unactivatedEffect</key>
+	<string>titleSingleton</string>
+</dict>
+</plist>

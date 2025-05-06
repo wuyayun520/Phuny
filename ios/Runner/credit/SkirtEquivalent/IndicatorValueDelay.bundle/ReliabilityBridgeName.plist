@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedResponse</key>
+	<string>containerSkewX</string>
+	<key>discardedTrajectory</key>
+	<string>actionMediator</string>
+	<key>localizationinmode</key>
+	<string>rowBehavior</string>
+	<key>opaqueobserver</key>
+	<string>invisibleGrain</string>
+	<key>prevQuaternion</key>
+	<string>skipArithmetic</string>
+	<key>shouldSerializeTextField</key>
+	<string>singleConfidentiality</string>
+	<key>substantialcapsuledirection</key>
+	<string>directlyCapacities</string>
+</dict>
+</plist>

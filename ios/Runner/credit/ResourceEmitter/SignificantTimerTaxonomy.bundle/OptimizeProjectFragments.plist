@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitrate</key>
+	<string>subtlePopup</string>
+	<key>eventBrightness</key>
+	<string>canTransitionFuture</string>
+	<key>infrastructureBehavior</key>
+	<string>shouldUnmountedWidget</string>
+	<key>latencyVelocity</key>
+	<string>sortedChallenge</string>
+	<key>materialElasticity</key>
+	<string>keyProtocol</string>
+	<key>schemaorigin</key>
+	<string>multiCombiner</string>
+	<key>sharedsinevisible</key>
+	<string>shouldEndMap</string>
+	<key>shouldTrainSwift</key>
+	<string>serializeSemantics</string>
+</dict>
+</plist>

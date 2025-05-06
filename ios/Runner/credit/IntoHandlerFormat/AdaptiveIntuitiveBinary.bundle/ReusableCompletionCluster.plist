@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileTopic</key>
+	<string>shouldPauseHeap</string>
+	<key>curveaction</key>
+	<string>currentPicker</string>
+	<key>inheritedSensor</key>
+	<string>canEmitMultiplication</string>
+	<key>interactiveAlert</key>
+	<string>canHandlePainter</string>
+	<key>intuitiveProvision</key>
+	<string>observeAppBar</string>
+	<key>loaderRight</key>
+	<string>loopTag</string>
+	<key>paintermetadata</key>
+	<string>dissociatePosition</string>
+	<key>sampleDelay</key>
+	<string>chartName</string>
+	<key>tappableDuration</key>
+	<string>explicitDialogs</string>
+</dict>
+</plist>

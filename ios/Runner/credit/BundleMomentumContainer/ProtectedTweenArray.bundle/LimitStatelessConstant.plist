@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishutil</key>
+	<string>checkboxMemento</string>
+	<key>layoutdetector</key>
+	<string>numericalStroke</string>
+	<key>lostVolume</key>
+	<string>schedulerPressure</string>
+	<key>observerpatternspacing</key>
+	<string>visualizeRepository</string>
+	<key>overlayContrast</key>
+	<string>heroDelay</string>
+	<key>prevConfiguration</key>
+	<string>shouldNotifyView</string>
+	<key>smartcursor</key>
+	<string>pageviewTension</string>
+	<key>statelessBottom</key>
+	<string>allocatorCoord</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonEdge</key>
+	<string>connectTernary</string>
+	<key>concurrentBullet</key>
+	<string>canUnmountSpot</string>
+	<key>opaqueTrigger</key>
+	<string>customizedCollection</string>
+	<key>sharedState</key>
+	<string>canDispatchArithmetic</string>
+	<key>unmountcanvas</key>
+	<string>shouldYieldRichText</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentnumberflags</key>
+	<string>mainStateless</string>
+	<key>combinerShape</key>
+	<string>mediocreoperationspeed</string>
+	<key>disabledsymbolsaturation</key>
+	<string>delicateCombiner</string>
+	<key>discardedDistinction</key>
+	<string>publicSprite</string>
+	<key>evaluationForce</key>
+	<string>shouldHandleResource</string>
+	<key>informationBorder</key>
+	<string>directlyIndicator</string>
+	<key>shouldPopDrawer</key>
+	<string>textfieldCoord</string>
+	<key>shouldProcessInterpolation</key>
+	<string>pauseresolver</string>
+	<key>similarSwitch</key>
+	<string>accessibleEntity</string>
+</dict>
+</plist>

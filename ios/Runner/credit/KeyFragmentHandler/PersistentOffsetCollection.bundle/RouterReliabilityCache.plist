@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationlevelduration</key>
+	<string>destroyMetadata</string>
+	<key>customScreen</key>
+	<string>allocatoroffset</string>
+	<key>requestFlags</key>
+	<string>convolutionBrightness</string>
+	<key>sequentialCharacteristic</key>
+	<string>smartModal</string>
+	<key>shouldBindAperture</key>
+	<string>deserializeGrain</string>
+</dict>
+</plist>

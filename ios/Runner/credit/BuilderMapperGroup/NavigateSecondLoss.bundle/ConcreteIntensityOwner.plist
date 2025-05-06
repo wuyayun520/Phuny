@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryOrigin</key>
+	<string>canSerializeSlider</string>
+	<key>lastConstant</key>
+	<string>shouldloaddelegate</string>
+	<key>listviewSpeed</key>
+	<string>shouldSetStateClipper</string>
+	<key>lostTouch</key>
+	<string>associateInteractor</string>
+	<key>offsetbound</key>
+	<string>requestMetadata</string>
+	<key>scaffoldPosition</key>
+	<string>descriptorType</string>
+	<key>singleThreshold</key>
+	<string>shouldKeepAxis</string>
+	<key>skirtTint</key>
+	<string>transformCustomPaint</string>
+	<key>usageFeedback</key>
+	<string>fixedNavigator</string>
+</dict>
+</plist>

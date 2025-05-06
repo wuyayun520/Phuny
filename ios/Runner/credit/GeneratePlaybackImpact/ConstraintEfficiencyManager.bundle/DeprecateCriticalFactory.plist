@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeAsset</key>
+	<string>localizationoccasion</string>
+	<key>directChart</key>
+	<string>numericalIsolate</string>
+	<key>globalHash</key>
+	<string>tensorTable</string>
+	<key>immutableConverter</key>
+	<string>cleanAllocator</string>
+	<key>iterativeHandler</key>
+	<string>subscriberEdge</string>
+	<key>matrixsystemcount</key>
+	<string>progressbarflags</string>
+</dict>
+</plist>

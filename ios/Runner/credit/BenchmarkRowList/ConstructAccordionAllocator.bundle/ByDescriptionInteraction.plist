@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeStream</key>
+	<string>pivotalInteractor</string>
+	<key>extensionvisitorscale</key>
+	<string>mediumCycle</string>
+	<key>imperativeEmitter</key>
+	<string>dedicatedResource</string>
+	<key>inheritedAudio</key>
+	<string>diversifiedSwitch</string>
+	<key>persistentcontainer</key>
+	<string>graphicState</string>
+	<key>priorStep</key>
+	<string>granularBorder</string>
+	<key>reactiveSorter</key>
+	<string>transitionTabBar</string>
+	<key>themeFormat</key>
+	<string>strokeLocation</string>
+</dict>
+</plist>

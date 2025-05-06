@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableBloc</key>
+	<string>unactivatedMechanism</string>
+	<key>invisibleAsset</key>
+	<string>capsuleContrast</string>
+	<key>lazyStroke</key>
+	<string>usecaseLayer</string>
+	<key>semanticsColor</key>
+	<string>shouldSaveTask</string>
+	<key>shouldAnimateEqualization</key>
+	<string>shouldRenderExtension</string>
+	<key>shouldLayoutBatch</key>
+	<string>shouldListenFragment</string>
+	<key>shouldtransformalpha</key>
+	<string>dimensionlifecycle</string>
+</dict>
+</plist>

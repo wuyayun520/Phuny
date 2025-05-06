@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedexponentshade</key>
+	<string>deprecaterect</string>
+	<key>commonFinder</key>
+	<string>canAnimateController</string>
+	<key>intermediateGesture</key>
+	<string>animateCapsule</string>
+	<key>resolverVisible</key>
+	<string>paintCatalyst</string>
+	<key>semanticpager</key>
+	<string>statefulRecursion</string>
+	<key>shouldSetStateCapacities</key>
+	<string>shouldSerializeBox</string>
+	<key>staticRenderer</key>
+	<string>shouldYieldCaption</string>
+</dict>
+</plist>

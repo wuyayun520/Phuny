@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cyclePressure</key>
+	<string>signwithoutpattern</string>
+	<key>immediateMargin</key>
+	<string>chartamongform</string>
+	<key>labelinfacade</key>
+	<string>threadVelocity</string>
+	<key>polyfillRight</key>
+	<string>behaviorRate</string>
+	<key>referenceMode</key>
+	<string>rowbottom</string>
+	<key>respondtext</key>
+	<string>canYieldDocument</string>
+	<key>shouldCreateContraction</key>
+	<string>popAsync</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisenvironmenttransparency</key>
+	<string>composableNavigator</string>
+	<key>batchbridgebottom</key>
+	<string>resolveZone</string>
+	<key>cubitStatus</key>
+	<string>routeMatrix</string>
+	<key>deserializeinjection</key>
+	<string>resourceplatformtension</string>
+	<key>marginType</key>
+	<string>shouldCacheAlpha</string>
+	<key>materialnumbervisible</key>
+	<string>processChart</string>
+	<key>mobilenorm</key>
+	<string>protectedBullet</string>
+	<key>responsiveScaffold</key>
+	<string>projectBuffer</string>
+	<key>singlePublisher</key>
+	<string>drawerCoord</string>
+</dict>
+</plist>

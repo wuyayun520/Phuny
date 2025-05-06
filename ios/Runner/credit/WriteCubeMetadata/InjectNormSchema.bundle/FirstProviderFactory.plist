@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleLoop</key>
+	<string>bindcharacter</string>
+	<key>completionsound</key>
+	<string>rebuildtransition</string>
+	<key>cosineCenter</key>
+	<string>modulusSaturation</string>
+	<key>interactiveTexture</key>
+	<string>channelTask</string>
+	<key>schedulerFeedback</key>
+	<string>resolverInterval</string>
+	<key>serializenorm</key>
+	<string>mediumSlider</string>
+	<key>smallTernary</key>
+	<string>shouldNotifyScroll</string>
+	<key>sortedComponent</key>
+	<string>activatedTouch</string>
+	<key>subscriptionname</key>
+	<string>currentmember</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousreducer</key>
+	<string>captionCommand</string>
+	<key>desktopComposition</key>
+	<string>prevDependency</string>
+	<key>dynamicInfrastructure</key>
+	<string>moveCallback</string>
+	<key>fixedprotocolfrequency</key>
+	<string>mediumAction</string>
+	<key>requiredStore</key>
+	<string>discoverUseCase</string>
+	<key>selectorShade</key>
+	<string>opaqueskin</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerIndex</key>
+	<string>semanticAllocator</string>
+	<key>logarithmindex</key>
+	<string>eagerSpine</string>
+	<key>materialCache</key>
+	<string>shouldUnmountedBloc</string>
+	<key>shouldFetchSwitch</key>
+	<string>parallelContrast</string>
+	<key>webReliability</key>
+	<string>heroSystem</string>
+</dict>
+</plist>

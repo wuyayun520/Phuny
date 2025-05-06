@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionrouter</key>
+	<string>singlePadding</string>
+	<key>normoccasion</key>
+	<string>deliveryScale</string>
+	<key>oldframe</key>
+	<string>bundleUseCase</string>
+	<key>originalcurve</key>
+	<string>loadmodal</string>
+	<key>presentcolumn</key>
+	<string>persistentRemediation</string>
+	<key>priorDialogs</key>
+	<string>shouldrestartnib</string>
+	<key>shouldPausePlayback</key>
+	<string>lostStorage</string>
+	<key>tappableColumn</key>
+	<string>sharedTweak</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedMesh</key>
+	<string>respondLabel</string>
+	<key>formatSpacing</key>
+	<string>writelayout</string>
+	<key>graphValidation</key>
+	<string>mainstream</string>
+	<key>missioncluster</key>
+	<string>publishActivity</string>
+	<key>relationalSelector</key>
+	<string>aspectproxytop</string>
+	<key>responseelement</key>
+	<string>canCacheImage</string>
+</dict>
+</plist>

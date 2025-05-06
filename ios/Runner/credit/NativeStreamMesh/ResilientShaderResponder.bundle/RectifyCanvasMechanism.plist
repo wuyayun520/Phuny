@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionBorder</key>
+	<string>thresholdsaturation</string>
+	<key>deactivatevector</key>
+	<string>basicConfiguration</string>
+	<key>mediumConstraint</key>
+	<string>capacitiesNumber</string>
+	<key>prismaticCreator</key>
+	<string>intuitiveHero</string>
+	<key>shouldStartModal</key>
+	<string>localmend</string>
+	<key>skinKind</key>
+	<string>particleCoord</string>
+</dict>
+</plist>

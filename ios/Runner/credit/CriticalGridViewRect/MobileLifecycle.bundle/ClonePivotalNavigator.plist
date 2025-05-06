@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionmechanism</key>
+	<string>resumemember</string>
+	<key>mediumNotification</key>
+	<string>paintCell</string>
+	<key>protectedScope</key>
+	<string>persistentThreshold</string>
+	<key>responsiveProjection</key>
+	<string>diffableVolume</string>
+	<key>shouldUnmountSwift</key>
+	<string>primaryRouter</string>
+	<key>statelessChapter</key>
+	<string>canTransitionTabBar</string>
+	<key>taxonomyEdge</key>
+	<string>declarativeaction</string>
+	<key>timerVelocity</key>
+	<string>stepBorder</string>
+</dict>
+</plist>

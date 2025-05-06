@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertLocation</key>
+	<string>standaloneConstant</string>
+	<key>dynamicintensityindex</key>
+	<string>paddingBridge</string>
+	<key>ignoredSwift</key>
+	<string>tappableRow</string>
+	<key>notificationmesh</key>
+	<string>utilofstyle</string>
+	<key>polygonBorder</key>
+	<string>keepProtocol</string>
+	<key>schedulerAppearance</key>
+	<string>slidershader</string>
+	<key>shouldInflateRichText</key>
+	<string>elasticityBottom</string>
+	<key>uniquegesturedetectorcolor</key>
+	<string>dispatcherOffset</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedRemediation</key>
+	<string>shouldPrepareBullet</string>
+	<key>listviewRight</key>
+	<string>tappableTexture</string>
+	<key>newestPoint</key>
+	<string>basicSelector</string>
+	<key>shouldstopcatalyst</key>
+	<string>canStreamSession</string>
+	<key>staticLoss</key>
+	<string>precisionStatus</string>
+	<key>synchronizecharacter</key>
+	<string>inheritedTolerance</string>
+</dict>
+</plist>

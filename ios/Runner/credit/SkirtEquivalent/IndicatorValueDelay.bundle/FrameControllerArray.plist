@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agilePromise</key>
+	<string>trainCheckbox</string>
+	<key>beginnerchecklist</key>
+	<string>uniqueactionkind</string>
+	<key>defaultgrayscale</key>
+	<string>uniformIndicator</string>
+	<key>diffablelistview</key>
+	<string>providerBorder</string>
+	<key>menuHead</key>
+	<string>eagerScroll</string>
+	<key>swiftLocation</key>
+	<string>protectedSink</string>
+	<key>tableInteraction</key>
+	<string>persistBitrate</string>
+	<key>traversalShape</key>
+	<string>screenHue</string>
+</dict>
+</plist>

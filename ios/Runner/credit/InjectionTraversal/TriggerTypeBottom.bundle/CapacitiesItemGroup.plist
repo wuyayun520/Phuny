@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeUsage</key>
+	<string>canDetachGestureDetector</string>
+	<key>callbackalongmemento</key>
+	<string>saveSign</string>
+	<key>flexibleRouter</key>
+	<string>cubitType</string>
+	<key>mediaContrast</key>
+	<string>touchStructure</string>
+	<key>modulusnavigator</key>
+	<string>precisionSingleton</string>
+	<key>shouldRestartAppBar</key>
+	<string>strengthInset</string>
+	<key>subpixelconstraint</key>
+	<string>schemaStatus</string>
+</dict>
+</plist>

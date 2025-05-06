@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalSample</key>
+	<string>inflateGridView</string>
+	<key>lazyremediation</key>
+	<string>triggertransparency</string>
+	<key>reactiveAnalyzer</key>
+	<string>queuedespitebuffer</string>
+	<key>rendererOpacity</key>
+	<string>channelsFormat</string>
+	<key>resizableFragment</key>
+	<string>shouldUnmountStateful</string>
+	<key>resizableMetadata</key>
+	<string>shouldparsesegue</string>
+	<key>scenariotension</key>
+	<string>shouldFinishBullet</string>
+	<key>shouldValidateGate</key>
+	<string>singleTool</string>
+	<key>specifyTriangles</key>
+	<string>statefulLocation</string>
+</dict>
+</plist>

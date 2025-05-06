@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>formatinset</key>
+	<string>responsivesegmentforce</string>
+	<key>receiverIndex</key>
+	<string>checklistTask</string>
+	<key>responsiveThreshold</key>
+	<string>accordionSubscription</string>
+	<key>shouldFormatTextField</key>
+	<string>constraintColor</string>
+	<key>shouldHandleNorm</key>
+	<string>accelerateNavigator</string>
+	<key>sophisticatedObserver</key>
+	<string>shouldObserveGradient</string>
+	<key>tensorDependency</key>
+	<string>sampleTint</string>
+</dict>
+</plist>

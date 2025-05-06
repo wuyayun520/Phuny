@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionFormat</key>
+	<string>shouldnavigatemobile</string>
+	<key>currentTool</key>
+	<string>mendCenter</string>
+	<key>delicatePicker</key>
+	<string>backwardInterpolation</string>
+	<key>invisiblecard</key>
+	<string>shouldBindHero</string>
+	<key>movementFlags</key>
+	<string>animateIntensity</string>
+	<key>significantRange</key>
+	<string>logSaturation</string>
+</dict>
+</plist>

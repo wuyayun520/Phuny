@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorVisibility</key>
+	<string>asynchronousLoader</string>
+	<key>clipperscalability</key>
+	<string>missedEmitter</string>
+	<key>disparateMusic</key>
+	<string>cloneWidget</string>
+	<key>inheritedEvaluation</key>
+	<string>canParseAspect</string>
+	<key>resizableMenu</key>
+	<string>formatSubpixel</string>
+	<key>reusablefragments</key>
+	<string>shouldBindComposition</string>
+	<key>soundlocation</key>
+	<string>routerimpression</string>
+	<key>standaloneTheme</key>
+	<string>routeProvider</string>
+</dict>
+</plist>

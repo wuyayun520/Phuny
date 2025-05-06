@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoMetadata</key>
+	<string>criticalrow</string>
+	<key>inactiveResource</key>
+	<string>toleranceVelocity</string>
+	<key>joinerStyle</key>
+	<string>sizeSingleton</string>
+	<key>refreshcontroller</key>
+	<string>hashastask</string>
+	<key>relationalAllocator</key>
+	<string>shouldMountMusic</string>
+	<key>semanticCharacteristic</key>
+	<string>diffableAspectRatio</string>
+	<key>shouldResumeBullet</key>
+	<string>shaderfacadetransparency</string>
+	<key>shouldStopNavigation</key>
+	<string>updatenode</string>
+</dict>
+</plist>

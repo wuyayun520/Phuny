@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableModule</key>
+	<string>comparePresenter</string>
+	<key>diversifiedPicker</key>
+	<string>topicProcess</string>
+	<key>exceptionvelocity</key>
+	<string>shouldUpdateCustomPaint</string>
+	<key>globalAnimation</key>
+	<string>fetchActivity</string>
+	<key>shouldValidateReduction</key>
+	<string>buttonFacade</string>
+</dict>
+</plist>

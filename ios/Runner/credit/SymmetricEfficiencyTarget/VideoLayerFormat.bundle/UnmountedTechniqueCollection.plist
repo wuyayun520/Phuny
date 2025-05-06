@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>groupFeedback</key>
+	<string>canUnmountedInkWell</string>
+	<key>hashbridgetension</key>
+	<string>shouldEndShader</string>
+	<key>kernelVisible</key>
+	<string>loadDescriptor</string>
+	<key>serializecube</key>
+	<string>touchStatus</string>
+	<key>significantService</key>
+	<string>pagerAcceleration</string>
+</dict>
+</plist>

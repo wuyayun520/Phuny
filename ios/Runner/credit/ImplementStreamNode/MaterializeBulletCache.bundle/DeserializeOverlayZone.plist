@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncState</key>
+	<string>shouldConnectProject</string>
+	<key>creatorStyle</key>
+	<string>consultativeIndicator</string>
+	<key>evaluationInset</key>
+	<string>catalystcolor</string>
+	<key>firstSemantics</key>
+	<string>beginnerGrain</string>
+	<key>hasprovider</key>
+	<string>parseAllocator</string>
+	<key>materialliketier</key>
+	<string>robustCache</string>
+	<key>shouldPrepareDescriptor</key>
+	<string>fusedProvider</string>
+	<key>statelessMechanism</key>
+	<string>declarativeJoiner</string>
+</dict>
+</plist>

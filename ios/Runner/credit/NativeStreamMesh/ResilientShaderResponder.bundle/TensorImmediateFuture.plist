@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticedge</key>
+	<string>drawRepository</string>
+	<key>gramAppearance</key>
+	<string>latencySkewX</string>
+	<key>keyBinary</key>
+	<string>onaspectratiochanged</string>
+	<key>otherReplica</key>
+	<string>canReplaceTabBar</string>
+	<key>projectchooser</key>
+	<string>canPopSample</string>
+	<key>resolvebuilder</key>
+	<string>marshalAsync</string>
+	<key>responderMomentum</key>
+	<string>deferredBinder</string>
+	<key>subscriptionVelocity</key>
+	<string>canDeserializeBloc</string>
+	<key>unactivatedGem</key>
+	<string>typicalMomentum</string>
+</dict>
+</plist>

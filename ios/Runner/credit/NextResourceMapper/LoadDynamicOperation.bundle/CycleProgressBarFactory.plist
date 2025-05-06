@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyState</key>
+	<string>globalSprite</string>
+	<key>continuetext</key>
+	<string>finishdelegate</string>
+	<key>crudeTicker</key>
+	<string>bitrateMargin</string>
+	<key>gatemementobottom</key>
+	<string>positionedrotation</string>
+	<key>multiplyworkflow</key>
+	<string>unsortedOption</string>
+	<key>permissiveChallenge</key>
+	<string>cubeFlyweight</string>
+	<key>shouldDispatchSample</key>
+	<string>constructUseCase</string>
+	<key>similarview</key>
+	<string>canStopBoxShadow</string>
+	<key>sorterFeedback</key>
+	<string>cartesianInterface</string>
+</dict>
+</plist>

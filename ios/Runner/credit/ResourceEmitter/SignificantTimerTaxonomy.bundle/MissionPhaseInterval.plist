@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityMargin</key>
+	<string>converterVisible</string>
+	<key>consumerlocation</key>
+	<string>shouldPushPageView</string>
+	<key>dependencycycleright</key>
+	<string>expandedhead</string>
+	<key>immutablebutton</key>
+	<string>statefulModule</string>
+	<key>sequentialIsolate</key>
+	<string>channelatstructure</string>
+	<key>shouldFinishMission</key>
+	<string>canValidateAnimatedContainer</string>
+</dict>
+</plist>

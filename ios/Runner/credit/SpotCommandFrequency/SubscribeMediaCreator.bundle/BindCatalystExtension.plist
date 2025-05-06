@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopImpact</key>
+	<string>interactiveSound</string>
+	<key>discardedBloc</key>
+	<string>deactivateRect</string>
+	<key>uniformAppBar</key>
+	<string>canDetachImage</string>
+	<key>visibleEfficiency</key>
+	<string>setupstream</string>
+</dict>
+</plist>

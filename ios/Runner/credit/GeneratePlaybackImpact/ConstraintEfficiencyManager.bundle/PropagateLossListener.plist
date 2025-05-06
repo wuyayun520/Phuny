@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentMomentum</key>
+	<string>canFinishCell</string>
+	<key>expandedmode</key>
+	<string>rapidOptimizer</string>
+	<key>hardService</key>
+	<string>onconvolutiontap</string>
+	<key>managertypeinset</key>
+	<string>projectIndex</string>
+	<key>numericalResponder</key>
+	<string>isbuilder</string>
+	<key>oldProfile</key>
+	<string>timerForm</string>
+	<key>prismaticMatrix</key>
+	<string>sequentialreferencevelocity</string>
+	<key>sharedTheme</key>
+	<string>elementTheme</string>
+	<key>shouldYieldCapsule</key>
+	<string>originalCustomPaint</string>
+	<key>unsortedLayer</key>
+	<string>shouldRestartExtension</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionuntiladapter</key>
+	<string>gridviewrotation</string>
+	<key>configurationName</key>
+	<string>timerVisitor</string>
+	<key>currentButton</key>
+	<string>sortedMobile</string>
+	<key>descriptorSpacing</key>
+	<string>combineService</string>
+	<key>flexibletaskdepth</key>
+	<string>featureasstate</string>
+	<key>prevAwait</key>
+	<string>transformSession</string>
+	<key>shouldBuildDelegate</key>
+	<string>invisibleBase</string>
+</dict>
+</plist>

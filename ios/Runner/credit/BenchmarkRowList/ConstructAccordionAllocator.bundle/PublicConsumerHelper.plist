@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianBrush</key>
+	<string>sinkMethod</string>
+	<key>distinctionMode</key>
+	<string>dismissColumn</string>
+	<key>largeEntity</key>
+	<string>basevalueindex</string>
+	<key>presenterworkscale</key>
+	<string>desktopInterpolation</string>
+	<key>prismaticsensor</key>
+	<string>customizedSpot</string>
+	<key>videoDelay</key>
+	<string>kernelbuffer</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredStream</key>
+	<string>fusedManager</string>
+	<key>evolutionoffset</key>
+	<string>reflectLoop</string>
+	<key>shouldInflateProfile</key>
+	<string>canDeserializeSpine</string>
+	<key>slashLocation</key>
+	<string>fetchFlex</string>
+	<key>topicContrast</key>
+	<string>priorityPadding</string>
+</dict>
+</plist>

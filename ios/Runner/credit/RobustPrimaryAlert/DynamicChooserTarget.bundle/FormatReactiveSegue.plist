@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedScope</key>
+	<string>shaderForce</string>
+	<key>agileResponse</key>
+	<string>canUpdatePlayback</string>
+	<key>certificateColor</key>
+	<string>canUpdateSensor</string>
+	<key>numericalRemediation</key>
+	<string>optimizerDecorator</string>
+	<key>statefulRole</key>
+	<string>shouldMountTable</string>
+	<key>webGroup</key>
+	<string>locateGroup</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarPressure</key>
+	<string>reactiveCheckbox</string>
+	<key>brushTint</key>
+	<string>wrapLayout</string>
+	<key>compositionalLog</key>
+	<string>canFormatCatalyst</string>
+	<key>geometricAspect</key>
+	<string>comprehensiveDescriptor</string>
+	<key>invisibleRequest</key>
+	<string>canStartGem</string>
+	<key>requiredEffect</key>
+	<string>clipRect</string>
+	<key>secondSorter</key>
+	<string>comprehensiveBuilder</string>
+	<key>shouldValidateTool</key>
+	<string>capsulerecursion</string>
+</dict>
+</plist>

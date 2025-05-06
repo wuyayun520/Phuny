@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entropyOffset</key>
+	<string>handlestream</string>
+	<key>pointintask</key>
+	<string>registeraspectratio</string>
+	<key>processorMode</key>
+	<string>tickerTag</string>
+	<key>staticScope</key>
+	<string>pinchableobserver</string>
+	<key>threadTag</key>
+	<string>canYieldAnimatedContainer</string>
+</dict>
+</plist>

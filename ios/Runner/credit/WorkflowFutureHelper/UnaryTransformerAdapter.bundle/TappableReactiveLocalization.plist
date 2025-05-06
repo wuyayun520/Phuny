@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncdistinction</key>
+	<string>respectiveInterpolation</string>
+	<key>delicatesensor</key>
+	<string>shouldDetachGrayscale</string>
+	<key>joinerSkewX</key>
+	<string>dedicatedPainter</string>
+	<key>multiplicationphasestate</key>
+	<string>elasticityColor</string>
+	<key>projectionSaturation</key>
+	<string>setstateResource</string>
+	<key>removemember</key>
+	<string>tangentMomentum</string>
+	<key>respectiveReference</key>
+	<string>configureBuffer</string>
+	<key>shouldSubscribeDuration</key>
+	<string>ignoredcolor</string>
+	<key>uniformClipper</key>
+	<string>handlerFrequency</string>
+	<key>visibleTransformer</key>
+	<string>combinerDirection</string>
+</dict>
+</plist>

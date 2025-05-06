@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleInteraction</key>
+	<string>cellVisibility</string>
+	<key>autoRestriction</key>
+	<string>firstIcon</string>
+	<key>cachetextfield</key>
+	<string>canFormatInstruction</string>
+	<key>hierarchicalAxis</key>
+	<string>logarithmmodel</string>
+	<key>integrationTension</key>
+	<string>swiftright</string>
+	<key>layoutState</key>
+	<string>enumerateChannel</string>
+	<key>seamlessPresenter</key>
+	<string>subscribeframe</string>
+	<key>sustainableCache</key>
+	<string>histogramCommand</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheoverlay</key>
+	<string>accessoryFramework</string>
+	<key>cartesianScalability</key>
+	<string>pinchableCanvas</string>
+	<key>linkerDistance</key>
+	<string>exceptionlistener</string>
+	<key>mountedallocator</key>
+	<string>resumeGate</string>
+	<key>otherAscent</key>
+	<string>largePainter</string>
+	<key>shouldPushCustomPaint</key>
+	<string>boxSize</string>
+	<key>shouldReplaceCache</key>
+	<string>adaptiveObject</string>
+	<key>shouldResumeMatrix</key>
+	<string>concatenateCallback</string>
+	<key>wrapsingleton</key>
+	<string>utilPosition</string>
+</dict>
+</plist>

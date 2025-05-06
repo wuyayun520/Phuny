@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dissociatecontroller</key>
+	<string>shouldPrepareCollection</string>
+	<key>liteSegue</key>
+	<string>shouldPushResource</string>
+	<key>numericalConvolution</key>
+	<string>accordionmaterializer</string>
+	<key>prismaticisolate</key>
+	<string>substantialusecase</string>
+	<key>reactiveSubscriber</key>
+	<string>analyzeRect</string>
+	<key>stopstore</key>
+	<string>difficultScope</string>
+	<key>sustainableCard</key>
+	<string>animationAlignment</string>
+	<key>timelineBrightness</key>
+	<string>defaultactivity</string>
+</dict>
+</plist>

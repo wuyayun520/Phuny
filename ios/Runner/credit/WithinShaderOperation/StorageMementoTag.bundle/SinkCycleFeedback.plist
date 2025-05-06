@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerIntensity</key>
+	<string>localContainer</string>
+	<key>brushLeft</key>
+	<string>playbackPattern</string>
+	<key>disparateSprite</key>
+	<string>shouldLayoutMovement</string>
+	<key>handlerleft</key>
+	<string>isscale</string>
+	<key>largeThroughput</key>
+	<string>canKeepTouch</string>
+	<key>robustDocument</key>
+	<string>persistContraction</string>
+	<key>shouldBindComposition</key>
+	<string>mixintitle</string>
+	<key>shouldPaintCertificate</key>
+	<string>parseInteractor</string>
+	<key>storeternary</key>
+	<string>canRebuildTheme</string>
+</dict>
+</plist>

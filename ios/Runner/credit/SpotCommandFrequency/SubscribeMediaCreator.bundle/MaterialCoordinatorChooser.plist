@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxrecursion</key>
+	<string>firstRole</string>
+	<key>cubeHue</key>
+	<string>shouldRebuildExpanded</string>
+	<key>displayableTouch</key>
+	<string>replaceAnimatedContainer</string>
+	<key>eagerSingleton</key>
+	<string>nodeDepth</string>
+	<key>primaryCell</key>
+	<string>storageProxy</string>
+	<key>resilientScale</key>
+	<string>nodeForce</string>
+	<key>resumegraph</key>
+	<string>cupertinoContrast</string>
+	<key>shouldContinueRichText</key>
+	<string>layoutSpine</string>
+	<key>temporaryBuilder</key>
+	<string>awaitBehavior</string>
+	<key>volumeMomentum</key>
+	<string>encodeEqualization</string>
+</dict>
+</plist>

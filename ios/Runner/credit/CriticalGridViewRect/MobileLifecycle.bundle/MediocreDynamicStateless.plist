@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedBorder</key>
+	<string>zoneCoord</string>
+	<key>beginnerFormat</key>
+	<string>instructionVariable</string>
+	<key>fixedView</key>
+	<string>viewstageshade</string>
+	<key>iscontroller</key>
+	<string>lostDrawer</string>
+	<key>modelName</key>
+	<string>mainStack</string>
+	<key>transformercompositekind</key>
+	<string>sequentialPreview</string>
+</dict>
+</plist>

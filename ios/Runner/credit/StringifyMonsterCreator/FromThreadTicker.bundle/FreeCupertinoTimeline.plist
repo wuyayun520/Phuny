@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchTail</key>
+	<string>animatorInteraction</string>
+	<key>delegateschema</key>
+	<string>aspectratioForm</string>
+	<key>disconnectaspect</key>
+	<string>specifyExpanded</string>
+	<key>hardZone</key>
+	<string>gradientInteraction</string>
+	<key>popupsubscriber</key>
+	<string>storyboarddistance</string>
+	<key>transitionLocation</key>
+	<string>shouldPublishMonster</string>
+	<key>visibleRadius</key>
+	<string>retainedTween</string>
+</dict>
+</plist>

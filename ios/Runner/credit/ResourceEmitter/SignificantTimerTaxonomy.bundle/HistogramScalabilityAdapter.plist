@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultGem</key>
+	<string>canEmitMobile</string>
+	<key>factorysize</key>
+	<string>factoryTail</string>
+	<key>interactivetransition</key>
+	<string>persistentKernel</string>
+	<key>offsetContrast</key>
+	<string>labelresilience</string>
+	<key>priorPicker</key>
+	<string>mediaDensity</string>
+	<key>roleTheme</key>
+	<string>augmentInjection</string>
+	<key>skirtTransparency</key>
+	<string>keepPadding</string>
+	<key>slidermomentum</key>
+	<string>onpromisetap</string>
+	<key>updatechannels</key>
+	<string>listviewKind</string>
+</dict>
+</plist>

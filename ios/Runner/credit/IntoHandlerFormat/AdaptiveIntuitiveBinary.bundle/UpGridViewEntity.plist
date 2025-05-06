@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentMember</key>
+	<string>skipdrawer</string>
+	<key>descentVelocity</key>
+	<string>unaryLeft</string>
+	<key>directlyLog</key>
+	<string>navigateWorkflow</string>
+	<key>explicitNib</key>
+	<string>associatedSprite</string>
+	<key>graphbesidedecorator</key>
+	<string>decodeDocument</string>
+	<key>largeProgressBar</key>
+	<string>evolutionDepth</string>
+	<key>observerstate</key>
+	<string>commonBox</string>
+	<key>polyfillSkewX</key>
+	<string>publicSpot</string>
+	<key>typicalModel</key>
+	<string>intermediateEquipment</string>
+</dict>
+</plist>

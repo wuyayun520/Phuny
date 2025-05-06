@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryflyweightinset</key>
+	<string>playbackmediatorcount</string>
+	<key>drawersaturation</key>
+	<string>baseStrategy</string>
+	<key>emittabview</key>
+	<string>iterativeScenario</string>
+	<key>fixedConstant</key>
+	<string>defaultbitrate</string>
+	<key>navigationTint</key>
+	<string>constraintskewx</string>
+	<key>originalGrain</key>
+	<string>pinchableVector</string>
+	<key>platetint</key>
+	<string>promiseStage</string>
+	<key>prismaticRemediation</key>
+	<string>localizationAcceleration</string>
+</dict>
+</plist>

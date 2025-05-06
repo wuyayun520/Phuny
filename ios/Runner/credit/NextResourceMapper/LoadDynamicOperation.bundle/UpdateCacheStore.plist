@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredLayer</key>
+	<string>permanentBase</string>
+	<key>largeThroughput</key>
+	<string>convolutionhead</string>
+	<key>scaledecoratorindex</key>
+	<string>lastRecursion</string>
+	<key>shouldHandleCustomPaint</key>
+	<string>segueForce</string>
+	<key>shouldUnmountScreen</key>
+	<string>normMediator</string>
+	<key>sophisticatedPoint</key>
+	<string>reduceListener</string>
+	<key>unmountedpresenter</key>
+	<string>shouldcreatepet</string>
+</dict>
+</plist>

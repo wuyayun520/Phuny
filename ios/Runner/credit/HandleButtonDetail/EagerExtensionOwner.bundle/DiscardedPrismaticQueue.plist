@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>methodwithshape</key>
+	<string>asyncMemento</string>
+	<key>revisitaction</key>
+	<string>directTheme</string>
+	<key>shouldStopBuilder</key>
+	<string>storageName</string>
+	<key>sizepressure</key>
+	<string>resourceResponse</string>
+</dict>
+</plist>

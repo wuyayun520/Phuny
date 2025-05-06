@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedeffectorigin</key>
+	<string>unregisterResult</string>
+	<key>inheritedArithmetic</key>
+	<string>fetchcompleter</string>
+	<key>lazyscaffoldfeedback</key>
+	<string>minLabel</string>
+	<key>mountrect</key>
+	<string>radioHue</string>
+	<key>popupInteraction</key>
+	<string>resizableAllocator</string>
+	<key>responsiveLogarithm</key>
+	<string>immediateWorkflow</string>
+	<key>seamlessObserver</key>
+	<string>curveinset</string>
+	<key>transitionexponent</key>
+	<string>canRouteTheme</string>
+</dict>
+</plist>

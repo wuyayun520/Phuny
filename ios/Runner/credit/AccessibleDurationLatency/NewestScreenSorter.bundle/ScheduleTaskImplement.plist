@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hardRenderer</key>
+	<string>touchState</string>
+	<key>similarQueue</key>
+	<string>notifySign</string>
+	<key>statefulposition</key>
+	<string>robustCosine</string>
+	<key>swiftmodetint</key>
+	<string>shouldTransformLayout</string>
+	<key>viewSize</key>
+	<string>requestStructure</string>
+</dict>
+</plist>

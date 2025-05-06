@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainersize</key>
+	<string>specifyContraction</string>
+	<key>globallinker</key>
+	<string>diversifiedaspectratio</string>
+	<key>hashanimation</key>
+	<string>capturegrid</string>
+	<key>immutableRoute</key>
+	<string>canDisconnectButton</string>
+	<key>immutableslider</key>
+	<string>shouldpreparestep</string>
+	<key>logarithmRate</key>
+	<string>symboladaptercount</string>
+</dict>
+</plist>

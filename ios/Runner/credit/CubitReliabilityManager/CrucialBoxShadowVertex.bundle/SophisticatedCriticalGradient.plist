@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonchannelsscale</key>
+	<string>cyclePhase</string>
+	<key>deserializesine</key>
+	<string>themetint</string>
+	<key>hardExtension</key>
+	<string>pauseTransition</string>
+	<key>hardInformation</key>
+	<string>pivotalAccessory</string>
+	<key>permissiveState</key>
+	<string>setstateDocument</string>
+	<key>prismaticUsage</key>
+	<string>formatStack</string>
+	<key>shouldPauseText</key>
+	<string>drawLabel</string>
+	<key>taskDelay</key>
+	<string>globalmesh</string>
+</dict>
+</plist>

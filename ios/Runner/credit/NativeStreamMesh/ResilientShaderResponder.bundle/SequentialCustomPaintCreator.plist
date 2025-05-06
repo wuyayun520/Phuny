@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalTool</key>
+	<string>alertLeft</string>
+	<key>customCallback</key>
+	<string>geometricHero</string>
+	<key>hardSelector</key>
+	<string>contrastSpacing</string>
+	<key>ignoredremainderleft</key>
+	<string>visibleProject</string>
+	<key>mountobserver</key>
+	<string>endframe</string>
+	<key>sampleCoord</key>
+	<string>shouldMountPadding</string>
+	<key>shouldTrainPrecision</key>
+	<string>interceptChart</string>
+	<key>temporaryMovement</key>
+	<string>arithmeticaperture</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerKind</key>
+	<string>shouldRestartGridView</string>
+	<key>associatedShape</key>
+	<string>activatedCompletion</string>
+	<key>clipperShade</key>
+	<string>canDeserializeEffect</string>
+	<key>discardedparticle</key>
+	<string>agileTheme</string>
+	<key>futureMode</key>
+	<string>subsequentGrid</string>
+	<key>permanentGridView</key>
+	<string>sliderprovider</string>
+	<key>playbackSkewX</key>
+	<string>draggableCatalyst</string>
+	<key>shouldStartBuilder</key>
+	<string>shouldpushswitch</string>
+	<key>shouldpublishalpha</key>
+	<string>originalDelegate</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationKind</key>
+	<string>orchestrateSingleton</string>
+	<key>diffableOperation</key>
+	<string>labelflyweightvisible</string>
+	<key>draggableContrast</key>
+	<string>displayablepresenter</string>
+	<key>grainphasetop</key>
+	<string>multiplicationCenter</string>
+	<key>informationForce</key>
+	<string>commonSkin</string>
+	<key>prismaticProjection</key>
+	<string>detectorTransparency</string>
+	<key>seamlessCustomPaint</key>
+	<string>subtleItem</string>
+	<key>shouldObserveConvolution</key>
+	<string>completionProxy</string>
+	<key>tappableTimer</key>
+	<string>obtainNode</string>
+	<key>tensorInjection</key>
+	<string>delegatetemplerotation</string>
+</dict>
+</plist>

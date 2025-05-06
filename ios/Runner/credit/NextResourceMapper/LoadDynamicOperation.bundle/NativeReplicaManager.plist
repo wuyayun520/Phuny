@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticGridView</key>
+	<string>statefulBinary</string>
+	<key>icontransition</key>
+	<string>disposeMember</string>
+	<key>independentExpanded</key>
+	<string>dropdownbuttonmomentum</string>
+	<key>losttimer</key>
+	<string>chapteraroundoperation</string>
+	<key>metadatamethodformat</key>
+	<string>nextThroughput</string>
+	<key>rapidPolygon</key>
+	<string>shouldReplaceGraphic</string>
+	<key>reusableTentative</key>
+	<string>checkRow</string>
+	<key>shouldPopPainter</key>
+	<string>deferredSchema</string>
+	<key>toolTint</key>
+	<string>shouldEndText</string>
+</dict>
+</plist>

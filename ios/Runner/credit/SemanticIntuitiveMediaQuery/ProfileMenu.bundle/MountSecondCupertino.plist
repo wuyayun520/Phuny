@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationinbuffer</key>
+	<string>robustSegue</string>
+	<key>assetoffset</key>
+	<string>tensorStack</string>
+	<key>basicGem</key>
+	<string>cursoredge</string>
+	<key>inactivePreview</key>
+	<string>seamlessSignature</string>
+	<key>rowTheme</key>
+	<string>assetbesidestate</string>
+	<key>shouldDisconnectEntropy</key>
+	<string>consumptionColor</string>
+	<key>sortedcontroller</key>
+	<string>loadCheckbox</string>
+	<key>taskvisibility</key>
+	<string>selectortop</string>
+</dict>
+</plist>

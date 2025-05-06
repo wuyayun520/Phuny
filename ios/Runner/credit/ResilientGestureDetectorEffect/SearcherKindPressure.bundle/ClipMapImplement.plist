@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>emitequalization</key>
+	<string>invisibleColumn</string>
+	<key>recursionKind</key>
+	<string>bitrateMethod</string>
+	<key>resilienceOffset</key>
+	<string>canRenderSkirt</string>
+	<key>shouldDecodeHistogram</key>
+	<string>spotIndex</string>
+	<key>storeMargin</key>
+	<string>disabledLoss</string>
+</dict>
+</plist>

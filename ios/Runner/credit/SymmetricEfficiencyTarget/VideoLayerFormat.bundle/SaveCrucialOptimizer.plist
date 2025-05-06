@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateStateful</key>
+	<string>markRadius</string>
+	<key>isGestureDetector</key>
+	<string>calculateConstraint</string>
+	<key>pointchooser</key>
+	<string>notificationStage</string>
+	<key>rowVisibility</key>
+	<string>activatedEqualization</string>
+	<key>sharedService</key>
+	<string>projectFacade</string>
+	<key>storyboardvisible</key>
+	<string>shouldunmountreference</string>
+</dict>
+</plist>

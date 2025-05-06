@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>largeFinder</key>
+	<string>canHandleCursor</string>
+	<key>rowobserverskewy</key>
+	<string>transitionlevelflags</string>
+	<key>semanticOccasion</key>
+	<string>rapidColumn</string>
+	<key>shouldConnectBaseline</key>
+	<string>normalCreator</string>
+	<key>viewwithoutcontext</key>
+	<string>hardasync</string>
+	<key>webPolygon</key>
+	<string>shouldStartReduction</string>
+</dict>
+</plist>

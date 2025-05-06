@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeSound</key>
+	<string>shouldStreamOption</string>
+	<key>desktopSwift</key>
+	<string>futureaction</string>
+	<key>handlerkindresponse</key>
+	<string>variantTransparency</string>
+	<key>hierarchicalSwitch</key>
+	<string>canMountSegue</string>
+	<key>injectionoffset</key>
+	<string>displayableScreen</string>
+	<key>shouldPublishStack</key>
+	<string>fusedmastersize</string>
+	<key>ternaryvaluealignment</key>
+	<string>dependencyProcess</string>
+</dict>
+</plist>

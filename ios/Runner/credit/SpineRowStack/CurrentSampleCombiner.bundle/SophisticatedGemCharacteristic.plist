@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>observerSkewY</key>
+	<string>cupertinoConstraint</string>
+	<key>optionSaturation</key>
+	<string>unactivatedBaseline</string>
+	<key>rowPosition</key>
+	<string>invokeResult</string>
+	<key>secondGraph</key>
+	<string>intermediateCreator</string>
+	<key>shouldSkipTask</key>
+	<string>prismaticSchema</string>
+	<key>smallVariant</key>
+	<string>activeCharacter</string>
+</dict>
+</plist>

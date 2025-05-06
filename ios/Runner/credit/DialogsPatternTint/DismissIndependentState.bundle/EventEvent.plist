@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binarypopup</key>
+	<string>builderForce</string>
+	<key>completionShade</key>
+	<string>conformproject</string>
+	<key>equalizationShape</key>
+	<string>pageviewthanenvironment</string>
+	<key>evaluatealert</key>
+	<string>searcherDuration</string>
+	<key>gradientTransparency</key>
+	<string>completerProcess</string>
+	<key>mainPriority</key>
+	<string>overrideGrain</string>
+	<key>permissivelabelshape</key>
+	<string>difficultGestureDetector</string>
+	<key>throughputResponse</key>
+	<string>accessibleShader</string>
+</dict>
+</plist>

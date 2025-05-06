@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerscalability</key>
+	<string>canConnectBuilder</string>
+	<key>entitydepth</key>
+	<string>canNotifySign</string>
+	<key>itemtail</key>
+	<string>spinResolver</string>
+	<key>missionDepth</key>
+	<string>unmountedVariant</string>
+	<key>mutableDescription</key>
+	<string>crucialSession</string>
+	<key>playbacklikeobserver</key>
+	<string>visitCallback</string>
+	<key>rowtransformer</key>
+	<string>introspectDuration</string>
+</dict>
+</plist>

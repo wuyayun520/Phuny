@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferStyle</key>
+	<string>concurrentStore</string>
+	<key>clustervalidation</key>
+	<string>transposeDescription</string>
+	<key>deliveryRotation</key>
+	<string>immediateStamp</string>
+	<key>permissiveArchitecture</key>
+	<string>routepatternrate</string>
+	<key>persistentContrast</key>
+	<string>encapsulateBuilder</string>
+	<key>pinchableResolver</key>
+	<string>diversifiedScroller</string>
+	<key>reactiveTabBar</key>
+	<string>synchronizeDelegate</string>
+	<key>shouldEndBullet</key>
+	<string>channelTop</string>
+	<key>uniqueTraversal</key>
+	<string>consumeroute</string>
+</dict>
+</plist>

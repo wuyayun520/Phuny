@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>loopOrigin</key>
+	<string>convertPreview</string>
+	<key>nibBound</key>
+	<string>resolverAppearance</string>
+	<key>opaqueScreen</key>
+	<string>particlecyclespeed</string>
+	<key>projecthandler</key>
+	<string>multiStore</string>
+	<key>routeColor</key>
+	<string>cartesianModal</string>
+	<key>tabbarOrigin</key>
+	<string>vectorizetext</string>
+	<key>unactivatedLabel</key>
+	<string>occasionPosition</string>
+</dict>
+</plist>

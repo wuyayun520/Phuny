@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fragmentsState</key>
+	<string>grayscaleSpacing</string>
+	<key>histogramDensity</key>
+	<string>eagerFragment</string>
+	<key>rectSkewY</key>
+	<string>yieldGradient</string>
+	<key>scrollableMerger</key>
+	<string>stringifycallback</string>
+	<key>selectedmap</key>
+	<string>canCancelLoss</string>
+	<key>shouldDecodeSizedBox</key>
+	<string>analyzerStyle</string>
+</dict>
+</plist>

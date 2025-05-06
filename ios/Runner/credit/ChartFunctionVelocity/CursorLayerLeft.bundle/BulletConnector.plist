@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionTransition</key>
+	<string>bitrateMediator</string>
+	<key>concurrentPadding</key>
+	<string>delegatecontrast</string>
+	<key>difficultDelegate</key>
+	<string>shouldMountedMovement</string>
+	<key>flexibleMediaQuery</key>
+	<string>batchLeft</string>
+	<key>permissiveCapsule</key>
+	<string>shouldReplaceTernary</string>
+	<key>priorConfidentiality</key>
+	<string>saveCapacities</string>
+</dict>
+</plist>

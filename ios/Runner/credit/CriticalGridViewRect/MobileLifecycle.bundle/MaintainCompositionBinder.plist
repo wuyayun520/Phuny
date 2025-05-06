@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasVisible</key>
+	<string>shouldSkipWidget</string>
+	<key>channelDistance</key>
+	<string>compositionalFormat</string>
+	<key>descriptorinproxy</key>
+	<string>schemaRotation</string>
+	<key>hasRichText</key>
+	<string>setstatePageView</string>
+	<key>isAnchor</key>
+	<string>shouldRenderOption</string>
+	<key>methodVisibility</key>
+	<string>discardedNavigation</string>
+	<key>readpopup</key>
+	<string>heapTag</string>
+	<key>respectivescope</key>
+	<string>shouldProcessBrush</string>
+	<key>rowflyweightbottom</key>
+	<string>connectorStyle</string>
+	<key>shouldDecodeCurve</key>
+	<string>canStopDropdownButton</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedSubscriber</key>
+	<string>canAttachReduction</string>
+	<key>audioBehavior</key>
+	<string>permissiveQueue</string>
+	<key>composableMedia</key>
+	<string>symmetricinkwellinterval</string>
+	<key>concurrentFlex</key>
+	<string>canValidateBinary</string>
+	<key>resourceascent</key>
+	<string>modeltop</string>
+	<key>robustcontrollerspacing</key>
+	<string>typicalModel</string>
+	<key>shouldFetchCatalyst</key>
+	<string>navigationhue</string>
+</dict>
+</plist>

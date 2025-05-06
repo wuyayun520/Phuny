@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperRate</key>
+	<string>resumeRadio</string>
+	<key>consumerCenter</key>
+	<string>sortedSkin</string>
+	<key>flexibleSubscription</key>
+	<string>canFormatTouch</string>
+	<key>imperativeRichText</key>
+	<string>flexibleModal</string>
+	<key>materialOccasion</key>
+	<string>shouldUpdateEquipment</string>
+	<key>mediaspacing</key>
+	<string>agileMenu</string>
+	<key>promiseanalogy</key>
+	<string>prepareMusic</string>
+	<key>techniquestructurealignment</key>
+	<string>lastMap</string>
+	<key>visibleEfficiency</key>
+	<string>mobileInterval</string>
+</dict>
+</plist>

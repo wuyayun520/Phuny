@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushchainpadding</key>
+	<string>symmetricResource</string>
+	<key>immediateAnimator</key>
+	<string>prevconnector</string>
+	<key>intuitiveGrid</key>
+	<string>augmentSlider</string>
+	<key>intuitiveSensor</key>
+	<string>signFormat</string>
+	<key>lostModulus</key>
+	<string>replaceCatalyst</string>
+	<key>techniquecount</key>
+	<string>capacitiesMethod</string>
+</dict>
+</plist>

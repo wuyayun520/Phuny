@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mediaquerycontrast</key>
+	<string>displayPreview</string>
+	<key>opaqueThroughput</key>
+	<string>agileInfo</string>
+	<key>precisionStatus</key>
+	<string>wrapResource</string>
+	<key>referenceFeedback</key>
+	<string>createSkin</string>
+	<key>resolverspeed</key>
+	<string>smallevolution</string>
+	<key>singleNavigator</key>
+	<string>previewthancommand</string>
+	<key>unsortedProtocol</key>
+	<string>shouldFormatAnchor</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactiveActivity</key>
+	<string>shouldPopLog</string>
+	<key>priorityCenter</key>
+	<string>vectorizeResponse</string>
+	<key>referencemapper</key>
+	<string>computecube</string>
+	<key>shouldPresentResource</key>
+	<string>crudeColumn</string>
+	<key>standaloneStatus</key>
+	<string>shouldEndPet</string>
+	<key>subpixelevaluation</key>
+	<string>cartesianCubit</string>
+	<key>updatelistview</key>
+	<string>convertRequest</string>
+</dict>
+</plist>

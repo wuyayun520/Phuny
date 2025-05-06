@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionWidget</key>
+	<string>searchNavigator</string>
+	<key>invokeroute</key>
+	<string>extensionStructure</string>
+	<key>modeldepth</key>
+	<string>shouldParseSign</string>
+	<key>robustRoute</key>
+	<string>movementdescription</string>
+	<key>screenfacademode</key>
+	<string>resizeTexture</string>
+	<key>shouldResumeSpecifier</key>
+	<string>animateSegue</string>
+	<key>stackForce</key>
+	<string>layoutCustomPaint</string>
+	<key>storyboardStatus</key>
+	<string>spinetint</string>
+	<key>tappableSchema</key>
+	<string>canUpdateStoryboard</string>
+	<key>triggerCenter</key>
+	<string>animateCubit</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitasactivity</key>
+	<string>lostNotification</string>
+	<key>formatrect</key>
+	<string>canFetchOverlay</string>
+	<key>nextmovement</key>
+	<string>intuitiveProjection</string>
+	<key>significantDrawer</key>
+	<string>taskForce</string>
+	<key>sortedmusic</key>
+	<string>sortedContainer</string>
+	<key>uniqueCharacteristic</key>
+	<string>movementIndex</string>
+</dict>
+</plist>

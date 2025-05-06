@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackequivalent</key>
+	<string>detachGesture</string>
+	<key>compositionalAnimatedContainer</key>
+	<string>profileStage</string>
+	<key>descriptorTheme</key>
+	<string>keyConstant</string>
+	<key>missionMargin</key>
+	<string>hastextfield</string>
+	<key>notifydescription</key>
+	<string>scrollablePermutation</string>
+	<key>rapidSkirt</key>
+	<string>strengthTint</string>
+	<key>scrollertop</key>
+	<string>primaryTabBar</string>
+	<key>selectedAlpha</key>
+	<string>unaryComposite</string>
+	<key>sharedMovement</key>
+	<string>decouplesine</string>
+	<key>shouldMountAperture</key>
+	<string>temporaryerror</string>
+</dict>
+</plist>

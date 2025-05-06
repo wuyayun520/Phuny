@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeGrayscale</key>
+	<string>stampCycle</string>
+	<key>dismissbuffer</key>
+	<string>shouldHandleDuration</string>
+	<key>flexFrequency</key>
+	<string>shouldPaintScaffold</string>
+	<key>sortedlayer</key>
+	<string>shouldCreateTransition</string>
+</dict>
+</plist>

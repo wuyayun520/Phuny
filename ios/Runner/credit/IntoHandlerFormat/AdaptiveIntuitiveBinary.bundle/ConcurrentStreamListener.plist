@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deserializemodel</key>
+	<string>observedescription</string>
+	<key>drawermargin</key>
+	<string>shoulddisconnectsegue</string>
+	<key>immediateThreshold</key>
+	<string>cellsystemspacing</string>
+	<key>independentSpot</key>
+	<string>canHandleCheckbox</string>
+	<key>listviewOrientation</key>
+	<string>nibcontainsingleton</string>
+	<key>painterpermediator</key>
+	<string>parseasync</string>
+	<key>rangeSaturation</key>
+	<string>canTrainSegue</string>
+	<key>seamlessSink</key>
+	<string>mobileresolver</string>
+	<key>stacktag</key>
+	<string>enabledSubscription</string>
+	<key>unsortedprovidervisible</key>
+	<string>requiredscope</string>
+</dict>
+</plist>

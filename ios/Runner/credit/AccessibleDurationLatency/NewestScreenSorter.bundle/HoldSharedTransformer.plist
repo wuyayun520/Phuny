@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentRectangle</key>
+	<string>canKeepExponent</string>
+	<key>notifierShape</key>
+	<string>schedulerspeed</string>
+	<key>responsiveMatrix</key>
+	<string>scaffoldAcceleration</string>
+	<key>sharedTrajectory</key>
+	<string>gridsaturation</string>
+	<key>sortedMechanism</key>
+	<string>heapHue</string>
+	<key>tappableIsolate</key>
+	<string>replaceBuffer</string>
+</dict>
+</plist>

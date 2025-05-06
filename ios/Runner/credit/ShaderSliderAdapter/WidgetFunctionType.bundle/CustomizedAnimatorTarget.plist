@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeDetail</key>
+	<string>shouldcontinuemargin</string>
+	<key>cycledrawer</key>
+	<string>consumerValidation</string>
+	<key>modulustop</key>
+	<string>emitterPosition</string>
+	<key>oldRemainder</key>
+	<string>firstmediaquery</string>
+	<key>radiusFrequency</key>
+	<string>streamSpeed</string>
+	<key>routemodealignment</key>
+	<string>navigateresource</string>
+	<key>trianglesHue</key>
+	<string>exitTicker</string>
+	<key>tweakBrightness</key>
+	<string>canTransformGesture</string>
+	<key>variantValidation</key>
+	<string>numericalProfile</string>
+</dict>
+</plist>

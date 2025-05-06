@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledStateless</key>
+	<string>usedDetector</string>
+	<key>flexibleSpot</key>
+	<string>normalColumn</string>
+	<key>projectDepth</key>
+	<string>animatorMode</string>
+	<key>repositorytheme</key>
+	<string>geometricRichText</string>
+	<key>shouldKeepLog</key>
+	<string>cancelCell</string>
+</dict>
+</plist>

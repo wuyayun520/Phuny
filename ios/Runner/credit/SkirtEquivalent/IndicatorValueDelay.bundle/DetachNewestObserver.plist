@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesiantool</key>
+	<string>mountedCheckbox</string>
+	<key>descriptortag</key>
+	<string>iterativeReliability</string>
+	<key>fixedAnalyzer</key>
+	<string>transformerright</string>
+	<key>nibResponse</key>
+	<string>canUpdateTangent</string>
+	<key>scrollableSprite</key>
+	<string>animatedcontainerTail</string>
+	<key>shouldHandleSample</key>
+	<string>threadprogressbar</string>
+	<key>unaryenvironmenttail</key>
+	<string>findslider</string>
+	<key>unmarshaltimer</key>
+	<string>compositionFlags</string>
+	<key>usecaseDelay</key>
+	<string>cupertinoDispatcher</string>
+</dict>
+</plist>

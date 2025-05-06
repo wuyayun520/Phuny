@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>prevVertex</key>
+	<string>shouldFormatButton</string>
+	<key>rapidOperation</key>
+	<string>adaptiveSearcher</string>
+	<key>selectedBatch</key>
+	<string>accordionScroller</string>
+	<key>subtleEvent</key>
+	<string>elasticStateful</string>
+	<key>viewmediatorinset</key>
+	<string>globalReplica</string>
+</dict>
+</plist>

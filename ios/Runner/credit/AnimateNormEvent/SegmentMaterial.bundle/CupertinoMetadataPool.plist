@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>factoryValidation</key>
+	<string>shouldKeepImage</string>
+	<key>immutableAnimation</key>
+	<string>tweenTransparency</string>
+	<key>injectionscenario</key>
+	<string>shouldPublishPrecision</string>
+	<key>missednotation</key>
+	<string>renameTitle</string>
+	<key>responsiveMediaQuery</key>
+	<string>animatedRange</string>
+	<key>shouldValidateEquipment</key>
+	<string>creatorFrequency</string>
+	<key>subsequenthistogram</key>
+	<string>inheritedRoute</string>
+	<key>tableTint</key>
+	<string>permanentFlex</string>
+</dict>
+</plist>

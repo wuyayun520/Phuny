@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileSound</key>
+	<string>borderNumber</string>
+	<key>blocdelivery</key>
+	<string>pivotalBoxShadow</string>
+	<key>decorationBorder</key>
+	<string>multiReceiver</string>
+	<key>sustainableAlpha</key>
+	<string>touchFacade</string>
+	<key>visibleRect</key>
+	<string>reconcilePreview</string>
+</dict>
+</plist>

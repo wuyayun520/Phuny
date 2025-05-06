@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleCupertino</key>
+	<string>clipperTag</string>
+	<key>assetsearcher</key>
+	<string>basicSample</string>
+	<key>asynchronousTabBar</key>
+	<string>createScreen</string>
+	<key>layoutintensity</key>
+	<string>compositionalEntropy</string>
+	<key>methodPadding</key>
+	<string>navigateTransition</string>
+	<key>sineFormat</key>
+	<string>notifyPet</string>
+</dict>
+</plist>

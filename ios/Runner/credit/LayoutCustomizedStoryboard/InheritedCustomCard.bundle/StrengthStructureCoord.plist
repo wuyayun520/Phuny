@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionShape</key>
+	<string>sinkSpeed</string>
+	<key>dynamicEfficiency</key>
+	<string>infrastructureFrequency</string>
+	<key>euclideanResult</key>
+	<string>zoneDistance</string>
+	<key>ignoredtaskopacity</key>
+	<string>oldRow</string>
+	<key>pivotalclipperstate</key>
+	<string>eraseWidget</string>
+	<key>sensorvisitorrotation</key>
+	<string>statelessAnalogy</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableResponder</key>
+	<string>opaqueCertificate</string>
+	<key>draggablewidget</key>
+	<string>commonFrame</string>
+	<key>interactiveProjection</key>
+	<string>optionStage</string>
+	<key>iterativePicker</key>
+	<string>divideIsolate</string>
+	<key>memberIndex</key>
+	<string>persistentMedia</string>
+	<key>shouldAnimateListView</key>
+	<string>statefulSample</string>
+	<key>usedHandler</key>
+	<string>specifyObserver</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalfactory</key>
+	<string>instantiateError</string>
+	<key>crucialView</key>
+	<string>cancelBrush</string>
+	<key>granularReplica</key>
+	<string>workflowMediator</string>
+	<key>intermediatePublisher</key>
+	<string>parallelTransition</string>
+	<key>shoulddispatchoptimizer</key>
+	<string>shouldFetchBloc</string>
+</dict>
+</plist>

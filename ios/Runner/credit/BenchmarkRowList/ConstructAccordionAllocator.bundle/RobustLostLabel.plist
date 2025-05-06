@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelremediation</key>
+	<string>parsestamp</string>
+	<key>createradius</key>
+	<string>canCancelDropdownButton</string>
+	<key>intuitivemapper</key>
+	<string>shouldBuildSwift</string>
+	<key>monsterOrientation</key>
+	<string>lastCache</string>
+</dict>
+</plist>

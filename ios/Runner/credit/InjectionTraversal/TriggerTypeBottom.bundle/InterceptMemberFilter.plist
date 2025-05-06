@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisallocator</key>
+	<string>navigateBaseline</string>
+	<key>mapperdelay</key>
+	<string>canPrepareProvider</string>
+	<key>plateAcceleration</key>
+	<string>extendTransition</string>
+	<key>reusableAlignment</key>
+	<string>cartesianBuilder</string>
+	<key>sortedBinder</key>
+	<string>roleBridge</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeutilflags</key>
+	<string>providerkind</string>
+	<key>completeratparameter</key>
+	<string>sliderEnvironment</string>
+	<key>gateatform</key>
+	<string>pickerbottom</string>
+	<key>globalAscent</key>
+	<string>shouldStartNotifier</string>
+	<key>interactiveUsage</key>
+	<string>streamparticle</string>
+	<key>rapidPositioned</key>
+	<string>lazyCard</string>
+	<key>shouldNavigateAccessory</key>
+	<string>splitterMode</string>
+	<key>similarFormat</key>
+	<string>operationresponse</string>
+	<key>singleLayer</key>
+	<string>descriptorValue</string>
+	<key>synchronousAlert</key>
+	<string>routeMusic</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorSaturation</key>
+	<string>scrollablebitrateborder</string>
+	<key>consumptionFlags</key>
+	<string>subscribetitle</string>
+	<key>descentResponse</key>
+	<string>shouldInflateTextField</string>
+	<key>discardedAnalogy</key>
+	<string>flexibleNavigator</string>
+	<key>mobileDrawer</key>
+	<string>tabbartitle</string>
+	<key>rectifylayout</key>
+	<string>immutableBox</string>
+	<key>specifyEvaluation</key>
+	<string>methodChain</string>
+	<key>subsequentGradient</key>
+	<string>gridTop</string>
+</dict>
+</plist>

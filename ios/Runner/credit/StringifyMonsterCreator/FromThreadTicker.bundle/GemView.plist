@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderprototypesaturation</key>
+	<string>sustainableDimension</string>
+	<key>commonMapper</key>
+	<string>statelessEdge</string>
+	<key>deferredResolver</key>
+	<string>canPauseNavigation</string>
+	<key>fixedIntegrity</key>
+	<string>eagerNotifier</string>
+	<key>modalwithstyle</key>
+	<string>updateText</string>
+	<key>relationalResponse</key>
+	<string>shouldNavigateDelegate</string>
+	<key>shouldPopInstruction</key>
+	<string>injectionJob</string>
+	<key>shouldPresentCertificate</key>
+	<string>sharedBehavior</string>
+	<key>sinkactivitytension</key>
+	<string>eagerHistogram</string>
+</dict>
+</plist>

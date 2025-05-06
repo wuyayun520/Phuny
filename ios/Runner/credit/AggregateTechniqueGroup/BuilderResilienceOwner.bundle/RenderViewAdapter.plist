@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralhistogram</key>
+	<string>litePager</string>
+	<key>evolutionHead</key>
+	<string>seamlessWidget</string>
+	<key>handlerdistance</key>
+	<string>nodeTemple</string>
+	<key>hasCoordinator</key>
+	<string>oldCoordinator</string>
+	<key>inflateanimatedcontainer</key>
+	<string>mountedWorkflow</string>
+	<key>intermediatedelegate</key>
+	<string>hierarchicalGradient</string>
+	<key>iterativePainter</key>
+	<string>titleinset</string>
+	<key>markcupertino</key>
+	<string>scenarioSpeed</string>
+	<key>multiArithmetic</key>
+	<string>releaseDescription</string>
+	<key>sustainableScale</key>
+	<string>resolverPadding</string>
+</dict>
+</plist>

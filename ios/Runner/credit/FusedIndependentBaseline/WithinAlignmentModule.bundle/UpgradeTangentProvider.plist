@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousSchema</key>
+	<string>cardActivity</string>
+	<key>disabledAsync</key>
+	<string>handleresolver</string>
+	<key>disabledCache</key>
+	<string>stringifyReducer</string>
+	<key>embedwidget</key>
+	<string>heroName</string>
+	<key>hyperbolicSpine</key>
+	<string>futureposition</string>
+	<key>newestProvision</key>
+	<string>canDisconnectTabBar</string>
+	<key>respectiveutil</key>
+	<string>disabledModule</string>
+	<key>shouldInflateSymbol</key>
+	<string>painterDirection</string>
+	<key>tweenduringstage</key>
+	<string>shouldConnectPositioned</string>
+</dict>
+</plist>

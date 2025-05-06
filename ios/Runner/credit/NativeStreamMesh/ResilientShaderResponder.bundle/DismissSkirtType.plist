@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionStyle</key>
+	<string>taxonomyResponse</string>
+	<key>fixedconstraintdensity</key>
+	<string>evaluationFrequency</string>
+	<key>inactiveChapter</key>
+	<string>temporaryTolerance</string>
+	<key>observesensor</key>
+	<string>aspectacceleration</string>
+	<key>synchronizecard</key>
+	<string>petCount</string>
+</dict>
+</plist>

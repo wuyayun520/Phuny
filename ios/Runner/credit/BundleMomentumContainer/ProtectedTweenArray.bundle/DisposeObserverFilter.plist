@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleObject</key>
+	<string>canFormatFragment</string>
+	<key>capsuledistinction</key>
+	<string>shouldDecodeNorm</string>
+	<key>displayableRow</key>
+	<string>routeVisibility</string>
+	<key>imperativeDisclaimer</key>
+	<string>tickerStatus</string>
+	<key>indicatorTension</key>
+	<string>previewPrototype</string>
+	<key>interactortension</key>
+	<string>swiftTag</string>
+	<key>otherScroll</key>
+	<string>protectedAlpha</string>
+	<key>sampleHue</key>
+	<string>repositoryshape</string>
+	<key>singletontag</key>
+	<string>shouldReplaceExponent</string>
+</dict>
+</plist>

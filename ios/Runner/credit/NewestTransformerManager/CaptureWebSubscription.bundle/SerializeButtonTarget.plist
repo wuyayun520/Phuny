@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedhistogramstate</key>
+	<string>unregisterAwait</string>
+	<key>flexibleTheme</key>
+	<string>handlerforce</string>
+	<key>materialSubpixel</key>
+	<string>liteSlash</string>
+	<key>resolvertag</key>
+	<string>mergerColor</string>
+	<key>trajectorybound</key>
+	<string>precisiontype</string>
+</dict>
+</plist>

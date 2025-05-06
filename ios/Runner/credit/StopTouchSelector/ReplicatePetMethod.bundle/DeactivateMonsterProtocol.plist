@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedInterface</key>
+	<string>consumerRate</string>
+	<key>displayableMomentum</key>
+	<string>otherContainer</string>
+	<key>exceptionShape</key>
+	<string>arithmeticElement</string>
+	<key>keyAccessory</key>
+	<string>distinctiondensity</string>
+	<key>shouldObserveExponent</key>
+	<string>controllerposition</string>
+	<key>shouldProcessNib</key>
+	<string>mutableHeap</string>
+	<key>shouldUpdateReference</key>
+	<string>widgetdescription</string>
+</dict>
+</plist>

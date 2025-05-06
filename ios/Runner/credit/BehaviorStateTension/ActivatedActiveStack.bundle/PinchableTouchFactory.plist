@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainercoord</key>
+	<string>layername</string>
+	<key>commondependencyvisible</key>
+	<string>polygonDensity</string>
+	<key>crucialThroughput</key>
+	<string>buffercount</string>
+	<key>otherAccessory</key>
+	<string>platecolor</string>
+	<key>publicStamp</key>
+	<string>unmountedloss</string>
+	<key>rapidSubpixel</key>
+	<string>shouldPresentChecklist</string>
+	<key>robustBrush</key>
+	<string>skipDialogs</string>
+	<key>shouldYieldHistogram</key>
+	<string>materializerScale</string>
+	<key>shouldstreamthread</key>
+	<string>functionalCubit</string>
+	<key>uniformPresenter</key>
+	<string>scrollBottom</string>
+</dict>
+</plist>

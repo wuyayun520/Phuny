@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>greatFilter</key>
+	<string>fillSingleton</string>
+	<key>largeItem</key>
+	<string>precisionSkewX</string>
+	<key>mediumSkin</key>
+	<string>infrastructureSize</string>
+	<key>movementstatus</key>
+	<string>euclideanPreview</string>
+	<key>requiredEquivalent</key>
+	<string>activePreview</string>
+	<key>sampletolerance</key>
+	<string>semanticmetadata</string>
+	<key>sustainableGradient</key>
+	<string>canCreatePlayback</string>
+	<key>textsincelevel</key>
+	<string>currentHero</string>
+</dict>
+</plist>

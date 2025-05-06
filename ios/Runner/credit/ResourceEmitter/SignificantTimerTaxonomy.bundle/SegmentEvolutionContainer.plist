@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelOrientation</key>
+	<string>dynamicStatus</string>
+	<key>constraintcoord</key>
+	<string>hierarchicalPrecision</string>
+	<key>matrixAlignment</key>
+	<string>shouldYieldSession</string>
+	<key>projectionposition</key>
+	<string>graphBuffer</string>
+	<key>shouldRestartView</key>
+	<string>invisibletweenopacity</string>
+	<key>shouldemitswift</key>
+	<string>shouldRebuildSpecifier</string>
+	<key>stateTop</key>
+	<string>smartStrength</string>
+</dict>
+</plist>

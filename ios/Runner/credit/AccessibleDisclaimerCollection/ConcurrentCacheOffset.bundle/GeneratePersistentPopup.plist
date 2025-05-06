@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbartypedensity</key>
+	<string>concurrentBox</string>
+	<key>globalFuture</key>
+	<string>typicalresponse</string>
+	<key>musictriangles</key>
+	<string>serializeCell</string>
+	<key>processfuture</key>
+	<string>streamLocation</string>
+	<key>recursionSpeed</key>
+	<string>shouldDispatchMember</string>
+</dict>
+</plist>

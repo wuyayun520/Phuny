@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarPadding</key>
+	<string>canDispatchCursor</string>
+	<key>capacityHue</key>
+	<string>canContinueBox</string>
+	<key>lostCurve</key>
+	<string>renameTransition</string>
+	<key>opaqueTable</key>
+	<string>sampleValue</string>
+	<key>pinchableReliability</key>
+	<string>streamcell</string>
+	<key>quaternionInterval</key>
+	<string>eagerlabelsaturation</string>
+	<key>shouldSerializeCoordinator</key>
+	<string>delegateorchain</string>
+</dict>
+</plist>

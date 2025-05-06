@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>normaltransition</key>
+	<string>accelerateCompleter</string>
+	<key>persistentConsumer</key>
+	<string>observeloop</string>
+	<key>resizebuilder</key>
+	<string>visitView</string>
+	<key>shouldObserveReference</key>
+	<string>inactiveTransformer</string>
+	<key>shouldPublishScaffold</key>
+	<string>informationSaturation</string>
+	<key>signstream</key>
+	<string>standaloneMetadata</string>
+	<key>typicalAlpha</key>
+	<string>canUnbindScroll</string>
+</dict>
+</plist>

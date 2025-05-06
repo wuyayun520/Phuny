@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensivePopup</key>
+	<string>visitMenu</string>
+	<key>concreteFlex</key>
+	<string>denseLatency</string>
+	<key>interactiveModule</key>
+	<string>scrollAdapter</string>
+	<key>lostTraversal</key>
+	<string>radioStatus</string>
+	<key>mediumMethod</key>
+	<string>compilePosition</string>
+	<key>shouldRestartOptimizer</key>
+	<string>equalizationScope</string>
+</dict>
+</plist>

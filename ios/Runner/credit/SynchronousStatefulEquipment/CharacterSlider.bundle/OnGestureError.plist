@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>embedcycle</key>
+	<string>techniquesincetype</string>
+	<key>isolateLocation</key>
+	<string>adjustInteractor</string>
+	<key>multiStateful</key>
+	<string>stopNib</string>
+	<key>nativeException</key>
+	<string>renderMargin</string>
+	<key>otherDistinction</key>
+	<string>unbindAperture</string>
+	<key>resizablePageView</key>
+	<string>subtlePet</string>
+	<key>shouldDismissButton</key>
+	<string>boxshadowMode</string>
+	<key>signInset</key>
+	<string>shouldFormatTheme</string>
+</dict>
+</plist>

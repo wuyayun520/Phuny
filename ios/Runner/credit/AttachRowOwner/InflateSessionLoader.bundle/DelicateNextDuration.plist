@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxadaptershade</key>
+	<string>serviceBuffer</string>
+	<key>ephemeralNib</key>
+	<string>beginnerLabel</string>
+	<key>iconname</key>
+	<string>currentdocument</string>
+	<key>inactivespecifierborder</key>
+	<string>groupVelocity</string>
+	<key>inflatelabel</key>
+	<string>adaptivechart</string>
+	<key>intermediateCompletion</key>
+	<string>permissiveVertex</string>
+	<key>iterativeConstraint</key>
+	<string>declarativewidgettype</string>
+	<key>localGesture</key>
+	<string>continueTechnique</string>
+	<key>routegraph</key>
+	<string>curvesingletonkind</string>
+	<key>shouldnotifyconstraint</key>
+	<string>shouldCreateProject</string>
+</dict>
+</plist>

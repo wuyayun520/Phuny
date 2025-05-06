@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionmargin</key>
+	<string>normalTheme</string>
+	<key>evaluateprogressbar</key>
+	<string>tappableGradient</string>
+	<key>hyperbolicpublisher</key>
+	<string>descriptorBorder</string>
+	<key>layerflags</key>
+	<string>containerfeedback</string>
+	<key>listviewDepth</key>
+	<string>writeBuffer</string>
+	<key>managerinstrategy</key>
+	<string>issign</string>
+	<key>shouldAttachDescriptor</key>
+	<string>encodeTheme</string>
+	<key>shouldObserveCupertino</key>
+	<string>immutableDuration</string>
+</dict>
+</plist>

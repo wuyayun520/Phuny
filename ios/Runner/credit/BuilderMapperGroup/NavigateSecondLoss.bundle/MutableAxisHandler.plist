@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerinterfaceresponse</key>
+	<string>canEndSwitch</string>
+	<key>eagerDetector</key>
+	<string>startbatch</string>
+	<key>flexibleChecklist</key>
+	<string>concurrentHero</string>
+	<key>protectedSemantics</key>
+	<string>implementgate</string>
+	<key>shouldCreatePrecision</key>
+	<string>confidentialityState</string>
+	<key>standaloneReference</key>
+	<string>shouldPauseCapacities</string>
+	<key>streamBottom</key>
+	<string>reusableTechnique</string>
+</dict>
+</plist>

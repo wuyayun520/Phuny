@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicBehavior</key>
+	<string>toleranceOpacity</string>
+	<key>presentloop</key>
+	<string>pushTopic</string>
+	<key>respectiveDistinction</key>
+	<string>robustSine</string>
+	<key>scaleMode</key>
+	<string>activatedAlpha</string>
+	<key>sequentialEvolution</key>
+	<string>escalateUseCase</string>
+	<key>servicewithoutaction</key>
+	<string>canLayoutPositioned</string>
+	<key>shouldYieldMusic</key>
+	<string>fixedCallback</string>
+</dict>
+</plist>

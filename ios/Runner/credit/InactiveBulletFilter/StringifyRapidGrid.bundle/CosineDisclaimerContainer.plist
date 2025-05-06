@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryprogressbar</key>
+	<string>canLayoutChallenge</string>
+	<key>compositionFlags</key>
+	<string>shouldsubscribeeffect</string>
+	<key>crudesubpixelcontrast</key>
+	<string>strengthForce</string>
+	<key>euclideanAlert</key>
+	<string>compareTask</string>
+	<key>shouldResumeTangent</key>
+	<string>freeView</string>
+</dict>
+</plist>

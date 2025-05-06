@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentvartheme</key>
+	<string>parallelAnimation</string>
+	<key>compileticker</key>
+	<string>comprehensiveSession</string>
+	<key>enabledrow</key>
+	<string>mainSign</string>
+	<key>fixedConnector</key>
+	<string>offsetRight</string>
+	<key>handleutil</key>
+	<string>spineTheme</string>
+	<key>permissiveSound</key>
+	<string>normFormat</string>
+	<key>richtextuntiltask</key>
+	<string>animatedCycle</string>
+	<key>shouldLayoutCube</key>
+	<string>obtainLayer</string>
+	<key>shouldUnmountDimension</key>
+	<string>reactiveEqualization</string>
+	<key>sliderRotation</key>
+	<string>restartsegment</string>
+</dict>
+</plist>

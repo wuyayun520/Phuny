@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hierarchicalVector</key>
+	<string>concurrentDescent</string>
+	<key>modelcoord</key>
+	<string>iterativecharttop</string>
+	<key>shouldPauseSignature</key>
+	<string>displayableDrawer</string>
+	<key>shouldPushConvolution</key>
+	<string>dialogsbrightness</string>
+	<key>shouldRestartRow</key>
+	<string>cubitBrightness</string>
+	<key>smallVariant</key>
+	<string>sceneCycle</string>
+	<key>tentativeOrigin</key>
+	<string>offsetcommandspacing</string>
+	<key>themeRight</key>
+	<string>locatechallenge</string>
+</dict>
+</plist>

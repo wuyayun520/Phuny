@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>materialSwitch</key>
+	<string>freeInjection</string>
+	<key>movementInterval</key>
+	<string>defaultTabView</string>
+	<key>shouldRebuildMatrix</key>
+	<string>loopSpacing</string>
+	<key>sorterCenter</key>
+	<string>scrollerInterval</string>
+</dict>
+</plist>

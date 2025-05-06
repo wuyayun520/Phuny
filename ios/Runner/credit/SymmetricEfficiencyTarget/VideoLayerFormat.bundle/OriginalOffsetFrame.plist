@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioOrientation</key>
+	<string>managerBuffer</string>
+	<key>greatScalability</key>
+	<string>releaseGrid</string>
+	<key>labelDepth</key>
+	<string>boxintensity</string>
+	<key>largeAnalyzer</key>
+	<string>resolverAppearance</string>
+	<key>selectorFormat</key>
+	<string>monsterStrategy</string>
+	<key>shouldPublishText</key>
+	<string>labelCoord</string>
+	<key>skirtchainhue</key>
+	<string>custompaintshape</string>
+	<key>tablelevelmargin</key>
+	<string>composableTime</string>
+</dict>
+</plist>

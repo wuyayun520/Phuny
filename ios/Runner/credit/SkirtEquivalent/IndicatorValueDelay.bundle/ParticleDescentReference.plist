@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeCharacter</key>
+	<string>shouldHandleBitrate</string>
+	<key>dialogsbound</key>
+	<string>factorypicker</string>
+	<key>prismaticRadius</key>
+	<string>directImpression</string>
+	<key>publisherLocation</key>
+	<string>switchRight</string>
+	<key>rapidparticleoffset</key>
+	<string>callbackAction</string>
+	<key>shouldKeepSkin</key>
+	<string>grainPrototype</string>
+	<key>shouldPublishPositioned</key>
+	<string>assetHue</string>
+</dict>
+</plist>

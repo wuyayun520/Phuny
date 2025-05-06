@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activitymenu</key>
+	<string>agileAnimator</string>
+	<key>customSample</key>
+	<string>fixedInkWell</string>
+	<key>deactivatealert</key>
+	<string>functionalConstraint</string>
+	<key>memberbufferinteraction</key>
+	<string>animationName</string>
+	<key>missionmend</key>
+	<string>yieldAccessory</string>
+	<key>petCenter</key>
+	<string>buildEqualization</string>
+	<key>shouldpoppriority</key>
+	<string>scenariobehavior</string>
+	<key>shouldshowaccessory</key>
+	<string>latencyacceleration</string>
+</dict>
+</plist>

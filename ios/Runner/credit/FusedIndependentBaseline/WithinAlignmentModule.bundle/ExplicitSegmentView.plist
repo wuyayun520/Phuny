@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedInformation</key>
+	<string>tensorNib</string>
+	<key>contractionRate</key>
+	<string>binarynavigator</string>
+	<key>controllerTag</key>
+	<string>mapperSpeed</string>
+	<key>deferredPrecision</key>
+	<string>disconnectstoryboard</string>
+	<key>hyperbolicBase</key>
+	<string>symmetricResponder</string>
+	<key>ignoredEntropy</key>
+	<string>latencySkewX</string>
+	<key>indicatorContrast</key>
+	<string>tabviewValidation</string>
+	<key>mainElement</key>
+	<string>paintHistogram</string>
+	<key>pointFeedback</key>
+	<string>aspectAlignment</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacityalignment</key>
+	<string>shouldBuildChannels</string>
+	<key>independentConvolution</key>
+	<string>interpolationactioncenter</string>
+	<key>masterOffset</key>
+	<string>presentSine</string>
+	<key>onboxshadowchanged</key>
+	<string>emitInteger</string>
+	<key>parallelAlpha</key>
+	<string>pivotalObserver</string>
+	<key>pivotalNavigation</key>
+	<string>lastContrast</string>
+	<key>shouldDismissBox</key>
+	<string>normalCosine</string>
+	<key>subtleTheme</key>
+	<string>boxshadowObserver</string>
+	<key>unsortedRequest</key>
+	<string>visibleShape</string>
+</dict>
+</plist>

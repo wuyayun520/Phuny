@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedAperture</key>
+	<string>spriteTask</string>
+	<key>aspectMomentum</key>
+	<string>cachecharacteristic</string>
+	<key>callbackstatus</key>
+	<string>constantdelay</string>
+	<key>cartesiansession</key>
+	<string>particlespeed</string>
+	<key>disparateMaterial</key>
+	<string>conformEvent</string>
+	<key>entropyInteraction</key>
+	<string>providerformat</string>
+	<key>iterativeLayout</key>
+	<string>assetDepth</string>
+	<key>resumeloop</key>
+	<string>navigatePositioned</string>
+	<key>uniformEffect</key>
+	<string>channelKind</string>
+</dict>
+</plist>

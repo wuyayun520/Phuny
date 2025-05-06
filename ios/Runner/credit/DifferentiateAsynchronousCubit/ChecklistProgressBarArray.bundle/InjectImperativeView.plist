@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buffertransparency</key>
+	<string>concurrentSelector</string>
+	<key>cardtiertag</key>
+	<string>routerlinker</string>
+	<key>consumestep</key>
+	<string>delicateStep</string>
+	<key>defaultprojection</key>
+	<string>shouldProcessFlex</string>
+	<key>enabledanchor</key>
+	<string>standaloneTable</string>
+	<key>independentStroke</key>
+	<string>concurrentHistogram</string>
+	<key>shouldDispatchGift</key>
+	<string>arithmeticListener</string>
+	<key>statelessVisibility</key>
+	<string>specifyLayer</string>
+</dict>
+</plist>

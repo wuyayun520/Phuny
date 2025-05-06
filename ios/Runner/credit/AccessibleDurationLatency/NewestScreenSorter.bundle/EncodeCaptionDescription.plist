@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerScroller</key>
+	<string>positionedalignment</string>
+	<key>primaryaccessorysaturation</key>
+	<string>documentParam</string>
+	<key>shouldEmitStateless</key>
+	<string>baselineScope</string>
+	<key>shouldMountedEqualization</key>
+	<string>transitionDuration</string>
+	<key>shouldProcessOption</key>
+	<string>visibleView</string>
+	<key>shouldPushConstraint</key>
+	<string>itemContrast</string>
+	<key>ternaryinterval</key>
+	<string>timerawayfunction</string>
+	<key>vectorCenter</key>
+	<string>shouldParseCharacter</string>
+</dict>
+</plist>

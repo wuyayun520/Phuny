@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitAppearance</key>
+	<string>brushHead</string>
+	<key>geometricSegue</key>
+	<string>pauseMap</string>
+	<key>iconsorter</key>
+	<string>segueshade</string>
+	<key>musicdecoration</key>
+	<string>entityinfo</string>
+	<key>sequentialModulus</key>
+	<string>binderTop</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialLayer</key>
+	<string>shouldmountlog</string>
+	<key>disabledTween</key>
+	<string>specifyStep</string>
+	<key>immediateAnimator</key>
+	<string>directlyTimer</string>
+	<key>interfaceformname</key>
+	<string>shouldAnimateMusic</string>
+	<key>optimizervisibility</key>
+	<string>touchRequest</string>
+	<key>selectorShade</key>
+	<string>convolutionopacity</string>
+	<key>sophisticatedPlate</key>
+	<string>usedModule</string>
+	<key>touchShape</key>
+	<string>currentpromise</string>
+</dict>
+</plist>

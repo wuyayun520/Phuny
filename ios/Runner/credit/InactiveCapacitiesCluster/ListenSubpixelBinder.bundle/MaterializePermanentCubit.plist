@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivereducer</key>
+	<string>painterInterpreter</string>
+	<key>arithmeticElasticity</key>
+	<string>immutableTexture</string>
+	<key>composableDescent</key>
+	<string>stackOrientation</string>
+	<key>respectiveReliability</key>
+	<string>precisionRight</string>
+	<key>robustInteraction</key>
+	<string>shouldpersistalpha</string>
+	<key>shouldFormatSemantics</key>
+	<string>elementtint</string>
+	<key>vectorVisible</key>
+	<string>declarativeHash</string>
+</dict>
+</plist>

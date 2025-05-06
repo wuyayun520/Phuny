@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endbox</key>
+	<string>canPaintBorder</string>
+	<key>gradientEdge</key>
+	<string>symbolsize</string>
+	<key>mediumBuilder</key>
+	<string>groupOrientation</string>
+	<key>originalRow</key>
+	<string>prevCache</string>
+	<key>promiselocation</key>
+	<string>transpilechecklist</string>
+	<key>shouldCancelMap</key>
+	<string>canPrepareGate</string>
+	<key>shouldrendermobile</key>
+	<string>spinLayer</string>
+	<key>storyboardsinceshape</key>
+	<string>appendRequest</string>
+	<key>usageIndex</key>
+	<string>tabviewbesidemediator</string>
+</dict>
+</plist>

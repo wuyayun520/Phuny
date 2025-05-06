@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineRight</key>
+	<string>observerforform</string>
+	<key>delegatevariablecolor</key>
+	<string>reactiveeventpressure</string>
+	<key>publisherSaturation</key>
+	<string>scrollablePrecision</string>
+	<key>queueBound</key>
+	<string>storeName</string>
+	<key>reductionIndex</key>
+	<string>minView</string>
+	<key>shouldPersistTool</key>
+	<string>canEndProfile</string>
+	<key>vectorDepth</key>
+	<string>canShowTangent</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detectorTail</key>
+	<string>showCycle</string>
+	<key>dismisscallback</key>
+	<string>canListenKernel</string>
+	<key>pinchableReliability</key>
+	<string>respectiveChooser</string>
+	<key>schedulermode</key>
+	<string>requestmechanism</string>
+	<key>seguealignment</key>
+	<string>updateTool</string>
+	<key>shouldSerializeIndicator</key>
+	<string>staticContainer</string>
+	<key>uniqueposition</key>
+	<string>lasttangenttint</string>
+</dict>
+</plist>

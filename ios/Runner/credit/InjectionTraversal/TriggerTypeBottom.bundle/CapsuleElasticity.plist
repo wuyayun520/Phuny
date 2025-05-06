@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>groupAcceleration</key>
+	<string>canPrepareAnchor</string>
+	<key>hardAppBar</key>
+	<string>canEncodeEquipment</string>
+	<key>radiusascent</key>
+	<string>primaryEfficiency</string>
+	<key>retainedLabel</key>
+	<string>serviceTransparency</string>
+	<key>shouldKeepDecoration</key>
+	<string>upgradeTween</string>
+	<key>similarCell</key>
+	<string>overrideSingleton</string>
+</dict>
+</plist>

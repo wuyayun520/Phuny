@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileHandler</key>
+	<string>shouldBindCompletion</string>
+	<key>ignoredmaterial</key>
+	<string>visitMethod</string>
+	<key>numericalMesh</key>
+	<string>navigateview</string>
+	<key>strengthBrightness</key>
+	<string>gateVelocity</string>
+	<key>temporaryTask</key>
+	<string>activatedOptimizer</string>
+</dict>
+</plist>

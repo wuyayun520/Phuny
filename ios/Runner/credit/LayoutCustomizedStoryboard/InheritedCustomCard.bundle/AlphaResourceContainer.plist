@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionprovision</key>
+	<string>viewBridge</string>
+	<key>blocscale</key>
+	<string>parsePresenter</string>
+	<key>loaderInteraction</key>
+	<string>cartesianMaterial</string>
+	<key>menuinteraction</key>
+	<string>cacheSpot</string>
+	<key>missedalert</key>
+	<string>mediocreDocument</string>
+	<key>rapidGrid</key>
+	<string>integrationDuration</string>
+	<key>shouldDetachInstruction</key>
+	<string>swiftSkewX</string>
+	<key>shouldSubscribeCard</key>
+	<string>popNib</string>
+	<key>trianglesbehavior</key>
+	<string>canCancelBrush</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticRole</key>
+	<string>activateInterface</string>
+	<key>descriptionLocation</key>
+	<string>globalRadius</string>
+	<key>isolatetraversal</key>
+	<string>layerTint</string>
+	<key>popupRight</key>
+	<string>shouldSerializeMargin</string>
+	<key>synchronousNotation</key>
+	<string>retainedLayer</string>
+</dict>
+</plist>

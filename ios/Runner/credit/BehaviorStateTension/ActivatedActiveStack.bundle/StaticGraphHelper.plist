@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exceptionType</key>
+	<string>skiptitle</string>
+	<key>musicawayplatform</key>
+	<string>frameInterval</string>
+	<key>nextImage</key>
+	<string>loopWork</string>
+	<key>paddinglocation</key>
+	<string>numericalScroller</string>
+	<key>pagerEdge</key>
+	<string>radioStatus</string>
+	<key>servicevisible</key>
+	<string>composableMapper</string>
+	<key>shouldKeepGate</key>
+	<string>deserializeNotification</string>
+	<key>specifierAcceleration</key>
+	<string>directconvolution</string>
+	<key>unactivatedPosition</key>
+	<string>elasticityBehavior</string>
+</dict>
+</plist>

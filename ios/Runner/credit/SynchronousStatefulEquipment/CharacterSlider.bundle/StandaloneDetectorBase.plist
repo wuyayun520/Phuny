@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderDelay</key>
+	<string>robustEvolution</string>
+	<key>cupertinoAnchor</key>
+	<string>disconnectmodel</string>
+	<key>densePermutation</key>
+	<string>missedRemainder</string>
+	<key>easybrush</key>
+	<string>shouldTransitionMission</string>
+	<key>nativeCupertino</key>
+	<string>scaffoldSystem</string>
+	<key>nativeExponent</key>
+	<string>delegateTexture</string>
+	<key>normalLoss</key>
+	<string>respondchart</string>
+	<key>shouldAttachBaseline</key>
+	<string>yieldAppBar</string>
+	<key>shoulddeserializescroll</key>
+	<string>dialogsasfacade</string>
+	<key>transitionResponse</key>
+	<string>moveNode</string>
+</dict>
+</plist>

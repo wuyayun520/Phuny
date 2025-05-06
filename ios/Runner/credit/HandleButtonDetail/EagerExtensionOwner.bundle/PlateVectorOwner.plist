@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equipmentPosition</key>
+	<string>fragmentVisibility</string>
+	<key>lastImage</key>
+	<string>granularCurve</string>
+	<key>multisample</key>
+	<string>paintchart</string>
+	<key>pinchableSpine</key>
+	<string>projectBottom</string>
+	<key>primaryGraphic</key>
+	<string>specifyWidget</string>
+	<key>retainedstep</key>
+	<string>interfaceactivityfrequency</string>
+	<key>selectedMusic</key>
+	<string>sineTransparency</string>
+	<key>semanticSink</key>
+	<string>granularEmitter</string>
+	<key>sharedfragment</key>
+	<string>routeEqualization</string>
+	<key>shoulddispatchdrawer</key>
+	<string>canPrepareSign</string>
+</dict>
+</plist>

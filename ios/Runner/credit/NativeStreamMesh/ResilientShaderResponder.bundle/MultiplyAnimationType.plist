@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionpresenter</key>
+	<string>subscriberShape</string>
+	<key>euclideanstamp</key>
+	<string>normParam</string>
+	<key>missionscopeposition</key>
+	<string>widgetParameter</string>
+	<key>remediationHead</key>
+	<string>deserializeslider</string>
+	<key>retainedView</key>
+	<string>synchronizeNavigator</string>
+	<key>shouldYieldCatalyst</key>
+	<string>decorationsink</string>
+</dict>
+</plist>

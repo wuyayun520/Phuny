@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoMargin</key>
+	<string>shouldPopExtension</string>
+	<key>beginneroffset</key>
+	<string>imperativeGraphic</string>
+	<key>crucialAspect</key>
+	<string>canDecodeDimension</string>
+	<key>currentBaseline</key>
+	<string>meshScale</string>
+	<key>geometricStamp</key>
+	<string>texturePrototype</string>
+	<key>materialfeedback</key>
+	<string>accessibleCollection</string>
+	<key>quantizationcertificate</key>
+	<string>statefulButton</string>
+	<key>sortedCharacteristic</key>
+	<string>granularIntegration</string>
+	<key>thresholdOffset</key>
+	<string>subtleMetadata</string>
+</dict>
+</plist>

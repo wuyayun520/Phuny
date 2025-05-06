@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionmode</key>
+	<string>shouldDeserializeAxis</string>
+	<key>graphdirection</key>
+	<string>analyzecanvas</string>
+	<key>intermediateGrid</key>
+	<string>statefulDistance</string>
+	<key>shouldKeepDocument</key>
+	<string>equalView</string>
+	<key>sortedDetail</key>
+	<string>autoTabView</string>
+	<key>tabbarfromtemple</key>
+	<string>subscribeInteger</string>
+	<key>threadVisibility</key>
+	<string>hardConstant</string>
+</dict>
+</plist>

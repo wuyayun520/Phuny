@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableSkin</key>
+	<string>checkZone</string>
+	<key>crudegrayscaleinterval</key>
+	<string>listenMap</string>
+	<key>hardListener</key>
+	<string>associatedStack</string>
+	<key>restrictionSkewX</key>
+	<string>inactiveGraph</string>
+	<key>scalabilityskewx</key>
+	<string>refreshInjection</string>
+	<key>shouldPushCursor</key>
+	<string>desktopGate</string>
+	<key>skinHead</key>
+	<string>statelessContext</string>
+	<key>texttint</key>
+	<string>publishalignment</string>
+</dict>
+</plist>

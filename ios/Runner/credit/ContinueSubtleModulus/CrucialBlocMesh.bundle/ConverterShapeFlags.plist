@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>durationrect</key>
+	<string>adaptiveMend</string>
+	<key>entityPosition</key>
+	<string>titleVisibility</string>
+	<key>integritySpeed</key>
+	<string>chapterPattern</string>
+	<key>lastSample</key>
+	<string>shouldMountedDialogs</string>
+	<key>mainSplitter</key>
+	<string>usedCube</string>
+	<key>persistentLayout</key>
+	<string>canCreateMatrix</string>
+	<key>replicainset</key>
+	<string>reduceRepository</string>
+	<key>shouldDeserializeAnchor</key>
+	<string>combineView</string>
+	<key>shouldKeepTextField</key>
+	<string>oldMapper</string>
+</dict>
+</plist>

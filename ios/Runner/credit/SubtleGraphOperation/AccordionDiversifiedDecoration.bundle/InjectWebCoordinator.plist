@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencybufferpadding</key>
+	<string>requestnumberformat</string>
+	<key>ignoredContrast</key>
+	<string>materialText</string>
+	<key>immediateWorkflow</key>
+	<string>elementBorder</string>
+	<key>primaryConsumer</key>
+	<string>entityType</string>
+	<key>scheduleralignment</key>
+	<string>isolatespacing</string>
+	<key>skirtsaturation</key>
+	<string>subscriptionDuration</string>
+	<key>workflowMargin</key>
+	<string>offsetSubscription</string>
+</dict>
+</plist>

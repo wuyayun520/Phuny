@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleNorm</key>
+	<string>resumestep</string>
+	<key>geometricNorm</key>
+	<string>augmentGraph</string>
+	<key>missedchallengecount</key>
+	<string>prevtime</string>
+	<key>resizeresolver</key>
+	<string>unaryatvariable</string>
+	<key>responsiveRoute</key>
+	<string>animationResponse</string>
+	<key>reusableCollection</key>
+	<string>accessibleChooser</string>
+	<key>sizeedge</key>
+	<string>decorationcycletint</string>
+	<key>sliderprocesslocation</key>
+	<string>buttonanimator</string>
+	<key>smartConverter</key>
+	<string>updateOption</string>
+	<key>usedMechanism</key>
+	<string>sequentialPromise</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>encodesign</key>
+	<string>priorSelector</string>
+	<key>gestureAlignment</key>
+	<string>emitCallback</string>
+	<key>multiplicationLocation</key>
+	<string>webnotation</string>
+	<key>requiredColumn</key>
+	<string>borderSize</string>
+	<key>secondbloc</key>
+	<string>assetbottom</string>
+	<key>shouldDisposeSegue</key>
+	<string>animationProxy</string>
+</dict>
+</plist>

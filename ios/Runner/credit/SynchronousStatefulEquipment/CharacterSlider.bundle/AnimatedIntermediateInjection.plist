@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedInteger</key>
+	<string>desktopDialogs</string>
+	<key>dropdownbuttonvolume</key>
+	<string>firstmanager</string>
+	<key>protocolevaluation</key>
+	<string>notifyTransition</string>
+	<key>relationalhandler</key>
+	<string>secondResponse</string>
+	<key>responseState</key>
+	<string>dimensionvisible</string>
+	<key>shouldFormatOverlay</key>
+	<string>cancelTool</string>
+</dict>
+</plist>

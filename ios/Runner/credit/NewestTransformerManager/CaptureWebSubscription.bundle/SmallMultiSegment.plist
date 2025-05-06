@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialDropdownButton</key>
+	<string>bandwidthSkewY</string>
+	<key>crucialUtil</key>
+	<string>combineConfiguration</string>
+	<key>isStream</key>
+	<string>shouldBuildPainter</string>
+	<key>largePainter</key>
+	<string>shoulddeserializebaseline</string>
+	<key>screenHead</key>
+	<string>shouldSetStateGift</string>
+</dict>
+</plist>

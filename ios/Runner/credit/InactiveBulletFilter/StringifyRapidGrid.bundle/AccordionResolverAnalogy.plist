@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteTicker</key>
+	<string>stampcluster</string>
+	<key>conformscene</key>
+	<string>shouldSkipContainer</string>
+	<key>customHandler</key>
+	<string>handleIntensity</string>
+	<key>decodecallback</key>
+	<string>buildChallenge</string>
+	<key>intuitivetransitioncontrast</key>
+	<string>optimizerVar</string>
+	<key>responseimpression</key>
+	<string>clonePopup</string>
+	<key>retainedRestriction</key>
+	<string>cacheAlert</string>
+	<key>shouldPreparePainter</key>
+	<string>orchestrateposition</string>
+	<key>shouldRestartNavigator</key>
+	<string>annotateView</string>
+	<key>shouldSubscribeTransition</key>
+	<string>euclideanfinder</string>
+</dict>
+</plist>

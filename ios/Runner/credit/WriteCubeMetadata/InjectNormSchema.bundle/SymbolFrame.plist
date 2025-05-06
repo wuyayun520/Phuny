@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanProvider</key>
+	<string>shouldTransitionGridView</string>
+	<key>interactiveConsumer</key>
+	<string>shouldMountedReference</string>
+	<key>shouldUnbindMediaQuery</key>
+	<string>interactiveshadermode</string>
+	<key>shouldcachedelegate</key>
+	<string>activateNavigator</string>
+</dict>
+</plist>

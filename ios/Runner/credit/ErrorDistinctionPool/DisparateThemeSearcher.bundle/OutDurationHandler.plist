@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseConstant</key>
+	<string>visibleElement</string>
+	<key>flexibleRequest</key>
+	<string>futureFlyweight</string>
+	<key>originalBandwidth</key>
+	<string>intuitiveMenu</string>
+	<key>shouldHandleSpot</key>
+	<string>transformService</string>
+</dict>
+</plist>

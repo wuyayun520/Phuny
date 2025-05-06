@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activePolyfill</key>
+	<string>immutableTabBar</string>
+	<key>collectionVisible</key>
+	<string>variantProxy</string>
+	<key>concurrentConverter</key>
+	<string>trajectoryRotation</string>
+	<key>newestcreator</key>
+	<string>playbackLeft</string>
+	<key>permissiveProjection</key>
+	<string>displayableMesh</string>
+	<key>prevGridView</key>
+	<string>requestRight</string>
+	<key>shouldhandlesizedbox</key>
+	<string>decorationTransparency</string>
+	<key>statefulTitle</key>
+	<string>reactiveLinker</string>
+</dict>
+</plist>

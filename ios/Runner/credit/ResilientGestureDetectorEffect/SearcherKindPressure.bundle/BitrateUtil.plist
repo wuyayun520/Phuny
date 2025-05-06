@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicPoint</key>
+	<string>persistKernel</string>
+	<key>geometricinterfacetop</key>
+	<string>nativeText</string>
+	<key>mobileLocalization</key>
+	<string>canPersistStack</string>
+	<key>persistentInfrastructure</key>
+	<string>loopequivalent</string>
+	<key>shouldPrepareCollection</key>
+	<string>mobileLocalization</string>
+	<key>shouldReplaceAspectRatio</key>
+	<string>itemType</string>
+	<key>smallReference</key>
+	<string>currentnotifier</string>
+	<key>sustainablemaster</key>
+	<string>shouldDeserializeDimension</string>
+</dict>
+</plist>

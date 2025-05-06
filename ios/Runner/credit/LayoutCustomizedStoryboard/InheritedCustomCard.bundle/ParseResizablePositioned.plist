@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaoperationtheme</key>
+	<string>connectMediaQuery</string>
+	<key>customSemantics</key>
+	<string>queueAlignment</string>
+	<key>defaultcolumn</key>
+	<string>canShowAspectRatio</string>
+	<key>dialogsformat</key>
+	<string>reduceusecase</string>
+	<key>opaqueChooser</key>
+	<string>immediateBuffer</string>
+	<key>polyfillAcceleration</key>
+	<string>largeManager</string>
+	<key>singletonandtask</key>
+	<string>kernelMediator</string>
+	<key>symmetricRole</key>
+	<string>dependencyActivity</string>
+</dict>
+</plist>

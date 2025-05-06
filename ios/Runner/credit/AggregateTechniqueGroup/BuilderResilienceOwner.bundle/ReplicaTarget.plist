@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>functionalAlpha</key>
+	<string>assetInterpreter</string>
+	<key>globalStateless</key>
+	<string>decoupleStorage</string>
+	<key>integrationSaturation</key>
+	<string>unsortedMapper</string>
+</dict>
+</plist>

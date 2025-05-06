@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveInteraction</key>
+	<string>spineSize</string>
+	<key>associatedCombiner</key>
+	<string>mutableStorage</string>
+	<key>capsulespacing</key>
+	<string>delicateRichText</string>
+	<key>kernelborder</key>
+	<string>canStopContraction</string>
+	<key>persistentEmitter</key>
+	<string>publishCurve</string>
+	<key>resizableRemediation</key>
+	<string>activeFormat</string>
+</dict>
+</plist>

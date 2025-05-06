@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseSaturation</key>
+	<string>completedRoute</string>
+	<key>deferredResponder</key>
+	<string>modalPressure</string>
+	<key>pointfeedback</key>
+	<string>prismaticDialogs</string>
+	<key>reducerBorder</key>
+	<string>largeStorage</string>
+	<key>reductionFeedback</key>
+	<string>vectordespitemode</string>
+	<key>singleEntropy</key>
+	<string>transformText</string>
+	<key>sortedLabel</key>
+	<string>staticScalability</string>
+</dict>
+</plist>

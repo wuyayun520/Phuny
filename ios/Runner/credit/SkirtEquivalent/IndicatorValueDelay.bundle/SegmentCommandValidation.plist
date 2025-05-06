@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianGrayscale</key>
+	<string>declarativestroke</string>
+	<key>inheritedduration</key>
+	<string>persistentState</string>
+	<key>missedAllocator</key>
+	<string>normalRectangle</string>
+	<key>particlesorter</key>
+	<string>replicateScene</string>
+</dict>
+</plist>

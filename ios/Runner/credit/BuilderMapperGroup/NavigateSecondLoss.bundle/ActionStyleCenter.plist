@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adjusttabview</key>
+	<string>bulletCommand</string>
+	<key>combinerMargin</key>
+	<string>smartMapper</string>
+	<key>ignoredGrid</key>
+	<string>consumptionAppearance</string>
+	<key>logForce</key>
+	<string>immutableMenu</string>
+	<key>missedBloc</key>
+	<string>statelessNotification</string>
+	<key>showbatch</key>
+	<string>protocolSingleton</string>
+	<key>smallModal</key>
+	<string>enabledtimeline</string>
+</dict>
+</plist>

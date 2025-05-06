@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitSlider</key>
+	<string>detachCatalyst</string>
+	<key>interactionvisibility</key>
+	<string>animatedConfidentiality</string>
+	<key>multiSpot</key>
+	<string>slashPrototype</string>
+	<key>nextBuffer</key>
+	<string>arithmeticTail</string>
+	<key>numericalcompleter</key>
+	<string>tappableRequest</string>
+	<key>sequentialInteger</key>
+	<string>smartNotifier</string>
+	<key>yieldspecifier</key>
+	<string>exponentInteraction</string>
+</dict>
+</plist>

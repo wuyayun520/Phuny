@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationType</key>
+	<string>adaptiveswitchtype</string>
+	<key>batchPressure</key>
+	<string>canRestartLayout</string>
+	<key>capacitiesCoord</key>
+	<string>subsequentCanvas</string>
+	<key>elasticRoute</key>
+	<string>cursorPosition</string>
+	<key>statelessFactory</key>
+	<string>grayscaleOrientation</string>
+</dict>
+</plist>

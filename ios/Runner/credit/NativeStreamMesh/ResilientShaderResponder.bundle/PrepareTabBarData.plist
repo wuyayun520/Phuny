@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorShade</key>
+	<string>pinchableFrame</string>
+	<key>apertureColor</key>
+	<string>unactivatedGram</string>
+	<key>baseSize</key>
+	<string>disabledGram</string>
+	<key>difficultSorter</key>
+	<string>agileAscent</string>
+	<key>displayableTimer</key>
+	<string>canPushSlash</string>
+	<key>fragmentsForce</key>
+	<string>sophisticatedMend</string>
+	<key>resizableStrength</key>
+	<string>canYieldStream</string>
+	<key>sharedCatalyst</key>
+	<string>otheraccessorymomentum</string>
+	<key>signbehavior</key>
+	<string>diversifiedReference</string>
+	<key>toolSpeed</key>
+	<string>staticProvider</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedDescription</key>
+	<string>futureForce</string>
+	<key>decorationSpacing</key>
+	<string>greatcertificate</string>
+	<key>dynamiclabel</key>
+	<string>layertop</string>
+	<key>easyQuaternion</key>
+	<string>symmetricTimeline</string>
+	<key>easyRecursion</key>
+	<string>robustCatalyst</string>
+	<key>mediaqueryflyweightindex</key>
+	<string>loadIndicator</string>
+	<key>shouldsubscribecustompaint</key>
+	<string>mediumpreview</string>
+</dict>
+</plist>

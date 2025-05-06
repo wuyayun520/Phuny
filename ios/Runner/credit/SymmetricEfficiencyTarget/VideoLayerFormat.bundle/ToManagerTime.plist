@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoAscent</key>
+	<string>smallCache</string>
+	<key>consultativeRow</key>
+	<string>taskTail</string>
+	<key>decodescale</key>
+	<string>binaryAction</string>
+	<key>detectorEdge</key>
+	<string>numericalBatch</string>
+	<key>handlerpervisitor</key>
+	<string>handleRepository</string>
+	<key>materialpager</key>
+	<string>declarativePicker</string>
+	<key>shouldrestarttabview</key>
+	<string>dismissVariant</string>
+	<key>stampcompositetension</key>
+	<string>inheritedMaterial</string>
+	<key>tappableCompleter</key>
+	<string>clearCurve</string>
+</dict>
+</plist>

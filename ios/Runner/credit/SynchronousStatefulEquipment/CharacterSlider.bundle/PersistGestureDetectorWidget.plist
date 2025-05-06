@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchtension</key>
+	<string>customChecklist</string>
+	<key>concreteinfo</key>
+	<string>hardPlayback</string>
+	<key>discardedInjection</key>
+	<string>restoreDependency</string>
+	<key>dynamicRenderer</key>
+	<string>streamTechnique</string>
+	<key>greatloopfrequency</key>
+	<string>typicalCapacities</string>
+	<key>keepcaption</key>
+	<string>matrixTheme</string>
+	<key>listenerOpacity</key>
+	<string>scaffoldSkewX</string>
+	<key>requiredtexturebound</key>
+	<string>restoreGraph</string>
+	<key>similarFrame</key>
+	<string>backwardReceiver</string>
+</dict>
+</plist>

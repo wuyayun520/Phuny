@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionMode</key>
+	<string>canLoadMedia</string>
+	<key>displayablequaternion</key>
+	<string>enabledSizedBox</string>
+	<key>eventTail</key>
+	<string>standaloneMend</string>
+	<key>grayscaleAppearance</key>
+	<string>shouldReplaceScreen</string>
+	<key>particleDensity</key>
+	<string>delegatemomentum</string>
+	<key>scrollableKernel</key>
+	<string>shouldConnectLabel</string>
+	<key>shouldAnimateNotification</key>
+	<string>pinchableIntensity</string>
+	<key>sortedAudio</key>
+	<string>emitAlpha</string>
+	<key>statefulKind</key>
+	<string>canFinishMember</string>
+</dict>
+</plist>

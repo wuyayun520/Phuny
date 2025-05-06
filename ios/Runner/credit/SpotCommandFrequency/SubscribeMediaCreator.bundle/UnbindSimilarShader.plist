@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionNotifier</key>
+	<string>instantiateDependency</string>
+	<key>configurationoperation</key>
+	<string>staticthroughput</string>
+	<key>crudeResponder</key>
+	<string>newestLabel</string>
+	<key>futureflags</key>
+	<string>statelessStrategy</string>
+	<key>hierarchicalExponent</key>
+	<string>oldresult</string>
+	<key>iterativeDependency</key>
+	<string>canParseDuration</string>
+	<key>lazyModal</key>
+	<string>giftsize</string>
+	<key>numericalTernary</key>
+	<string>ephemeralGradient</string>
+	<key>respectiveLoss</key>
+	<string>deprecateCubit</string>
+	<key>typicalstore</key>
+	<string>locateNode</string>
+</dict>
+</plist>

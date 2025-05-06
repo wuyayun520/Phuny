@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionduration</key>
+	<string>layoutthread</string>
+	<key>customCubit</key>
+	<string>builderrange</string>
+	<key>largeTentative</key>
+	<string>shouldupdatemovement</string>
+	<key>modalTail</key>
+	<string>aspectratioColor</string>
+	<key>numericalStorage</key>
+	<string>menuVisitor</string>
+	<key>shouldSetStateGrayscale</key>
+	<string>objectPadding</string>
+</dict>
+</plist>

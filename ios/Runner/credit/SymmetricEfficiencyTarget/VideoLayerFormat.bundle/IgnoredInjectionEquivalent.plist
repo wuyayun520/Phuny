@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channeloffset</key>
+	<string>cubitfrommethod</string>
+	<key>intermediatePrecision</key>
+	<string>displayableMesh</string>
+	<key>nativeGrayscale</key>
+	<string>shouldStartAppBar</string>
+	<key>originalDescription</key>
+	<string>discardedScreen</string>
+	<key>restrictionRate</key>
+	<string>nibSkewY</string>
+	<key>strengthDepth</key>
+	<string>mixinUseCase</string>
+</dict>
+</plist>

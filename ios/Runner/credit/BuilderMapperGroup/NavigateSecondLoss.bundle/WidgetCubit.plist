@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clippertaskstate</key>
+	<string>pushSubscription</string>
+	<key>compositionalfuture</key>
+	<string>comprehensiveProvider</string>
+	<key>eventState</key>
+	<string>drawSubscription</string>
+	<key>gateuntillevel</key>
+	<string>reduceQueue</string>
+	<key>giftBrightness</key>
+	<string>groupVelocity</string>
+	<key>gradientTheme</key>
+	<string>canAnimateBrush</string>
+	<key>mediocreZone</key>
+	<string>disconnectContainer</string>
+	<key>shouldTransformDuration</key>
+	<string>shouldInflateBase</string>
+	<key>shoulddetachbox</key>
+	<string>vectorSingleton</string>
+	<key>unactivatedEvent</key>
+	<string>lazyevent</string>
+</dict>
+</plist>

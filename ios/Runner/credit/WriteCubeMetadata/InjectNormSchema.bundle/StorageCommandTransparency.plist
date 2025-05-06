@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionMerger</key>
+	<string>greatCell</string>
+	<key>addbrush</key>
+	<string>endNotifier</string>
+	<key>basicinfo</key>
+	<string>cloneResource</string>
+	<key>mediacenter</key>
+	<string>reusableGestureDetector</string>
+	<key>sequentialScheduler</key>
+	<string>certificateDepth</string>
+	<key>tweendirection</key>
+	<string>numericalProtocol</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignorederrorformat</key>
+	<string>cupertinoSystem</string>
+	<key>immediateLatency</key>
+	<string>elasticThreshold</string>
+	<key>reductionqueue</key>
+	<string>requiredWorkflow</string>
+	<key>resilienceTag</key>
+	<string>immediateEmitter</string>
+	<key>shouldrestartmedia</key>
+	<string>shouldparserow</string>
+	<key>staticScale</key>
+	<string>materialFacade</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleImage</key>
+	<string>canDispatchAxis</string>
+	<key>directlyImpression</key>
+	<string>createBox</string>
+	<key>indicatorfeedback</key>
+	<string>fragmentInteraction</string>
+	<key>labelbymethod</key>
+	<string>permanenttable</string>
+	<key>logarithmbinder</key>
+	<string>accessoryOrientation</string>
+	<key>navigatecontainer</key>
+	<string>selectorPosition</string>
+	<key>statelessConsumer</key>
+	<string>directlyBoxShadow</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicImage</key>
+	<string>ignoredUsage</string>
+	<key>directlyProjection</key>
+	<string>publicDimension</string>
+	<key>fixedCompleter</key>
+	<string>shouldDisconnectMargin</string>
+	<key>localChapter</key>
+	<string>imageMargin</string>
+	<key>requestRotation</key>
+	<string>subscriberTop</string>
+	<key>shouldDetachBitrate</key>
+	<string>shouldrendercompletion</string>
+	<key>similarMetrics</key>
+	<string>subsequentSize</string>
+</dict>
+</plist>

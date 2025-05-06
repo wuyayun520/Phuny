@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>originalInteger</key>
+	<string>canSubscribeLayout</string>
+	<key>primarydropdownbuttonindex</key>
+	<string>previewvelocity</string>
+	<key>resizablegraphic</key>
+	<string>eagerData</string>
+	<key>shouldDispatchTransition</key>
+	<string>inactiveController</string>
+	<key>synchronousLayout</key>
+	<string>nextpresenter</string>
+	<key>videoSkewX</key>
+	<string>assetPhase</string>
+</dict>
+</plist>

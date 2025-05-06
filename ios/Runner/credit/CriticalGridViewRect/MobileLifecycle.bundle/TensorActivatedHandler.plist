@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperVisibility</key>
+	<string>usedRectangle</string>
+	<key>contrastFeedback</key>
+	<string>hyperbolicIsolate</string>
+	<key>originalMovement</key>
+	<string>contractionOpacity</string>
+	<key>relationalSchema</key>
+	<string>interactorVisibility</string>
+	<key>resilientArchitecture</key>
+	<string>animatedBuilder</string>
+	<key>shouldDecodeTheme</key>
+	<string>shoulddisconnectfragment</string>
+	<key>shouldTrainLayout</key>
+	<string>crucialCapsule</string>
+	<key>shouldTransformWorkflow</key>
+	<string>activeCapacity</string>
+	<key>subtlenode</key>
+	<string>reducerspeed</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionAnimatedContainer</key>
+	<string>featureSpacing</string>
+	<key>adaptiveCatalyst</key>
+	<string>modalconsumption</string>
+	<key>animatedContrast</key>
+	<string>spinetimeline</string>
+	<key>hashEdge</key>
+	<string>similarReplica</string>
+	<key>limitduration</key>
+	<string>upgradeBloc</string>
+	<key>prevRenderer</key>
+	<string>canRestartPromise</string>
+	<key>priorityDelay</key>
+	<string>makeChart</string>
+	<key>requestrate</key>
+	<string>hashsize</string>
+</dict>
+</plist>

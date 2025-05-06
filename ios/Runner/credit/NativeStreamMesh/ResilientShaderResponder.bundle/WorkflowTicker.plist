@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channeltheme</key>
+	<string>permissivePrecision</string>
+	<key>directlyProjection</key>
+	<string>plateShade</string>
+	<key>intuitiveScheduler</key>
+	<string>accordionDimension</string>
+	<key>lostSprite</key>
+	<string>tweenSaturation</string>
+	<key>reusableSpecifier</key>
+	<string>musicTop</string>
+	<key>segueInset</key>
+	<string>shouldLoadStateless</string>
+	<key>specifyException</key>
+	<string>visibleMonster</string>
+	<key>statefulallocator</key>
+	<string>executeScene</string>
+</dict>
+</plist>

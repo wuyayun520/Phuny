@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioDensity</key>
+	<string>responseVisitor</string>
+	<key>autoSingleton</key>
+	<string>imperativeLayout</string>
+	<key>cachenumbervisible</key>
+	<string>shouldhandlemap</string>
+	<key>diffableDialogs</key>
+	<string>differentiateInteractor</string>
+	<key>fusedAppBar</key>
+	<string>reflectgesturedetector</string>
+	<key>shouldDetachCustomPaint</key>
+	<string>associatedPager</string>
+	<key>shouldKeepScale</key>
+	<string>canProcessProjection</string>
+	<key>sustainablecombiner</key>
+	<string>notifierTransparency</string>
+</dict>
+</plist>

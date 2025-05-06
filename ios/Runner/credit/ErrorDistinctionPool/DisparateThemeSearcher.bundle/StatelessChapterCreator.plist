@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerAperture</key>
+	<string>cosineCoord</string>
+	<key>dismissbuilder</key>
+	<string>requestSprite</string>
+	<key>equivalentcenter</key>
+	<string>evolutionmode</string>
+	<key>isolateskewy</key>
+	<string>swiftSpeed</string>
+	<key>looplayersize</key>
+	<string>loadStateful</string>
+	<key>shouldKeepConstraint</key>
+	<string>factoryForce</string>
+	<key>shouldMountCell</key>
+	<string>evaluatecard</string>
+	<key>shouldPersistDescriptor</key>
+	<string>rebuildmultiplication</string>
+</dict>
+</plist>

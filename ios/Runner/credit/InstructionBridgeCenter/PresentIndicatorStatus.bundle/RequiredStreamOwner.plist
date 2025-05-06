@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frameAlignment</key>
+	<string>mutableScheduler</string>
+	<key>mitigatetabbar</key>
+	<string>columnParam</string>
+	<key>publicTextField</key>
+	<string>performUseCase</string>
+	<key>shouldTransformBuilder</key>
+	<string>futureprototypesize</string>
+	<key>shouldloadcertificate</key>
+	<string>lazyTouch</string>
+	<key>trajectoryName</key>
+	<string>rapidstoryboardalignment</string>
+</dict>
+</plist>

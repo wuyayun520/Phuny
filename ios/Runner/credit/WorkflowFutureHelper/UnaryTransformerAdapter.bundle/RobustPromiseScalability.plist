@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerscalability</key>
+	<string>skipOperation</string>
+	<key>dynamicChallenge</key>
+	<string>substantialanchorvelocity</string>
+	<key>ephemeralSelector</key>
+	<string>hardConfidentiality</string>
+	<key>equalfuture</key>
+	<string>compositionBehavior</string>
+	<key>shouldPresentSegue</key>
+	<string>currentpageview</string>
+</dict>
+</plist>

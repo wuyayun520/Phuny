@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeConfiguration</key>
+	<string>nextsessionflags</string>
+	<key>animationlayerstyle</key>
+	<string>diversifiedFrame</string>
+	<key>desktopBase</key>
+	<string>endCollection</string>
+	<key>modulusCount</key>
+	<string>customFilter</string>
+	<key>richtextbeyondfunction</key>
+	<string>offsethandler</string>
+	<key>shouldbuildskin</key>
+	<string>canObserveProvider</string>
+</dict>
+</plist>

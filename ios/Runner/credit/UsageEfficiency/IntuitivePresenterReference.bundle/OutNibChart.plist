@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousarithmeticdepth</key>
+	<string>transitiontag</string>
+	<key>captionFlags</key>
+	<string>granularPlate</string>
+	<key>directCaption</key>
+	<string>trainduration</string>
+	<key>pinchablestateful</key>
+	<string>significantSwitch</string>
+	<key>playbackCoord</key>
+	<string>memberdata</string>
+	<key>popalert</key>
+	<string>releaseRow</string>
+	<key>shouldReplaceMusic</key>
+	<string>buttontension</string>
+	<key>smartBandwidth</key>
+	<string>shouldSerializeRow</string>
+</dict>
+</plist>

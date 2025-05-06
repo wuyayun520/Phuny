@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorspeed</key>
+	<string>checkboxtype</string>
+	<key>crucialDescription</key>
+	<string>resizeGraph</string>
+	<key>crucialGridView</key>
+	<string>discardedSlash</string>
+	<key>hasreduction</key>
+	<string>sampleType</string>
+	<key>provideprofile</key>
+	<string>canEmitRow</string>
+	<key>rapidResource</key>
+	<string>elementTail</string>
+	<key>reusableGrid</key>
+	<string>activeCosine</string>
+	<key>webbitratevisibility</key>
+	<string>shouldPauseEqualization</string>
+</dict>
+</plist>

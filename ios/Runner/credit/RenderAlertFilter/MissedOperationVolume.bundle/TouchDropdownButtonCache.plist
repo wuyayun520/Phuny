@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedOverlay</key>
+	<string>refactorDescription</string>
+	<key>introspectgradient</key>
+	<string>inheritedGradient</string>
+	<key>mediumInformation</key>
+	<string>sequentialSymbol</string>
+	<key>radiusborder</key>
+	<string>crudeFragments</string>
+	<key>requestState</key>
+	<string>shouldObserveAnchor</string>
+	<key>stopstate</key>
+	<string>canRenderCollection</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeinteraction</key>
+	<string>canCancelKernel</string>
+	<key>graphSkewX</key>
+	<string>transformerStage</string>
+	<key>interactionRate</key>
+	<string>backwardChallenge</string>
+	<key>observerplatformduration</key>
+	<string>reducerContext</string>
+	<key>retainedProcessor</key>
+	<string>shouldCreateGift</string>
+	<key>shouldCacheTransition</key>
+	<string>introspectContainer</string>
+	<key>usedOptimizer</key>
+	<string>localMatrix</string>
+</dict>
+</plist>

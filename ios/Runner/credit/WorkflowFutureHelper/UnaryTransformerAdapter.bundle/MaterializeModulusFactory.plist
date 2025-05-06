@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constantCenter</key>
+	<string>traversalSkewX</string>
+	<key>evaluationContrast</key>
+	<string>profileHead</string>
+	<key>explicitstepcount</key>
+	<string>profileResponse</string>
+	<key>localrowbottom</key>
+	<string>shouldPersistCycle</string>
+	<key>processtangent</key>
+	<string>shouldNavigateResource</string>
+	<key>scaffoldconstraint</key>
+	<string>skinObserver</string>
+	<key>shouldSkipOverlay</key>
+	<string>missedCycle</string>
+	<key>storeduringcommand</key>
+	<string>canMountChannels</string>
+	<key>utilTail</key>
+	<string>decodeTabBar</string>
+	<key>visibleAudio</key>
+	<string>beginnerReference</string>
+</dict>
+</plist>

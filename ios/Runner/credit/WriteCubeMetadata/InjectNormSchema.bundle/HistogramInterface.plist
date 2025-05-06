@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellcluster</key>
+	<string>exceptionFramework</string>
+	<key>ignoredRemediation</key>
+	<string>playResult</string>
+	<key>reliabilityAppearance</key>
+	<string>unmountedPoint</string>
+	<key>sequentialAsync</key>
+	<string>hardwidget</string>
+	<key>shouldStopPromise</key>
+	<string>statefulExpanded</string>
+	<key>shouldanimatepriority</key>
+	<string>dialogsAlignment</string>
+	<key>unsortedMaster</key>
+	<string>integrityBound</string>
+</dict>
+</plist>

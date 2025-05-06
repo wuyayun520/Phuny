@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animateawait</key>
+	<string>shouldUpdateFragment</string>
+	<key>basealignment</key>
+	<string>trianglesOrientation</string>
+	<key>coordinatorInterval</key>
+	<string>utildensity</string>
+	<key>deferredCapacity</key>
+	<string>shouldStartTabView</string>
+	<key>lastView</key>
+	<string>undertakeEvent</string>
+	<key>otherSegue</key>
+	<string>canPersistContainer</string>
+	<key>responsiveMovement</key>
+	<string>shouldDispatchWidget</string>
+	<key>shouldEmitShader</key>
+	<string>directHash</string>
+	<key>shouldResumeTabBar</key>
+	<string>dynamiccontainerright</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchplatformdensity</key>
+	<string>delegateMediator</string>
+	<key>borderactiontop</key>
+	<string>pendingAppBar</string>
+	<key>containertop</key>
+	<string>trainSpecifier</string>
+	<key>deprecatedecoration</key>
+	<string>customSplitter</string>
+	<key>dialogsShape</key>
+	<string>trianglestag</string>
+	<key>indicatorbridgetype</key>
+	<string>shouldCancelTheme</string>
+	<key>lossBrightness</key>
+	<string>activeStateless</string>
+	<key>materialTransition</key>
+	<string>hierarchicalShape</string>
+	<key>sanitizecache</key>
+	<string>easySorter</string>
+	<key>similarviewcount</key>
+	<string>pauseLogarithm</string>
+</dict>
+</plist>

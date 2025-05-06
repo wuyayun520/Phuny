@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationbridgespeed</key>
+	<string>topicfrequency</string>
+	<key>findoption</key>
+	<string>delegateawait</string>
+	<key>hasSymbol</key>
+	<string>disclaimerSpacing</string>
+	<key>permissiveMend</key>
+	<string>canFetchButton</string>
+	<key>textfieldLeft</key>
+	<string>webSignature</string>
+</dict>
+</plist>

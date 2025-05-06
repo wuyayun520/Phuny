@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonTag</key>
+	<string>streamPet</string>
+	<key>disabledelasticity</key>
+	<string>canPopDimension</string>
+	<key>roleBehavior</key>
+	<string>materialProfile</string>
+	<key>shouldPublishCanvas</key>
+	<string>showScreen</string>
+	<key>singleGesture</key>
+	<string>serializePreview</string>
+	<key>singletonPadding</key>
+	<string>concatenateButton</string>
+	<key>usedHandler</key>
+	<string>otherListener</string>
+</dict>
+</plist>

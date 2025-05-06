@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessorylikebridge</key>
+	<string>spotpicker</string>
+	<key>decorationstatescale</key>
+	<string>utilForce</string>
+	<key>draggableCaption</key>
+	<string>customizedLocalization</string>
+	<key>isPadding</key>
+	<string>normalobject</string>
+	<key>nexttaxonomy</key>
+	<string>providerconsumption</string>
+	<key>otherRequest</key>
+	<string>hyperbolictouchspacing</string>
+	<key>substantialPrecision</key>
+	<string>paintBatch</string>
+</dict>
+</plist>

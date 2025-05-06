@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledCapacities</key>
+	<string>seamlessSelector</string>
+	<key>liteCard</key>
+	<string>unactivatedBandwidth</string>
+	<key>mainChannel</key>
+	<string>deflateoffset</string>
+	<key>mergerResponse</key>
+	<string>checkInterface</string>
+	<key>shouldpopmonster</key>
+	<string>robustCapacities</string>
+	<key>stampLocation</key>
+	<string>shouldMountedSample</string>
+</dict>
+</plist>

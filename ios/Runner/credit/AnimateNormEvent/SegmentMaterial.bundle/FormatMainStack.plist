@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>emittermargin</key>
+	<string>instructionLevel</string>
+	<key>gatenotation</key>
+	<string>dynamicinterfaceoffset</string>
+	<key>geometricSplitter</key>
+	<string>shouldPaintMedia</string>
+	<key>impactTint</key>
+	<string>markSingleton</string>
+	<key>numericalCallback</key>
+	<string>opaqueMechanism</string>
+	<key>pageviewContrast</key>
+	<string>canReplaceOption</string>
+	<key>reductionproxysize</key>
+	<string>deferredController</string>
+	<key>responsiveState</key>
+	<string>retainedresultinset</string>
+	<key>sophisticatedScalability</key>
+	<string>resizableUsage</string>
+	<key>thresholdVisibility</key>
+	<string>stringifyscreen</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customintegersaturation</key>
+	<string>shouldTrainMaterial</string>
+	<key>descriptionvisitorstate</key>
+	<string>greatrowappearance</string>
+	<key>hasCharacter</key>
+	<string>canSerializeSubpixel</string>
+	<key>metadatatag</key>
+	<string>subsequentBuffer</string>
+	<key>notifydialogs</key>
+	<string>cursorRate</string>
+	<key>petKind</key>
+	<string>displayableTable</string>
+	<key>shouldAttachPriority</key>
+	<string>associatedLocalization</string>
+	<key>shouldCacheDocument</key>
+	<string>compileException</string>
+	<key>staticRectangle</key>
+	<string>accessibleDescriptor</string>
+	<key>taskduration</key>
+	<string>statelessTint</string>
+</dict>
+</plist>

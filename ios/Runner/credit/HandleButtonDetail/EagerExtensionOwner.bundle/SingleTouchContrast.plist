@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autowrapper</key>
+	<string>canEncodeAppBar</string>
+	<key>colorOpacity</key>
+	<string>globalCycle</string>
+	<key>fusedCompleter</key>
+	<string>publicTask</string>
+	<key>gradientinterval</key>
+	<string>shouldYieldHeap</string>
+	<key>remaindernearinterpreter</key>
+	<string>futurebufferinteraction</string>
+	<key>shouldbindpageview</key>
+	<string>captureSink</string>
+	<key>tensorMethod</key>
+	<string>tabbarCenter</string>
+</dict>
+</plist>

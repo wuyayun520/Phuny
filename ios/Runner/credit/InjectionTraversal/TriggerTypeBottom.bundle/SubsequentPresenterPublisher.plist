@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonplayback</key>
+	<string>explicitStore</string>
+	<key>fragmentType</key>
+	<string>objectSkewY</string>
+	<key>requiredDialogs</key>
+	<string>processgraph</string>
+	<key>scaffoldprocessorientation</key>
+	<string>accessoryPadding</string>
+	<key>shouldDecodeBaseline</key>
+	<string>nextCompletion</string>
+	<key>symbolFormat</key>
+	<string>opaqueRect</string>
+</dict>
+</plist>

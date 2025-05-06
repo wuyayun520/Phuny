@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocategroup</key>
+	<string>spriteJob</string>
+	<key>allocaterouter</key>
+	<string>bordertint</string>
+	<key>composableThreshold</key>
+	<string>shouldDecodeShader</string>
+	<key>elasticSelector</key>
+	<string>converterSpeed</string>
+	<key>gesturereducer</key>
+	<string>difficultOccasion</string>
+	<key>mediumData</key>
+	<string>canUpdateVariant</string>
+	<key>shouldrestartbatch</key>
+	<string>instantiateStream</string>
+	<key>smallaspectratio</key>
+	<string>shouldDisposeConvolution</string>
+	<key>unactivatedGridView</key>
+	<string>disabledCollection</string>
+</dict>
+</plist>

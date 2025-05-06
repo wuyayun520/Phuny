@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveOperation</key>
+	<string>interactiveTentative</string>
+	<key>prismaticCard</key>
+	<string>mapState</string>
+	<key>profileSize</key>
+	<string>mountSignature</string>
+	<key>responsiveswitchlocation</key>
+	<string>timelineScale</string>
+</dict>
+</plist>

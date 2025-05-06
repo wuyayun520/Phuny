@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardDelivery</key>
+	<string>prismaticProjection</string>
+	<key>bulletstate</key>
+	<string>awaitshape</string>
+	<key>movementValidation</key>
+	<string>frameSystem</string>
+	<key>nextTimeline</key>
+	<string>evolutionType</string>
+	<key>permissiveCallback</key>
+	<string>trajectoryRotation</string>
+	<key>sampleTension</key>
+	<string>rotateTopic</string>
+	<key>shouldstartcycle</key>
+	<string>directlyBullet</string>
+	<key>spineshade</key>
+	<string>replicahead</string>
+	<key>statetint</key>
+	<string>canTransformObserver</string>
+</dict>
+</plist>

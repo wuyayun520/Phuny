@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexstatevalidation</key>
+	<string>canBindAccessory</string>
+	<key>maincanvaspressure</key>
+	<string>liteAnimation</string>
+	<key>matrixOffset</key>
+	<string>presenterFormat</string>
+	<key>nibmode</key>
+	<string>inkwellscale</string>
+	<key>rolechannel</key>
+	<string>presenterStatus</string>
+	<key>shouldHandleInteger</key>
+	<string>checklistBridge</string>
+	<key>shouldStreamDecoration</key>
+	<string>canRebuildSubpixel</string>
+</dict>
+</plist>

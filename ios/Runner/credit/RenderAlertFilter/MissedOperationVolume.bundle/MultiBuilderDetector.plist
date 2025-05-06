@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledConstant</key>
+	<string>displayTopic</string>
+	<key>inactivecell</key>
+	<string>shouldPublishFlex</string>
+	<key>mobileFuture</key>
+	<string>logarithmPressure</string>
+	<key>oldMatrix</key>
+	<string>unlockLabel</string>
+	<key>rectOpacity</key>
+	<string>geometricUsage</string>
+	<key>scalepicker</key>
+	<string>createStep</string>
+	<key>shouldTransformExpanded</key>
+	<string>normalResolver</string>
+	<key>sophisticatedPadding</key>
+	<string>unsortedBorder</string>
+	<key>textorientation</key>
+	<string>cancelsignature</string>
+</dict>
+</plist>

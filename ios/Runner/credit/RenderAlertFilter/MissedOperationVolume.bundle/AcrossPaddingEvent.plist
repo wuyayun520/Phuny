@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardSlider</key>
+	<string>transitionFrequency</string>
+	<key>deferredImpression</key>
+	<string>graphicMode</string>
+	<key>disparateExpanded</key>
+	<string>canContinueActivity</string>
+	<key>fixedPageView</key>
+	<string>hierarchicallogarithmshape</string>
+	<key>newestCollection</key>
+	<string>methodPosition</string>
+	<key>oldAudio</key>
+	<string>inactiveVolume</string>
+</dict>
+</plist>

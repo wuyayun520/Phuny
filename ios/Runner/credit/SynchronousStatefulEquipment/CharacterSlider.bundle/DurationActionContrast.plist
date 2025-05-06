@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>modelDepth</key>
+	<string>sineFunction</string>
+	<key>prevstack</key>
+	<string>isolateCoord</string>
+	<key>scrollablemusic</key>
+	<string>canStopCapsule</string>
+	<key>specifyAspectRatio</key>
+	<string>canDismissRichText</string>
+</dict>
+</plist>

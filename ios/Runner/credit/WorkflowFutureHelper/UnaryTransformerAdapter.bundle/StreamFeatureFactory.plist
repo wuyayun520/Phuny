@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellwithflyweight</key>
+	<string>explicitConsumption</string>
+	<key>desktopSpine</key>
+	<string>overlayForce</string>
+	<key>difficultmovementedge</key>
+	<string>mountIndicator</string>
+	<key>dropdownbuttonvisitortail</key>
+	<string>paintBloc</string>
+	<key>persistentSink</key>
+	<string>publicheap</string>
+	<key>priorConnector</key>
+	<string>litedescription</string>
+	<key>prismaticTitle</key>
+	<string>mutableJoiner</string>
+	<key>renderbuilder</key>
+	<string>mediocreColumn</string>
+	<key>specifierContrast</key>
+	<string>storeRow</string>
+</dict>
+</plist>

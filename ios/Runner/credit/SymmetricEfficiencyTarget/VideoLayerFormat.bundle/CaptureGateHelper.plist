@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorTail</key>
+	<string>significantPainter</string>
+	<key>commonRectangle</key>
+	<string>standalonePopup</string>
+	<key>currenthero</key>
+	<string>exceptiondensity</string>
+	<key>listviewbehavior</key>
+	<string>originaltime</string>
+	<key>promisescroller</key>
+	<string>offsetHead</string>
+	<key>requiredComponent</key>
+	<string>sequentialCallback</string>
+	<key>standalonemenu</key>
+	<string>responsiveSelector</string>
+</dict>
+</plist>

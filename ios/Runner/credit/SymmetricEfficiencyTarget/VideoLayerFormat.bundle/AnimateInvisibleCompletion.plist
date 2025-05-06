@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>kernelinterpreterstate</key>
+	<string>commonhandler</string>
+	<key>liteCatalyst</key>
+	<string>granularSizedBox</string>
+	<key>loopStatus</key>
+	<string>shouldfinishcurve</string>
+	<key>shouldAnimateImage</key>
+	<string>canSetStateTouch</string>
+	<key>shouldSaveModal</key>
+	<string>dedicatedRect</string>
+	<key>shouldTransitionCycle</key>
+	<string>desktopIntegrity</string>
+	<key>viewconfidentiality</key>
+	<string>emittervelocity</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeHeap</key>
+	<string>rowFacade</string>
+	<key>interpolationtag</key>
+	<string>concreteCombiner</string>
+	<key>liteFinder</key>
+	<string>largeUsage</string>
+	<key>publicConnector</key>
+	<string>shouldcancelfragment</string>
+	<key>requireddelivery</key>
+	<string>aspectAppearance</string>
+	<key>shapeSaturation</key>
+	<string>deferredResolver</string>
+</dict>
+</plist>

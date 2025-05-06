@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisevolution</key>
+	<string>diffableInteractor</string>
+	<key>customGraph</key>
+	<string>shouldMountedMatrix</string>
+	<key>deferredOption</key>
+	<string>bufferTop</string>
+	<key>desktopTechnique</key>
+	<string>serializeCube</string>
+	<key>draweraboutplatform</key>
+	<string>savelayout</string>
+	<key>isolateBehavior</key>
+	<string>materialStructure</string>
+	<key>localizationStyle</key>
+	<string>canUnmountedCollection</string>
+	<key>shouldTransformCustomPaint</key>
+	<string>linkerTail</string>
+	<key>sinkOffset</key>
+	<string>shouldDispatchBorder</string>
+</dict>
+</plist>

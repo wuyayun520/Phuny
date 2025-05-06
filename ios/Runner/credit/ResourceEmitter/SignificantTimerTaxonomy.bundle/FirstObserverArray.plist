@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionforvalue</key>
+	<string>divideModel</string>
+	<key>dependencycommandvisible</key>
+	<string>borderformat</string>
+	<key>fragmentuntilcontext</key>
+	<string>activitySaturation</string>
+	<key>methodSpeed</key>
+	<string>standalonePadding</string>
+	<key>movementDuration</key>
+	<string>nativeScalability</string>
+	<key>staticPromise</key>
+	<string>rectCoord</string>
+</dict>
+</plist>

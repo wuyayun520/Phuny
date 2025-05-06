@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalSize</key>
+	<string>giftAppearance</string>
+	<key>dropdownbuttonequivalent</key>
+	<string>shouldContinueLoss</string>
+	<key>futuretransformer</key>
+	<string>sequentialLog</string>
+	<key>intuitiveAperture</key>
+	<string>shouldReplaceSymbol</string>
+	<key>mobileInset</key>
+	<string>positionTransparency</string>
+	<key>monsterTag</key>
+	<string>dismissSegue</string>
+	<key>shouldConnectCustomPaint</key>
+	<string>significantScheduler</string>
+	<key>shouldMountedGraphic</key>
+	<string>imperativePublisher</string>
+	<key>shouldSerializeStoryboard</key>
+	<string>decorationFlags</string>
+	<key>subtleColor</key>
+	<string>basevisible</string>
+</dict>
+</plist>

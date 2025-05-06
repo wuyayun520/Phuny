@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledBox</key>
+	<string>arithmeticShape</string>
+	<key>intermediateRouter</key>
+	<string>pushHero</string>
+	<key>permanentPainter</key>
+	<string>shouldDismissPageView</string>
+	<key>reactiveTime</key>
+	<string>equalCompleter</string>
+	<key>serializeresolver</key>
+	<string>shoulddecodetext</string>
+	<key>sharedSensor</key>
+	<string>mediumBinary</string>
+	<key>shouldNavigateSpot</key>
+	<string>greatEquipment</string>
+</dict>
+</plist>

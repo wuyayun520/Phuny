@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveTween</key>
+	<string>columnPlatform</string>
+	<key>borderloop</key>
+	<string>synchronousLoader</string>
+	<key>creatorSpacing</key>
+	<string>responsiveSound</string>
+	<key>retainedBoxShadow</key>
+	<string>canSaveRole</string>
+	<key>shoulddismisssensor</key>
+	<string>custompaintStructure</string>
+	<key>skirtInset</key>
+	<string>routerAppearance</string>
+	<key>swiftnode</key>
+	<string>providerBorder</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticExponent</key>
+	<string>touchobserverstatus</string>
+	<key>flexibleRect</key>
+	<string>parallelStateful</string>
+	<key>monsterKind</key>
+	<string>aggregateScene</string>
+	<key>newestlossinteraction</key>
+	<string>shouldSaveMovement</string>
+	<key>notationvisibility</key>
+	<string>animatedRouter</string>
+	<key>reductionAlignment</key>
+	<string>tappableHandler</string>
+	<key>sharedTrigger</key>
+	<string>canReplaceSignature</string>
+	<key>shouldFetchDuration</key>
+	<string>shouldResumeTernary</string>
+</dict>
+</plist>

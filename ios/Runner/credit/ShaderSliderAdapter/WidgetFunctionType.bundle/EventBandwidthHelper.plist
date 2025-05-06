@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeflags</key>
+	<string>greatDimension</string>
+	<key>cubitVisibility</key>
+	<string>subtlematerializer</string>
+	<key>deferredHash</key>
+	<string>canResumeNotification</string>
+	<key>intermediateDuration</key>
+	<string>infrastructureTheme</string>
+	<key>moduleFeedback</key>
+	<string>cartesiansign</string>
+	<key>sharedBase</key>
+	<string>inkwellType</string>
+	<key>tabviewname</key>
+	<string>visitQueue</string>
+</dict>
+</plist>

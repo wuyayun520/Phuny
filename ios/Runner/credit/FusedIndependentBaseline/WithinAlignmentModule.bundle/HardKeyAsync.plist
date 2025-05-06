@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveinteraction</key>
+	<string>parseModal</string>
+	<key>primaryGem</key>
+	<string>iterativeAppBar</string>
+	<key>radiusOffset</key>
+	<string>crudestoretag</string>
+	<key>resilientAccessory</key>
+	<string>mobileInteger</string>
+	<key>slidertop</key>
+	<string>canPrepareSlash</string>
+	<key>storeperobserver</key>
+	<string>dismisstexture</string>
+	<key>themeBrightness</key>
+	<string>loadSkin</string>
+</dict>
+</plist>

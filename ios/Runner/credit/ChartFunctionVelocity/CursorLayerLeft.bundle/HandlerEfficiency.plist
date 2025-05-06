@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparatecosine</key>
+	<string>tabbarAdapter</string>
+	<key>elasticText</key>
+	<string>attachAppBar</string>
+	<key>immutableTask</key>
+	<string>difficultNotifier</string>
+	<key>otherThreshold</key>
+	<string>canPushMediaQuery</string>
+	<key>precisionSpacing</key>
+	<string>canValidateCycle</string>
+	<key>semanticConvolution</key>
+	<string>shouldanimateworkflow</string>
+	<key>shouldRebuildHero</key>
+	<string>prevDrawer</string>
+	<key>shouldSubscribeSlash</key>
+	<string>sliderMargin</string>
+	<key>shouldunbindtext</key>
+	<string>shouldListenScale</string>
+	<key>smartError</key>
+	<string>statealignment</string>
+</dict>
+</plist>

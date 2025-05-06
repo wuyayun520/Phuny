@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deserializecard</key>
+	<string>symbolTransparency</string>
+	<key>greatStamp</key>
+	<string>axisinfrastructure</string>
+	<key>immutableNotifier</key>
+	<string>mediumMusic</string>
+	<key>kerneltension</key>
+	<string>axisSize</string>
+	<key>mediumAnimator</key>
+	<string>disabledScalability</string>
+	<key>storeBehavior</key>
+	<string>mountedScreen</string>
+	<key>temporaryFilter</key>
+	<string>cleanProgressBar</string>
+</dict>
+</plist>

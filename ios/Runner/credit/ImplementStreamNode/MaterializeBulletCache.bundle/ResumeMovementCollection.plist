@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushfeedback</key>
+	<string>usedcell</string>
+	<key>customizedPageView</key>
+	<string>maincoordinator</string>
+	<key>granularRouter</key>
+	<string>shouldCacheAppBar</string>
+	<key>inkwellDistance</key>
+	<string>attachPlate</string>
+	<key>layoutbehavior</key>
+	<string>relationalModal</string>
+	<key>lostScale</key>
+	<string>similarProgressBar</string>
+	<key>materialcacheorientation</key>
+	<string>seekMenu</string>
+	<key>tableDepth</key>
+	<string>interpolationTail</string>
+	<key>uniqueCharacter</key>
+	<string>iterativeTechnique</string>
+</dict>
+</plist>

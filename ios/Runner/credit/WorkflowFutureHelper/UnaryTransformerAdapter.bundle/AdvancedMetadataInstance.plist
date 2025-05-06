@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>celltransparency</key>
+	<string>advancedHandler</string>
+	<key>delegateSkewY</key>
+	<string>notifyReduction</string>
+	<key>diffableSizedBox</key>
+	<string>dismissArithmetic</string>
+	<key>switchVisibility</key>
+	<string>denseResilience</string>
+</dict>
+</plist>

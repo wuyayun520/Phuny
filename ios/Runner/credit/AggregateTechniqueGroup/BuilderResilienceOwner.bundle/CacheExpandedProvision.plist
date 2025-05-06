@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedPermutation</key>
+	<string>geometricRadio</string>
+	<key>semanticStateful</key>
+	<string>gesturedetectorForce</string>
+	<key>shouldBindStamp</key>
+	<string>layoutAppearance</string>
+	<key>shouldListenListView</key>
+	<string>robustSlash</string>
+	<key>statelessAlpha</key>
+	<string>asynchronousSlash</string>
+</dict>
+</plist>

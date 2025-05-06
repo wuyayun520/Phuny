@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeFilter</key>
+	<string>iterativeZone</string>
+	<key>consumerreceiver</key>
+	<string>dataFlags</string>
+	<key>globalTransformer</key>
+	<string>respectiveJoiner</string>
+	<key>mediumcell</key>
+	<string>saveText</string>
+	<key>playbackprocesssize</key>
+	<string>asyncFramework</string>
+	<key>tabbarscope</key>
+	<string>dismissMetadata</string>
+	<key>workflowcharacteristic</key>
+	<string>timeRight</string>
+</dict>
+</plist>

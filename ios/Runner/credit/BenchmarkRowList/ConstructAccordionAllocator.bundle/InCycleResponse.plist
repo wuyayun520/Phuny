@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeProject</key>
+	<string>vectorizeskin</string>
+	<key>disabledProject</key>
+	<string>canBindAnimatedContainer</string>
+	<key>displayableAscent</key>
+	<string>freeManager</string>
+	<key>graphPosition</key>
+	<string>navigationContext</string>
+	<key>hardTransformer</key>
+	<string>detachBorder</string>
+	<key>immediateevent</key>
+	<string>shouldSkipBaseline</string>
+	<key>singleLayout</key>
+	<string>concreteComposition</string>
+</dict>
+</plist>

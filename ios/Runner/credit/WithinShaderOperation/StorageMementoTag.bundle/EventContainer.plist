@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisDelay</key>
+	<string>visibleEvolution</string>
+	<key>dropdownbuttonfeedback</key>
+	<string>maxSine</string>
+	<key>lazyCapsule</key>
+	<string>trainCosine</string>
+	<key>robustRenderer</key>
+	<string>unsortedSubpixel</string>
+	<key>shouldEmitEqualization</key>
+	<string>injectionparamoffset</string>
+	<key>shouldPauseCurve</key>
+	<string>localNavigator</string>
+	<key>uniquePreview</key>
+	<string>accordionCaption</string>
+	<key>widgetfromtier</key>
+	<string>subscriptionbound</string>
+</dict>
+</plist>

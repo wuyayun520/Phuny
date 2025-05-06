@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedtitle</key>
+	<string>sequentialCustomPaint</string>
+	<key>configureinjection</key>
+	<string>exponentorientation</string>
+	<key>currentVolume</key>
+	<string>responsiveSegue</string>
+	<key>defaultStep</key>
+	<string>sampleFrequency</string>
+	<key>emitgraphic</key>
+	<string>deploymonster</string>
+	<key>opaqueDrawer</key>
+	<string>granularTabView</string>
+	<key>tappableFilter</key>
+	<string>scrollForm</string>
+	<key>textfieldtexture</key>
+	<string>setupVector</string>
+</dict>
+</plist>

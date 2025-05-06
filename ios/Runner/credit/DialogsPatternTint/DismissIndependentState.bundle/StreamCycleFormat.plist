@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dropdownbuttonskewx</key>
+	<string>ephemeralDetector</string>
+	<key>ignoredlayout</key>
+	<string>navigateCapsule</string>
+	<key>mobileListener</key>
+	<string>widgetbysystem</string>
+	<key>movementKind</key>
+	<string>scheduleSize</string>
+	<key>pinchableScroll</key>
+	<string>showaspect</string>
+	<key>queueawaylayer</key>
+	<string>inactiveProjection</string>
+	<key>reactiveTriangles</key>
+	<string>canNotifyOperation</string>
+	<key>rendersession</key>
+	<string>visualizesession</string>
+	<key>shouldPublishTechnique</key>
+	<string>webIsolate</string>
+</dict>
+</plist>

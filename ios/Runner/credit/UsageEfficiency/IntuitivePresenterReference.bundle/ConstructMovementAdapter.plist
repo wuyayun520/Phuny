@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedHandler</key>
+	<string>integerstatus</string>
+	<key>drawmetadata</key>
+	<string>appbarFormat</string>
+	<key>reflectchapter</key>
+	<string>globalTaxonomy</string>
+	<key>sequentialDocument</key>
+	<string>unaryValue</string>
+	<key>thresholdvisible</key>
+	<string>validatereduction</string>
+</dict>
+</plist>

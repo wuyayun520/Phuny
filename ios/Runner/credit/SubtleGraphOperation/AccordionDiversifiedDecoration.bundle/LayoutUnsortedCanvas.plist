@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedGate</key>
+	<string>isicon</string>
+	<key>assetposition</key>
+	<string>reductionStructure</string>
+	<key>autoaspect</key>
+	<string>controllerRate</string>
+	<key>challengetransparency</key>
+	<string>typicalawaittension</string>
+	<key>dynamicMovement</key>
+	<string>staticReceiver</string>
+	<key>entitycenter</key>
+	<string>unbindrequest</string>
+	<key>shouldPopVariant</key>
+	<string>canDisconnectScaffold</string>
+	<key>storeColor</key>
+	<string>shouldCreateGestureDetector</string>
+	<key>strengthDelay</key>
+	<string>shouldStartGrayscale</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteMargin</key>
+	<string>showBuilder</string>
+	<key>consumerBehavior</key>
+	<string>canUnbindImage</string>
+	<key>enabledMaterializer</key>
+	<string>confidentialityTint</string>
+	<key>permissiveDescription</key>
+	<string>shouldLayoutAnimatedContainer</string>
+	<key>provideexpanded</key>
+	<string>menutraversal</string>
+</dict>
+</plist>

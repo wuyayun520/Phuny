@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedBase</key>
+	<string>canYieldCosine</string>
+	<key>callbackoperationoffset</key>
+	<string>newestTrigger</string>
+	<key>checklistcontainer</key>
+	<string>effectTransparency</string>
+	<key>crudeComposition</key>
+	<string>taxonomyBottom</string>
+	<key>elasticBinary</key>
+	<string>textscale</string>
+	<key>initializetransition</key>
+	<string>mergerDuration</string>
+	<key>lostobserverhue</key>
+	<string>disconnectCursor</string>
+	<key>parallelMusic</key>
+	<string>invokeGroup</string>
+	<key>persistentInstruction</key>
+	<string>shouldEndSemantics</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gesturefacadetension</key>
+	<string>reactiveSample</string>
+	<key>hasswitch</key>
+	<string>sorterFlags</string>
+	<key>reductionMode</key>
+	<string>checkView</string>
+	<key>semanticsbehavior</key>
+	<string>cachePrecision</string>
+	<key>sizedboxSize</key>
+	<string>graphTop</string>
+	<key>videoTheme</key>
+	<string>featureappearance</string>
+</dict>
+</plist>

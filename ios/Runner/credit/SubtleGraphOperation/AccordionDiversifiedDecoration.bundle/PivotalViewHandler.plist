@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deserializestep</key>
+	<string>compositionResponse</string>
+	<key>dimensionInset</key>
+	<string>shouldReplaceBaseline</string>
+	<key>directlyLabel</key>
+	<string>resizemargin</string>
+	<key>factoryFlags</key>
+	<string>enabledReference</string>
+	<key>fusedTrajectory</key>
+	<string>graphicLayer</string>
+	<key>hyperbolicRadius</key>
+	<string>initializeinterface</string>
+	<key>protectedFinder</key>
+	<string>seekObserver</string>
+</dict>
+</plist>

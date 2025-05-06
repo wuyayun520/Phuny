@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalMaterializer</key>
+	<string>scenarioDirection</string>
+	<key>customscalescale</key>
+	<string>primaryPrecision</string>
+	<key>disparateCurve</key>
+	<string>durationValidation</string>
+	<key>eagerEntity</key>
+	<string>euclideanHash</string>
+	<key>masterColor</key>
+	<string>visualizeMetadata</string>
+	<key>shouldSkipMember</key>
+	<string>resizableRouter</string>
+	<key>shouldrebuildreference</key>
+	<string>shouldPrepareModal</string>
+	<key>smartRectangle</key>
+	<string>disconnectChannel</string>
+	<key>statusFormat</key>
+	<string>currentmodelposition</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerBound</key>
+	<string>requiredProvision</string>
+	<key>delegateRotation</key>
+	<string>shouldRestartProfile</string>
+	<key>descriptionaboutdecorator</key>
+	<string>currentsegue</string>
+	<key>directlyConfiguration</key>
+	<string>layeruntilbridge</string>
+	<key>diversifiedVertex</key>
+	<string>unmountCheckbox</string>
+	<key>isStream</key>
+	<string>shouldAnimateMediaQuery</string>
+	<key>presenterResponse</key>
+	<string>restarterror</string>
+	<key>pushdescription</key>
+	<string>animatedTabBar</string>
+	<key>shouldReplaceCheckbox</key>
+	<string>resizableheap</string>
+	<key>timelineCoord</key>
+	<string>actionright</string>
+</dict>
+</plist>

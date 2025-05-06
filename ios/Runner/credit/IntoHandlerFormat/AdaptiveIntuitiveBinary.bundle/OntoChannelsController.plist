@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontraction</key>
+	<string>activeResilience</string>
+	<key>denseAspectRatio</key>
+	<string>equalizationAlignment</string>
+	<key>eventInterval</key>
+	<string>tappableLabel</string>
+	<key>granularRouter</key>
+	<string>canPresentCompletion</string>
+	<key>shouldCacheChannels</key>
+	<string>shouldYieldAnchor</string>
+	<key>shouldCachePlayback</key>
+	<string>rolereducer</string>
+	<key>shouldPauseContainer</key>
+	<string>primaryContainer</string>
+	<key>splitterCenter</key>
+	<string>requiredAmortization</string>
+	<key>tensorConvolution</key>
+	<string>capacitiesvisitorstyle</string>
+	<key>transitionmechanism</key>
+	<string>constraintOffset</string>
+</dict>
+</plist>

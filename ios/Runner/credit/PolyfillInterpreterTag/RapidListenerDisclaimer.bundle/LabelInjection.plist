@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleExponent</key>
+	<string>nativeExponent</string>
+	<key>activatedColumn</key>
+	<string>serializeTangent</string>
+	<key>convolutionFormat</key>
+	<string>handleTimer</string>
+	<key>customNavigation</key>
+	<string>signatureProxy</string>
+	<key>dismissbloc</key>
+	<string>agileSelector</string>
+	<key>groupMode</key>
+	<string>decorationdepth</string>
+	<key>intuitiveOperation</key>
+	<string>switchDelay</string>
+	<key>persistbloc</key>
+	<string>visibleInformation</string>
+	<key>shouldEmitPositioned</key>
+	<string>requiredImpact</string>
+	<key>subsequentParticle</key>
+	<string>materializeBuilder</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentJoiner</key>
+	<string>unregisterSubscription</string>
+	<key>dialogsBehavior</key>
+	<string>isUsage</string>
+	<key>utilaboutvisitor</key>
+	<string>marshalFactory</string>
+</dict>
+</plist>

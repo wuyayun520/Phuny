@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedScalability</key>
+	<string>continueAccessory</string>
+	<key>crudeVideo</key>
+	<string>disconnectTextField</string>
+	<key>parallelResolver</key>
+	<string>firstInfrastructure</string>
+	<key>shouldcreatecontroller</key>
+	<string>inactiveStroke</string>
+</dict>
+</plist>

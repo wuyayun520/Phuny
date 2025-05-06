@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dropdownbuttonorientation</key>
+	<string>activeTransformer</string>
+	<key>multiPosition</key>
+	<string>intermediateisolatehead</string>
+	<key>notificationuntilvalue</key>
+	<string>shouldShowTransition</string>
+	<key>subpixelpatternposition</key>
+	<string>completertail</string>
+	<key>substantialRemainder</key>
+	<string>symbolBottom</string>
+	<key>sustainableDrawer</key>
+	<string>canYieldScreen</string>
+</dict>
+</plist>

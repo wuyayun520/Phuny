@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperSpeed</key>
+	<string>subtleRestriction</string>
+	<key>isSubpixel</key>
+	<string>activatedMaterializer</string>
+	<key>ischaracter</key>
+	<string>decoupleEvent</string>
+	<key>normalmodeltype</key>
+	<string>skipDropdownButton</string>
+	<key>plateShade</key>
+	<string>canEmitMaster</string>
+	<key>shouldDisconnectSlider</key>
+	<string>removeSize</string>
+	<key>shouldPauseAnimatedContainer</key>
+	<string>denseSorter</string>
+	<key>spotdetail</key>
+	<string>promiseOpacity</string>
+	<key>subsequentcapsulesaturation</key>
+	<string>hasbullet</string>
+	<key>taskTheme</key>
+	<string>tensorPromise</string>
+</dict>
+</plist>

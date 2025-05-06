@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>groupleft</key>
+	<string>textureDensity</string>
+	<key>instructionVisibility</key>
+	<string>consultativeAspect</string>
+	<key>intermediateTouch</key>
+	<string>onsignaturechanged</string>
+	<key>methodbuilder</key>
+	<string>shouldUpdateSemantics</string>
+	<key>nextCombiner</key>
+	<string>intermediateVariant</string>
+	<key>processorType</key>
+	<string>uniqueEvaluation</string>
+	<key>rebuildplayback</key>
+	<string>formatOptimizer</string>
+	<key>taskflyweightdelay</key>
+	<string>widgetlikeparameter</string>
+	<key>unactivatedCompletion</key>
+	<string>globalCoordinator</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitForce</key>
+	<string>curvebeyondstage</string>
+	<key>blocfromactivity</key>
+	<string>obtainTransition</string>
+	<key>isolaterotation</key>
+	<string>concurrentfilter</string>
+	<key>liteExponent</key>
+	<string>paintDropdownButton</string>
+	<key>shouldPublishCycle</key>
+	<string>compositionalNotifier</string>
+	<key>shouldTrainCache</key>
+	<string>interpolationStrategy</string>
+	<key>skininfrastructure</key>
+	<string>decodeCompletion</string>
+	<key>swiftdirection</key>
+	<string>concreteEffect</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelStatus</key>
+	<string>canPrepareTernary</string>
+	<key>connectoracceleration</key>
+	<string>continuegrid</string>
+	<key>declarativeCluster</key>
+	<string>heroProxy</string>
+	<key>elasticInkWell</key>
+	<string>vertexOpacity</string>
+	<key>iterativeContainer</key>
+	<string>accordionItem</string>
+	<key>pausetexture</key>
+	<string>triggerVelocity</string>
+	<key>reconcilemultiplication</key>
+	<string>instantiateRouter</string>
+	<key>resolveusage</key>
+	<string>aperturepadding</string>
+	<key>routerright</key>
+	<string>crudeEntropy</string>
+	<key>shouldUnbindController</key>
+	<string>hasAnimation</string>
+</dict>
+</plist>

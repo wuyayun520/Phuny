@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>augmentduration</key>
+	<string>seamlessCluster</string>
+	<key>desktopsink</key>
+	<string>canRenderGrayscale</string>
+	<key>filterinset</key>
+	<string>displayplate</string>
+	<key>inheritedSprite</key>
+	<string>synchronousMedia</string>
+	<key>persistentDetector</key>
+	<string>featureAlignment</string>
+	<key>shouldBuildStamp</key>
+	<string>requestRoute</string>
+	<key>shouldInflateBitrate</key>
+	<string>chapterVisibility</string>
+	<key>statelessCoordinator</key>
+	<string>temporaryModulus</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicNotification</key>
+	<string>relationalTransformer</string>
+	<key>cacheDepth</key>
+	<string>eventarchitecture</string>
+	<key>hardasync</key>
+	<string>statelessGate</string>
+	<key>imperativeZone</key>
+	<string>fixedTitle</string>
+	<key>rangeSpeed</key>
+	<string>drawerComposite</string>
+	<key>schemaFlags</key>
+	<string>shouldPaintMap</string>
+	<key>scrollableMission</key>
+	<string>fragmentnavigator</string>
+	<key>shouldStartBatch</key>
+	<string>canDecodeTable</string>
+	<key>timerSpacing</key>
+	<string>cupertinoReducer</string>
+</dict>
+</plist>

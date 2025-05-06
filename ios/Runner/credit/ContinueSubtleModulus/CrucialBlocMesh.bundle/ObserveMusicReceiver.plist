@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeDependency</key>
+	<string>disabledInfrastructure</string>
+	<key>iconfrequency</key>
+	<string>easyvideo</string>
+	<key>persistentInfo</key>
+	<string>ephemeralPriority</string>
+	<key>robustSlider</key>
+	<string>titlerotation</string>
+	<key>shouldReplaceTechnique</key>
+	<string>shouldShowSample</string>
+	<key>shouldbindmodal</key>
+	<string>mediaBuffer</string>
+	<key>substantialparticle</key>
+	<string>newestPublisher</string>
+</dict>
+</plist>

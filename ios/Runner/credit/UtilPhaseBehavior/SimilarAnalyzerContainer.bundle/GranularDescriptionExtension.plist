@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetColor</key>
+	<string>pivotalCell</string>
+	<key>builderlikeadapter</key>
+	<string>unmountedPageView</string>
+	<key>controllerdensity</key>
+	<string>alignmentmapper</string>
+	<key>easyConnector</key>
+	<string>autodelivery</string>
+	<key>giftSpeed</key>
+	<string>documentMode</string>
+	<key>mendVelocity</key>
+	<string>shouldPresentController</string>
+	<key>unactivatedMonster</key>
+	<string>shouldCancelSemantics</string>
+</dict>
+</plist>

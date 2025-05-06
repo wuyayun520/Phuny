@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dropdownbuttonwithsystem</key>
+	<string>sharedremainder</string>
+	<key>immediateProgressBar</key>
+	<string>shouldAttachConsumer</string>
+	<key>presenterOffset</key>
+	<string>cacheTabBar</string>
+	<key>sensororvalue</key>
+	<string>cacheAcceleration</string>
+	<key>tableactionrate</key>
+	<string>cleanEntity</string>
+</dict>
+</plist>

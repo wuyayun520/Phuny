@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeProgressBar</key>
+	<string>containerSystem</string>
+	<key>advancedviewalignment</key>
+	<string>canEndSlider</string>
+	<key>animatedExpanded</key>
+	<string>buttonbottom</string>
+	<key>customCapsule</key>
+	<string>invisibleisolateinset</string>
+	<key>enumerateskirt</key>
+	<string>requestimpact</string>
+	<key>equivalentValidation</key>
+	<string>hierarchicalAllocator</string>
+	<key>prismaticStorage</key>
+	<string>shouldKeepSkin</string>
+	<key>responsiveVariant</key>
+	<string>uniqueAsset</string>
+</dict>
+</plist>

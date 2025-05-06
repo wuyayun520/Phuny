@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleNorm</key>
+	<string>shouldRebuildSegment</string>
+	<key>buttontransformer</key>
+	<string>enabledProgressBar</string>
+	<key>directlyTriangles</key>
+	<string>toleranceTop</string>
+	<key>observercapacity</key>
+	<string>unmountImage</string>
+	<key>oldlistener</key>
+	<string>combineLocalization</string>
+	<key>shouldDeserializeWorkflow</key>
+	<string>adaptiveOperation</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedelement</key>
+	<string>expandedDecorator</string>
+	<key>futureTint</key>
+	<string>sustainableStatus</string>
+	<key>pinchableNavigation</key>
+	<string>prevdelegate</string>
+	<key>playbackflags</key>
+	<string>resilientTweak</string>
+	<key>priorityBound</key>
+	<string>metadataskewy</string>
+	<key>queueStatus</key>
+	<string>canResumeGem</string>
+	<key>requiredSegue</key>
+	<string>boxshadowCoord</string>
+</dict>
+</plist>

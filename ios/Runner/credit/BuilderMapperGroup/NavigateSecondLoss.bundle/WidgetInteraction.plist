@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousMetadata</key>
+	<string>adjustcompletion</string>
+	<key>cupertinoLoader</key>
+	<string>createmission</string>
+	<key>ephemeralChooser</key>
+	<string>modalInterval</string>
+	<key>granularGrayscale</key>
+	<string>shouldvalidateaspectratio</string>
+	<key>managerLocation</key>
+	<string>symmetricReliability</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeAperture</key>
+	<string>composableLog</string>
+	<key>directlyTrigger</key>
+	<string>shouldDispatchCube</string>
+	<key>imageEdge</key>
+	<string>inheritedscreenmode</string>
+	<key>intuitiveInfrastructure</key>
+	<string>canDecodeProject</string>
+	<key>localModel</key>
+	<string>endScaffold</string>
+	<key>materialTimeline</key>
+	<string>tensorSearcher</string>
+	<key>observerevolution</key>
+	<string>shouldPaintPoint</string>
+	<key>pooltechnique</key>
+	<string>resilientScreen</string>
+	<key>storageplatformcontrast</key>
+	<string>activatedBorder</string>
+</dict>
+</plist>

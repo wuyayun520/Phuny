@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationLocation</key>
+	<string>retrieveQueue</string>
+	<key>asyncBrightness</key>
+	<string>canRouteListView</string>
+	<key>filterSize</key>
+	<string>delicateMargin</string>
+	<key>fixedMedia</key>
+	<string>notifyGrain</string>
+	<key>lastCompletion</key>
+	<string>sensorDuration</string>
+	<key>shouldresumebehavior</key>
+	<string>commonbullet</string>
+	<key>toleranceResponse</key>
+	<string>constructpresenter</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityappearance</key>
+	<string>canValidateStep</string>
+	<key>commonGrayscale</key>
+	<string>hasPromise</string>
+	<key>delicatelinker</key>
+	<string>propagateLoop</string>
+	<key>deliveryHue</key>
+	<string>slidercenter</string>
+	<key>menutype</key>
+	<string>skiptheme</string>
+	<key>persistentappbarmode</key>
+	<string>richtextInteraction</string>
+	<key>radiusRight</key>
+	<string>transitionCursor</string>
+	<key>reusableConnector</key>
+	<string>greatPlayback</string>
+	<key>sequentialTabBar</key>
+	<string>sanitizeStorage</string>
+	<key>toleranceEdge</key>
+	<string>crucialRenderer</string>
+</dict>
+</plist>

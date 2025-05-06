@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>converterDensity</key>
+	<string>canPersistStoryboard</string>
+	<key>cycleinteraction</key>
+	<string>mainResolver</string>
+	<key>immediateObserver</key>
+	<string>coordinatorslider</string>
+	<key>indicatormethod</key>
+	<string>signatureSize</string>
+	<key>interactorvelocity</key>
+	<string>shouldinflateequipment</string>
+	<key>providerpadding</key>
+	<string>makeController</string>
+	<key>scrollableBloc</key>
+	<string>shouldUpdateCosine</string>
+	<key>specifyPet</key>
+	<string>tensorResource</string>
+</dict>
+</plist>

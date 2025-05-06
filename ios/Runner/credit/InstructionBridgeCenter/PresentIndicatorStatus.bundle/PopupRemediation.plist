@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appendprojection</key>
+	<string>divideInjection</string>
+	<key>completionformtension</key>
+	<string>nativePlayback</string>
+	<key>greatBullet</key>
+	<string>marginamongparameter</string>
+	<key>seamlesstexture</key>
+	<string>inflateIndicator</string>
+	<key>shouldDisconnectBuilder</key>
+	<string>reusableEntity</string>
+	<key>shouldPresentAspect</key>
+	<string>tappableDialogs</string>
+	<key>widgetanimation</key>
+	<string>statelessactionsaturation</string>
+	<key>workflowtag</key>
+	<string>directWorkflow</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableInteraction</key>
+	<string>consultativetentative</string>
+	<key>computeentropy</key>
+	<string>similarAspect</string>
+	<key>finderDepth</key>
+	<string>shouldPresentSpecifier</string>
+	<key>invisibleDimension</key>
+	<string>deferredCallback</string>
+	<key>scopebrightness</key>
+	<string>attachMediaQuery</string>
+	<key>shouldHandleSwitch</key>
+	<string>subsequentTentative</string>
+	<key>shouldSetStateStateless</key>
+	<string>backwardTool</string>
+	<key>similardescriptorinset</key>
+	<string>transitionbutton</string>
+	<key>typicalConfiguration</key>
+	<string>shouldDismissBullet</string>
+</dict>
+</plist>

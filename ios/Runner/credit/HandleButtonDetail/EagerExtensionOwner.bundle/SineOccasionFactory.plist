@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedMapper</key>
+	<string>crucialTabBar</string>
+	<key>dropoutaction</key>
+	<string>cupertinoStroke</string>
+	<key>dynamicAppBar</key>
+	<string>mobileResponse</string>
+	<key>lastDelivery</key>
+	<string>associateEvent</string>
+	<key>mediumDecoration</key>
+	<string>hyperbolicMerger</string>
+	<key>reusableSensor</key>
+	<string>cupertinoQueue</string>
+	<key>significantSingleton</key>
+	<string>basestageinterval</string>
+	<key>visitcoordinator</key>
+	<string>extendMethod</string>
+</dict>
+</plist>

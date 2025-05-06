@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateGesture</key>
+	<string>resourceobserver</string>
+	<key>difficultSubscriber</key>
+	<string>canTransitionEqualization</string>
+	<key>featurePosition</key>
+	<string>cubitDuration</string>
+	<key>functionalscreen</key>
+	<string>endScaffold</string>
+	<key>ignoredHash</key>
+	<string>exceptionBorder</string>
+	<key>lostlabelbehavior</key>
+	<string>completerFlags</string>
+	<key>sequentialstream</key>
+	<string>autoAxis</string>
+	<key>shouldDisconnectCell</key>
+	<string>interpolationObserver</string>
+	<key>standaloneDrawer</key>
+	<string>ephemeralworkflow</string>
+</dict>
+</plist>

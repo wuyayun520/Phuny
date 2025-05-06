@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customCoordinator</key>
+	<string>updatebuilder</string>
+	<key>overlayalignment</key>
+	<string>exponententity</string>
+	<key>resilientoptimizerforce</key>
+	<string>sharedTransition</string>
+	<key>responsecyclebound</key>
+	<string>pinchablePosition</string>
+	<key>shouldLayoutSemantics</key>
+	<string>analyzeRadius</string>
+	<key>shouldSaveBloc</key>
+	<string>backwardQueue</string>
+	<key>singleRole</key>
+	<string>comprehensiveEffect</string>
+	<key>throughputHead</key>
+	<string>animatedResource</string>
+	<key>usedSign</key>
+	<string>subscribeappbar</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grainInterval</key>
+	<string>canYieldMedia</string>
+	<key>intermediateoperation</key>
+	<string>introspectSubscription</string>
+	<key>missedCharacter</key>
+	<string>shouldDisposeAnchor</string>
+	<key>protectedMetadata</key>
+	<string>projectFormat</string>
+	<key>shouldshowcustompaint</key>
+	<string>scheduleScene</string>
+	<key>similarprovision</key>
+	<string>difficultEquivalent</string>
+	<key>slashmomentum</key>
+	<string>canEndCosine</string>
+	<key>temporaryMobile</key>
+	<string>shouldtrainstack</string>
+</dict>
+</plist>

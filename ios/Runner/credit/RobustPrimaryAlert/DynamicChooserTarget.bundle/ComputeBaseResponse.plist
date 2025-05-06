@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitProfile</key>
+	<string>particleJob</string>
+	<key>flexiblecolumnborder</key>
+	<string>rapidDependency</string>
+	<key>integrationSkewX</key>
+	<string>dataBehavior</string>
+	<key>interpolationstrength</key>
+	<string>publicBuilder</string>
+	<key>liteError</key>
+	<string>descentduration</string>
+	<key>mediocreQueue</key>
+	<string>navigatorTop</string>
+	<key>reactiveDescription</key>
+	<string>savebutton</string>
+	<key>shouldSkipThread</key>
+	<string>inactiveResult</string>
+</dict>
+</plist>

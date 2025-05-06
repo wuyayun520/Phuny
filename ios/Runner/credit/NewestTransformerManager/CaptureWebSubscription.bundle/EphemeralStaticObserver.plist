@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerAccessory</key>
+	<string>canSaveVariant</string>
+	<key>descriptorkind</key>
+	<string>canNotifyShader</string>
+	<key>desktopJoiner</key>
+	<string>directrow</string>
+	<key>disabledSensor</key>
+	<string>topicbesideprototype</string>
+	<key>remediationName</key>
+	<string>textStage</string>
+	<key>shouldRouteCosine</key>
+	<string>webroute</string>
+	<key>smallmenu</key>
+	<string>cacheHeap</string>
+	<key>transitionFeedback</key>
+	<string>transitionSpeed</string>
+</dict>
+</plist>

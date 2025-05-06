@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderName</key>
+	<string>movementInterpreter</string>
+	<key>buttondensity</key>
+	<string>canShowChecklist</string>
+	<key>queueflags</key>
+	<string>scrollabletweenkind</string>
+	<key>unsortedAxis</key>
+	<string>statefulListener</string>
+</dict>
+</plist>

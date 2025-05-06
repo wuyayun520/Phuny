@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionTentative</key>
+	<string>statepolygon</string>
+	<key>directParticle</key>
+	<string>usecasePressure</string>
+	<key>informationScale</key>
+	<string>grayscaleScale</string>
+	<key>movestorage</key>
+	<string>canAttachAnchor</string>
+	<key>shouldSaveConstraint</key>
+	<string>functionalschema</string>
+	<key>shouldUnmountedMediaQuery</key>
+	<string>soundAlignment</string>
+	<key>shouldtraininteger</key>
+	<string>hasBitrate</string>
+</dict>
+</plist>

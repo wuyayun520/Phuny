@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureContrast</key>
+	<string>transitionBrightness</string>
+	<key>bulletmetadata</key>
+	<string>mountedMargin</string>
+	<key>conformmediaquery</key>
+	<string>canPushRichText</string>
+	<key>delegateformemento</key>
+	<string>connectortension</string>
+	<key>routeTag</key>
+	<string>secondPosition</string>
+	<key>routekinddelay</key>
+	<string>blocshape</string>
+	<key>symboltension</key>
+	<string>textfieldTier</string>
+	<key>tappablelocalization</key>
+	<string>localizationRight</string>
+	<key>viewtransparency</key>
+	<string>localizationborder</string>
+</dict>
+</plist>

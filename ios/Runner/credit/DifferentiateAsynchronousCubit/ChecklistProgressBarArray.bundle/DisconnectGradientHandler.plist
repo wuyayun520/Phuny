@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoSine</key>
+	<string>chapterTheme</string>
+	<key>declarativeCaption</key>
+	<string>certificateVisible</string>
+	<key>rapidCube</key>
+	<string>canValidateBoxShadow</string>
+	<key>shouldContinueMap</key>
+	<string>canEmitMember</string>
+	<key>shouldTransitionTabView</key>
+	<string>compareQueue</string>
+</dict>
+</plist>

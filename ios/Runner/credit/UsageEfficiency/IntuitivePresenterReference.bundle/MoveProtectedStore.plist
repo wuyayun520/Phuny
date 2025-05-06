@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composabletabbar</key>
+	<string>publishPainter</string>
+	<key>connectrequest</key>
+	<string>completedTernary</string>
+	<key>inactivescroller</key>
+	<string>canProcessIndicator</string>
+	<key>usedVideo</key>
+	<string>firstEmitter</string>
+	<key>visiblechartinset</key>
+	<string>showException</string>
+</dict>
+</plist>

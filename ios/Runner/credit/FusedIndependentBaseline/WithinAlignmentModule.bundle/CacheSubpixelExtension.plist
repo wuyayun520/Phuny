@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedrenderer</key>
+	<string>disparatemargin</string>
+	<key>eagerTool</key>
+	<string>pinchableSubscription</string>
+	<key>permanentObserver</key>
+	<string>numericallabel</string>
+	<key>shouldPushDescriptor</key>
+	<string>filterSkewY</string>
+	<key>taskequivalent</key>
+	<string>currenttransition</string>
+	<key>tickerStyle</key>
+	<string>subpixelTail</string>
+</dict>
+</plist>

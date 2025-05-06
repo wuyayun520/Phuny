@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>localSink</key>
+	<string>precisionevaluation</string>
+	<key>permanentExpanded</key>
+	<string>grayscaleVisible</string>
+	<key>permissiveTool</key>
+	<string>originalChecklist</string>
+	<key>requiredRemediation</key>
+	<string>smartMatrix</string>
+	<key>selectorKind</key>
+	<string>captionLocation</string>
+	<key>shouldLayoutAnimatedContainer</key>
+	<string>fusedNotation</string>
+	<key>viewtimeline</key>
+	<string>layoutContrast</string>
+</dict>
+</plist>

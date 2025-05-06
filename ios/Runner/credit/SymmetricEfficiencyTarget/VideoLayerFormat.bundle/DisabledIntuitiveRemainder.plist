@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>globalproviderindex</key>
+	<string>handleEvent</string>
+	<key>globalsampletransparency</key>
+	<string>canPushNib</string>
+	<key>gridSpacing</key>
+	<string>radiusduringmemento</string>
+	<key>heroBorder</key>
+	<string>marginContext</string>
+	<key>injectionpolygon</key>
+	<string>singleAwait</string>
+	<key>missedCombiner</key>
+	<string>persistentLogarithm</string>
+	<key>sharedCurve</key>
+	<string>cubeincludecommand</string>
+	<key>shouldDeserializeBox</key>
+	<string>shouldUnbindContraction</string>
+	<key>touchBound</key>
+	<string>animateanimation</string>
+</dict>
+</plist>

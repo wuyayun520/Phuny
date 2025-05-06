@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveStateless</key>
+	<string>opaqueParticle</string>
+	<key>benchmarkrow</key>
+	<string>restartHeap</string>
+	<key>cartesianStamp</key>
+	<string>exceptionskewx</string>
+	<key>composablesemantics</key>
+	<string>asyncFacade</string>
+	<key>consultativeRecursion</key>
+	<string>advancedSubscription</string>
+	<key>cupertinoCompletion</key>
+	<string>substantialInfrastructure</string>
+	<key>currentAspect</key>
+	<string>labelLayer</string>
+	<key>requestTheme</key>
+	<string>shouldCreateCoordinator</string>
+	<key>titleFlags</key>
+	<string>storagebuilder</string>
+</dict>
+</plist>

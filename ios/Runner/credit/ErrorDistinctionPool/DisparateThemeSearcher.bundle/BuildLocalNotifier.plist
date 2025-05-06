@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileStorage</key>
+	<string>handleerror</string>
+	<key>deferredwrapper</key>
+	<string>unmountedChallenge</string>
+	<key>managerBrightness</key>
+	<string>skinVisibility</string>
+	<key>routervisibility</key>
+	<string>layoutKernel</string>
+	<key>tweakOffset</key>
+	<string>statelessBehavior</string>
+</dict>
+</plist>

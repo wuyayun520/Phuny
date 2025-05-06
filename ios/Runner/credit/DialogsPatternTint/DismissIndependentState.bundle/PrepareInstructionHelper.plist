@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bindlocalization</key>
+	<string>segueInteraction</string>
+	<key>commonPadding</key>
+	<string>extensionworkdirection</string>
+	<key>diffableListView</key>
+	<string>lastScroll</string>
+	<key>difficultCube</key>
+	<string>shouldTrainSignature</string>
+	<key>dispatchbloc</key>
+	<string>cachepadding</string>
+	<key>displayableLatency</key>
+	<string>connectRequest</string>
+	<key>intuitiveInteger</key>
+	<string>instructionAdapter</string>
+	<key>metricsEdge</key>
+	<string>constantcount</string>
+	<key>reusableNode</key>
+	<string>declarativeconstraint</string>
+	<key>shouldmountpositioned</key>
+	<string>smartTabBar</string>
+</dict>
+</plist>

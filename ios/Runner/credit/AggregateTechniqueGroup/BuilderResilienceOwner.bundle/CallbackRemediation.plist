@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bandwidthAcceleration</key>
+	<string>sharedInkWell</string>
+	<key>impressionShade</key>
+	<string>canCreateCheckbox</string>
+	<key>standaloneCurve</key>
+	<string>associatedNotifier</string>
+	<key>statusspacing</key>
+	<string>substantialEntity</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumptionSkewY</key>
+	<string>dispatchSpine</string>
+	<key>evaluationRotation</key>
+	<string>pinchableScene</string>
+	<key>kernelmementoskewy</key>
+	<string>persistDelegate</string>
+	<key>prevBuffer</key>
+	<string>wrapperInset</string>
+	<key>shouldInflateStateless</key>
+	<string>radioEnvironment</string>
+	<key>shouldUnmountedBaseline</key>
+	<string>symmetricvideo</string>
+	<key>shouldvalidatearithmetic</key>
+	<string>normalProgressBar</string>
+	<key>sortedInteractor</key>
+	<string>kernelScale</string>
+	<key>soundcount</key>
+	<string>popGate</string>
+</dict>
+</plist>

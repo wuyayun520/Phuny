@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateShape</key>
+	<string>subscriptionInset</string>
+	<key>permissiveProtocol</key>
+	<string>logRotation</string>
+	<key>robustRichText</key>
+	<string>symmetricElasticity</string>
+	<key>scalabilityacceleration</key>
+	<string>canRenderSlash</string>
+	<key>shouldInflateSpecifier</key>
+	<string>labelalongvalue</string>
+	<key>shouldPauseAlert</key>
+	<string>shouldDisconnectMusic</string>
+</dict>
+</plist>

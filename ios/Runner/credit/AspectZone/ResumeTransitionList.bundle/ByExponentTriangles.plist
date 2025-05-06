@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorradius</key>
+	<string>smartAllocator</string>
+	<key>autoallocator</key>
+	<string>independentRecursion</string>
+	<key>hasSlash</key>
+	<string>canSubscribeAspectRatio</string>
+	<key>hierarchicalDialogs</key>
+	<string>positionComposite</string>
+	<key>lastAnchor</key>
+	<string>streammode</string>
+	<key>parallelTrigger</key>
+	<string>exponentLayer</string>
+	<key>resourceremediation</key>
+	<string>layoutpatternskewx</string>
+	<key>sinelevelspeed</key>
+	<string>unregisterException</string>
+	<key>skinVisible</key>
+	<string>shouldCacheThread</string>
+	<key>skirtvariableoffset</key>
+	<string>reflectSubscription</string>
+</dict>
+</plist>

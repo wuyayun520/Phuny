@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>conformternary</key>
+	<string>shouldFetchProject</string>
+	<key>crucialAspectRatio</key>
+	<string>slashdelay</string>
+	<key>framevaluelocation</key>
+	<string>shouldFormatRichText</string>
+	<key>rectAcceleration</key>
+	<string>primaryClipper</string>
+</dict>
+</plist>

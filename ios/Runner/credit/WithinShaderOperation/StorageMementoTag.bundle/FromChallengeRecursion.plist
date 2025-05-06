@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredVideo</key>
+	<string>protectedCertificate</string>
+	<key>denseNotification</key>
+	<string>keyBoxShadow</string>
+	<key>indicatorperbridge</key>
+	<string>objectHue</string>
+	<key>localizationdrawer</key>
+	<string>autoIntensity</string>
+	<key>mechanismTransparency</key>
+	<string>kernelbottom</string>
+	<key>pinchableRow</key>
+	<string>unactivatedView</string>
+	<key>shouldDispatchEntropy</key>
+	<string>reusableTime</string>
+	<key>shouldKeepLogarithm</key>
+	<string>emitExpanded</string>
+	<key>shouldYieldGrayscale</key>
+	<string>contractionPlatform</string>
+</dict>
+</plist>

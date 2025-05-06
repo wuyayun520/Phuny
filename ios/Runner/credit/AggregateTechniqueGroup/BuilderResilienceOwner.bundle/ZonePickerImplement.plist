@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentRenderer</key>
+	<string>particledrawer</string>
+	<key>functionalWidget</key>
+	<string>measureLayout</string>
+	<key>imageperfacade</key>
+	<string>profilePhase</string>
+	<key>publicProfile</key>
+	<string>serviceAction</string>
+	<key>resolverVisibility</key>
+	<string>streamtypetheme</string>
+</dict>
+</plist>

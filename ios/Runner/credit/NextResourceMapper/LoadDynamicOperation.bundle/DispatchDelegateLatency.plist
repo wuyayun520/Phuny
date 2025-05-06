@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeStream</key>
+	<string>shouldDismissTechnique</string>
+	<key>gateRate</key>
+	<string>remaindercontainlayer</string>
+	<key>permanentTolerance</key>
+	<string>maxTangent</string>
+	<key>shouldSerializeSign</key>
+	<string>canPresentDropdownButton</string>
+</dict>
+</plist>

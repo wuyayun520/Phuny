@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffablebaselineacceleration</key>
+	<string>mapperKind</string>
+	<key>framepolyfill</key>
+	<string>shouldLayoutRole</string>
+	<key>interceptstorage</key>
+	<string>elasticEqualization</string>
+	<key>prismaticSplitter</key>
+	<string>specifiercoordinator</string>
+	<key>synchronousinterfaceright</key>
+	<string>currentAnimatedContainer</string>
+	<key>taskhead</key>
+	<string>unregisterWidget</string>
+</dict>
+</plist>

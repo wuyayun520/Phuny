@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleTolerance</key>
+	<string>arithmeticElement</string>
+	<key>denseRichText</key>
+	<string>draggableTicker</string>
+	<key>inactiveLatency</key>
+	<string>provideContainer</string>
+	<key>responsiveNavigator</key>
+	<string>processorFrequency</string>
+	<key>retainedLayout</key>
+	<string>usageOperation</string>
+	<key>routeState</key>
+	<string>spotEdge</string>
+	<key>shouldYieldMargin</key>
+	<string>deserializeexponent</string>
+	<key>trianglesFrequency</key>
+	<string>framealignment</string>
+</dict>
+</plist>

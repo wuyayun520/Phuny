@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicScheduler</key>
+	<string>statefulCupertino</string>
+	<key>blocCenter</key>
+	<string>fragmentsVelocity</string>
+	<key>controllertime</key>
+	<string>attachGraphic</string>
+	<key>fragmentsTail</key>
+	<string>providercallback</string>
+	<key>normalOccasion</key>
+	<string>certificateMediator</string>
+	<key>pageviewwidget</key>
+	<string>lossInterpreter</string>
+	<key>responseHue</key>
+	<string>documentFeedback</string>
+</dict>
+</plist>

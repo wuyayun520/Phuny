@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarDepth</key>
+	<string>selectedCharacter</string>
+	<key>drawerEdge</key>
+	<string>connectormode</string>
+	<key>dynamicaspectratiofeedback</key>
+	<string>cancelDimension</string>
+	<key>elementTail</key>
+	<string>performNavigator</string>
+	<key>giftexceptstructure</key>
+	<string>scrollableSpot</string>
+	<key>previewbound</key>
+	<string>localPolygon</string>
+	<key>uniformListView</key>
+	<string>shouldTransitionDescriptor</string>
+</dict>
+</plist>

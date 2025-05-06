@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedHash</key>
+	<string>cursorBuffer</string>
+	<key>presenterdirection</key>
+	<string>reductionplatformtheme</string>
+	<key>shouldPaintDocument</key>
+	<string>parseGrid</string>
+	<key>unbindgate</key>
+	<string>canUpdatePlayback</string>
+	<key>visibleCache</key>
+	<string>adaptiveresponse</string>
+</dict>
+</plist>

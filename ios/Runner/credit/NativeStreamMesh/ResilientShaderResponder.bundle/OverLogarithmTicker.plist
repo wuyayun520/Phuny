@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disposestore</key>
+	<string>canSerializeResource</string>
+	<key>evaluationshade</key>
+	<string>canProcessSegment</string>
+	<key>filteralignment</key>
+	<string>throughputpressure</string>
+	<key>gradientdescent</key>
+	<string>shouldCacheCaption</string>
+	<key>materialchainbottom</key>
+	<string>pauseStream</string>
+	<key>originalReliability</key>
+	<string>canPopMusic</string>
+	<key>priorDecoration</key>
+	<string>modalTint</string>
+</dict>
+</plist>

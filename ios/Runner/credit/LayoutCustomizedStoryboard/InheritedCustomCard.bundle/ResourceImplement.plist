@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedCreator</key>
+	<string>pushBehavior</string>
+	<key>endinstruction</key>
+	<string>divideManager</string>
+	<key>nextTangent</key>
+	<string>bitrateMargin</string>
+	<key>offsetRotation</key>
+	<string>sharedEvent</string>
+	<key>selectedmovement</key>
+	<string>meshBound</string>
+	<key>semanticMapper</key>
+	<string>dialogspicker</string>
+	<key>shouldPauseGram</key>
+	<string>canDisconnectAspectRatio</string>
+	<key>standaloneNavigation</key>
+	<string>createCertificate</string>
+	<key>uniqueListener</key>
+	<string>shouldFinishSample</string>
+</dict>
+</plist>

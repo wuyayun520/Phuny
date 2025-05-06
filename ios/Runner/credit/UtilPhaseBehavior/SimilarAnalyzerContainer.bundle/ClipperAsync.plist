@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>injectionState</key>
+	<string>stateAlignment</string>
+	<key>largeintegrity</key>
+	<string>canEmitSkirt</string>
+	<key>releasetransformer</key>
+	<string>tweakindex</string>
+	<key>remainderFeedback</key>
+	<string>uniformAllocator</string>
+	<key>setstateaccessory</key>
+	<string>consumerhead</string>
+	<key>sliderOrientation</key>
+	<string>delicateAmortization</string>
+</dict>
+</plist>

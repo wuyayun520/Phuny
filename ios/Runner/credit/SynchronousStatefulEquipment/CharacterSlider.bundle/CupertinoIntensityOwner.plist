@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticOverlay</key>
+	<string>nodePrototype</string>
+	<key>lastStack</key>
+	<string>persistentStorage</string>
+	<key>shouldEncodeMedia</key>
+	<string>elasticchannelinset</string>
+	<key>shouldPushOptimizer</key>
+	<string>associateddescription</string>
+	<key>smartConsumption</key>
+	<string>displayablePlayback</string>
+</dict>
+</plist>

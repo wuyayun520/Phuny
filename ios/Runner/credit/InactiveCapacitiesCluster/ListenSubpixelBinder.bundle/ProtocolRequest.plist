@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedLifecycle</key>
+	<string>attachGrayscale</string>
+	<key>multiplicationStyle</key>
+	<string>missedParticle</string>
+	<key>oldPicker</key>
+	<string>deferredConfidentiality</string>
+	<key>sequentialMenu</key>
+	<string>grayscalevisitorvalidation</string>
+	<key>shouldProcessGridView</key>
+	<string>implementNavigator</string>
+</dict>
+</plist>

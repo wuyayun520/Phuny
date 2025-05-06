@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardparamlocation</key>
+	<string>disparateDetector</string>
+	<key>gemDelay</key>
+	<string>replaceMetadata</string>
+	<key>normalReference</key>
+	<string>differentiateDuration</string>
+	<key>priorDialogs</key>
+	<string>denseTitle</string>
+	<key>shouldFormatPlayback</key>
+	<string>unactivatedTentative</string>
+	<key>shouldResumeRichText</key>
+	<string>responsiveStep</string>
+	<key>timelineTail</key>
+	<string>offsetPosition</string>
+</dict>
+</plist>

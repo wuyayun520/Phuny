@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelValidation</key>
+	<string>shouldTransitionGestureDetector</string>
+	<key>characterStyle</key>
+	<string>deprecateText</string>
+	<key>ephemeralVideo</key>
+	<string>globalUsage</string>
+	<key>firstcallbackcontrast</key>
+	<string>gateVar</string>
+	<key>gemHead</key>
+	<string>layoutHeap</string>
+	<key>prevEvaluation</key>
+	<string>intermediateLocalization</string>
+	<key>publicconstraint</key>
+	<string>originalStrength</string>
+	<key>secondImage</key>
+	<string>decodeUsage</string>
+</dict>
+</plist>

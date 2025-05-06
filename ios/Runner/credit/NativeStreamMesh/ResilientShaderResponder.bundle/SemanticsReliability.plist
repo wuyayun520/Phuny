@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoRestriction</key>
+	<string>configureUseCase</string>
+	<key>integeraslayer</key>
+	<string>staticBinder</string>
+	<key>normalCapacity</key>
+	<string>interactiveArithmetic</string>
+	<key>progressbarorientation</key>
+	<string>shouldTrainGestureDetector</string>
+	<key>rapidView</key>
+	<string>presenterDistance</string>
+	<key>scrollSkewX</key>
+	<string>operationStrategy</string>
+	<key>shouldMountedAxis</key>
+	<string>flexibleUtil</string>
+	<key>shouldSkipContraction</key>
+	<string>containerinset</string>
+	<key>singleContrast</key>
+	<string>pauseLog</string>
+	<key>usedCosine</key>
+	<string>cachegesture</string>
+</dict>
+</plist>

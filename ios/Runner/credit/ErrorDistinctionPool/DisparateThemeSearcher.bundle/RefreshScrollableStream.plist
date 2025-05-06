@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectformat</key>
+	<string>criticalGroup</string>
+	<key>backwardChapter</key>
+	<string>movementLevel</string>
+	<key>cubescheduler</key>
+	<string>mediumPriority</string>
+	<key>featureFlags</key>
+	<string>unmountGrayscale</string>
+	<key>hasGesture</key>
+	<string>rectangleDistance</string>
+	<key>hashTheme</key>
+	<string>alphaTop</string>
+	<key>ignoredCache</key>
+	<string>shouldInflatePet</string>
+	<key>shouldPersistRichText</key>
+	<string>channelsAdapter</string>
+	<key>unactivatedRequest</key>
+	<string>uniformStateless</string>
+</dict>
+</plist>

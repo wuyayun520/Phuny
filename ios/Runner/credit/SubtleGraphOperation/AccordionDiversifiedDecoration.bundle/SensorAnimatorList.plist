@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationoradapter</key>
+	<string>sustainableprovider</string>
+	<key>concretePermutation</key>
+	<string>staticBrush</string>
+	<key>independentdescriptorspacing</key>
+	<string>roleMargin</string>
+	<key>intermediateVector</key>
+	<string>invisibleCustomPaint</string>
+	<key>opaqueCache</key>
+	<string>handlerthansystem</string>
+	<key>primaryCubit</key>
+	<string>nextTextField</string>
+	<key>roleBehavior</key>
+	<string>canSkipRadio</string>
+	<key>shouldSubscribeBitrate</key>
+	<string>restoreFeature</string>
+	<key>sorteddistinction</key>
+	<string>sophisticatedCreator</string>
+</dict>
+</plist>

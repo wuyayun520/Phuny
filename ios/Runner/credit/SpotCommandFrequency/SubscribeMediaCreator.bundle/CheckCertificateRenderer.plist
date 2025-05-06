@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonScroll</key>
+	<string>mapSpacing</string>
+	<key>delicateShape</key>
+	<string>canCancelNorm</string>
+	<key>dependencypermutation</key>
+	<string>shouldDetachTabView</string>
+	<key>intuitivePageView</key>
+	<string>symbolScope</string>
+	<key>layoutsprite</key>
+	<string>canInflateButton</string>
+	<key>pivotalScenario</key>
+	<string>shouldBuildScaffold</string>
+	<key>reactiveStorage</key>
+	<string>autoScroller</string>
+	<key>vectorRate</key>
+	<string>difficultCallback</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>durationfromfunction</key>
+	<string>serializeConvolution</string>
+	<key>onlosstap</key>
+	<string>threadLeft</string>
+	<key>reactiveSelector</key>
+	<string>prepareTable</string>
+	<key>shouldStopCursor</key>
+	<string>rebuildMedia</string>
+	<key>techniquebound</key>
+	<string>instantiateMetadata</string>
+	<key>timeInset</key>
+	<string>optimizeDecoration</string>
+</dict>
+</plist>

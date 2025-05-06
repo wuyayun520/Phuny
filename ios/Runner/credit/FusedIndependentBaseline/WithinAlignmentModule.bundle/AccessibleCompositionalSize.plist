@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>imperativeAsset</key>
+	<string>ephemeralTransition</string>
+	<key>pinchableCollection</key>
+	<string>synchronousVolume</string>
+	<key>protocolrect</key>
+	<string>rowdistance</string>
+	<key>requiredchartmomentum</key>
+	<string>sharedTrigger</string>
+	<key>roletypeduration</key>
+	<string>concurrenttouch</string>
+	<key>shouldDecodeGestureDetector</key>
+	<string>beginnerCell</string>
+	<key>singleroute</key>
+	<string>priorqueue</string>
+</dict>
+</plist>

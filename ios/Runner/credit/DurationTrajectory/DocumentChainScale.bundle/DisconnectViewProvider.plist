@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemerallistviewleft</key>
+	<string>shouldPushBorder</string>
+	<key>primaryNotation</key>
+	<string>animateRadius</string>
+	<key>shouldCacheExpanded</key>
+	<string>persistentCard</string>
+	<key>similarEqualization</key>
+	<string>tabbarcontrast</string>
+	<key>sliderFeedback</key>
+	<string>permanentComponent</string>
+</dict>
+</plist>

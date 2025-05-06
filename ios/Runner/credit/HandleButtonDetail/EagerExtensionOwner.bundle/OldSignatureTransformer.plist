@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedskirt</key>
+	<string>cacheStamp</string>
+	<key>collectiontimeline</key>
+	<string>scrollablePopup</string>
+	<key>colorPressure</key>
+	<string>observeStoryboard</string>
+	<key>heroHue</key>
+	<string>schedulerAppearance</string>
+	<key>intensityAlignment</key>
+	<string>gemComposite</string>
+	<key>sorterInteraction</key>
+	<string>impressionBound</string>
+</dict>
+</plist>

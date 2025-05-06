@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerInterval</key>
+	<string>benchmarkPresenter</string>
+	<key>custompaintSkewY</key>
+	<string>exceptionVisibility</string>
+	<key>directContainer</key>
+	<string>canShowReference</string>
+	<key>histogramtaskoffset</key>
+	<string>composablePager</string>
+	<key>intuitiveswitchbound</key>
+	<string>retainedAsset</string>
+	<key>newestContainer</key>
+	<string>canLoadLayout</string>
+	<key>shouldLoadMultiplication</key>
+	<string>normalAlignment</string>
+	<key>taskfrequency</key>
+	<string>canDisposeFragment</string>
+	<key>transposemanager</key>
+	<string>infrastructureStatus</string>
+	<key>usagesystemdepth</key>
+	<string>gesturedetectorDuration</string>
+</dict>
+</plist>

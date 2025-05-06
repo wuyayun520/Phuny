@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intermediatearithmetic</key>
+	<string>mapperHue</string>
+	<key>reducerMomentum</key>
+	<string>skininset</string>
+	<key>threadresilience</key>
+	<string>benchmarkWidget</string>
+	<key>visiblegroup</key>
+	<string>disposeAperture</string>
+</dict>
+</plist>

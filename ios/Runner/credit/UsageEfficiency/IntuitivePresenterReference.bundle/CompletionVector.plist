@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellRate</key>
+	<string>entityCoord</string>
+	<key>curveOrigin</key>
+	<string>originalMaster</string>
+	<key>desktopAnimation</key>
+	<string>createRequest</string>
+	<key>documentthroughframework</key>
+	<string>statefulpresenter</string>
+	<key>partitionloop</key>
+	<string>transitionbufferinset</string>
+	<key>pausemultiplication</key>
+	<string>canDisposeTabBar</string>
+	<key>standaloneQueue</key>
+	<string>statelessMesh</string>
+</dict>
+</plist>

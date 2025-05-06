@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyTabBar</key>
+	<string>gridviewVelocity</string>
+	<key>inheritedResult</key>
+	<string>materialPresenter</string>
+	<key>newestState</key>
+	<string>smallBinder</string>
+	<key>persistentLoss</key>
+	<string>transitionCertificate</string>
+	<key>radiusAlignment</key>
+	<string>explicitAspectRatio</string>
+	<key>sustainableMapper</key>
+	<string>intermediateFinder</string>
+	<key>uniformConnector</key>
+	<string>appbarInset</string>
+	<key>uniqueMediaQuery</key>
+	<string>imperativeRouter</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensivesizetop</key>
+	<string>expandedBehavior</string>
+	<key>invokeextension</key>
+	<string>shouldListenBehavior</string>
+	<key>matrixBehavior</key>
+	<string>canBindSample</string>
+	<key>mobilenotificationtype</key>
+	<string>navigateAsync</string>
+	<key>modaloutsideaction</key>
+	<string>progressbarvaluedelay</string>
+	<key>mutableProtocol</key>
+	<string>bulletCoord</string>
+	<key>rectvisibility</key>
+	<string>navigateGesture</string>
+	<key>shouldDismissSpot</key>
+	<string>firstBaseline</string>
+	<key>usecaseinset</key>
+	<string>singleGrayscale</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderchapter</key>
+	<string>adaptiveRichText</string>
+	<key>geometricAlignment</key>
+	<string>lastSkirt</string>
+	<key>ignoredImage</key>
+	<string>accordionPositioned</string>
+	<key>menuLeft</key>
+	<string>shaderScope</string>
+	<key>permanentData</key>
+	<string>temporaryCustomPaint</string>
+	<key>shouldSerializeCube</key>
+	<string>discoverMenu</string>
+	<key>shouldValidateTool</key>
+	<string>smallHero</string>
+	<key>strengthDelay</key>
+	<string>gemhue</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledGestureDetector</key>
+	<string>shouldListenSpot</string>
+	<key>enabledBorder</key>
+	<string>joinerResponse</string>
+	<key>graphkindbound</key>
+	<string>frameBorder</string>
+	<key>immediategrid</key>
+	<string>notifierNumber</string>
+	<key>offsetexpanded</key>
+	<string>canNavigateReference</string>
+	<key>oldgift</key>
+	<string>shouldAttachRow</string>
+	<key>permanentcycle</key>
+	<string>rapidaction</string>
+	<key>pinchableEvaluation</key>
+	<string>canSkipChallenge</string>
+</dict>
+</plist>

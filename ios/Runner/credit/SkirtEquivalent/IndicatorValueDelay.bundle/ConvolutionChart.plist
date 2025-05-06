@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cyclefacadealignment</key>
+	<string>animationindex</string>
+	<key>flexibleComponent</key>
+	<string>temporaryCatalyst</string>
+	<key>itemBehavior</key>
+	<string>cartesianChooser</string>
+	<key>shouldrendergradient</key>
+	<string>ephemeralservicelocation</string>
+	<key>spotVisibility</key>
+	<string>masterDensity</string>
+	<key>staticStoryboard</key>
+	<string>widgetBound</string>
+	<key>tappableimpact</key>
+	<string>unaryAlignment</string>
+</dict>
+</plist>

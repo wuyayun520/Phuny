@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equipmentDepth</key>
+	<string>intermediateHandler</string>
+	<key>movementSpeed</key>
+	<string>bindLoss</string>
+	<key>otherSymbol</key>
+	<string>partitionFactory</string>
+	<key>reductionconsumer</key>
+	<string>localizationinteraction</string>
+	<key>specifieredge</key>
+	<string>granularSubscriber</string>
+	<key>statelessOccasion</key>
+	<string>actionfeedback</string>
+	<key>subsequentDependency</key>
+	<string>transitionStage</string>
+	<key>uniqueLoss</key>
+	<string>promiseContrast</string>
+</dict>
+</plist>

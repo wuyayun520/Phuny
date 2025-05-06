@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cachelocation</key>
+	<string>soundskewx</string>
+	<key>composablePolygon</key>
+	<string>controllerShade</string>
+	<key>iconStatus</key>
+	<string>canRouteIndicator</string>
+	<key>inactiveaction</key>
+	<string>routeSubpixel</string>
+	<key>pageviewmode</key>
+	<string>unaryValidation</string>
+	<key>permanentIntegrity</key>
+	<string>enabledQuaternion</string>
+	<key>processtransition</key>
+	<string>canDisconnectEntropy</string>
+	<key>scaffoldScale</key>
+	<string>exitSingleton</string>
+	<key>serializeduration</key>
+	<string>effectrotation</string>
+	<key>unactivatedSpecifier</key>
+	<string>gifttransparency</string>
+</dict>
+</plist>

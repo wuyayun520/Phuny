@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyProvider</key>
+	<string>lostObserver</string>
+	<key>shouldFinishProvider</key>
+	<string>globallocalization</string>
+	<key>standaloneCompleter</key>
+	<string>durationDistance</string>
+	<key>storageacceleration</key>
+	<string>columnname</string>
+</dict>
+</plist>

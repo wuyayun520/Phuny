@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalSegue</key>
+	<string>accessibleHandler</string>
+	<key>draggableInkWell</key>
+	<string>functionaltransformer</string>
+	<key>grainstyleresponse</key>
+	<string>scrollablecheckboxindex</string>
+	<key>interfaceKind</key>
+	<string>deferredLinker</string>
+	<key>intermediateSpot</key>
+	<string>multiplicationAlignment</string>
+	<key>localMechanism</key>
+	<string>instantiatetext</string>
+	<key>scaffoldName</key>
+	<string>shouldDeserializeInteger</string>
+	<key>shouldPauseAlert</key>
+	<string>shouldPushGridView</string>
+</dict>
+</plist>

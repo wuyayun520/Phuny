@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileTabBar</key>
+	<string>canRouteInterpolation</string>
+	<key>arithmeticDescriptor</key>
+	<string>offsetInteractor</string>
+	<key>meshState</key>
+	<string>disabledController</string>
+	<key>nativeObserver</key>
+	<string>standaloneDrawer</string>
+	<key>onheapchanged</key>
+	<string>unsortedInfrastructure</string>
+	<key>registergrid</key>
+	<string>streamTangent</string>
+	<key>resizableconstraint</key>
+	<string>tickerwrapper</string>
+	<key>reusablePlayback</key>
+	<string>equivalentBorder</string>
+	<key>shouldTrainSpot</key>
+	<string>activityAcceleration</string>
+	<key>standaloneSwift</key>
+	<string>shouldTransformCanvas</string>
+</dict>
+</plist>

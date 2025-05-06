@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynccomponent</key>
+	<string>canDecodeSpot</string>
+	<key>crucialVertex</key>
+	<string>touchRow</string>
+	<key>diffableAudio</key>
+	<string>analyzerAcceleration</string>
+	<key>elasticStream</key>
+	<string>servicesize</string>
+	<key>immediateequalization</key>
+	<string>dimensionbesideactivity</string>
+	<key>substantialRepository</key>
+	<string>shouldDisposeBaseline</string>
+	<key>synchronousTransformer</key>
+	<string>crudeComponent</string>
+</dict>
+</plist>

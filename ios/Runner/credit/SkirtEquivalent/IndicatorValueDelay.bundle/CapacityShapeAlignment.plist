@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>groupstagespeed</key>
+	<string>draggableEmitter</string>
+	<key>parsecosine</key>
+	<string>temporaryMediaQuery</string>
+	<key>popawait</key>
+	<string>resourceScope</string>
+	<key>protectedCanvas</key>
+	<string>hasSegue</string>
+	<key>relationalVertex</key>
+	<string>removeAction</string>
+</dict>
+</plist>

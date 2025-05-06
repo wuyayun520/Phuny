@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzervalidation</key>
+	<string>buttonTension</string>
+	<key>axisalignment</key>
+	<string>geometricJoiner</string>
+	<key>crudeStrength</key>
+	<string>respectiveMechanism</string>
+	<key>requiredLoss</key>
+	<string>customizedQueue</string>
+	<key>retainedmanagerinterval</key>
+	<string>executeMenu</string>
+	<key>shouldCancelNavigation</key>
+	<string>navigatorInterpreter</string>
+	<key>synchronousMaterializer</key>
+	<string>replaceInjection</string>
+	<key>trainframe</key>
+	<string>inflateDialogs</string>
+</dict>
+</plist>

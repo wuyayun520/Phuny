@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cleanchannels</key>
+	<string>observerofpattern</string>
+	<key>connectresource</key>
+	<string>mechanismTension</string>
+	<key>createfactory</key>
+	<string>cubitthanfacade</string>
+	<key>lostPreview</key>
+	<string>criticalAnalyzer</string>
+	<key>mainGraphic</key>
+	<string>greatObserver</string>
+	<key>reactiveSprite</key>
+	<string>visualizeRouter</string>
+	<key>rectasvalue</key>
+	<string>emitDrawer</string>
+	<key>restartscroll</key>
+	<string>primaryScalability</string>
+	<key>secondPopup</key>
+	<string>canEmitWidget</string>
+</dict>
+</plist>

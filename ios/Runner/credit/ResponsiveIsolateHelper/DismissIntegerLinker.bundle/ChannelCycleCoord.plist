@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>functionalTask</key>
+	<string>accordionRemediation</string>
+	<key>independentReducer</key>
+	<string>cupertinoComposite</string>
+	<key>rebuildevent</key>
+	<string>compileResolver</string>
+	<key>shaderStatus</key>
+	<string>dedicatedConsumer</string>
+	<key>synchronousPageView</key>
+	<string>scheduleDelegate</string>
+</dict>
+</plist>

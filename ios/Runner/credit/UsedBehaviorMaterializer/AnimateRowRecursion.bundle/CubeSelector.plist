@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behavioralongproxy</key>
+	<string>loadCell</string>
+	<key>datainteraction</key>
+	<string>integritycoord</string>
+	<key>robustSwitch</key>
+	<string>vectorshapecolor</string>
+	<key>searcherPadding</key>
+	<string>canFormatBullet</string>
+	<key>sineSpacing</key>
+	<string>layoutCenter</string>
+	<key>timelineContrast</key>
+	<string>functionalWrapper</string>
+</dict>
+</plist>

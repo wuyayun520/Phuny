@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerAscent</key>
+	<string>storyboardStage</string>
+	<key>gatehandler</key>
+	<string>processLoss</string>
+	<key>labelDistance</key>
+	<string>markloop</string>
+	<key>missedButton</key>
+	<string>restartAnchor</string>
+	<key>resilientsignature</key>
+	<string>viewvariablevisible</string>
+	<key>resolverlocation</key>
+	<string>fixedConsumer</string>
+	<key>richtextinjection</key>
+	<string>commonEffect</string>
+	<key>smartDetail</key>
+	<string>shouldUpdateNorm</string>
+	<key>standaloneCertificate</key>
+	<string>imageBrightness</string>
+	<key>unmountedanchor</key>
+	<string>materializerEdge</string>
+</dict>
+</plist>

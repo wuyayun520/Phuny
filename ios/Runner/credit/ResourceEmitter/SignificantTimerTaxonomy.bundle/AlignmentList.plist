@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedsubscriptionmomentum</key>
+	<string>trianglesTransparency</string>
+	<key>displayableTentative</key>
+	<string>routetask</string>
+	<key>draggablePicker</key>
+	<string>denseAlignment</string>
+	<key>hyperbolicgrid</key>
+	<string>curveconstant</string>
+	<key>polyfillTop</key>
+	<string>dissociateGraph</string>
+	<key>seamlessmapper</key>
+	<string>primaryStroke</string>
+	<key>semanticsspacing</key>
+	<string>skinnotation</string>
+	<key>shouldObserveScaffold</key>
+	<string>temporaryRichText</string>
+	<key>storageState</key>
+	<string>canSetStateNavigation</string>
+</dict>
+</plist>

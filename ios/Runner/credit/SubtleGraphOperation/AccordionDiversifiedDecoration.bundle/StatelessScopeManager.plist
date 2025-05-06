@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectfortask</key>
+	<string>modelsaturation</string>
+	<key>pophistogram</key>
+	<string>prevcurvetype</string>
+	<key>scrollableAsset</key>
+	<string>symbolParameter</string>
+	<key>shouldSubscribeDescriptor</key>
+	<string>sanitizeradio</string>
+	<key>shouldpersistoptimizer</key>
+	<string>descentTail</string>
+</dict>
+</plist>

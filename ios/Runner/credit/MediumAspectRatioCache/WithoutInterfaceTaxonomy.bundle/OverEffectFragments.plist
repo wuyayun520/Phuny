@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselinefunctioncount</key>
+	<string>criticalTraversal</string>
+	<key>euclideanPriority</key>
+	<string>enabledScheduler</string>
+	<key>positionedEdge</key>
+	<string>discoverRow</string>
+	<key>prismaticRadio</key>
+	<string>clipResponse</string>
+	<key>resourceResponse</key>
+	<string>tabbarChain</string>
+	<key>resourcebufferoffset</key>
+	<string>gemcontextposition</string>
+	<key>shouldUpdateTool</key>
+	<string>resolveView</string>
+</dict>
+</plist>

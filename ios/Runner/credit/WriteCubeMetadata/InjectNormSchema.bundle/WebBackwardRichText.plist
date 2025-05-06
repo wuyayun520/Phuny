@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstEvaluation</key>
+	<string>chartObserver</string>
+	<key>lockpopup</key>
+	<string>emitGate</string>
+	<key>newestAnimator</key>
+	<string>rapidTicker</string>
+	<key>prevdropdownbuttonflags</key>
+	<string>accessiblePermutation</string>
+	<key>shouldBuildMargin</key>
+	<string>modelVisitor</string>
+</dict>
+</plist>

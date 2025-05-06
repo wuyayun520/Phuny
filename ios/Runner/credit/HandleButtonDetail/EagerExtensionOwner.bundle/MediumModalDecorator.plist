@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buildgroup</key>
+	<string>pagerCoord</string>
+	<key>defaultcomposition</key>
+	<string>listenerMode</string>
+	<key>diversifiedHistogram</key>
+	<string>touchMetadata</string>
+	<key>nodePadding</key>
+	<string>sequentialExtension</string>
+	<key>rectangleInteraction</key>
+	<string>ispriority</string>
+	<key>resilientallocatorfrequency</key>
+	<string>canTransformThread</string>
+	<key>shouldPresentPrecision</key>
+	<string>draggableUtil</string>
+	<key>shouldTransitionMobile</key>
+	<string>shouldCreateClipper</string>
+	<key>sizeLocation</key>
+	<string>finishModulus</string>
+</dict>
+</plist>

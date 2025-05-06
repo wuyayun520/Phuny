@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderTail</key>
+	<string>similarRenderer</string>
+	<key>liteTrigger</key>
+	<string>appbarBorder</string>
+	<key>mediaqueryappearance</key>
+	<string>hasController</string>
+	<key>semanticScroll</key>
+	<string>positionuntilvar</string>
+	<key>shouldListenController</key>
+	<string>canUnmountedLabel</string>
+	<key>shouldstartprojection</key>
+	<string>crudeChannels</string>
+	<key>sortedScroller</key>
+	<string>concurrentConverter</string>
+	<key>transitionstyle</key>
+	<string>sustainableAwait</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>differentiatedropdownbutton</key>
+	<string>missedConstant</string>
+	<key>enabledMatrix</key>
+	<string>menuValidation</string>
+	<key>multiplicationStyle</key>
+	<string>findAlignment</string>
+	<key>shouldKeepRoute</key>
+	<string>localChannels</string>
+	<key>shouldRestartAnimatedContainer</key>
+	<string>shouldFormatBinary</string>
+</dict>
+</plist>

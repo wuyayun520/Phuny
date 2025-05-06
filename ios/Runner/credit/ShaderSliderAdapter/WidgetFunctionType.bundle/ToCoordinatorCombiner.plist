@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveArithmetic</key>
+	<string>localSprite</string>
+	<key>borderAppearance</key>
+	<string>shouldRestartMovement</string>
+	<key>futurescale</key>
+	<string>buildDrawer</string>
+	<key>granularInterface</key>
+	<string>paddingParameter</string>
+	<key>lazyCustomPaint</key>
+	<string>shouldConnectTernary</string>
+	<key>semanticMethod</key>
+	<string>finishProject</string>
+	<key>topicPressure</key>
+	<string>convertCubit</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aperturealongprototype</key>
+	<string>temporaryInkWell</string>
+	<key>basicInteractor</key>
+	<string>shouldserializeplate</string>
+	<key>hyperbolicAsync</key>
+	<string>transformAperture</string>
+	<key>lostOptimizer</key>
+	<string>shouldunmountedmusic</string>
+	<key>shouldCacheDocument</key>
+	<string>canObserveBloc</string>
+	<key>shouldResumeDimension</key>
+	<string>inkwellOrigin</string>
+	<key>specifyColor</key>
+	<string>bufferState</string>
+</dict>
+</plist>

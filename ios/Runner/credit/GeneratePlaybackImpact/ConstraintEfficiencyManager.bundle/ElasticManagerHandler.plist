@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaflyweightmode</key>
+	<string>shouldRebuildRadio</string>
+	<key>currentmetadata</key>
+	<string>asyncShape</string>
+	<key>delegateduration</key>
+	<string>priorResponse</string>
+	<key>enabledAsync</key>
+	<string>persistentChannel</string>
+	<key>fusedSpot</key>
+	<string>resizabledependency</string>
+	<key>memberattask</key>
+	<string>intermediateFuture</string>
+	<key>oldScroller</key>
+	<string>drawerComposite</string>
+	<key>shouldObserveInterpolation</key>
+	<string>kernelName</string>
+	<key>sliderbridgeposition</key>
+	<string>canSetStateModulus</string>
+</dict>
+</plist>

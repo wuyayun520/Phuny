@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionGradient</key>
+	<string>shouldLayoutTabView</string>
+	<key>backwardSegue</key>
+	<string>shouldUnbindTask</string>
+	<key>checklistflags</key>
+	<string>remainderComposite</string>
+	<key>concurrentMend</key>
+	<string>dialogsTask</string>
+	<key>controllerreducer</key>
+	<string>unmountedTangent</string>
+	<key>routerbuilder</key>
+	<string>integrityFrequency</string>
+	<key>tappablelayoutorigin</key>
+	<string>cupertinoJoiner</string>
+	<key>visibleException</key>
+	<string>cloneresolver</string>
+</dict>
+</plist>

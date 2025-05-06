@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialaction</key>
+	<string>imperativePicker</string>
+	<key>elementTail</key>
+	<string>assetType</string>
+	<key>listviewOffset</key>
+	<string>canPauseTouch</string>
+	<key>requiredNotification</key>
+	<string>characterTheme</string>
+	<key>scrollableDelivery</key>
+	<string>synchronouslog</string>
+	<key>shouldBindMultiplication</key>
+	<string>canInflateStack</string>
+</dict>
+</plist>

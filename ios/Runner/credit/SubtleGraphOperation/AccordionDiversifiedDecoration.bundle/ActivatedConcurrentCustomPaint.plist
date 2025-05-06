@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderservice</key>
+	<string>sharedTime</string>
+	<key>dedicatedModulus</key>
+	<string>shouldListenAppBar</string>
+	<key>occasionShape</key>
+	<string>animatechannel</string>
+	<key>providerVisibility</key>
+	<string>interactorColor</string>
+	<key>seamlessAwait</key>
+	<string>fillTopic</string>
+	<key>uniqueTimer</key>
+	<string>publisherTag</string>
+	<key>unsortedScope</key>
+	<string>deserializeWidget</string>
+	<key>variantconstraint</key>
+	<string>disabledAccessory</string>
+</dict>
+</plist>

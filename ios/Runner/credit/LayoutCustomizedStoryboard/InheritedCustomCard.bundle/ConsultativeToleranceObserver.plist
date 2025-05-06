@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultMission</key>
+	<string>bundleSize</string>
+	<key>difficultVector</key>
+	<string>entityopacity</string>
+	<key>displayableConstant</key>
+	<string>denseBase</string>
+	<key>managerprovision</key>
+	<string>gemTint</string>
+	<key>rapidspriteshade</key>
+	<string>shouldPopBorder</string>
+	<key>serializequeue</key>
+	<string>notifierinteractor</string>
+	<key>shouldDecodeDecoration</key>
+	<string>canNavigateUsage</string>
+	<key>standaloneDropdownButton</key>
+	<string>shouldContinueRichText</string>
+	<key>threadhue</key>
+	<string>materialManager</string>
+	<key>unactivatedVideo</key>
+	<string>disabledoverlaydirection</string>
+</dict>
+</plist>

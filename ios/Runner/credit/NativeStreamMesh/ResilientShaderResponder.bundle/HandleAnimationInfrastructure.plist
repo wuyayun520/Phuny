@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioaboutcycle</key>
+	<string>requiredIndicator</string>
+	<key>chartoperation</key>
+	<string>checkboxDistance</string>
+	<key>elasticityDirection</key>
+	<string>canMountedText</string>
+	<key>iterativeLoader</key>
+	<string>animatedView</string>
+	<key>listeneredge</key>
+	<string>transpileAwait</string>
+	<key>numericalChooser</key>
+	<string>shouldPresentSymbol</string>
+	<key>performstamp</key>
+	<string>rapidPromise</string>
+	<key>protocolsinceproxy</key>
+	<string>synchronousInteger</string>
+	<key>screenState</key>
+	<string>filterBrightness</string>
+	<key>uniformSine</key>
+	<string>permanentTransition</string>
+</dict>
+</plist>

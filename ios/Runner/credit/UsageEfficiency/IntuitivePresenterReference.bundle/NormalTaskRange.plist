@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immutableReducer</key>
+	<string>animationDelay</string>
+	<key>independenttransitionedge</key>
+	<string>advancedTween</string>
+	<key>streamstyleskewx</key>
+	<string>activitystate</string>
+	<key>uniformLoop</key>
+	<string>lossOrigin</string>
+</dict>
+</plist>

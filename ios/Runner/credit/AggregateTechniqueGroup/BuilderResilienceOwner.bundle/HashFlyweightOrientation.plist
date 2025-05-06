@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitRight</key>
+	<string>discardedPadding</string>
+	<key>desktopBox</key>
+	<string>dedicatedCapsule</string>
+	<key>lazyEvolution</key>
+	<string>mediumSorter</string>
+	<key>shouldYieldMonster</key>
+	<string>combinerVisible</string>
+</dict>
+</plist>

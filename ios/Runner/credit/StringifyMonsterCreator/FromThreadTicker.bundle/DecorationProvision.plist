@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exceptionduringparameter</key>
+	<string>popBloc</string>
+	<key>largegraphresponse</key>
+	<string>createStateful</string>
+	<key>loaderShape</key>
+	<string>arithmeticView</string>
+	<key>mediumfuturecoord</key>
+	<string>associateddependencyscale</string>
+	<key>observerLeft</key>
+	<string>transformAlert</string>
+	<key>sliderMomentum</key>
+	<string>bindInstruction</string>
+	<key>statefulAnalogy</key>
+	<string>mediaqueryTint</string>
+</dict>
+</plist>

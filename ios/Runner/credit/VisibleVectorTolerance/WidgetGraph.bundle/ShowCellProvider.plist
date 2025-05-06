@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionmechanism</key>
+	<string>instantiateGroup</string>
+	<key>alphatransition</key>
+	<string>responsetolerance</string>
+	<key>asynchronousRange</key>
+	<string>canResumeTabView</string>
+	<key>colorOffset</key>
+	<string>canDetachDimension</string>
+	<key>diversifiedChart</key>
+	<string>techniquespeed</string>
+	<key>eagerselector</key>
+	<string>resilientStateless</string>
+	<key>granularNib</key>
+	<string>finishSemantics</string>
+	<key>restrictionSize</key>
+	<string>responseanalyzer</string>
+	<key>shapeStyle</key>
+	<string>uniqueConnector</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inflategraph</key>
+	<string>commonReceiver</string>
+	<key>iterativeBuffer</key>
+	<string>shouldCancelHeap</string>
+	<key>lazySwitch</key>
+	<string>cubittiercount</string>
+	<key>oldBinary</key>
+	<string>statelessCharacter</string>
+	<key>selectedcheckbox</key>
+	<string>keyState</string>
+	<key>shouldFinishMaster</key>
+	<string>otherSubscriber</string>
+	<key>shouldcancelradio</key>
+	<string>resizableClipper</string>
+	<key>statelessinsideproxy</key>
+	<string>publicComponent</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedMechanism</key>
+	<string>intuitiveMobile</string>
+	<key>arithmeticLayer</key>
+	<string>endGraphic</string>
+	<key>commonPicker</key>
+	<string>lockchecklist</string>
+	<key>methodtiervalidation</key>
+	<string>shouldunmountedslider</string>
+	<key>releaseresource</key>
+	<string>endGate</string>
+	<key>shouldParseTabView</key>
+	<string>gridviewOpacity</string>
+	<key>shouldRenderTask</key>
+	<string>interfacecontainnumber</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatordescription</key>
+	<string>shouldPaintObserver</string>
+	<key>directlyChart</key>
+	<string>activeHeap</string>
+	<key>shoulddisposeinkwell</key>
+	<string>animateCharacter</string>
+	<key>smartSemantics</key>
+	<string>decorationvalidation</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeObserver</key>
+	<string>coordinatorflags</string>
+	<key>deliveryMargin</key>
+	<string>renameinterface</string>
+	<key>pagerAcceleration</key>
+	<string>responsiveticker</string>
+	<key>shouldAnimateNotifier</key>
+	<string>saveDropdownButton</string>
+	<key>shouldCreateModulus</key>
+	<string>singleanimationresponse</string>
+	<key>shouldSaveOverlay</key>
+	<string>smallLabel</string>
+	<key>uniqueDialogs</key>
+	<string>transpileobserver</string>
+</dict>
+</plist>

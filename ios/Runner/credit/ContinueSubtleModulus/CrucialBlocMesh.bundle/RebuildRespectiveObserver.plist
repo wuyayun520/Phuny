@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleLifecycle</key>
+	<string>shouldDeserializeCapsule</string>
+	<key>hierarchicalBinary</key>
+	<string>providerleveloffset</string>
+	<key>inkwellevaluation</key>
+	<string>unlockresult</string>
+	<key>localizationSpeed</key>
+	<string>completerFlags</string>
+	<key>mediocrePadding</key>
+	<string>cacheModulus</string>
+	<key>presenterInterval</key>
+	<string>convertawait</string>
+	<key>sceneSkewX</key>
+	<string>euclideanNotification</string>
+</dict>
+</plist>

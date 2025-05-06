@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedCubit</key>
+	<string>sorterShape</string>
+	<key>cubeScale</key>
+	<string>shouldDispatchFlex</string>
+	<key>hardThroughput</key>
+	<string>transitionCaption</string>
+	<key>shoulddispatchdocument</key>
+	<string>handlerFrequency</string>
+	<key>thresholdFeedback</key>
+	<string>overlaySkewX</string>
+</dict>
+</plist>

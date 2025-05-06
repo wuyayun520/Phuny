@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chooserbrightness</key>
+	<string>declarativeStorage</string>
+	<key>embedstore</key>
+	<string>accelerateGraph</string>
+	<key>interfacelocation</key>
+	<string>iterativeMatrix</string>
+	<key>localBinary</key>
+	<string>shouldSkipBase</string>
+	<key>multiplicationagainststrategy</key>
+	<string>prismaticLog</string>
+	<key>statefulTentative</key>
+	<string>lossActivity</string>
+</dict>
+</plist>

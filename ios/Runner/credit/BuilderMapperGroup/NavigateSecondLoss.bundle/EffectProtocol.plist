@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedgridview</key>
+	<string>memberDistance</string>
+	<key>functionalTask</key>
+	<string>hyperbolicDetail</string>
+	<key>heapVelocity</key>
+	<string>liteMatrix</string>
+	<key>loginparam</key>
+	<string>temporaryBehavior</string>
+	<key>particleVisible</key>
+	<string>converterCenter</string>
+	<key>reconcilelayout</key>
+	<string>largeColor</string>
+	<key>stepDelay</key>
+	<string>reactiveModule</string>
+	<key>tabviewslider</key>
+	<string>advancedBandwidth</string>
+	<key>textTint</key>
+	<string>canPaintAppBar</string>
+</dict>
+</plist>

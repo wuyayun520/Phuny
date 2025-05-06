@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstTextField</key>
+	<string>unactivatedTweak</string>
+	<key>granularHistogram</key>
+	<string>subpixelworkskewx</string>
+	<key>shouldDeserializeStack</key>
+	<string>equipmentAlignment</string>
+	<key>shouldFinishCompletion</key>
+	<string>multiplicationCommand</string>
+	<key>spotSpacing</key>
+	<string>storeReducer</string>
+	<key>temporarypainter</key>
+	<string>subsequentRadio</string>
+</dict>
+</plist>

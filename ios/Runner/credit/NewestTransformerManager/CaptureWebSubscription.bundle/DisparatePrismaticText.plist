@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectusecase</key>
+	<string>uniqueQuaternion</string>
+	<key>globalCharacteristic</key>
+	<string>persistentGate</string>
+	<key>lazyPublisher</key>
+	<string>defaultTable</string>
+	<key>listencontainer</key>
+	<string>chartStatus</string>
+	<key>mainGraph</key>
+	<string>multiplicationName</string>
+	<key>oldMesh</key>
+	<string>shouldTrainButton</string>
+	<key>rangeTag</key>
+	<string>deactivatedependency</string>
+	<key>shouldNavigateMusic</key>
+	<string>popError</string>
+	<key>shouldsaveview</key>
+	<string>canUnbindOperation</string>
+</dict>
+</plist>

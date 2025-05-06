@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeSound</key>
+	<string>shouldStartCube</string>
+	<key>hasCycle</key>
+	<string>constructSprite</string>
+	<key>localSink</key>
+	<string>disparateCanvas</string>
+	<key>shouldKeepHero</key>
+	<string>inheritedVector</string>
+</dict>
+</plist>

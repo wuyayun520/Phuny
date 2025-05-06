@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredLatency</key>
+	<string>comprehensivemesh</string>
+	<key>denseStrength</key>
+	<string>canInflateBloc</string>
+	<key>histogramalignment</key>
+	<string>accessibleeventstyle</string>
+	<key>impressionIndex</key>
+	<string>canTransformShader</string>
+	<key>mediumResolver</key>
+	<string>shaderFlyweight</string>
+	<key>resourcetriangles</key>
+	<string>providemetadata</string>
+	<key>synchronousSign</key>
+	<string>setstateSpot</string>
+	<key>tappablesorter</key>
+	<string>replacePainter</string>
+</dict>
+</plist>

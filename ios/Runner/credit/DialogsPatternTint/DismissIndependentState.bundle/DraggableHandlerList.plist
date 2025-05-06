@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonEquivalent</key>
+	<string>appbarspeed</string>
+	<key>customizedScalability</key>
+	<string>shouldDisconnectAccessory</string>
+	<key>eagerMember</key>
+	<string>observerVelocity</string>
+	<key>factoryTension</key>
+	<string>prismaticMethod</string>
+	<key>shouldNavigateCaption</key>
+	<string>rectifylistener</string>
+	<key>shouldTrainGestureDetector</key>
+	<string>sliderOffset</string>
+</dict>
+</plist>

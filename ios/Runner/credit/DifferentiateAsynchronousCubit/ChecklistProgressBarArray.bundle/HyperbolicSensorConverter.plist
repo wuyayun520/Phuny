@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparatePainter</key>
+	<string>crucialScale</string>
+	<key>largeFuture</key>
+	<string>symbolVar</string>
+	<key>primaryHandler</key>
+	<string>loopposition</string>
+	<key>stateBound</key>
+	<string>canResumeSizedBox</string>
+	<key>trianglesAlignment</key>
+	<string>shouldDeserializeLayout</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bandwidthOrigin</key>
+	<string>shouldDismissMonster</string>
+	<key>customLifecycle</key>
+	<string>canStreamComposition</string>
+	<key>materialThreshold</key>
+	<string>accordionVariant</string>
+	<key>otherSegue</key>
+	<string>canRouteCard</string>
+	<key>primaryContraction</key>
+	<string>symmetricTrigger</string>
+	<key>shouldPushPet</key>
+	<string>searchTexture</string>
+	<key>usedInterface</key>
+	<string>cursorCount</string>
+	<key>visiblePositioned</key>
+	<string>shouldObserveTheme</string>
+</dict>
+</plist>

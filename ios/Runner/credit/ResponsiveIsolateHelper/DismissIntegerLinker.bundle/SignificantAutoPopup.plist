@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorreceiver</key>
+	<string>hierarchicalScaffold</string>
+	<key>deferredAnimatedContainer</key>
+	<string>signatureParameter</string>
+	<key>handlerTransparency</key>
+	<string>encodereduction</string>
+	<key>liteTouch</key>
+	<string>audioKind</string>
+	<key>missedStateful</key>
+	<string>priorInteractor</string>
+	<key>pagerSpeed</key>
+	<string>prevInterface</string>
+	<key>prevCertificate</key>
+	<string>segmentBottom</string>
+	<key>reliabilityValidation</key>
+	<string>aperturearoundstate</string>
+	<key>shouldPrepareLayout</key>
+	<string>sortedFormat</string>
+	<key>signatureIndex</key>
+	<string>shouldStreamAppBar</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoConnector</key>
+	<string>relationalThreshold</string>
+	<key>hyperbolicProcessor</key>
+	<string>columnslider</string>
+	<key>imperativeWrapper</key>
+	<string>globalIndicator</string>
+	<key>inactiveOverlay</key>
+	<string>cosineMethod</string>
+	<key>interactorOffset</key>
+	<string>unmarshalNavigator</string>
+	<key>optionoffset</key>
+	<string>specifynavigatormode</string>
+	<key>scrollableEvent</key>
+	<string>formatpainter</string>
+	<key>shouldNotifyCard</key>
+	<string>routeTask</string>
+	<key>shouldPresentSegue</key>
+	<string>dynamicSpecifier</string>
+	<key>skinwithcomposite</key>
+	<string>cubitParameter</string>
+</dict>
+</plist>

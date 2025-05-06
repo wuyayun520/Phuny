@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colorappearance</key>
+	<string>canListenSpecifier</string>
+	<key>currentplayback</key>
+	<string>progressbarlayerorigin</string>
+	<key>mechanismBehavior</key>
+	<string>equipmentValidation</string>
+	<key>newestItem</key>
+	<string>unbindasync</string>
+	<key>pinchableTool</key>
+	<string>crucialAlpha</string>
+	<key>shouldUnbindSpine</key>
+	<string>performInjection</string>
+	<key>uniqueStep</key>
+	<string>shouldPopTask</string>
+</dict>
+</plist>

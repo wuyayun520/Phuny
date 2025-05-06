@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedResponse</key>
+	<string>singleOperation</string>
+	<key>asynchronousRow</key>
+	<string>setstateCheckbox</string>
+	<key>discardedInfo</key>
+	<string>shouldresumedelegate</string>
+	<key>immutableScroll</key>
+	<string>presenterStatus</string>
+	<key>lazyStep</key>
+	<string>primaryInstruction</string>
+	<key>otherEmitter</key>
+	<string>shouldInflateMomentum</string>
+	<key>persistentGift</key>
+	<string>canLayoutPadding</string>
+	<key>processscreen</key>
+	<string>statusSpeed</string>
+	<key>undertakesubscription</key>
+	<string>elasticCatalyst</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>formattextfield</key>
+	<string>switchOrigin</string>
+	<key>functionalSkin</key>
+	<string>checklistEdge</string>
+	<key>hardActivity</key>
+	<string>skipreduction</string>
+	<key>positionorpattern</key>
+	<string>measureContainer</string>
+	<key>resiliencevelocity</key>
+	<string>canYieldMultiplication</string>
+	<key>sessionagainstmediator</key>
+	<string>brushpolygon</string>
+	<key>setstatebuilder</key>
+	<string>shouldSubscribeVariant</string>
+	<key>zonecontainobserver</key>
+	<string>hierarchicalTitle</string>
+</dict>
+</plist>

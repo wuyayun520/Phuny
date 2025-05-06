@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseSegue</key>
+	<string>retrievestorage</string>
+	<key>lostEmitter</key>
+	<string>shouldValidateMatrix</string>
+	<key>mediocreInterface</key>
+	<string>isConstraint</string>
+	<key>mediumrequestkind</key>
+	<string>shouldCreateThread</string>
+	<key>textfieldtint</key>
+	<string>associatedIsolate</string>
+</dict>
+</plist>

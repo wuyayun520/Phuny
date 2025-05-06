@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeDelegate</key>
+	<string>setupProvider</string>
+	<key>largeChannel</key>
+	<string>streamlineasset</string>
+	<key>selectedmedia</key>
+	<string>primaryScheduler</string>
+	<key>shouldCacheResource</key>
+	<string>ternaryTask</string>
+	<key>shouldResumeCheckbox</key>
+	<string>scrollableanalyzer</string>
+</dict>
+</plist>

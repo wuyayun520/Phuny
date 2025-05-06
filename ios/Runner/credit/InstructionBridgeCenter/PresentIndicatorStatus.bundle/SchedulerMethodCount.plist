@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associateresolver</key>
+	<string>numericalDialogs</string>
+	<key>intercepttable</key>
+	<string>persistdecoration</string>
+	<key>mobileGraphic</key>
+	<string>analyzeStore</string>
+	<key>permanentdecoration</key>
+	<string>streamRadio</string>
+	<key>slashRotation</key>
+	<string>shouldpauseindicator</string>
+</dict>
+</plist>

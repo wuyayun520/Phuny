@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryKind</key>
+	<string>discardedlayoutpressure</string>
+	<key>concreteInfo</key>
+	<string>imagePressure</string>
+	<key>layerprocessor</key>
+	<string>canContinueCapsule</string>
+	<key>navigatortail</key>
+	<string>invokedescriptor</string>
+	<key>notifycurve</key>
+	<string>backwardVariant</string>
+	<key>shouldKeepChecklist</key>
+	<string>shouldKeepFuture</string>
+	<key>shouldLoadModal</key>
+	<string>fusedTime</string>
+	<key>specifyVertex</key>
+	<string>imperativemenutag</string>
+</dict>
+</plist>

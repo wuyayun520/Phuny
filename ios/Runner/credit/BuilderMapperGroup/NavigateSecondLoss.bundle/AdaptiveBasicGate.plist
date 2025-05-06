@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedDuration</key>
+	<string>shouldNotifySensor</string>
+	<key>bufferFrequency</key>
+	<string>standaloneRange</string>
+	<key>catalystVisible</key>
+	<string>listeneracceleration</string>
+	<key>characterTransparency</key>
+	<string>inkwellContrast</string>
+	<key>displayableTouch</key>
+	<string>pivotalQueue</string>
+	<key>gateStyle</key>
+	<string>backwardBuilder</string>
+	<key>mergerDistance</key>
+	<string>materialInterpreter</string>
+	<key>otherutil</key>
+	<string>mainBatch</string>
+	<key>shouldDispatchPoint</key>
+	<string>canContinueGram</string>
+	<key>unaryFeedback</key>
+	<string>inkwellOrigin</string>
+</dict>
+</plist>

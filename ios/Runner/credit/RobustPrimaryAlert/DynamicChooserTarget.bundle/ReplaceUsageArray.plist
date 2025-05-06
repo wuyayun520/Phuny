@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedObserver</key>
+	<string>utilleft</string>
+	<key>enabledScope</key>
+	<string>rapidUnary</string>
+	<key>flexibleScene</key>
+	<string>delicateInkWell</string>
+	<key>momentumDepth</key>
+	<string>entityLevel</string>
+	<key>secondWrapper</key>
+	<string>minGem</string>
+	<key>sensorMode</key>
+	<string>referenceComposite</string>
+	<key>vectorelasticity</key>
+	<string>nextProcessor</string>
+</dict>
+</plist>

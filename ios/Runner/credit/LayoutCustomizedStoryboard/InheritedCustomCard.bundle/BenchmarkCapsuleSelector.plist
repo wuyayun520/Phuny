@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveRadius</key>
+	<string>themebuilder</string>
+	<key>arithmeticTimer</key>
+	<string>showresult</string>
+	<key>checklabel</key>
+	<string>axisStatus</string>
+	<key>featurebound</key>
+	<string>processZone</string>
+	<key>shouldContinueLabel</key>
+	<string>setstateAspectRatio</string>
+	<key>shouldNotifyConstraint</key>
+	<string>consumeObserver</string>
+	<key>statelessFlags</key>
+	<string>queuepatternmargin</string>
+</dict>
+</plist>

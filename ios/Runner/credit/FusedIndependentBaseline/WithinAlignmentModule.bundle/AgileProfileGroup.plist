@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityType</key>
+	<string>modulusFlyweight</string>
+	<key>adaptivespinesaturation</key>
+	<string>navigatorOffset</string>
+	<key>arithmeticview</key>
+	<string>fusedSymbol</string>
+	<key>convolutionVisibility</key>
+	<string>notificationBehavior</string>
+	<key>interpolationanddecorator</key>
+	<string>quantizationPreview</string>
+	<key>recursiontransparency</key>
+	<string>temporaryContrast</string>
+	<key>shouldCancelGrayscale</key>
+	<string>shouldUnbindTernary</string>
+	<key>shouldtransitionaxis</key>
+	<string>temporarySegue</string>
+	<key>threadScale</key>
+	<string>canReplaceStamp</string>
+</dict>
+</plist>

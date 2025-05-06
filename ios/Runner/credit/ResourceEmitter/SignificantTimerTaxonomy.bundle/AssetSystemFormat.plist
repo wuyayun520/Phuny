@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperbridgeborder</key>
+	<string>shouldPresentSlider</string>
+	<key>constraintamongenvironment</key>
+	<string>characterAppearance</string>
+	<key>entityIndex</key>
+	<string>selectedsizedbox</string>
+	<key>instructionlevelbehavior</key>
+	<string>canSerializeGate</string>
+	<key>intensityBrightness</key>
+	<string>spriteEnvironment</string>
+	<key>nibTheme</key>
+	<string>connectSegue</string>
+	<key>radioSpeed</key>
+	<string>shouldYieldSpine</string>
+	<key>shouldBindCosine</key>
+	<string>storecolor</string>
+	<key>shouldLoadSkirt</key>
+	<string>oldSingleton</string>
+</dict>
+</plist>

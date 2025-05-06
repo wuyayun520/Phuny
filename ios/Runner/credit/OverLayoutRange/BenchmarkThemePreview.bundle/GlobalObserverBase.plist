@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activetext</key>
+	<string>delicateClipper</string>
+	<key>deserializefuture</key>
+	<string>shouldDetachMomentum</string>
+	<key>firstAsset</key>
+	<string>desktopWidget</string>
+	<key>mainappbarmargin</key>
+	<string>immediateAnimation</string>
+	<key>requestworktransparency</key>
+	<string>dropoutTexture</string>
+	<key>sceneOrientation</key>
+	<string>canDisposeOverlay</string>
+	<key>shouldFinishClipper</key>
+	<string>customizedFuture</string>
+	<key>topicmementovelocity</key>
+	<string>priorCapacity</string>
+	<key>typicalListener</key>
+	<string>presentInterpolation</string>
+</dict>
+</plist>

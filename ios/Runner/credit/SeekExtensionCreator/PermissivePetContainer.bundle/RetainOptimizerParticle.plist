@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectpressure</key>
+	<string>asynchronousAppBar</string>
+	<key>captionprototypeedge</key>
+	<string>globalDependency</string>
+	<key>compositionTag</key>
+	<string>selectedCanvas</string>
+	<key>compositionalpetbrightness</key>
+	<string>crucialAperture</string>
+	<key>crucialMapper</key>
+	<string>buttonBrightness</string>
+	<key>descriptionbrightness</key>
+	<string>modelinterpreterbound</string>
+	<key>scaffoldCount</key>
+	<string>directMend</string>
+	<key>standaloneNotation</key>
+	<string>buttonbrightness</string>
+	<key>synchronousDimension</key>
+	<string>deactivateButton</string>
+	<key>synchronousMethod</key>
+	<string>buildername</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerrequest</key>
+	<string>canPaintEquipment</string>
+	<key>immediateMesh</key>
+	<string>showView</string>
+	<key>intuitiveAlert</key>
+	<string>shouldDetachClipper</string>
+	<key>processorMode</key>
+	<string>futuredistance</string>
+	<key>shouldRouteBoxShadow</key>
+	<string>displayFrame</string>
+	<key>shouldrendermaster</key>
+	<string>hierarchicalPublisher</string>
+	<key>widgetstrategyacceleration</key>
+	<string>detachConsumer</string>
+</dict>
+</plist>

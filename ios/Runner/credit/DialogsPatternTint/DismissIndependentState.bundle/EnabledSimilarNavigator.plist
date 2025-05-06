@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entitycallback</key>
+	<string>sustainableCallback</string>
+	<key>imperativedata</key>
+	<string>canSubscribeMomentum</string>
+	<key>onborderchanged</key>
+	<string>shouldDisconnectOption</string>
+	<key>semanticsShape</key>
+	<string>shouldBuildSample</string>
+	<key>shouldValidateChannels</key>
+	<string>storescopeflags</string>
+	<key>uniqueInteraction</key>
+	<string>shouldPresentCapsule</string>
+</dict>
+</plist>

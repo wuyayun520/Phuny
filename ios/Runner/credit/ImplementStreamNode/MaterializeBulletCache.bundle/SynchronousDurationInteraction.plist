@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoBase</key>
+	<string>multiplicationKind</string>
+	<key>diffableReducer</key>
+	<string>layoutGraphic</string>
+	<key>fillcell</key>
+	<string>ontextfieldtap</string>
+	<key>missedDelegate</key>
+	<string>mainMobile</string>
+	<key>selectedthread</key>
+	<string>usedReliability</string>
+	<key>shouldAnimateDuration</key>
+	<string>weblayout</string>
+	<key>singletonnumberoffset</key>
+	<string>retainDescription</string>
+	<key>spineAcceleration</key>
+	<string>shouldBindUnary</string>
+</dict>
+</plist>

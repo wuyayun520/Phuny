@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainertypetop</key>
+	<string>tweenstructurevelocity</string>
+	<key>draggableMap</key>
+	<string>tabviewSpacing</string>
+	<key>ignoredFormat</key>
+	<string>spineCenter</string>
+	<key>independentSemantics</key>
+	<string>menuatnumber</string>
+	<key>mediocreRect</key>
+	<string>canRestartCell</string>
+	<key>popbrush</key>
+	<string>tensorDisclaimer</string>
+	<key>priorScroller</key>
+	<string>bufferresponse</string>
+	<key>protectedlistener</key>
+	<string>prevgridskewy</string>
+	<key>shouldDispatchHistogram</key>
+	<string>locateSprite</string>
+	<key>shouldSetStateModal</key>
+	<string>cupertinoVideo</string>
+</dict>
+</plist>

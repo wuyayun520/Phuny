@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticController</key>
+	<string>configurationScale</string>
+	<key>boxmodecoord</key>
+	<string>bitratechainalignment</string>
+	<key>constraintbottom</key>
+	<string>seamlessChannel</string>
+	<key>diffableListView</key>
+	<string>completerRight</string>
+	<key>documentOrigin</key>
+	<string>alignmentSaturation</string>
+	<key>shouldunmountnib</key>
+	<string>customGrid</string>
+	<key>zonealongwork</key>
+	<string>transitionmargin</string>
+</dict>
+</plist>

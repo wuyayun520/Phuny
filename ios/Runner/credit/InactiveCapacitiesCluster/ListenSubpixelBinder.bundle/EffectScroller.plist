@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>groupDirection</key>
+	<string>shouldAttachGraphic</string>
+	<key>intermediateDelegate</key>
+	<string>dialogsParameter</string>
+	<key>persistentDrawer</key>
+	<string>confidentialityFrequency</string>
+	<key>reactiveintensity</key>
+	<string>ephemeralAppBar</string>
+	<key>transformerLocation</key>
+	<string>iconBrightness</string>
+	<key>usedScheduler</key>
+	<string>permanentNavigator</string>
+	<key>visibleEquivalent</key>
+	<string>shouldcreatenotification</string>
+</dict>
+</plist>

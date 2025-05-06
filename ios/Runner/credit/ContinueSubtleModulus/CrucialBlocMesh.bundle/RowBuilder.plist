@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionlatency</key>
+	<string>advancedpresenterborder</string>
+	<key>backwardProvision</key>
+	<string>ignoredNode</string>
+	<key>charttint</key>
+	<string>attachTabView</string>
+	<key>currentReduction</key>
+	<string>requiredLayout</string>
+	<key>hashRate</key>
+	<string>firstMetrics</string>
+	<key>prismaticChooser</key>
+	<string>convolutionAlignment</string>
+	<key>shouldPausePoint</key>
+	<string>otherAudio</string>
+	<key>symmetricSymbol</key>
+	<string>augmentListener</string>
+</dict>
+</plist>

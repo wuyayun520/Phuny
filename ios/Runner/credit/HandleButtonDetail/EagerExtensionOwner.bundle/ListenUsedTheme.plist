@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>nativeMenu</key>
+	<string>shouldValidateSizedBox</string>
+	<key>shouldRebuildDialogs</key>
+	<string>regulateManager</string>
+	<key>tabviewplatformappearance</key>
+	<string>startmenu</string>
+	<key>tangentOrientation</key>
+	<string>deprecateRouter</string>
+</dict>
+</plist>

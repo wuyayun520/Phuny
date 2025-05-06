@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>factoryBound</key>
+	<string>infrastructureBehavior</string>
+	<key>groupchainresponse</key>
+	<string>singleSample</string>
+	<key>immediateDelivery</key>
+	<string>findException</string>
+	<key>interactiveQueue</key>
+	<string>touchcontrast</string>
+	<key>largescenario</key>
+	<string>multiDocument</string>
+	<key>shouldunmountcollection</key>
+	<string>dispatchrichtext</string>
+	<key>smallbuilderfrequency</key>
+	<string>converterScale</string>
+	<key>threadbound</key>
+	<string>prismaticNavigator</string>
+</dict>
+</plist>

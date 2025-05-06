@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentPet</key>
+	<string>showGrain</string>
+	<key>movementVisibility</key>
+	<string>responsiveConvolution</string>
+	<key>semanticMenu</key>
+	<string>shaderMethod</string>
+	<key>shouldRestartDecoration</key>
+	<string>cruderowrotation</string>
+	<key>significantStrength</key>
+	<string>connectOption</string>
+</dict>
+</plist>

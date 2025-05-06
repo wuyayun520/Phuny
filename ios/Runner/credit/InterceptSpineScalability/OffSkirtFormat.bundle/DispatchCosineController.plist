@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetdensity</key>
+	<string>asynchronousPager</string>
+	<key>cellcompleter</key>
+	<string>gridFunction</string>
+	<key>navigatorchainborder</key>
+	<string>pauseArithmetic</string>
+	<key>reactiveStrength</key>
+	<string>shouldUnmountBorder</string>
+	<key>shouldShowCycle</key>
+	<string>tickerAdapter</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocSkewY</key>
+	<string>commonCubit</string>
+	<key>granularAllocator</key>
+	<string>sequentialColumn</string>
+	<key>mendColor</key>
+	<string>responsiveMenu</string>
+	<key>normalchapter</key>
+	<string>accessoryMargin</string>
+	<key>rebuildcompleter</key>
+	<string>utilCount</string>
+	<key>requestValidation</key>
+	<string>rowtempleright</string>
+	<key>shouldstreammargin</key>
+	<string>canDecodeBitrate</string>
+	<key>standaloneVector</key>
+	<string>specifierLeft</string>
+	<key>substantialGrayscale</key>
+	<string>sessionNumber</string>
+	<key>visibleTask</key>
+	<string>skipEqualization</string>
+</dict>
+</plist>

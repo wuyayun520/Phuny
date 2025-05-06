@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectgrain</key>
+	<string>particlefromoperation</string>
+	<key>associatedStatus</key>
+	<string>shouldUpdateLoss</string>
+	<key>independentCaption</key>
+	<string>replacechannel</string>
+	<key>independentEquipment</key>
+	<string>gesturePattern</string>
+	<key>memberrotation</key>
+	<string>poolNode</string>
+	<key>opaqueProject</key>
+	<string>concretegrainposition</string>
+	<key>shouldInflateTernary</key>
+	<string>continuecurve</string>
+	<key>usedInfo</key>
+	<string>tappableInteger</string>
+	<key>viewHue</key>
+	<string>canRestartVariant</string>
+</dict>
+</plist>

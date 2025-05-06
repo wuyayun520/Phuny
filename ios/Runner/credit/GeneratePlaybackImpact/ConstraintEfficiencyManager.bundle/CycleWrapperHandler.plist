@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeChannel</key>
+	<string>layoutcontrast</string>
+	<key>adaptiveLatency</key>
+	<string>paintTechnique</string>
+	<key>autoeffectrate</key>
+	<string>adaptiveEmitter</string>
+	<key>mainProvider</key>
+	<string>shouldDecodeBrush</string>
+	<key>oldScenario</key>
+	<string>challengeBridge</string>
+	<key>previewstyleskewx</key>
+	<string>precisionDecorator</string>
+	<key>retainedCharacteristic</key>
+	<string>commonRect</string>
+	<key>shouldAttachSample</key>
+	<string>diffablecontainer</string>
+	<key>unsortedComponent</key>
+	<string>encodeCard</string>
+	<key>visibleColumn</key>
+	<string>logNumber</string>
+</dict>
+</plist>

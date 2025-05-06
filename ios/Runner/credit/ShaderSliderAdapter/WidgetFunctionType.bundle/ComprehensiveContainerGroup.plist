@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticCollection</key>
+	<string>rotateLabel</string>
+	<key>heaporientation</key>
+	<string>activityAppearance</string>
+	<key>injectionintegrity</key>
+	<string>semanticresult</string>
+	<key>mediaqueryframe</key>
+	<string>analogyLeft</string>
+	<key>schemaAlignment</key>
+	<string>loadTouch</string>
+	<key>selectorAppearance</key>
+	<string>misseddurationdirection</string>
+	<key>shouldRestartAnimation</key>
+	<string>agileExpanded</string>
+	<key>shouldUnbindMedia</key>
+	<string>largeLog</string>
+	<key>statelessDependency</key>
+	<string>nodeProxy</string>
+	<key>unscheduleallocator</key>
+	<string>customizedHistogram</string>
+</dict>
+</plist>

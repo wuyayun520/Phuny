@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianusecase</key>
+	<string>hasBaseline</string>
+	<key>interactionTheme</key>
+	<string>shouldUnbindProtocol</string>
+	<key>optimizerDelay</key>
+	<string>labeloperationsize</string>
+	<key>reductioninterval</key>
+	<string>cartesianChecklist</string>
+</dict>
+</plist>

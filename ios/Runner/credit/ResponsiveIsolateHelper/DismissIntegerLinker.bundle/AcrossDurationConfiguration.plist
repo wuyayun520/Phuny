@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystSpacing</key>
+	<string>groupuntilobserver</string>
+	<key>euclideanBorder</key>
+	<string>canResumeGestureDetector</string>
+	<key>mediocreCombiner</key>
+	<string>canPublishPlate</string>
+	<key>navigatorDirection</key>
+	<string>invisibleEntity</string>
+	<key>shapeMargin</key>
+	<string>tabbarnotation</string>
+	<key>shouldRebuildIcon</key>
+	<string>singletonBound</string>
+	<key>staticEqualization</key>
+	<string>canNotifyNavigation</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableDelegate</key>
+	<string>canNavigateTask</string>
+	<key>loopanimator</key>
+	<string>fixedStatus</string>
+	<key>shouldLoadTask</key>
+	<string>prevComposition</string>
+	<key>shouldsavepromise</key>
+	<string>monsterLevel</string>
+	<key>uniqueMatrix</key>
+	<string>denseEvent</string>
+</dict>
+</plist>

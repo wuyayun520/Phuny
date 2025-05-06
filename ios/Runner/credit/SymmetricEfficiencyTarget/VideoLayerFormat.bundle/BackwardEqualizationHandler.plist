@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerLoader</key>
+	<string>canFinishExtension</string>
+	<key>localizationHead</key>
+	<string>symmetricMap</string>
+	<key>modulusSaturation</key>
+	<string>asyncdispatcher</string>
+	<key>nibsize</key>
+	<string>threadinjection</string>
+	<key>pivotalMend</key>
+	<string>itemScale</string>
+	<key>scrollableDelivery</key>
+	<string>progressbarFeedback</string>
+</dict>
+</plist>

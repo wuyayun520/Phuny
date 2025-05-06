@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionasstate</key>
+	<string>coordinatorFormat</string>
+	<key>backwardMonster</key>
+	<string>positionedForce</string>
+	<key>expandedCount</key>
+	<string>overlayinsidemode</string>
+	<key>formatbehavior</key>
+	<string>notifierInterval</string>
+	<key>mediumRestriction</key>
+	<string>temporaryFilter</string>
+	<key>newestNotification</key>
+	<string>crucialInformation</string>
+	<key>nextMechanism</key>
+	<string>respondStorage</string>
+	<key>rebuildstorage</key>
+	<string>detachpet</string>
+	<key>synchronousmediaquerysize</key>
+	<string>endButton</string>
+</dict>
+</plist>

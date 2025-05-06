@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedComposition</key>
+	<string>integrityTransparency</string>
+	<key>draggableitem</key>
+	<string>appbarMediator</string>
+	<key>geometricQuaternion</key>
+	<string>statelessScene</string>
+	<key>localGrid</key>
+	<string>canInflateProjection</string>
+	<key>navigatorSaturation</key>
+	<string>shouldTransitionStamp</string>
+	<key>processvector</key>
+	<string>encodeInstruction</string>
+	<key>robustbuttonorigin</key>
+	<string>buildstep</string>
+	<key>shouldValidateSample</key>
+	<string>beginnerReducer</string>
+	<key>ternaryDensity</key>
+	<string>giftFunction</string>
+</dict>
+</plist>

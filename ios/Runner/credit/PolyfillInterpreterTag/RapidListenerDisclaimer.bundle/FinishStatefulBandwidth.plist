@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerPolygon</key>
+	<string>chapterProcess</string>
+	<key>graphicwithproxy</key>
+	<string>shouldRenderGate</string>
+	<key>inflatemedia</key>
+	<string>selectedButton</string>
+	<key>intermediateCluster</key>
+	<string>certificateLeft</string>
+	<key>listenoffset</key>
+	<string>attachWorkflow</string>
+	<key>playstream</key>
+	<string>optimizerTier</string>
+	<key>sensorcenter</key>
+	<string>keepstack</string>
+	<key>shouldListenController</key>
+	<string>customUtil</string>
+</dict>
+</plist>

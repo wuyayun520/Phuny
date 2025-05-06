@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeAnalyzer</key>
+	<string>emitGrid</string>
+	<key>explicitBatch</key>
+	<string>displayQueue</string>
+	<key>herooutsidenumber</key>
+	<string>protectedDialogs</string>
+	<key>mobilespeed</key>
+	<string>smallPositioned</string>
+	<key>retainedContraction</key>
+	<string>calculateRequest</string>
+	<key>shouldListenSubpixel</key>
+	<string>secondResilience</string>
+	<key>significantDrawer</key>
+	<string>globalController</string>
+</dict>
+</plist>

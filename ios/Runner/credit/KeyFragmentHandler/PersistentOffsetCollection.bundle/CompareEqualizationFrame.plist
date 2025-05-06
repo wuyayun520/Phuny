@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicatePadding</key>
+	<string>holdAwait</string>
+	<key>intermediatesink</key>
+	<string>mediumCompletion</string>
+	<key>intermediatezonevelocity</key>
+	<string>canDisposeFlex</string>
+	<key>petedge</key>
+	<string>materialConstant</string>
+	<key>tappablePicker</key>
+	<string>nibSkewY</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerException</key>
+	<string>largeRestriction</string>
+	<key>equalizationValidation</key>
+	<string>lockFrame</string>
+	<key>factoryatenvironment</key>
+	<string>requestLayout</string>
+	<key>mapBehavior</key>
+	<string>shouldTrainLoss</string>
+	<key>meshPadding</key>
+	<string>specifyListener</string>
+	<key>shouldPopBuilder</key>
+	<string>shouldDeserializeBase</string>
+	<key>titleaudio</key>
+	<string>shouldReplaceChecklist</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanparticlefeedback</key>
+	<string>sliderSpacing</string>
+	<key>lostStateless</key>
+	<string>completedView</string>
+	<key>polygonHead</key>
+	<string>shouldLayoutEqualization</string>
+	<key>presenteroutsideactivity</key>
+	<string>finderDelay</string>
+	<key>resolvermesh</key>
+	<string>anchorActivity</string>
+	<key>shouldBindBinary</key>
+	<string>playManager</string>
+	<key>substantialPositioned</key>
+	<string>canUnbindDropdownButton</string>
+</dict>
+</plist>

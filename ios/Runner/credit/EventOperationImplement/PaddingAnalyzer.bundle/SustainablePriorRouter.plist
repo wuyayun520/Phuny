@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateSpeed</key>
+	<string>onchecklistchanged</string>
+	<key>handlerFeedback</key>
+	<string>sortedcontroller</string>
+	<key>mediumVariant</key>
+	<string>subtleAwait</string>
+	<key>shouldPaintBitrate</key>
+	<string>canRebuildHistogram</string>
+	<key>shouldpoptext</key>
+	<string>stackDecorator</string>
+	<key>stopcurve</key>
+	<string>isolatePosition</string>
+	<key>switchcontrast</key>
+	<string>boxStrategy</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationDuration</key>
+	<string>reductionBorder</string>
+	<key>delicateBitrate</key>
+	<string>loaderSkewY</string>
+	<key>dynamicContraction</key>
+	<string>captionDensity</string>
+	<key>mutableQueue</key>
+	<string>tappablemodaltag</string>
+	<key>replicaEdge</key>
+	<string>playTask</string>
+	<key>shouldDisposeActivity</key>
+	<string>chapterenvironmentbehavior</string>
+	<key>sizedboxDistance</key>
+	<string>positionForce</string>
+</dict>
+</plist>

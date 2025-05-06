@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeDispatcher</key>
+	<string>customizedTween</string>
+	<key>newestReliability</key>
+	<string>interfacehead</string>
+	<key>shouldStopNavigation</key>
+	<string>streamNavigator</string>
+	<key>substantialElement</key>
+	<string>persistbloc</string>
+</dict>
+</plist>

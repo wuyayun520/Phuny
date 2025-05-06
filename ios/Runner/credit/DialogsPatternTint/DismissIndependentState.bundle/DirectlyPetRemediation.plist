@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationvisibility</key>
+	<string>shouldUpdatePositioned</string>
+	<key>descriptorBound</key>
+	<string>stopGrayscale</string>
+	<key>kernelshader</key>
+	<string>eventinsidepattern</string>
+	<key>responsiveFactory</key>
+	<string>transitionWorkflow</string>
+	<key>shouldSubscribeAppBar</key>
+	<string>yieldPoint</string>
+	<key>shouldshowchecklist</key>
+	<string>catalystcolor</string>
+	<key>substantialHistogram</key>
+	<string>scopeSkewY</string>
+	<key>tweenVisibility</key>
+	<string>subpixelCommand</string>
+	<key>unactivatedPicker</key>
+	<string>animatedcontainerVar</string>
+</dict>
+</plist>

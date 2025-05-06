@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleentity</key>
+	<string>functionalService</string>
+	<key>batchDepth</key>
+	<string>enhanceLabel</string>
+	<key>consumptionVelocity</key>
+	<string>strengthShade</string>
+	<key>imperativeHandler</key>
+	<string>measureZone</string>
+	<key>responsiveSubscriber</key>
+	<string>composableMesh</string>
+	<key>sharedTask</key>
+	<string>shouldPrepareConvolution</string>
+	<key>shouldNavigateNavigator</key>
+	<string>flexibleSign</string>
+	<key>usedProgressBar</key>
+	<string>chartMethod</string>
+</dict>
+</plist>

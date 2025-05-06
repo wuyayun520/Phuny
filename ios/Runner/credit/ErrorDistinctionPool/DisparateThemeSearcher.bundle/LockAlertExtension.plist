@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dimensionSize</key>
+	<string>alphaAppearance</string>
+	<key>dropdownbuttoninterface</key>
+	<string>dedicatedResource</string>
+	<key>loopKind</key>
+	<string>scrollableLifecycle</string>
+	<key>resizableMovement</key>
+	<string>priormaterializer</string>
+	<key>shouldUnbindChannels</key>
+	<string>canEncodeVariant</string>
+	<key>shouldUnmountThread</key>
+	<string>quantizationRow</string>
+</dict>
+</plist>

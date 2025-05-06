@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detectorBound</key>
+	<string>replicaterouter</string>
+	<key>notifierbystructure</key>
+	<string>similarTrajectory</string>
+	<key>selectedPlate</key>
+	<string>transitioninkind</string>
+	<key>semanticskind</key>
+	<string>loopVar</string>
+	<key>shouldFinishPadding</key>
+	<string>isolatephaseskewx</string>
+	<key>sinkEdge</key>
+	<string>shouldDetachCube</string>
+</dict>
+</plist>

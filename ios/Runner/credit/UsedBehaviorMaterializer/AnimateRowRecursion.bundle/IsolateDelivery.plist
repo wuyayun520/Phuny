@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsscroller</key>
+	<string>interactiveMaster</string>
+	<key>difficultAspectRatio</key>
+	<string>completerCommand</string>
+	<key>diversifiedReplica</key>
+	<string>crudeProvider</string>
+	<key>pivotalCard</key>
+	<string>iscertificate</string>
+	<key>retainedresult</key>
+	<string>catalystPressure</string>
+	<key>rowtail</key>
+	<string>impactTheme</string>
+	<key>shouldSaveAnimation</key>
+	<string>viewPressure</string>
+	<key>shouldStreamTransition</key>
+	<string>sorteddrawer</string>
+	<key>streamDirection</key>
+	<string>shouldLayoutSign</string>
+</dict>
+</plist>

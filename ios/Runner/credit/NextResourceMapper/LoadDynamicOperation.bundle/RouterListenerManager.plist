@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmetictraversal</key>
+	<string>retrieveFactory</string>
+	<key>deferredTask</key>
+	<string>numericalMenu</string>
+	<key>flexibleCallback</key>
+	<string>multiplicationLevel</string>
+	<key>gridviewHue</key>
+	<string>dropdownbuttonIndex</string>
+	<key>hierarchicalLayout</key>
+	<string>webreducer</string>
+	<key>observerstrength</key>
+	<string>shouldbindarithmetic</string>
+	<key>standaloneAction</key>
+	<string>activatedJoiner</string>
+	<key>themeBorder</key>
+	<string>ignoredColor</string>
+	<key>topicfrequency</key>
+	<string>mediaStructure</string>
+</dict>
+</plist>

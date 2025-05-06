@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptordetail</key>
+	<string>routeSizedBox</string>
+	<key>listenerformat</key>
+	<string>shouldfetchlistview</string>
+	<key>localEquivalent</key>
+	<string>delegateChain</string>
+	<key>shouldDismissMobile</key>
+	<string>granularFragments</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveLayout</key>
+	<string>pivotalSubscription</string>
+	<key>fixedimage</key>
+	<string>connectcompleter</string>
+	<key>materialdelegate</key>
+	<string>startAccessory</string>
+	<key>nativeamortization</key>
+	<string>logarithmindex</string>
+	<key>navigateisolate</key>
+	<string>characteristicname</string>
+	<key>numericalTaxonomy</key>
+	<string>singleStorage</string>
+</dict>
+</plist>

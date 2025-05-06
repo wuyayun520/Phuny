@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableOption</key>
+	<string>typicalLoop</string>
+	<key>easyMesh</key>
+	<string>unmountedskirt</string>
+	<key>enabledScreen</key>
+	<string>localPoint</string>
+	<key>gesturedetectorawait</key>
+	<string>relationalsizerate</string>
+	<key>imperativeTask</key>
+	<string>plateScale</string>
+	<key>meshmomentum</key>
+	<string>instantiateusecase</string>
+	<key>missedCheckbox</key>
+	<string>disabledVertex</string>
+	<key>persistentElement</key>
+	<string>awaitLevel</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actiontail</key>
+	<string>mainPresenter</string>
+	<key>awaitTransparency</key>
+	<string>transpiledescription</string>
+	<key>binaryformat</key>
+	<string>displayableCatalyst</string>
+	<key>elasticAnimatedContainer</key>
+	<string>factoryBridge</string>
+	<key>meshforce</key>
+	<string>canDisconnectExponent</string>
+	<key>originalConfidentiality</key>
+	<string>secondGestureDetector</string>
+	<key>semanticsDepth</key>
+	<string>reactiveRichText</string>
+	<key>significantTable</key>
+	<string>shouldPersistMember</string>
+	<key>visibleBuffer</key>
+	<string>handleTabBar</string>
+</dict>
+</plist>

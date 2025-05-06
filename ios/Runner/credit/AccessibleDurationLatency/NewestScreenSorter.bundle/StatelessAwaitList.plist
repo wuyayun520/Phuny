@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerRestriction</key>
+	<string>liteAspectRatio</string>
+	<key>customizedRecursion</key>
+	<string>shouldResumeShader</string>
+	<key>defaultsession</key>
+	<string>statelessforce</string>
+	<key>generatescene</key>
+	<string>shouldLayoutAnimation</string>
+	<key>scrollabledetail</key>
+	<string>mediaqueryacceleration</string>
+	<key>shouldContinueSwitch</key>
+	<string>accessibleactivity</string>
+	<key>shouldUnmountedWidget</key>
+	<string>seamlesscapacities</string>
+	<key>sophisticatedMapper</key>
+	<string>statelessColor</string>
+	<key>statusTension</key>
+	<string>sophisticatedTheme</string>
+	<key>tablevelocity</key>
+	<string>invisibleSubscription</string>
+</dict>
+</plist>

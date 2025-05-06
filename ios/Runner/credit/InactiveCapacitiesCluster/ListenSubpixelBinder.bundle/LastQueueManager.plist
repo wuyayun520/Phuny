@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoError</key>
+	<string>smartLoader</string>
+	<key>denseviewdepth</key>
+	<string>strokeDensity</string>
+	<key>kernelintegrity</key>
+	<string>shouldStopDescriptor</string>
+	<key>layoutuntilpattern</key>
+	<string>buildStack</string>
+	<key>promiseOpacity</key>
+	<string>pivotalStatus</string>
+	<key>robustCupertino</key>
+	<string>adaptiveInfrastructure</string>
+	<key>typicalData</key>
+	<string>customNavigator</string>
+</dict>
+</plist>

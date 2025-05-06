@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableComponent</key>
+	<string>mapperAppearance</string>
+	<key>elasticAmortization</key>
+	<string>delegateVar</string>
+	<key>shouldStopSession</key>
+	<string>rectTail</string>
+	<key>shouldUnmountedMediaQuery</key>
+	<string>showFuture</string>
+	<key>stampprocessduration</key>
+	<string>hashVisitor</string>
+</dict>
+</plist>

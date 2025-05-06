@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionSubpixel</key>
+	<string>canNotifyStateless</string>
+	<key>enabledRange</key>
+	<string>consultativeEqualization</string>
+	<key>frameCenter</key>
+	<string>dismissCursor</string>
+	<key>inheritedResponder</key>
+	<string>shouldunbindobserver</string>
+	<key>memberState</key>
+	<string>disclaimertail</string>
+	<key>scrollabledialogskind</key>
+	<string>animatedMetadata</string>
+	<key>smallIntensity</key>
+	<string>canPopTextField</string>
+	<key>smallService</key>
+	<string>fragmentMemento</string>
+</dict>
+</plist>

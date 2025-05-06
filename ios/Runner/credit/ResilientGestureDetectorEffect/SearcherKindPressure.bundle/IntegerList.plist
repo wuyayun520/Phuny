@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bloccontextspacing</key>
+	<string>keytimer</string>
+	<key>difficultAsync</key>
+	<string>spotTint</string>
+	<key>difficultPadding</key>
+	<string>criticalGroup</string>
+	<key>draggableContainer</key>
+	<string>mutablePicker</string>
+	<key>firstBox</key>
+	<string>textVisible</string>
+	<key>frametempleskewx</key>
+	<string>dispatchTabView</string>
+	<key>opaquePlayback</key>
+	<string>taxonomyMode</string>
+	<key>transpileaction</key>
+	<string>displayableOccasion</string>
+</dict>
+</plist>

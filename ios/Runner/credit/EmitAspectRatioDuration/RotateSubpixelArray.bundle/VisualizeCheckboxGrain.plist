@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticLayer</key>
+	<string>interactiveVideo</string>
+	<key>curveadaptercount</key>
+	<string>cupertinoconfiguration</string>
+	<key>hardmap</key>
+	<string>unmountedentity</string>
+	<key>rebuildalpha</key>
+	<string>canPublishInkWell</string>
+	<key>shouldContinueMediaQuery</key>
+	<string>showMaterial</string>
+	<key>shouldunmountsegment</key>
+	<string>inactivesensorinterval</string>
+</dict>
+</plist>

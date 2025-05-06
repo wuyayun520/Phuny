@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descentSpeed</key>
+	<string>shouldUpdateRoute</string>
+	<key>disparateCapacities</key>
+	<string>shouldSetStatePet</string>
+	<key>ignoredBaseline</key>
+	<string>drawException</string>
+	<key>liteTween</key>
+	<string>unlockRoute</string>
+	<key>remainderinformation</key>
+	<string>multiBase</string>
+	<key>scrollableMobile</key>
+	<string>linkerCenter</string>
+	<key>semanticLog</key>
+	<string>activatedUnary</string>
+</dict>
+</plist>

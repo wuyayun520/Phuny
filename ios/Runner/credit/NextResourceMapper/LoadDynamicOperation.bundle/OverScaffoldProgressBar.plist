@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>geometricInkWell</key>
+	<string>documentAppearance</string>
+	<key>gesturecontainer</key>
+	<string>visibleHistogram</string>
+	<key>keyEvent</key>
+	<string>shouldPaintHero</string>
+	<key>notifyroute</key>
+	<string>graphicshader</string>
+	<key>processorHue</key>
+	<string>handleWorkflow</string>
+	<key>specifyInfo</key>
+	<string>equipmentFramework</string>
+	<key>statelessspot</key>
+	<string>showmanager</string>
+	<key>usedamortization</key>
+	<string>compositionVisitor</string>
+</dict>
+</plist>

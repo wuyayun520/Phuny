@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxbottom</key>
+	<string>directspot</string>
+	<key>dialogsOpacity</key>
+	<string>canKeepCurve</string>
+	<key>handlerSkewY</key>
+	<string>geometricProtocol</string>
+	<key>intensityleveloffset</key>
+	<string>binaryInset</string>
+	<key>shouldSerializePriority</key>
+	<string>deserializeLabel</string>
+	<key>triggeropacity</key>
+	<string>constraintName</string>
+</dict>
+</plist>

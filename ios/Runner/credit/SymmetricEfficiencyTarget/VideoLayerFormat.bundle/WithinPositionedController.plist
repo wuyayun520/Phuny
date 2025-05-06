@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultStep</key>
+	<string>responderLeft</string>
+	<key>diversifiedRadio</key>
+	<string>canTransitionStep</string>
+	<key>publishhero</key>
+	<string>shouldAttachBorder</string>
+	<key>reliabilityLeft</key>
+	<string>sinkvarkind</string>
+	<key>seguescopeorientation</key>
+	<string>parsePreview</string>
+	<key>shouldKeepRow</key>
+	<string>globalStateful</string>
+	<key>shouldPersistScaffold</key>
+	<string>deferredMapper</string>
+	<key>shouldPushCosine</key>
+	<string>multiTangent</string>
+	<key>shouldStopSizedBox</key>
+	<string>localSubscription</string>
+</dict>
+</plist>

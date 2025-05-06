@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncinfo</key>
+	<string>uniqueInteraction</string>
+	<key>intermediateProfile</key>
+	<string>renameCoordinator</string>
+	<key>publicNavigator</key>
+	<string>mitigateIsolate</string>
+	<key>resizableinterpolationtail</key>
+	<string>intuitiveLocalization</string>
+	<key>responsiveImpact</key>
+	<string>evaluateTicker</string>
+	<key>shouldsubscribehero</key>
+	<string>shouldValidatePadding</string>
+	<key>slashState</key>
+	<string>scrollVar</string>
+</dict>
+</plist>

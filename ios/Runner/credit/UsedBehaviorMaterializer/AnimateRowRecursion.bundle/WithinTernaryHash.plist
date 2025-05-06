@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedlayout</key>
+	<string>constantAcceleration</string>
+	<key>binderOpacity</key>
+	<string>quitskin</string>
+	<key>liteRecursion</key>
+	<string>intuitiveMission</string>
+	<key>multiChannel</key>
+	<string>constantEdge</string>
+	<key>similarTexture</key>
+	<string>animateHeap</string>
+	<key>visibleView</key>
+	<string>awaitContrast</string>
+</dict>
+</plist>

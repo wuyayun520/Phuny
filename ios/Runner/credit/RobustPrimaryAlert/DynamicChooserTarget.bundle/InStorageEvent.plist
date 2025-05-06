@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalRenderer</key>
+	<string>canShowConsumer</string>
+	<key>firstConsumption</key>
+	<string>debugTween</string>
+	<key>fixedView</key>
+	<string>activeSkirt</string>
+	<key>hierarchicalVariant</key>
+	<string>shouldMountGestureDetector</string>
+	<key>histogramconstraint</key>
+	<string>canNavigateSemantics</string>
+	<key>sanitizepopup</key>
+	<string>canMountedAppBar</string>
+	<key>shaderstatus</key>
+	<string>detectorSpacing</string>
+</dict>
+</plist>

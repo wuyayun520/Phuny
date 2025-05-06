@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorfeedback</key>
+	<string>analogyPosition</string>
+	<key>encapsulatemission</key>
+	<string>checkRouter</string>
+	<key>iscolumn</key>
+	<string>shouldDisconnectDecoration</string>
+	<key>robustBinary</key>
+	<string>canMountedBase</string>
+	<key>shouldDispatchPromise</key>
+	<string>resetIsolate</string>
+	<key>shouldPublishProject</key>
+	<string>synchronizeRoute</string>
+	<key>validateoptimizer</key>
+	<string>localizationmode</string>
+	<key>zonesystemtag</key>
+	<string>cardResponse</string>
+</dict>
+</plist>

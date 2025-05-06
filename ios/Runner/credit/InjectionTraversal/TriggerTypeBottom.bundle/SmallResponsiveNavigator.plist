@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionKind</key>
+	<string>discardedBase</string>
+	<key>diffableDrawer</key>
+	<string>canEmitBox</string>
+	<key>easyBitrate</key>
+	<string>intermediateMission</string>
+	<key>inheritedStore</key>
+	<string>asyncTask</string>
+	<key>movesingleton</key>
+	<string>workflowstorage</string>
+	<key>originalReceiver</key>
+	<string>multiConnector</string>
+	<key>smartDialogs</key>
+	<string>requiredEvaluation</string>
+</dict>
+</plist>

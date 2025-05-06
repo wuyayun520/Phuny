@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterSpacing</key>
+	<string>callbackBottom</string>
+	<key>checklistactivitybehavior</key>
+	<string>shouldnotifycaption</string>
+	<key>cupertinoSorter</key>
+	<string>anchorVar</string>
+	<key>directlyGrid</key>
+	<string>bordermodeedge</string>
+	<key>interactivetexturevelocity</key>
+	<string>numericalProgressBar</string>
+	<key>opaqueConstraint</key>
+	<string>canTransitionMultiplication</string>
+	<key>operationVisible</key>
+	<string>eventChain</string>
+	<key>shouldEmitCapacities</key>
+	<string>invokeDecoration</string>
+	<key>tickercyclelocation</key>
+	<string>defaultPositioned</string>
+</dict>
+</plist>

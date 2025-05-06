@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousOptimizer</key>
+	<string>cacheStep</string>
+	<key>audioFeedback</key>
+	<string>shouldStreamAnimation</string>
+	<key>batchRotation</key>
+	<string>visittheme</string>
+	<key>disclaimeropacity</key>
+	<string>paddingacceleration</string>
+	<key>diversifiedTaxonomy</key>
+	<string>stringifyText</string>
+	<key>monsterfuture</key>
+	<string>logMemento</string>
+	<key>objectDelay</key>
+	<string>canEmitGridView</string>
+	<key>respectiveUsage</key>
+	<string>canValidateInterpolation</string>
+	<key>vectorreceiver</key>
+	<string>loadIcon</string>
+</dict>
+</plist>

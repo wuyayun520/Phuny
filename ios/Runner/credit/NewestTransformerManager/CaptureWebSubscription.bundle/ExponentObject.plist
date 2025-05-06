@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelexceptadapter</key>
+	<string>backwardTween</string>
+	<key>explicitRole</key>
+	<string>shouldDetachSine</string>
+	<key>firstStore</key>
+	<string>mediaBrightness</string>
+	<key>integrityPressure</key>
+	<string>resolveframe</string>
+	<key>intermediatelifecycle</key>
+	<string>completedCharacter</string>
+	<key>secondtransition</key>
+	<string>nextBatch</string>
+	<key>widgetPosition</key>
+	<string>operationtempleformat</string>
+	<key>zonebeyondscope</key>
+	<string>elasticMusic</string>
+</dict>
+</plist>

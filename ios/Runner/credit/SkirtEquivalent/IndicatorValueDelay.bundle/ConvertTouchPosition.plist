@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitscenario</key>
+	<string>desktopRequest</string>
+	<key>currentMerger</key>
+	<string>shouldLayoutGestureDetector</string>
+	<key>directlyProjection</key>
+	<string>similarEffect</string>
+	<key>ignoredtween</key>
+	<string>discardedResilience</string>
+	<key>interactiveTentative</key>
+	<string>triggerVisible</string>
+	<key>mechanismRate</key>
+	<string>onmaptap</string>
+	<key>originalInterface</key>
+	<string>shouldMountCell</string>
+	<key>reducerframe</key>
+	<string>sortedHandler</string>
+	<key>temporarycallback</key>
+	<string>startGesture</string>
+</dict>
+</plist>

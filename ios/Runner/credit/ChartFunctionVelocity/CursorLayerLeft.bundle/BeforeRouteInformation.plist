@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleMember</key>
+	<string>capacitysize</string>
+	<key>consumerShape</key>
+	<string>shouldPublishConsumer</string>
+	<key>crucialSubscriber</key>
+	<string>directLog</string>
+	<key>keyObject</key>
+	<string>asynchronousKernel</string>
+	<key>requiredbitratebehavior</key>
+	<string>effectelement</string>
+	<key>resizableItem</key>
+	<string>currentChannels</string>
+	<key>singlecoordinator</key>
+	<string>accordionskirtorientation</string>
+	<key>sliderSkewX</key>
+	<string>cosineMediator</string>
+</dict>
+</plist>

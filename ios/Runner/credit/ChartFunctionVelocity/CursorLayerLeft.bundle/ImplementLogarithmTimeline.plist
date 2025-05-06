@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedmission</key>
+	<string>shouldFinishExpanded</string>
+	<key>awaitbrightness</key>
+	<string>curveBound</string>
+	<key>defaultHero</key>
+	<string>shouldMountContainer</string>
+	<key>inkwellmaterializer</key>
+	<string>prevLoader</string>
+	<key>lazyShape</key>
+	<string>compositionalCosine</string>
+	<key>shouldUnmountedLoss</key>
+	<string>agileTentative</string>
+	<key>spineDuration</key>
+	<string>statictimertop</string>
+	<key>usecasedelay</key>
+	<string>stopEquipment</string>
+</dict>
+</plist>

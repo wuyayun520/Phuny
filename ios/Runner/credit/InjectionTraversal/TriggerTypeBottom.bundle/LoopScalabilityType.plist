@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerMode</key>
+	<string>accessibleAsset</string>
+	<key>aspectreplica</key>
+	<string>canProcessSemantics</string>
+	<key>clearmargin</key>
+	<string>canSerializeStoryboard</string>
+	<key>rapidscenefrequency</key>
+	<string>customizedNavigator</string>
+	<key>shouldpushstateful</key>
+	<string>resizeHash</string>
+	<key>timeTheme</key>
+	<string>measureModel</string>
+</dict>
+</plist>

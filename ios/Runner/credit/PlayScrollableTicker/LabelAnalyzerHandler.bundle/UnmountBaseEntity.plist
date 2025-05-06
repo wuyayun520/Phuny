@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheBehavior</key>
+	<string>directEmitter</string>
+	<key>flexibletitlerate</key>
+	<string>performCallback</string>
+	<key>intuitiveImage</key>
+	<string>significantTransition</string>
+	<key>logarithmedge</key>
+	<string>cellmechanism</string>
+	<key>smartVideo</key>
+	<string>mendSpacing</string>
+</dict>
+</plist>

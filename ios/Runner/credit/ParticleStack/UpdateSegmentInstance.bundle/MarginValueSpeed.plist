@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphafrequency</key>
+	<string>storyboardpressure</string>
+	<key>consumptionSkewX</key>
+	<string>dispatchGridView</string>
+	<key>detectorColor</key>
+	<string>coordinatorBrightness</string>
+</dict>
+</plist>

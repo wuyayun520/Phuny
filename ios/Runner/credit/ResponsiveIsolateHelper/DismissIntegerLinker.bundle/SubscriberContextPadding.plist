@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackbymethod</key>
+	<string>missedQuaternion</string>
+	<key>greatProjection</key>
+	<string>regulateStore</string>
+	<key>holdsine</key>
+	<string>keyChannel</string>
+	<key>interactiveRemainder</key>
+	<string>canDecodeTable</string>
+	<key>intermediateAction</key>
+	<string>scaffoldhandler</string>
+	<key>opaqueScroll</key>
+	<string>scrollerAppearance</string>
+	<key>painterattype</key>
+	<string>inactiveConsumer</string>
+	<key>shouldTransformSpecifier</key>
+	<string>cacheBrightness</string>
+	<key>shouldYieldTool</key>
+	<string>touchState</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonBinder</key>
+	<string>inheritedVideo</string>
+	<key>dispatchfuture</key>
+	<string>permissiveimagevelocity</string>
+	<key>enabledSearcher</key>
+	<string>canRouteSwitch</string>
+	<key>futureAlignment</key>
+	<string>unactivatedShader</string>
+	<key>shouldTrainBinary</key>
+	<string>cartesianController</string>
+	<key>titlerotation</key>
+	<string>spotVelocity</string>
+	<key>wrapperMomentum</key>
+	<string>drawerContrast</string>
+</dict>
+</plist>

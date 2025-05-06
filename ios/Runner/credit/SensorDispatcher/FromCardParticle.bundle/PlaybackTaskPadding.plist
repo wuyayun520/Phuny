@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exitconstraint</key>
+	<string>shouldParseSymbol</string>
+	<key>granularDetector</key>
+	<string>shouldSerializeTask</string>
+	<key>intensitysingletonrate</key>
+	<string>shouldRenderMatrix</string>
+	<key>mediumFinder</key>
+	<string>precisionprocessleft</string>
+	<key>optioninset</key>
+	<string>workflowValue</string>
+	<key>recthue</key>
+	<string>resumeTouch</string>
+	<key>resumeresolver</key>
+	<string>dialogsSystem</string>
+	<key>scrollableCurve</key>
+	<string>shouldDismissCosine</string>
+	<key>shouldtrainlogarithm</key>
+	<string>completerChain</string>
+	<key>vectoramongcontext</key>
+	<string>cancelNib</string>
+</dict>
+</plist>

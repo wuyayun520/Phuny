@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedCoordinator</key>
+	<string>timeTension</string>
+	<key>eventDistance</key>
+	<string>elasticContainer</string>
+	<key>independentBehavior</key>
+	<string>observeAnimatedContainer</string>
+	<key>mediocreService</key>
+	<string>shouldbuildmodal</string>
+	<key>prismaticRenderer</key>
+	<string>wrapTicker</string>
+</dict>
+</plist>

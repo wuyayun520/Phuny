@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionEmitter</key>
+	<string>inheritedMonster</string>
+	<key>customizedMerger</key>
+	<string>selectedGraphic</string>
+	<key>fragmentTail</key>
+	<string>prevGrain</string>
+	<key>maindescent</key>
+	<string>detectorName</string>
+	<key>playbackopacity</key>
+	<string>segmentSkewX</string>
+	<key>shouldFetchGestureDetector</key>
+	<string>measureReducer</string>
+</dict>
+</plist>

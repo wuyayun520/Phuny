@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleBehavior</key>
+	<string>occasionorientation</string>
+	<key>alphainfacade</key>
+	<string>quantizationLoop</string>
+	<key>arithmeticdropdownbuttonresponse</key>
+	<string>canTrainOptimizer</string>
+	<key>challengeVelocity</key>
+	<string>ephemeralDependency</string>
+	<key>connectorPressure</key>
+	<string>unsortedTextField</string>
+	<key>onscreentap</key>
+	<string>boxshadowSystem</string>
+	<key>petcount</key>
+	<string>stepForm</string>
+	<key>transitiondropdownbutton</key>
+	<string>permissiveLog</string>
+</dict>
+</plist>

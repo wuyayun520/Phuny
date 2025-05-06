@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appendbutton</key>
+	<string>unmountFragment</string>
+	<key>clipperStyle</key>
+	<string>canLayoutAxis</string>
+	<key>matrixworktype</key>
+	<string>encodeSink</string>
+	<key>segmentShape</key>
+	<string>originalReplica</string>
+	<key>shouldDetachBehavior</key>
+	<string>cupertinoBatch</string>
+	<key>shouldUnmountedSemantics</key>
+	<string>triggerBound</string>
+	<key>statefulConfidentiality</key>
+	<string>shouldRouteMusic</string>
+	<key>unbindlistener</key>
+	<string>curveTint</string>
+	<key>uniformMargin</key>
+	<string>canRenderAccessory</string>
+</dict>
+</plist>

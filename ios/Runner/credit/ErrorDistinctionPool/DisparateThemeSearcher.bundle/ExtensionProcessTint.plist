@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedBatch</key>
+	<string>animatedcontainerPlatform</string>
+	<key>buffertheme</key>
+	<string>navigateScroll</string>
+	<key>delicateAspect</key>
+	<string>desktopTexture</string>
+	<key>performoffset</key>
+	<string>insteadTopic</string>
+	<key>responsiveUnary</key>
+	<string>sineFlyweight</string>
+	<key>scrollmomentum</key>
+	<string>topicOffset</string>
+</dict>
+</plist>

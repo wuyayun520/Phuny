@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>parallelAlert</key>
+	<string>shouldLoadInteger</string>
+	<key>permissiveRange</key>
+	<string>scaleTension</string>
+	<key>responsiveCompletion</key>
+	<string>canStopProvider</string>
+	<key>subtleAwait</key>
+	<string>paintSpine</string>
+</dict>
+</plist>

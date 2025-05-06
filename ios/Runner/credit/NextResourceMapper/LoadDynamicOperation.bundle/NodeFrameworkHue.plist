@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeCapsule</key>
+	<string>shouldContinueChallenge</string>
+	<key>dedicatedReplica</key>
+	<string>shouldBindStream</string>
+	<key>globalBoxShadow</key>
+	<string>adaptiveCapacity</string>
+	<key>insteadbloc</key>
+	<string>listviewDensity</string>
+	<key>mendStyle</key>
+	<string>immutableDrawer</string>
+	<key>semanticFormat</key>
+	<string>subtleCompletion</string>
+	<key>shouldUnmountedPageView</key>
+	<string>concreteImpression</string>
+</dict>
+</plist>

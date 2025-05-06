@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gridpressure</key>
+	<string>curvevariableskewy</string>
+	<key>ignoredShape</key>
+	<string>reusableLayer</string>
+	<key>publishgate</key>
+	<string>initializeError</string>
+	<key>quantizerfactory</key>
+	<string>compileCurve</string>
+	<key>shouldTransitionInterpolation</key>
+	<string>basicTriangles</string>
+	<key>specifierobserver</key>
+	<string>navigateProtocol</string>
+</dict>
+</plist>

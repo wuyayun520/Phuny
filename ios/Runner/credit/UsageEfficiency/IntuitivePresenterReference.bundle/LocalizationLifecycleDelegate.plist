@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerbehavior</key>
+	<string>responsePadding</string>
+	<key>dependencyOrientation</key>
+	<string>canFinishNavigator</string>
+	<key>greatLog</key>
+	<string>similarOverlay</string>
+	<key>hierarchicalCollection</key>
+	<string>timelineAlignment</string>
+	<key>savetopic</key>
+	<string>triggerStyle</string>
+</dict>
+</plist>

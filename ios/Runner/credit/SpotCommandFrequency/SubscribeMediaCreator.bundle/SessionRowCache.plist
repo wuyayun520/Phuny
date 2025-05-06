@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteHeap</key>
+	<string>arithmeticAspectRatio</string>
+	<key>criticalStateless</key>
+	<string>obtainController</string>
+	<key>discardedProfile</key>
+	<string>routerfromtier</string>
+	<key>localizationfinder</key>
+	<string>immediateMusic</string>
+	<key>requiredGate</key>
+	<string>coordinatorAlignment</string>
+</dict>
+</plist>

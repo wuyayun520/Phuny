@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableAccessory</key>
+	<string>lostFinder</string>
+	<key>mutableAudio</key>
+	<string>nextinteractorbrightness</string>
+	<key>parsetexture</key>
+	<string>exitRepository</string>
+	<key>semanticMesh</key>
+	<string>provideSprite</string>
+	<key>shouldAnimateTabView</key>
+	<string>aspectratioHue</string>
+	<key>sortedTrigger</key>
+	<string>shaderAction</string>
+</dict>
+</plist>

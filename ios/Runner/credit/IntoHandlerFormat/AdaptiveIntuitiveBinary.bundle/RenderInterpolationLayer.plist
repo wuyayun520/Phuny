@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveListener</key>
+	<string>paintRadio</string>
+	<key>analogyBehavior</key>
+	<string>subsequentItem</string>
+	<key>cosinefrequency</key>
+	<string>largeTaxonomy</string>
+	<key>entropystatevalidation</key>
+	<string>pointInterval</string>
+	<key>initializetopic</key>
+	<string>shouldMountTernary</string>
+	<key>pointState</key>
+	<string>accessoryAction</string>
+	<key>resolveruntilmediator</key>
+	<string>shouldHandleExpanded</string>
+	<key>secondGem</key>
+	<string>lockView</string>
+</dict>
+</plist>

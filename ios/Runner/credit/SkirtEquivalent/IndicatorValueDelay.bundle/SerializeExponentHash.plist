@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeleft</key>
+	<string>connectAspectRatio</string>
+	<key>euclideanEquivalent</key>
+	<string>euclideanOperation</string>
+	<key>layertexture</key>
+	<string>activatedTexture</string>
+	<key>shouldCancelCache</key>
+	<string>timelineOrigin</string>
+	<key>shouldEncodePainter</key>
+	<string>agileIntegrity</string>
+	<key>shouldShowDecoration</key>
+	<string>differentiatePreview</string>
+	<key>shouldStopImage</key>
+	<string>canUnmountWidget</string>
+	<key>shouldshowslash</key>
+	<string>shouldfetchtable</string>
+	<key>throughputcoord</key>
+	<string>containerFlyweight</string>
+	<key>tweenoccasion</key>
+	<string>utilDensity</string>
+</dict>
+</plist>

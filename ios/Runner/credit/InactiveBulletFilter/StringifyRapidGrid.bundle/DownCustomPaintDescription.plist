@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterfactory</key>
+	<string>measureLabel</string>
+	<key>computebox</key>
+	<string>tensorconfigurationcontrast</string>
+	<key>intuitiveBinder</key>
+	<string>attachImage</string>
+	<key>menusize</key>
+	<string>streamscalability</string>
+	<key>mutableTrajectory</key>
+	<string>dedicatedBehavior</string>
+	<key>shouldDetachDrawer</key>
+	<string>handleConstraint</string>
+	<key>shouldTransformCupertino</key>
+	<string>copysegue</string>
+	<key>topicwithproxy</key>
+	<string>petcontainmode</string>
+</dict>
+</plist>

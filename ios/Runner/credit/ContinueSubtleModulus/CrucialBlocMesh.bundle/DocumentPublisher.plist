@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedRouter</key>
+	<string>tentativeMode</string>
+	<key>inheritedtangentkind</key>
+	<string>canProcessStack</string>
+	<key>itemBrightness</key>
+	<string>commonController</string>
+	<key>rectDensity</key>
+	<string>smartBoxShadow</string>
+	<key>shouldNavigateCustomPaint</key>
+	<string>localMap</string>
+	<key>shouldSkipCompletion</key>
+	<string>vectorVisitor</string>
+	<key>shouldTransitionImage</key>
+	<string>wrapListener</string>
+	<key>shouldloadkernel</key>
+	<string>subscribeGradient</string>
+	<key>slidercompositelocation</key>
+	<string>immediateChart</string>
+</dict>
+</plist>

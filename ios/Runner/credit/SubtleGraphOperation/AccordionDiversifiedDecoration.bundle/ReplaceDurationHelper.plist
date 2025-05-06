@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerproviderfeedback</key>
+	<string>responsiveAspectRatio</string>
+	<key>iconorcontext</key>
+	<string>visitManager</string>
+	<key>injectionfeedback</key>
+	<string>stampDistance</string>
+	<key>mediocreCapsule</key>
+	<string>localizationcharacteristic</string>
+	<key>newestGestureDetector</key>
+	<string>canPushStream</string>
+	<key>resolveposition</key>
+	<string>originalEvent</string>
+	<key>roleSpacing</key>
+	<string>imperativeStatus</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyElasticity</key>
+	<string>liteConstraint</string>
+	<key>extensionthanparam</key>
+	<string>shouldPaintCard</string>
+	<key>independentAperture</key>
+	<string>inkwellOffset</string>
+	<key>interactivedelegatedepth</key>
+	<string>transitionatmethod</string>
+	<key>locatenavigator</key>
+	<string>invisibleSpecifier</string>
+	<key>resilientEvolution</key>
+	<string>shouldNavigateNotification</string>
+	<key>respectiveDelivery</key>
+	<string>cleanTask</string>
+	<key>timerofdecorator</key>
+	<string>setstateController</string>
+</dict>
+</plist>

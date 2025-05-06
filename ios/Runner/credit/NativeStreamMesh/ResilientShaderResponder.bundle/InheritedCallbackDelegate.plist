@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clusterAlignment</key>
+	<string>bundleTicker</string>
+	<key>delicateImpression</key>
+	<string>rendererTop</string>
+	<key>instructiondistance</key>
+	<string>functionalgrid</string>
+	<key>segmentMode</key>
+	<string>interpolationscheduler</string>
+	<key>trianglesFeedback</key>
+	<string>specifierCenter</string>
+</dict>
+</plist>

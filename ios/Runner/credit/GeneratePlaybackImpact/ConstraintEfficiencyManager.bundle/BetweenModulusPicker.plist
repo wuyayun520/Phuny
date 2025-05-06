@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionConsumer</key>
+	<string>webSink</string>
+	<key>custompaintSpacing</key>
+	<string>multiFinder</string>
+	<key>keyCertificate</key>
+	<string>restartAspect</string>
+	<key>publisherFeedback</key>
+	<string>newestPoint</string>
+	<key>sequentialCombiner</key>
+	<string>dependencyLeft</string>
+	<key>shouldSetStateGram</key>
+	<string>subscriptionIndex</string>
+	<key>shouldSetStateSpine</key>
+	<string>temporaryAppBar</string>
+	<key>shouldTransformCharacter</key>
+	<string>canDecodeContraction</string>
+	<key>streambehavior</key>
+	<string>opaquePager</string>
+</dict>
+</plist>

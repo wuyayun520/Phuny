@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerMomentum</key>
+	<string>startNavigation</string>
+	<key>basicExpanded</key>
+	<string>missionTension</string>
+	<key>disabledListener</key>
+	<string>subscriberRight</string>
+	<key>protectedComposition</key>
+	<string>customizeddecoration</string>
+	<key>queueCenter</key>
+	<string>processCubit</string>
+	<key>shouldLoadActivity</key>
+	<string>shouldParseConvolution</string>
+</dict>
+</plist>

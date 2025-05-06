@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventTransparency</key>
+	<string>seamlessRenderer</string>
+	<key>keyBitrate</key>
+	<string>canPrepareStateless</string>
+	<key>multiSound</key>
+	<string>animatorInset</string>
+	<key>queueTheme</key>
+	<string>displayableGestureDetector</string>
+	<key>referenceduringflyweight</key>
+	<string>insteadChart</string>
+	<key>schemaValidation</key>
+	<string>mountedIcon</string>
+	<key>shouldNavigateSlash</key>
+	<string>resilientResponse</string>
+	<key>shoulddetachgraphic</key>
+	<string>handlelabel</string>
+	<key>shouldunmountmap</key>
+	<string>pageviewTension</string>
+	<key>tappablePoint</key>
+	<string>canPauseDelegate</string>
+</dict>
+</plist>

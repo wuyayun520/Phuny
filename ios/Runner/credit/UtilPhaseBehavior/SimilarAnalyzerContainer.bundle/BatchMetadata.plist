@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>calculatecallback</key>
+	<string>streamRichText</string>
+	<key>groupedge</key>
+	<string>shouldMountedEntropy</string>
+	<key>lossDensity</key>
+	<string>nodeSpeed</string>
+	<key>sequentialpermutation</key>
+	<string>sanitizeParticle</string>
+	<key>tappableMaterializer</key>
+	<string>hardBitrate</string>
+</dict>
+</plist>

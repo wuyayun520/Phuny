@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dispatchswitch</key>
+	<string>queueOrigin</string>
+	<key>featureTail</key>
+	<string>materializerTop</string>
+	<key>fragmentsInterval</key>
+	<string>replicateResolver</string>
+	<key>shouldbuildtext</key>
+	<string>canFinishProject</string>
+	<key>shouldparseresource</key>
+	<string>signaturecontextresponse</string>
+	<key>videoFrequency</key>
+	<string>sliderDecorator</string>
+</dict>
+</plist>

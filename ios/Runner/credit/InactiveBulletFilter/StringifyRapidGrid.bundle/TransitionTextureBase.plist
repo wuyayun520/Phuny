@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedSwift</key>
+	<string>streamBottom</string>
+	<key>commonFragments</key>
+	<string>screenTop</string>
+	<key>constructdescriptor</key>
+	<string>logarithmActivity</string>
+	<key>disabledError</key>
+	<string>gramShape</string>
+	<key>sharedProcessor</key>
+	<string>subsequentCycle</string>
+	<key>sharedprojectinteraction</key>
+	<string>navigationInterval</string>
+	<key>shouldReplaceRemainder</key>
+	<string>fillCubit</string>
+</dict>
+</plist>

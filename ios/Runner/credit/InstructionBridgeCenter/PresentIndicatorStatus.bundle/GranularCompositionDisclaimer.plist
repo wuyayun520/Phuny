@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveConsumer</key>
+	<string>methodLeft</string>
+	<key>comprehensiveTexture</key>
+	<string>singletonTheme</string>
+	<key>crudeTicker</key>
+	<string>prevMesh</string>
+	<key>delegateactivityskewy</key>
+	<string>flexmodule</string>
+	<key>diffableTransformer</key>
+	<string>canRenderStateful</string>
+	<key>latencyposition</key>
+	<string>createScene</string>
+	<key>parallelTabView</key>
+	<string>menuPosition</string>
+	<key>popmethod</key>
+	<string>resumeRow</string>
+	<key>specifyInteger</key>
+	<string>shouldRenderSkirt</string>
+	<key>stampoffset</key>
+	<string>navigationBorder</string>
+</dict>
+</plist>

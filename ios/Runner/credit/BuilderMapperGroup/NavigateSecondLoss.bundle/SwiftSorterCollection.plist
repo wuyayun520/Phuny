@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheRotation</key>
+	<string>releaseAlignment</string>
+	<key>listviewMargin</key>
+	<string>resilienceFeedback</string>
+	<key>mainRestriction</key>
+	<string>playbackStructure</string>
+	<key>mediumUnary</key>
+	<string>registerBuffer</string>
+	<key>resilientRange</key>
+	<string>storeshape</string>
+	<key>tappablePoint</key>
+	<string>alertType</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticGraphic</key>
+	<string>canListenLabel</string>
+	<key>audiospeed</key>
+	<string>accordionCubit</string>
+	<key>hasTextField</key>
+	<string>staticRect</string>
+	<key>opaqueHash</key>
+	<string>canSkipScroll</string>
+	<key>parallelBuilder</key>
+	<string>shouldAttachConsumer</string>
+	<key>primaryDimension</key>
+	<string>controllerspeed</string>
+	<key>shouldLoadDrawer</key>
+	<string>adjustListener</string>
+	<key>shouldPublishInstruction</key>
+	<string>certificateCycle</string>
+	<key>shouldfinishprovider</key>
+	<string>disposeInstruction</string>
+	<key>volumeCount</key>
+	<string>chooserOrientation</string>
+</dict>
+</plist>

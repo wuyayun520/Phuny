@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>globalLifecycle</key>
+	<string>pagerbrightness</string>
+	<key>latencySize</key>
+	<string>wrapcontroller</string>
+	<key>pointFrequency</key>
+	<string>shearOffset</string>
+	<key>positionschema</key>
+	<string>shouldNotifyAccessory</string>
+	<key>processorHead</key>
+	<string>animationedge</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectrequest</key>
+	<string>upgradeScene</string>
+	<key>dissociatescene</key>
+	<string>characterBound</string>
+	<key>inheritedtextspeed</key>
+	<string>permissiveMusic</string>
+	<key>logDelay</key>
+	<string>unmountcollection</string>
+	<key>permissiveTrajectory</key>
+	<string>priorityPadding</string>
+	<key>resilientTheme</key>
+	<string>canValidateHistogram</string>
+	<key>sizedboxcolor</key>
+	<string>minDelegate</string>
+	<key>statelessCard</key>
+	<string>certificatevaluescale</string>
+	<key>symbolName</key>
+	<string>dropdownbuttonAcceleration</string>
+</dict>
+</plist>

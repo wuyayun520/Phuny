@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>durationAlignment</key>
+	<string>functionalMatrix</string>
+	<key>hashStyle</key>
+	<string>navigatorForm</string>
+	<key>keyNib</key>
+	<string>layerRotation</string>
+	<key>lostrepository</key>
+	<string>resizableTabBar</string>
+	<key>permanentalignmentsize</key>
+	<string>navigateNotification</string>
+	<key>richtextForce</key>
+	<string>cacheThread</string>
+	<key>savecontainer</key>
+	<string>observePadding</string>
+	<key>scalabilityStatus</key>
+	<string>invokeFrame</string>
+</dict>
+</plist>

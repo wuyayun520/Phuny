@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentmodebehavior</key>
+	<string>responsiveSemantics</string>
+	<key>buttonname</key>
+	<string>resilientImpact</string>
+	<key>directRoute</key>
+	<string>quitAsset</string>
+	<key>dynamicEquivalent</key>
+	<string>inheritedProfile</string>
+	<key>gridviewOpacity</key>
+	<string>displayableMovement</string>
+	<key>groupscope</key>
+	<string>subscriptionVar</string>
+	<key>reusableGesture</key>
+	<string>awaitbeyondvisitor</string>
+	<key>staticFactory</key>
+	<string>baselineBrightness</string>
+	<key>textcyclelocation</key>
+	<string>difficultTimeline</string>
+	<key>textlevelborder</key>
+	<string>characterMode</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveAudio</key>
+	<string>desktopvectortail</string>
+	<key>directContainer</key>
+	<string>canDetachCatalyst</string>
+	<key>impactRate</key>
+	<string>inactiveFuture</string>
+	<key>multiMusic</key>
+	<string>temporarySemantics</string>
+	<key>navigationindex</key>
+	<string>invisibleRichText</string>
+	<key>observerproxybehavior</key>
+	<string>tappablePreview</string>
+	<key>sustainableBrush</key>
+	<string>canTransformContraction</string>
+	<key>usecaseOrientation</key>
+	<string>strokePressure</string>
+</dict>
+</plist>

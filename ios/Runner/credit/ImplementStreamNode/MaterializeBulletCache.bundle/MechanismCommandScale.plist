@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleTexture</key>
+	<string>composableSubpixel</string>
+	<key>asynchronousSignature</key>
+	<string>draggableSymbol</string>
+	<key>desktopStrength</key>
+	<string>stepOffset</string>
+	<key>factoryfromjob</key>
+	<string>meshlocation</string>
+	<key>multiTopic</key>
+	<string>prismaticRadius</string>
+	<key>releaseview</key>
+	<string>displayableMend</string>
+	<key>soundKind</key>
+	<string>memberPadding</string>
+	<key>timePressure</key>
+	<string>normmerger</string>
+	<key>typicalNotation</key>
+	<string>hyperbolicSegment</string>
+</dict>
+</plist>

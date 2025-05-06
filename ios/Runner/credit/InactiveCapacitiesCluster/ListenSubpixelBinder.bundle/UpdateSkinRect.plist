@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasTheme</key>
+	<string>activatedNib</string>
+	<key>dependencyproxyfrequency</key>
+	<string>listviewstate</string>
+	<key>flexOrigin</key>
+	<string>maintainGrid</string>
+	<key>functionalChecklist</key>
+	<string>shouldPushExponent</string>
+	<key>ignoredEntropy</key>
+	<string>materialDuration</string>
+	<key>mainExpanded</key>
+	<string>infoVelocity</string>
+	<key>responsiveAmortization</key>
+	<string>shouldLayoutDimension</string>
+	<key>seamlessRectangle</key>
+	<string>rapidOverlay</string>
+	<key>unsortedSkirt</key>
+	<string>precisionFramework</string>
+</dict>
+</plist>

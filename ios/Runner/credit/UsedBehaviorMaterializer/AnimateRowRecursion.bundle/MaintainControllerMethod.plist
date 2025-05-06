@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeName</key>
+	<string>themeLocation</string>
+	<key>constraintalignment</key>
+	<string>vectorizeStore</string>
+	<key>crucialGesture</key>
+	<string>combinerappearance</string>
+	<key>draggableStamp</key>
+	<string>compositionalSize</string>
+	<key>greatinterface</key>
+	<string>quaternionTransparency</string>
+	<key>optiontag</key>
+	<string>independentModule</string>
+	<key>pointTheme</key>
+	<string>dedicatedCapacities</string>
+	<key>prevScenario</key>
+	<string>showSymbol</string>
+	<key>retainedPopup</key>
+	<string>protectedSample</string>
+	<key>zoneshapename</key>
+	<string>alignmentMediator</string>
+</dict>
+</plist>

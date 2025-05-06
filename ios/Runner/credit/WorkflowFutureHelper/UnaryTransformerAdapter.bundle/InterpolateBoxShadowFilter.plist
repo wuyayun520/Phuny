@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorvisible</key>
+	<string>descriptionjobdelay</string>
+	<key>dependencyTop</key>
+	<string>singlePriority</string>
+	<key>diffableTriangles</key>
+	<string>navigationtag</string>
+	<key>observeroute</key>
+	<string>elasticawaitsize</string>
+	<key>queueinteraction</key>
+	<string>resourceshade</string>
+	<key>resilientComposition</key>
+	<string>exceptionDuration</string>
+	<key>shouldPresentCapacities</key>
+	<string>iconOrientation</string>
+	<key>statusRotation</key>
+	<string>normalPageView</string>
+	<key>textvelocity</key>
+	<string>significantchartcoord</string>
+	<key>uniformController</key>
+	<string>tappableBrush</string>
+</dict>
+</plist>

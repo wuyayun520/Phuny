@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerOrientation</key>
+	<string>routerjoiner</string>
+	<key>dynamicCosine</key>
+	<string>metricspressure</string>
+	<key>effectmerger</key>
+	<string>overlayPlatform</string>
+	<key>metadataspacing</key>
+	<string>vertexBound</string>
+	<key>modulusPadding</key>
+	<string>sortedProvision</string>
+	<key>sceneStatus</key>
+	<string>notifyRepository</string>
+	<key>statelessMechanism</key>
+	<string>canKeepTangent</string>
+	<key>subsequentservicemode</key>
+	<string>coordinatorflyweighttop</string>
+	<key>synchronousThroughput</key>
+	<string>restoreStream</string>
+</dict>
+</plist>

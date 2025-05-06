@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autocallbackshade</key>
+	<string>shouldAttachMaster</string>
+	<key>containerResponse</key>
+	<string>layerDistance</string>
+	<key>interfacehue</key>
+	<string>shouldDetachMobile</string>
+	<key>notificationwithadapter</key>
+	<string>diffableFinder</string>
+	<key>specifyLabel</key>
+	<string>primaryZone</string>
+	<key>tickerpadding</key>
+	<string>decodesine</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedGraph</key>
+	<string>accordionLinker</string>
+	<key>drawerValidation</key>
+	<string>pauseHistogram</string>
+	<key>enabledusecase</key>
+	<string>shouldAnimateStep</string>
+	<key>mediumComponent</key>
+	<string>converterForce</string>
+	<key>publicEqualization</key>
+	<string>invokeProvider</string>
+	<key>stoputil</key>
+	<string>shouldKeepCosine</string>
+	<key>tensorParticle</key>
+	<string>profileTask</string>
+</dict>
+</plist>

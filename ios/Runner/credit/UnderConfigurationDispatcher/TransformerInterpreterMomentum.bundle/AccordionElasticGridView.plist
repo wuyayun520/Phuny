@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggablemodel</key>
+	<string>playTask</string>
+	<key>equipmentIndex</key>
+	<string>expandedTheme</string>
+	<key>fillmetadata</key>
+	<string>particleObserver</string>
+	<key>gatevisitorrotation</key>
+	<string>sinkdecoratortail</string>
+	<key>imperativeConsumption</key>
+	<string>currentpreview</string>
+	<key>implementusecase</key>
+	<string>symmetricLinker</string>
+	<key>shouldCacheAspect</key>
+	<string>shouldDetachRemainder</string>
+	<key>significantEvaluation</key>
+	<string>tablestate</string>
+	<key>variantalongdecorator</key>
+	<string>specifyVector</string>
+</dict>
+</plist>

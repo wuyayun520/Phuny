@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopException</key>
+	<string>presenterinfrastructure</string>
+	<key>pagerBottom</key>
+	<string>shaderdensity</string>
+	<key>priorityviascope</key>
+	<string>particleorientation</string>
+	<key>rapidPager</key>
+	<string>reductionEnvironment</string>
+	<key>seamlessSlash</key>
+	<string>crucialCompletion</string>
+	<key>shouldUnbindConvolution</key>
+	<string>navigationSpeed</string>
+	<key>staticAscent</key>
+	<string>canDisposeBehavior</string>
+	<key>sustainableSchema</key>
+	<string>observertail</string>
+</dict>
+</plist>

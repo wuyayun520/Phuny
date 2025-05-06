@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activitydistance</key>
+	<string>touchConstraint</string>
+	<key>optimizerDistance</key>
+	<string>concreteOperation</string>
+	<key>shouldBindMusic</key>
+	<string>backwardfactory</string>
+	<key>slideracceleration</key>
+	<string>draggableLocalization</string>
+</dict>
+</plist>

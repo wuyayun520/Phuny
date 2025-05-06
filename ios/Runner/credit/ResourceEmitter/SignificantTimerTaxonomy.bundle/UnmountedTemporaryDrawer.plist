@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>parallelGroup</key>
+	<string>uniqueInfo</string>
+	<key>retrievecallback</key>
+	<string>storageFormat</string>
+	<key>shouldNotifyGem</key>
+	<string>yieldPageView</string>
+	<key>shouldPopTabView</key>
+	<string>associatedAmortization</string>
+	<key>singletonFeedback</key>
+	<string>switchTag</string>
+	<key>usedStack</key>
+	<string>numericalAccessory</string>
+</dict>
+</plist>

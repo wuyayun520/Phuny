@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncacceleration</key>
+	<string>captiontint</string>
+	<key>beginnerStore</key>
+	<string>canEndCaption</string>
+	<key>inheritedDetector</key>
+	<string>buildAlert</string>
+	<key>priorSubscription</key>
+	<string>independentMenu</string>
+	<key>shouldskipcoordinator</key>
+	<string>canConnectStateless</string>
+</dict>
+</plist>

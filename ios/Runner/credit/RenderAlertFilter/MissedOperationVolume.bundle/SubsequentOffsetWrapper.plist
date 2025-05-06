@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedResolver</key>
+	<string>relationalMenu</string>
+	<key>attachroute</key>
+	<string>aperturePosition</string>
+	<key>coordinatorName</key>
+	<string>unactivatedScreen</string>
+	<key>defaultaspectratio</key>
+	<string>commonAnalogy</string>
+	<key>eventstrategyresponse</key>
+	<string>validateSignature</string>
+	<key>independentSegue</key>
+	<string>syncText</string>
+	<key>shouldSaveText</key>
+	<string>cancelContainer</string>
+	<key>temporaryEmitter</key>
+	<string>actionprocessstatus</string>
+</dict>
+</plist>

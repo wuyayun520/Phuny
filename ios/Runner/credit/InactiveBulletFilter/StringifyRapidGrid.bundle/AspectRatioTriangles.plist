@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinofunctionacceleration</key>
+	<string>shouldloadmonster</string>
+	<key>curvetypedepth</key>
+	<string>accessibleLoop</string>
+	<key>futureShape</key>
+	<string>permanentShape</string>
+	<key>granularAsync</key>
+	<string>combineTimer</string>
+	<key>hierarchicalshader</key>
+	<string>endIndicator</string>
+	<key>imperativeCompletion</key>
+	<string>stackMomentum</string>
+	<key>invisibleInfrastructure</key>
+	<string>standaloneCompletion</string>
+	<key>shouldpreparebox</key>
+	<string>autoResult</string>
+	<key>streamRight</key>
+	<string>errorvalidation</string>
+</dict>
+</plist>

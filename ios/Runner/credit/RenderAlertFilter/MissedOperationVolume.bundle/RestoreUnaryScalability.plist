@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentProvision</key>
+	<string>propagateMenu</string>
+	<key>hardoffset</key>
+	<string>singletonValue</string>
+	<key>layerSkewY</key>
+	<string>animatedTextField</string>
+	<key>shouldCacheLogarithm</key>
+	<string>arithmeticmapper</string>
+	<key>shouldDisconnectAxis</key>
+	<string>shouldDeserializeAspectRatio</string>
+	<key>shouldPushRow</key>
+	<string>currentProfile</string>
+	<key>synchronousStroke</key>
+	<string>advancedInfrastructure</string>
+	<key>uniformPopup</key>
+	<string>comprehensiveObject</string>
+</dict>
+</plist>

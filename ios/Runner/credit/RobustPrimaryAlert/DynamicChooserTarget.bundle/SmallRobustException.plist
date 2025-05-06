@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedSpecifier</key>
+	<string>batchValue</string>
+	<key>discardedMetadata</key>
+	<string>crudePreview</string>
+	<key>disparateradiusinterval</key>
+	<string>canvasTask</string>
+	<key>otherCoordinator</key>
+	<string>shouldSerializeCustomPaint</string>
+	<key>shouldPauseCustomPaint</key>
+	<string>directlyAsset</string>
+	<key>substantialMediaQuery</key>
+	<string>syncGroup</string>
+</dict>
+</plist>

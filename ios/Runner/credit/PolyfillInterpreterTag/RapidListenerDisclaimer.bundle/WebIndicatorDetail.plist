@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchoradapteroffset</key>
+	<string>repositoryDepth</string>
+	<key>colorHead</key>
+	<string>configurationDelay</string>
+	<key>defaultbuilder</key>
+	<string>activefactory</string>
+	<key>isProvider</key>
+	<string>menuAdapter</string>
+	<key>requiredStatus</key>
+	<string>grayscaleAdapter</string>
+	<key>shouldParsePageView</key>
+	<string>coordinatoraction</string>
+	<key>tentativeSpacing</key>
+	<string>dispatcherCoord</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferBound</key>
+	<string>taskcoord</string>
+	<key>capacityIndex</key>
+	<string>checkprogressbar</string>
+	<key>cupertinointerval</key>
+	<string>bullettypedirection</string>
+	<key>directlyspecifierbehavior</key>
+	<string>setstateSizedBox</string>
+	<key>shouldRouteText</key>
+	<string>publicDelegate</string>
+	<key>shouldYieldBaseline</key>
+	<string>largeIsolate</string>
+	<key>timelineDuration</key>
+	<string>completerWork</string>
+</dict>
+</plist>

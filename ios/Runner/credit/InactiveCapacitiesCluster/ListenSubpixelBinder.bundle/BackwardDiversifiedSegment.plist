@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderspacing</key>
+	<string>resizableunarytop</string>
+	<key>interactiveIntensity</key>
+	<string>specifyqueueinset</string>
+	<key>iterativeAnalyzer</key>
+	<string>nativeReplica</string>
+	<key>shouldShowNotifier</key>
+	<string>precisionisolate</string>
+	<key>symmetricAppBar</key>
+	<string>listviewOrigin</string>
+	<key>usageefficiency</key>
+	<string>canValidateStep</string>
+	<key>zoneHue</key>
+	<string>canBindSample</string>
+</dict>
+</plist>

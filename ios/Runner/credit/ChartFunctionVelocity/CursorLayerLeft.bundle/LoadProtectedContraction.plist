@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>conformfragment</key>
+	<string>invokeCompleter</string>
+	<key>customPriority</key>
+	<string>activeSlider</string>
+	<key>detectorvisible</key>
+	<string>orchestrateListener</string>
+	<key>mediocreFilter</key>
+	<string>richtexttraversal</string>
+	<key>resourceOpacity</key>
+	<string>elasticityMode</string>
+	<key>shouldRouteTextField</key>
+	<string>hierarchicalReference</string>
+	<key>sizeEdge</key>
+	<string>localIntensity</string>
+	<key>sophisticatedBloc</key>
+	<string>chartLevel</string>
+	<key>traversalMargin</key>
+	<string>enumerateOffset</string>
+</dict>
+</plist>

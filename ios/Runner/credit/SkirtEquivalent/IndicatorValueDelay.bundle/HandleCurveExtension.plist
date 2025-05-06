@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationContrast</key>
+	<string>triggerContrast</string>
+	<key>asynchronousGradient</key>
+	<string>encapsulateTask</string>
+	<key>autoProject</key>
+	<string>rotateAlignment</string>
+	<key>originalTopic</key>
+	<string>explicitTimer</string>
+	<key>precisionleft</key>
+	<string>shouldPopSign</string>
+	<key>shouldUnbindCatalyst</key>
+	<string>providevariant</string>
+	<key>shouldvalidatetransition</key>
+	<string>streamvaluecoord</string>
+</dict>
+</plist>

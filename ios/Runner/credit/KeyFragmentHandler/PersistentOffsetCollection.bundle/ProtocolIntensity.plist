@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentShade</key>
+	<string>canSerializeRole</string>
+	<key>enabledDispatcher</key>
+	<string>pushCosine</string>
+	<key>euclideanInterpolation</key>
+	<string>grayscaleChain</string>
+	<key>fusedEquivalent</key>
+	<string>robustFragment</string>
+	<key>interfacebeyondenvironment</key>
+	<string>selectedGridView</string>
+	<key>permanentEntity</key>
+	<string>futureofcontext</string>
+	<key>shouldDeserializeText</key>
+	<string>shapeFlags</string>
+	<key>shouldEndModulus</key>
+	<string>significantInkWell</string>
+	<key>shouldprocessprojection</key>
+	<string>dimensionBrightness</string>
+</dict>
+</plist>

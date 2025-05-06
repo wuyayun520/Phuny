@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardscenario</key>
+	<string>detachTabBar</string>
+	<key>boxVisibility</key>
+	<string>gradientcount</string>
+	<key>buttonBound</key>
+	<string>mainPositioned</string>
+	<key>convolutionPressure</key>
+	<string>singleLinker</string>
+	<key>coordinatorSkewY</key>
+	<string>rapidProjection</string>
+	<key>disconnecttimer</key>
+	<string>cancelStream</string>
+	<key>mediocreIsolate</key>
+	<string>inflatecache</string>
+	<key>prismaticProject</key>
+	<string>localizationversusflyweight</string>
+	<key>respectiveHistogram</key>
+	<string>streamlineChapter</string>
+</dict>
+</plist>

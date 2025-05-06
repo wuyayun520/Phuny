@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopReliability</key>
+	<string>elasticityInterval</string>
+	<key>featurealongmode</key>
+	<string>heapProcess</string>
+	<key>independentProvision</key>
+	<string>alphaBuffer</string>
+	<key>logdistance</key>
+	<string>sophisticatedSemantics</string>
+	<key>pinchablePopup</key>
+	<string>scrollappearance</string>
+	<key>publicSegue</key>
+	<string>substantialMediaQuery</string>
+	<key>shouldLoadLabel</key>
+	<string>arithmeticDetail</string>
+	<key>shouldMountSwitch</key>
+	<string>unlockService</string>
+	<key>starttask</key>
+	<string>easyTimeline</string>
+	<key>temporaryconfigurationtail</key>
+	<string>freeLayer</string>
+</dict>
+</plist>

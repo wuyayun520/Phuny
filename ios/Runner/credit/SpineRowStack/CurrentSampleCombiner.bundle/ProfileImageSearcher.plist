@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticbound</key>
+	<string>routeRemainder</string>
+	<key>custompaintVisible</key>
+	<string>pushUseCase</string>
+	<key>declarativeTernary</key>
+	<string>adaptiveStream</string>
+	<key>radiustransparency</key>
+	<string>visibleMaster</string>
+	<key>subscriptioncontextborder</key>
+	<string>localContrast</string>
+	<key>taskname</key>
+	<string>basicHero</string>
+	<key>tweendespitebridge</key>
+	<string>spriteagainsttier</string>
+	<key>uniformIsolate</key>
+	<string>spriteWork</string>
+</dict>
+</plist>

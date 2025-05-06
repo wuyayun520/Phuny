@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmetictension</key>
+	<string>copyCoordinator</string>
+	<key>controllerlistener</key>
+	<string>canProcessAspect</string>
+	<key>declarativeState</key>
+	<string>customProcessor</string>
+	<key>marginlocation</key>
+	<string>canEncodeProjection</string>
+	<key>parallelChooser</key>
+	<string>touchpager</string>
+	<key>shouldPersistScreen</key>
+	<string>itemLeft</string>
+	<key>specifyMomentum</key>
+	<string>robustShader</string>
+</dict>
+</plist>

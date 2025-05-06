@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedNotifier</key>
+	<string>hasactivity</string>
+	<key>globalQuaternion</key>
+	<string>swiftStage</string>
+	<key>inactiveTrigger</key>
+	<string>alphaFunction</string>
+	<key>missedActivity</key>
+	<string>optiontime</string>
+	<key>responsiveDimension</key>
+	<string>swiftStyle</string>
+	<key>slashframeworkhue</key>
+	<string>grayscaleEdge</string>
+	<key>specifyConvolution</key>
+	<string>canProcessSwift</string>
+	<key>staticGraphic</key>
+	<string>handlespecifier</string>
+	<key>staticRadius</key>
+	<string>shouldNotifyBloc</string>
+	<key>textfieldlinker</key>
+	<string>propagateinterface</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorvisibility</key>
+	<string>fusedGestureDetector</string>
+	<key>fusedError</key>
+	<string>desktopException</string>
+	<key>granularCapacities</key>
+	<string>canMountedNorm</string>
+	<key>hardskirt</key>
+	<string>canListenBuilder</string>
+	<key>hasmap</key>
+	<string>rebuildLogarithm</string>
+	<key>mobileSaturation</key>
+	<string>timerSize</string>
+	<key>nativeDropdownButton</key>
+	<string>shouldEndLoss</string>
+	<key>previewdepth</key>
+	<string>shouldUpdateTouch</string>
+</dict>
+</plist>

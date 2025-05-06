@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistscopesaturation</key>
+	<string>statelesstaskopacity</string>
+	<key>containerfrequency</key>
+	<string>composablesession</string>
+	<key>customsampleedge</key>
+	<string>hyperbolicGraphic</string>
+	<key>ignoredNib</key>
+	<string>navigateanimatedcontainer</string>
+	<key>largeRange</key>
+	<string>distinctionShade</string>
+	<key>shouldStreamPainter</key>
+	<string>isaxis</string>
+</dict>
+</plist>

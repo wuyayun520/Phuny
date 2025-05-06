@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistmediatoropacity</key>
+	<string>logarithmBottom</string>
+	<key>detectorRate</key>
+	<string>gateAction</string>
+	<key>isolatetypevisible</key>
+	<string>dissociateButton</string>
+	<key>menuinset</key>
+	<string>activatedLog</string>
+	<key>signliketype</key>
+	<string>advancedSegment</string>
+	<key>standalonelayout</key>
+	<string>canAnimateCache</string>
+	<key>synchronousState</key>
+	<string>singlepetrotation</string>
+</dict>
+</plist>

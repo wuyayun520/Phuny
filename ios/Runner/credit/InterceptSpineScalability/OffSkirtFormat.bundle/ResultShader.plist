@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousOffset</key>
+	<string>dynamicStore</string>
+	<key>clipperEdge</key>
+	<string>elasticityTension</string>
+	<key>configurationShade</key>
+	<string>symmetricCapacities</string>
+	<key>defaultcatalyst</key>
+	<string>transformBrush</string>
+	<key>evolutionScale</key>
+	<string>mutableMechanism</string>
+	<key>listviewDepth</key>
+	<string>parallelShape</string>
+	<key>prevLatency</key>
+	<string>explicitShape</string>
+</dict>
+</plist>

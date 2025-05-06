@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immediateAsync</key>
+	<string>cloneFeature</string>
+	<key>informationDensity</key>
+	<string>tweakResponse</string>
+	<key>layoutTransparency</key>
+	<string>parallelIntegrity</string>
+	<key>mechanismTail</key>
+	<string>requestLoop</string>
+	<key>newestGift</key>
+	<string>shouldMountedTabView</string>
+	<key>oldOperation</key>
+	<string>shouldNotifyCollection</string>
+	<key>originalRenderer</key>
+	<string>inheritedEntropy</string>
+</dict>
+</plist>

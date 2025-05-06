@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interfaceVisible</key>
+	<string>mediumSorter</string>
+	<key>intermediateIsolate</key>
+	<string>easyAnalyzer</string>
+	<key>nibmapper</key>
+	<string>gridviewFlyweight</string>
+	<key>rapidEquipment</key>
+	<string>vectorshaperesponse</string>
+	<key>replacestateless</key>
+	<string>newestLocalization</string>
+	<key>resultbehavior</key>
+	<string>shouldDisconnectBorder</string>
+	<key>shouldPublishAppBar</key>
+	<string>specifyProtocol</string>
+	<key>subsequentmapper</key>
+	<string>primaryScroll</string>
+	<key>temporaryItem</key>
+	<string>rectangleValidation</string>
+</dict>
+</plist>

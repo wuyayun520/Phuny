@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryTag</key>
+	<string>opaqueInfo</string>
+	<key>bulletmodealignment</key>
+	<string>sortedJoiner</string>
+	<key>contractionInterval</key>
+	<string>symmetricpreviewpadding</string>
+	<key>fusedChecklist</key>
+	<string>respondPreview</string>
+	<key>globalPermutation</key>
+	<string>otherAsset</string>
+	<key>lastanimatedcontainer</key>
+	<string>resumeGesture</string>
+	<key>seamlessShape</key>
+	<string>diffabletitle</string>
+	<key>shouldFetchPoint</key>
+	<string>standaloneGesture</string>
+	<key>shouldMountConsumer</key>
+	<string>subtleIcon</string>
+	<key>techniqueTail</key>
+	<string>statusPadding</string>
+</dict>
+</plist>

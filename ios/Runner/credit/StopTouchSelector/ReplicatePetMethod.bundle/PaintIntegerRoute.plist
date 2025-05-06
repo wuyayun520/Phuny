@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedScenario</key>
+	<string>uniqueEntropy</string>
+	<key>collectioninteraction</key>
+	<string>crudePageView</string>
+	<key>concurrentCycle</key>
+	<string>flexibleBatch</string>
+	<key>deferredPosition</key>
+	<string>backwardAsync</string>
+	<key>fusedFactory</key>
+	<string>opaqueAnchor</string>
+	<key>symbolIndex</key>
+	<string>canDisposeCupertino</string>
+</dict>
+</plist>

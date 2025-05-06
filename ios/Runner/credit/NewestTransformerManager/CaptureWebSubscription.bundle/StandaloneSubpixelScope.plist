@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveRemainder</key>
+	<string>releaseBloc</string>
+	<key>animatedReplica</key>
+	<string>finishAnimatedContainer</string>
+	<key>chapterKind</key>
+	<string>usedReference</string>
+	<key>schedulerResponse</key>
+	<string>overrideBuilder</string>
+	<key>skinLeft</key>
+	<string>singleCube</string>
+	<key>uniformChannels</key>
+	<string>extendBloc</string>
+</dict>
+</plist>

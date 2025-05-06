@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticAnimator</key>
+	<string>declarativeMovement</string>
+	<key>disparateCapacity</key>
+	<string>dropoutview</string>
+	<key>dynamicRouter</key>
+	<string>parseCompletion</string>
+	<key>enabledGestureDetector</key>
+	<string>anchorLevel</string>
+	<key>enabledTask</key>
+	<string>materialState</string>
+	<key>lifecycleStatus</key>
+	<string>shouldRebuildCube</string>
+	<key>newestGesture</key>
+	<string>cloneGrain</string>
+	<key>reductionLocation</key>
+	<string>autoRouter</string>
+	<key>shouldhandledescriptor</key>
+	<string>unaryformat</string>
+	<key>tensorLifecycle</key>
+	<string>annotatemenu</string>
+</dict>
+</plist>

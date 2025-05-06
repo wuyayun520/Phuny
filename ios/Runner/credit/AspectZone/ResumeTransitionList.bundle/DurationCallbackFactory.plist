@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedManager</key>
+	<string>renderScaffold</string>
+	<key>compositionalOptimizer</key>
+	<string>invisibleEfficiency</string>
+	<key>cupertinoEvent</key>
+	<string>serializebloc</string>
+	<key>nativeTimer</key>
+	<string>defaultlogarithm</string>
+	<key>opaqueConfidentiality</key>
+	<string>semanticPlayback</string>
+	<key>sliderplatformindex</key>
+	<string>layoutJob</string>
+	<key>staticCupertino</key>
+	<string>shouldResumeSlider</string>
+	<key>tickerpervariable</key>
+	<string>sortedCallback</string>
+</dict>
+</plist>

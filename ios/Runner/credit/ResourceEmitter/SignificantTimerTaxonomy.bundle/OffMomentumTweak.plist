@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graphBrightness</key>
+	<string>awaitEnvironment</string>
+	<key>inkwellresponse</key>
+	<string>localReference</string>
+	<key>nibCount</key>
+	<string>shouldYieldButton</string>
+	<key>responsivePromise</key>
+	<string>quitEvent</string>
+	<key>smallMesh</key>
+	<string>canYieldStream</string>
+	<key>storeStyle</key>
+	<string>notificationcombiner</string>
+	<key>switchscale</key>
+	<string>partitionError</string>
+	<key>timelineInset</key>
+	<string>buildersubscriber</string>
+</dict>
+</plist>

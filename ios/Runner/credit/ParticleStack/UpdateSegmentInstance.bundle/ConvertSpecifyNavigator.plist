@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleconvolutionhead</key>
+	<string>nextUnary</string>
+	<key>iterativeBinary</key>
+	<string>relationalConstraint</string>
+	<key>mutableTabBar</key>
+	<string>canUnmountedCollection</string>
+	<key>originalCluster</key>
+	<string>elasticCombiner</string>
+	<key>reactiveCell</key>
+	<string>restartDrawer</string>
+	<key>statelessstatus</key>
+	<string>quitPreview</string>
+</dict>
+</plist>

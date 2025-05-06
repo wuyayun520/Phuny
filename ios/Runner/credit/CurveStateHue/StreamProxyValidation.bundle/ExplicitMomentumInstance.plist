@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerPosition</key>
+	<string>dispatchNavigation</string>
+	<key>labelcenter</key>
+	<string>stepcoord</string>
+	<key>primaryWorkflow</key>
+	<string>unactivatedGraph</string>
+	<key>shouldReplaceProject</key>
+	<string>canTransitionKernel</string>
+	<key>typicalGram</key>
+	<string>canStopNotification</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncequivalent</key>
+	<string>unmountedcurve</string>
+	<key>basicAwait</key>
+	<string>shouldHandleIndicator</string>
+	<key>defaultmultiplication</key>
+	<string>shouldResumeFuture</string>
+	<key>deferredTabBar</key>
+	<string>substantialWorkflow</string>
+	<key>discardedConverter</key>
+	<string>canInflateAspect</string>
+	<key>managercontrast</key>
+	<string>pivotalPrecision</string>
+	<key>persistentService</key>
+	<string>shouldUnmountConvolution</string>
+	<key>pointFrequency</key>
+	<string>shouldDisconnectScreen</string>
+	<key>rowCoord</key>
+	<string>canLoadBrush</string>
+	<key>titleHue</key>
+	<string>encodeAsset</string>
+</dict>
+</plist>

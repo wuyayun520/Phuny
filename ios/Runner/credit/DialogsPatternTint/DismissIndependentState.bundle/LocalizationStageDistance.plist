@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarAcceleration</key>
+	<string>shouldSerializeAnimation</string>
+	<key>comprehensiveAscent</key>
+	<string>unactivatedAscent</string>
+	<key>scrollableDialogs</key>
+	<string>autocell</string>
+	<key>unactivatedSkirt</key>
+	<string>streamContraction</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedAmortization</key>
+	<string>builderinterface</string>
+	<key>contractionInset</key>
+	<string>shouldanimateradio</string>
+	<key>createsign</key>
+	<string>routerTransparency</string>
+	<key>intuitivehandlermomentum</key>
+	<string>directequalization</string>
+	<key>materialLayout</key>
+	<string>beginnerBrush</string>
+	<key>matrixinterpretershape</key>
+	<string>canPersistLabel</string>
+	<key>shouldCreateEquipment</key>
+	<string>paddingPhase</string>
+	<key>shouldFetchStamp</key>
+	<string>lostRoute</string>
+	<key>sineShade</key>
+	<string>resizeAsset</string>
+	<key>statefulEmitter</key>
+	<string>cupertinoEvaluation</string>
+</dict>
+</plist>

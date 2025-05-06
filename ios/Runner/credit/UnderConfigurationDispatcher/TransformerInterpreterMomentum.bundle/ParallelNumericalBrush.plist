@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordioncompleterstate</key>
+	<string>cancelAnimatedContainer</string>
+	<key>heapValidation</key>
+	<string>combineropacity</string>
+	<key>histogramPosition</key>
+	<string>detachInstruction</string>
+	<key>ismodal</key>
+	<string>buttonsingletonvisible</string>
+	<key>opaqueLabel</key>
+	<string>listenerOperation</string>
+	<key>radiotype</key>
+	<string>giftPrototype</string>
+	<key>reusableTrigger</key>
+	<string>animateAxis</string>
+	<key>shouldpersistsegment</key>
+	<string>accelerateAwait</string>
+	<key>similarAsync</key>
+	<string>featurethroughput</string>
+	<key>standaloneLoss</key>
+	<string>shouldPrepareConstraint</string>
+</dict>
+</plist>

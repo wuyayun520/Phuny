@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>errorsubscriber</key>
+	<string>fillgrid</string>
+	<key>schedulerMargin</key>
+	<string>largeInformation</string>
+	<key>shaderexceptsingleton</key>
+	<string>pivotalTimeline</string>
+	<key>shouldStartMedia</key>
+	<string>factoryviacontext</string>
+	<key>taskForce</key>
+	<string>canEndShader</string>
+</dict>
+</plist>

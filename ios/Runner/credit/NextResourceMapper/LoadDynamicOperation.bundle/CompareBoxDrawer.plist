@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertOrientation</key>
+	<string>shouldFormatSpecifier</string>
+	<key>gesturethroughstyle</key>
+	<string>resilientAscent</string>
+	<key>greatRequest</key>
+	<string>canMountedChallenge</string>
+	<key>platemode</key>
+	<string>gradientShape</string>
+	<key>reactivenodestate</key>
+	<string>showAlpha</string>
+	<key>reusableCaption</key>
+	<string>discardedSpot</string>
+	<key>scalabilityRate</key>
+	<string>shouldContinueDropdownButton</string>
+	<key>shouldValidateNib</key>
+	<string>tensorCubit</string>
+	<key>singleGraph</key>
+	<string>semanticlayerbound</string>
+</dict>
+</plist>

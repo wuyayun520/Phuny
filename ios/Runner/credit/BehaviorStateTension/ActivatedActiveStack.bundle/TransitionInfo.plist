@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hyperbolicDialogs</key>
+	<string>decorationcontrast</string>
+	<key>iconRate</key>
+	<string>smallOverlay</string>
+	<key>mediumsubscriptioninterval</key>
+	<string>resizableAudio</string>
+	<key>shouldCreateInteger</key>
+	<string>fixedFinder</string>
+	<key>symmetricText</key>
+	<string>fixedfragments</string>
+	<key>wrapperBorder</key>
+	<string>routerCoord</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedTransition</key>
+	<string>modalChain</string>
+	<key>deferredoffsetmode</key>
+	<string>nibVelocity</string>
+	<key>descriptionFormat</key>
+	<string>shouldPublishNotifier</string>
+	<key>functionalCursor</key>
+	<string>cursorActivity</string>
+	<key>liteArithmetic</key>
+	<string>canContinueCatalyst</string>
+	<key>mediocreIndicator</key>
+	<string>asynchronousEquivalent</string>
+	<key>newestDescent</key>
+	<string>backwardRole</string>
+	<key>sliderTail</key>
+	<string>uniformremainder</string>
+</dict>
+</plist>

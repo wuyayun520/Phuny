@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocStyle</key>
+	<string>spritemode</string>
+	<key>cyclebound</key>
+	<string>concurrentColumn</string>
+	<key>functionalOccasion</key>
+	<string>pushMargin</string>
+	<key>multiRequest</key>
+	<string>platetypedepth</string>
+	<key>nativeGroup</key>
+	<string>uniformResource</string>
+	<key>resizableFinder</key>
+	<string>canEncodeGestureDetector</string>
+	<key>scrollableInteraction</key>
+	<string>cachePainter</string>
+	<key>sharedcatalystshape</key>
+	<string>serviceTint</string>
+	<key>statusValidation</key>
+	<string>widgetValue</string>
+</dict>
+</plist>

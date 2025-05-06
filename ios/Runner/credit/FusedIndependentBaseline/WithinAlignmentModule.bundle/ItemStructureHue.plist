@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featureDelay</key>
+	<string>continueticker</string>
+	<key>formatOrientation</key>
+	<string>managersize</string>
+	<key>keyConfidentiality</key>
+	<string>spineFramework</string>
+	<key>normalscalability</key>
+	<string>canParseListView</string>
+	<key>resizableConstraint</key>
+	<string>momentumContrast</string>
+	<key>resizableradiusscale</key>
+	<string>mobilePressure</string>
+	<key>shouldLayoutCupertino</key>
+	<string>variantcolor</string>
+</dict>
+</plist>

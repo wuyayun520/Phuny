@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cycleorientation</key>
+	<string>interactivePicker</string>
+	<key>dialogsdecoratorindex</key>
+	<string>alphaProxy</string>
+	<key>ignoredModel</key>
+	<string>lastGraphic</string>
+	<key>keyLocalization</key>
+	<string>retrieveHash</string>
+	<key>precisionincludebridge</key>
+	<string>descriptorOperation</string>
+	<key>presenterFeedback</key>
+	<string>accessibleQuaternion</string>
+	<key>protectedMaterial</key>
+	<string>firstSkirt</string>
+	<key>shouldMountShader</key>
+	<string>shouldShowLoss</string>
+	<key>smallCapacities</key>
+	<string>activeElasticity</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarkind</key>
+	<string>canBindDescriptor</string>
+	<key>concurrentGridView</key>
+	<string>unsortedStep</string>
+	<key>invisibleRange</key>
+	<string>retainedEffect</string>
+	<key>materializerScale</key>
+	<string>normNumber</string>
+	<key>shouldObserveCapsule</key>
+	<string>provisionOffset</string>
+	<key>tablehue</key>
+	<string>measureTitle</string>
+</dict>
+</plist>

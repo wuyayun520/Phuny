@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>evaluationScale</key>
+	<string>textviacommand</string>
+	<key>gridRate</key>
+	<string>globalGram</string>
+	<key>lastSorter</key>
+	<string>serviceFrequency</string>
+	<key>persistentTime</key>
+	<string>particleSystem</string>
+	<key>priorConsumption</key>
+	<string>shouldRouteLogarithm</string>
+	<key>quaternionDensity</key>
+	<string>functionalTransition</string>
+	<key>routenode</key>
+	<string>trainTechnique</string>
+	<key>singletonasactivity</key>
+	<string>columnVisible</string>
+	<key>threadStyle</key>
+	<string>protectedDuration</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frameshapemode</key>
+	<string>scrollMargin</string>
+	<key>interactionBound</key>
+	<string>usedSelector</string>
+	<key>mobilegifthead</key>
+	<string>configureMenu</string>
+	<key>permissiveSchema</key>
+	<string>decodeMetadata</string>
+	<key>retainedUnary</key>
+	<string>adaptiveStateful</string>
+	<key>scalabilityStyle</key>
+	<string>convolutionAcceleration</string>
+	<key>semanticInteractor</key>
+	<string>singleSkin</string>
+	<key>shouldStartChannels</key>
+	<string>tangentmapper</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionAlignment</key>
+	<string>defaultPriority</string>
+	<key>seamlessRect</key>
+	<string>rectMode</string>
+	<key>shouldBindCharacter</key>
+	<string>globalTechnique</string>
+	<key>skirtTop</key>
+	<string>canLoadSpecifier</string>
+	<key>visitutil</key>
+	<string>nibLayer</string>
+	<key>webBuffer</key>
+	<string>criticalProgressBar</string>
+</dict>
+</plist>

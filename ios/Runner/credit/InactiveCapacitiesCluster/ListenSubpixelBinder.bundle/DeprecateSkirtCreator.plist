@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleDocument</key>
+	<string>autoAnimatedContainer</string>
+	<key>compareobserver</key>
+	<string>shouldUnmountedRoute</string>
+	<key>completionbeyondparameter</key>
+	<string>bindCheckbox</string>
+	<key>grayscaleInset</key>
+	<string>parseVariant</string>
+	<key>nativeskin</key>
+	<string>tablenearpattern</string>
+	<key>operationStatus</key>
+	<string>overlaySize</string>
+	<key>staticBitrate</key>
+	<string>shouldShowWidget</string>
+	<key>subscribecube</key>
+	<string>onspinechanged</string>
+	<key>thresholdBorder</key>
+	<string>synchronousEquipment</string>
+	<key>uniformWidget</key>
+	<string>shouldFormatMusic</string>
+</dict>
+</plist>

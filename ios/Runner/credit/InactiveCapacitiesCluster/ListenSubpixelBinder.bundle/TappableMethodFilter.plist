@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationlikememento</key>
+	<string>shouldCreateSensor</string>
+	<key>desktopRow</key>
+	<string>canConnectMovement</string>
+	<key>logarithmvisitorposition</key>
+	<string>loadLayout</string>
+	<key>offsetorientation</key>
+	<string>interactiveRoute</string>
+	<key>shouldCacheInkWell</key>
+	<string>reductionStrategy</string>
+	<key>singletonjoiner</key>
+	<string>bandwidthTheme</string>
+	<key>storageDirection</key>
+	<string>sizeBridge</string>
+	<key>substantialObserver</key>
+	<string>inflateSkin</string>
+</dict>
+</plist>

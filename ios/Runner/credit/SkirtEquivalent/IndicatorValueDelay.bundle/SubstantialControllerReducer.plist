@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedthread</key>
+	<string>streamobserver</string>
+	<key>asynchronousSlider</key>
+	<string>reducerthroughvariable</string>
+	<key>isSession</key>
+	<string>unbindActivity</string>
+	<key>shouldObserveButton</key>
+	<string>cubeStrategy</string>
+	<key>tickerResponse</key>
+	<string>semanticStream</string>
+</dict>
+</plist>

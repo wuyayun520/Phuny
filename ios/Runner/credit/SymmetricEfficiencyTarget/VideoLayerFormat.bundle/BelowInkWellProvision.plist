@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityFlags</key>
+	<string>defaulttask</string>
+	<key>dedicatedfilter</key>
+	<string>tappablePopup</string>
+	<key>enabledRect</key>
+	<string>opaqueSession</string>
+	<key>expandedzone</key>
+	<string>typicalTopic</string>
+	<key>firstCompletion</key>
+	<string>notifyBorder</string>
+	<key>subtlecombiner</key>
+	<string>comprehensiveDistinction</string>
+</dict>
+</plist>

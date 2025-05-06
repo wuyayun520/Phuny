@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeCurve</key>
+	<string>touchAdapter</string>
+	<key>compositionalStateful</key>
+	<string>pinchableStream</string>
+	<key>globalConfidentiality</key>
+	<string>polyfillFeedback</string>
+	<key>mutablePreview</key>
+	<string>resilientRectangle</string>
+	<key>profileinfrastructure</key>
+	<string>petValue</string>
+	<key>reducerCoord</key>
+	<string>tensorTabView</string>
+</dict>
+</plist>

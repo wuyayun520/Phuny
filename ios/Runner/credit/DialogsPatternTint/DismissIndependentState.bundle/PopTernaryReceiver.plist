@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buffermediatoredge</key>
+	<string>denseComponent</string>
+	<key>equalizationMargin</key>
+	<string>transformException</string>
+	<key>independentOperation</key>
+	<string>originalSlider</string>
+	<key>materializerDensity</key>
+	<string>setstateCache</string>
+	<key>matrixTint</key>
+	<string>robustDetail</string>
+	<key>secondSizedBox</key>
+	<string>freeListener</string>
+	<key>shouldAttachPromise</key>
+	<string>canMountSpecifier</string>
+	<key>shouldDisposeTable</key>
+	<string>canTrainSwift</string>
+</dict>
+</plist>

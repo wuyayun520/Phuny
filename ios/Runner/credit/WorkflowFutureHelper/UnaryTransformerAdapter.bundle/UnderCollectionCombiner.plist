@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoDetector</key>
+	<string>spinnotification</string>
+	<key>criticalRow</key>
+	<string>shouldUpdateContainer</string>
+	<key>cupertinometadata</key>
+	<string>containercolor</string>
+	<key>localThread</key>
+	<string>notifierFunction</string>
+	<key>positionedAlignment</key>
+	<string>statelessMethod</string>
+	<key>scalescale</key>
+	<string>advancedChecklist</string>
+	<key>shouldFetchAlert</key>
+	<string>mediumRestriction</string>
+	<key>subtleBox</key>
+	<string>transformSlider</string>
+	<key>unsortedSemantics</key>
+	<string>previewPadding</string>
+</dict>
+</plist>

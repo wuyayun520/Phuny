@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedShader</key>
+	<string>mitigateresolver</string>
+	<key>granularHero</key>
+	<string>accordionState</string>
+	<key>interactorskewx</key>
+	<string>invisibleTime</string>
+	<key>numericalOperation</key>
+	<string>missionScope</string>
+	<key>positionedpressure</key>
+	<string>responsiveSwitch</string>
+	<key>routermatrix</key>
+	<string>convolutionSkewX</string>
+	<key>shearview</key>
+	<string>custompaintName</string>
+	<key>shouldPublishTask</key>
+	<string>optionfacadeflags</string>
+</dict>
+</plist>

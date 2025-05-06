@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsulePressure</key>
+	<string>cloneLayer</string>
+	<key>criticalstore</key>
+	<string>sinkfacadeleft</string>
+	<key>easycurve</key>
+	<string>gesturedetectorShape</string>
+	<key>gesturenode</key>
+	<string>eagerCluster</string>
+	<key>prismaticCharacter</key>
+	<string>sequentialSink</string>
+	<key>regulateprovider</key>
+	<string>delegateTop</string>
+	<key>shouldRouteMonster</key>
+	<string>gridActivity</string>
+	<key>staticRow</key>
+	<string>cupertinomultiplicationstate</string>
+	<key>vectorCenter</key>
+	<string>flexibleDispatcher</string>
+</dict>
+</plist>

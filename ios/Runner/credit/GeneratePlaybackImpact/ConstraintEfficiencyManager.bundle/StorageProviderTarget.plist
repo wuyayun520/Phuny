@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binarycommandname</key>
+	<string>shouldInflateGridView</string>
+	<key>efficiencyOffset</key>
+	<string>shouldStartOptimizer</string>
+	<key>impactTransparency</key>
+	<string>crudechartshape</string>
+	<key>matrixsubscriber</key>
+	<string>mendStatus</string>
+	<key>permissiveModal</key>
+	<string>onanimatedcontainertap</string>
+	<key>symmetricTopic</key>
+	<string>newestEquivalent</string>
+</dict>
+</plist>

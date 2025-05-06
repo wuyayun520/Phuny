@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticGrayscale</key>
+	<string>createGem</string>
+	<key>beginnerStep</key>
+	<string>histogramDuration</string>
+	<key>replicaresponse</key>
+	<string>augmentPosition</string>
+	<key>shouldPaintCompletion</key>
+	<string>reusableScaffold</string>
+	<key>shouldPauseOverlay</key>
+	<string>shouldFetchSign</string>
+	<key>soundShape</key>
+	<string>directlyUnary</string>
+</dict>
+</plist>

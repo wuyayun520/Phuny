@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lostAnalyzer</key>
+	<string>canSaveStamp</string>
+	<key>normobserver</key>
+	<string>basicRow</string>
+	<key>sharedgridview</key>
+	<string>cupertinoReduction</string>
+	<key>shouldAnimateScale</key>
+	<string>scalerotation</string>
+	<key>significantSwift</key>
+	<string>responsiveSpine</string>
+</dict>
+</plist>

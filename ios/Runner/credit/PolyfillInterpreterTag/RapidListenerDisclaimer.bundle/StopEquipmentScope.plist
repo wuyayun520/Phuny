@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableChart</key>
+	<string>inheritedDispatcher</string>
+	<key>diffableMapper</key>
+	<string>cupertinoView</string>
+	<key>hasMonster</key>
+	<string>bufferthroughphase</string>
+	<key>keyCharacter</key>
+	<string>shouldSkipWorkflow</string>
+	<key>secondAnimatedContainer</key>
+	<string>isThread</string>
+	<key>shouldLoadSizedBox</key>
+	<string>oncardchanged</string>
+	<key>tensorCombiner</key>
+	<string>uniformserviceinset</string>
+</dict>
+</plist>

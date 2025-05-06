@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderName</key>
+	<string>fixedTitle</string>
+	<key>numericalGrid</key>
+	<string>threadfunctionscale</string>
+	<key>pushtransformer</key>
+	<string>moduleSaturation</string>
+	<key>singleKernel</key>
+	<string>geometricTransition</string>
+	<key>statusMomentum</key>
+	<string>replaceStore</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengestyle</key>
+	<string>removeTimer</string>
+	<key>discardedTask</key>
+	<string>releaseGraph</string>
+	<key>keyInstruction</key>
+	<string>statelessMusic</string>
+	<key>statefulSound</key>
+	<string>setstateMaterial</string>
+	<key>timelineRate</key>
+	<string>shouldInflateStack</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionScale</key>
+	<string>capacitiesScale</string>
+	<key>tappableTitle</key>
+	<string>respectiveScenario</string>
+	<key>unactivatedProvision</key>
+	<string>shouldKeepUsage</string>
+	<key>unactivatedcurvebehavior</key>
+	<string>displayInteractor</string>
+	<key>vectorLocation</key>
+	<string>constructButton</string>
+</dict>
+</plist>

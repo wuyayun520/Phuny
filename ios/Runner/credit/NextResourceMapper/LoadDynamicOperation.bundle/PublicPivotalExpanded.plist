@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constantDuration</key>
+	<string>activeTentative</string>
+	<key>defaultListView</key>
+	<string>pushComposition</string>
+	<key>promiseVelocity</key>
+	<string>activatedascent</string>
+	<key>stackscalability</key>
+	<string>overrideDelegate</string>
+</dict>
+</plist>

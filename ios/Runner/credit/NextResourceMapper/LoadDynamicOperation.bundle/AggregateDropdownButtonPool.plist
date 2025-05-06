@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityType</key>
+	<string>autoCluster</string>
+	<key>baselineBrightness</key>
+	<string>collectionrate</string>
+	<key>chartDepth</key>
+	<string>similarBitrate</string>
+	<key>customizedTime</key>
+	<string>sortedPager</string>
+	<key>marginMode</key>
+	<string>lostcolor</string>
+	<key>numericalRadius</key>
+	<string>shouldFetchMultiplication</string>
+	<key>reducerName</key>
+	<string>prismaticQuaternion</string>
+	<key>sustainableError</key>
+	<string>nibPosition</string>
+</dict>
+</plist>

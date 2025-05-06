@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convertercoord</key>
+	<string>backwardStrength</string>
+	<key>criticalPrecision</key>
+	<string>canStartTool</string>
+	<key>dataType</key>
+	<string>scaffoldShape</string>
+	<key>notationSpeed</key>
+	<string>inkwellCycle</string>
+	<key>otherDelivery</key>
+	<string>directRange</string>
+	<key>prismaticTheme</key>
+	<string>originalView</string>
+	<key>shouldUnmountedSymbol</key>
+	<string>handlerwithprocess</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasRotation</key>
+	<string>characteristicacceleration</string>
+	<key>iterativeexpanded</key>
+	<string>evaluationScale</string>
+	<key>localMedia</key>
+	<string>shouldYieldGraphic</string>
+	<key>memberEdge</key>
+	<string>reusableImpression</string>
+	<key>shouldRouteCupertino</key>
+	<string>segmentMemento</string>
+</dict>
+</plist>

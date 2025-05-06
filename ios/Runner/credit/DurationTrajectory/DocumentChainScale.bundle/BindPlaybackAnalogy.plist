@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushMargin</key>
+	<string>schemaCoord</string>
+	<key>cacherect</key>
+	<string>symbolBound</string>
+	<key>eagerComposition</key>
+	<string>mobileAppBar</string>
+	<key>elementType</key>
+	<string>exponentSaturation</string>
+	<key>escalatemediaquery</key>
+	<string>infoborder</string>
+	<key>evaluategrayscale</key>
+	<string>labelbound</string>
+	<key>floatheap</key>
+	<string>accordionBuffer</string>
+	<key>shouldPrepareThread</key>
+	<string>canNotifyPlate</string>
+</dict>
+</plist>

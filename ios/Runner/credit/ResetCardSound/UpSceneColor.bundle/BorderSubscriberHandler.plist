@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticConfiguration</key>
+	<string>pinchableGrain</string>
+	<key>imperativeQuaternion</key>
+	<string>spinFrame</string>
+	<key>lossScale</key>
+	<string>significantScalability</string>
+	<key>subscriptionscalability</key>
+	<string>shouldAnimateExtension</string>
+	<key>timerFlags</key>
+	<string>freeNavigator</string>
+</dict>
+</plist>

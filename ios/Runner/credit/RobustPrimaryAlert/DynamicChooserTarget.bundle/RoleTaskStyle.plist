@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationrate</key>
+	<string>prevSpecifier</string>
+	<key>eagerDropdownButton</key>
+	<string>mixinCallback</string>
+	<key>immutableFactory</key>
+	<string>shouldreplaceappbar</string>
+	<key>loaderDepth</key>
+	<string>collectionfrequency</string>
+	<key>otherVideo</key>
+	<string>canNotifyMatrix</string>
+	<key>resizableSchema</key>
+	<string>positionedCount</string>
+	<key>richtextBrightness</key>
+	<string>insteadText</string>
+	<key>sortedShader</key>
+	<string>cloneConfiguration</string>
+	<key>visibleIntegrity</key>
+	<string>canResumeAxis</string>
+</dict>
+</plist>

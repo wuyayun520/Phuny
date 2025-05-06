@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateFlex</key>
+	<string>statelessAmortization</string>
+	<key>infoVisible</key>
+	<string>compositionalAspect</string>
+	<key>nibobserver</key>
+	<string>hardProfile</string>
+	<key>numericalviewtype</key>
+	<string>responsiveBox</string>
+	<key>shouldCacheBloc</key>
+	<string>handleNotification</string>
+</dict>
+</plist>

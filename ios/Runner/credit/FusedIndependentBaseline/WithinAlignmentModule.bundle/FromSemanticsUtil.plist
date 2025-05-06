@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customCharacter</key>
+	<string>shouldUpdateSession</string>
+	<key>disparateArchitecture</key>
+	<string>immutableContainer</string>
+	<key>hardManager</key>
+	<string>sortedUseCase</string>
+	<key>interactiveTangent</key>
+	<string>batchMode</string>
+	<key>oldTween</key>
+	<string>listenCatalyst</string>
+	<key>paintbloc</key>
+	<string>showResolver</string>
+	<key>tasknode</key>
+	<string>observerparameterrate</string>
+</dict>
+</plist>

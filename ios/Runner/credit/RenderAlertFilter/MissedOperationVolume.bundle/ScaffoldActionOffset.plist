@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>functionalPrecision</key>
+	<string>criticalRectangle</string>
+	<key>immediateThroughput</key>
+	<string>statelessCatalyst</string>
+	<key>keyLabel</key>
+	<string>concurrentLocalization</string>
+	<key>precisionInset</key>
+	<string>visibleProgressBar</string>
+	<key>responderKind</key>
+	<string>shouldEncodeDocument</string>
+	<key>shouldYieldImage</key>
+	<string>shouldCreateBase</string>
+	<key>subsequentSlider</key>
+	<string>pivotalExpanded</string>
+	<key>tappableTimeline</key>
+	<string>fixedRole</string>
+	<key>zonetension</key>
+	<string>matrixstatefeedback</string>
+</dict>
+</plist>

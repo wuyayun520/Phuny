@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>newestCharacter</key>
+	<string>canParseDuration</string>
+	<key>priorConverter</key>
+	<string>encodeSlash</string>
+	<key>protectedAspect</key>
+	<string>inflateUtil</string>
+	<key>shouldDismissAnimatedContainer</key>
+	<string>canReplaceTheme</string>
+	<key>slidertail</key>
+	<string>composableallocatorstyle</string>
+</dict>
+</plist>

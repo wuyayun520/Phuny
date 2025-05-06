@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyDelay</key>
+	<string>gesturedetectorPadding</string>
+	<key>desktopGraph</key>
+	<string>grainBorder</string>
+	<key>flexiblescope</key>
+	<string>controllerState</string>
+	<key>methodtolerance</key>
+	<string>shouldTransformMedia</string>
+	<key>navigatorlatency</key>
+	<string>shouldSetStateAnimatedContainer</string>
+	<key>persistentBuilder</key>
+	<string>limitCallback</string>
+	<key>selectedmission</key>
+	<string>signatureProcess</string>
+	<key>shouldUnmountDuration</key>
+	<string>grainbeyondactivity</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableContainer</key>
+	<string>marshalMethod</string>
+	<key>responsesplitter</key>
+	<string>scrollableLoader</string>
+	<key>tappableMechanism</key>
+	<string>eagerWorkflow</string>
+	<key>throughputalignment</key>
+	<string>providerdepth</string>
+	<key>visiblePoint</key>
+	<string>unschedulescene</string>
+</dict>
+</plist>

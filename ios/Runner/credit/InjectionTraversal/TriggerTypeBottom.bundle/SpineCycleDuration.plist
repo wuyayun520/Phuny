@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicPlayback</key>
+	<string>canRouteReference</string>
+	<key>gridviewAlignment</key>
+	<string>remainderIndex</string>
+	<key>hardCompletion</key>
+	<string>permanentOperation</string>
+	<key>largeMember</key>
+	<string>encodenorm</string>
+	<key>nativeStrength</key>
+	<string>deferredSearcher</string>
+	<key>permissiveGem</key>
+	<string>pendingInteger</string>
+	<key>sineDensity</key>
+	<string>permanentDecoration</string>
+	<key>topicAcceleration</key>
+	<string>overrideOffset</string>
+</dict>
+</plist>

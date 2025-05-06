@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerDependency</key>
+	<string>showBuffer</string>
+	<key>easySizedBox</key>
+	<string>dismissResource</string>
+	<key>enabledSizedBox</key>
+	<string>futureForce</string>
+	<key>looptail</key>
+	<string>previewcluster</string>
+	<key>sampleLeft</key>
+	<string>receiverDistance</string>
+	<key>sharedsingletonposition</key>
+	<string>largeSound</string>
+	<key>shouldDecodeRichText</key>
+	<string>orchestrateDuration</string>
+	<key>switchFrequency</key>
+	<string>observerdelay</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianLayer</key>
+	<string>deployCompleter</string>
+	<key>criticalTabView</key>
+	<string>requestAwait</string>
+	<key>gestureKind</key>
+	<string>canAttachBloc</string>
+	<key>largeTrigger</key>
+	<string>statefultexture</string>
+	<key>lostEffect</key>
+	<string>subscribeBoxShadow</string>
+	<key>shouldPaintAperture</key>
+	<string>canPopBaseline</string>
+</dict>
+</plist>

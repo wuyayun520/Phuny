@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disconnectview</key>
+	<string>tickerAcceleration</string>
+	<key>hardMediaQuery</key>
+	<string>fragmentsDistance</string>
+	<key>ignoredCard</key>
+	<string>shouldReplaceLoss</string>
+	<key>lastCosine</key>
+	<string>optimizeModel</string>
+	<key>priorInteger</key>
+	<string>mutableMetrics</string>
+	<key>shouldPersistInteger</key>
+	<string>singlePainter</string>
+	<key>shouldStartCustomPaint</key>
+	<string>interactiveHash</string>
+	<key>triggerBehavior</key>
+	<string>canEndScale</string>
+</dict>
+</plist>

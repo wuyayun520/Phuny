@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyVisibility</key>
+	<string>provisionDistance</string>
+	<key>globalScroller</key>
+	<string>defaultMediaQuery</string>
+	<key>hardOperation</key>
+	<string>multiChooser</string>
+	<key>hierarchicalCosine</key>
+	<string>repositoryStructure</string>
+	<key>lazyGrid</key>
+	<string>secondFactory</string>
+	<key>maptransition</key>
+	<string>shouldEndModulus</string>
+	<key>sequentialStore</key>
+	<string>displayableAnimatedContainer</string>
+	<key>sustainableBox</key>
+	<string>semanticTabBar</string>
+	<key>uniformPresenter</key>
+	<string>prevSink</string>
+</dict>
+</plist>

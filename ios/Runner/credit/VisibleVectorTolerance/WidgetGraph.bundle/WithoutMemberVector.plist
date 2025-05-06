@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseBehavior</key>
+	<string>utilincludetier</string>
+	<key>customTriangles</key>
+	<string>uniformTabBar</string>
+	<key>displayableStroke</key>
+	<string>dispatchMedia</string>
+	<key>hierarchicalInteractor</key>
+	<string>shouldNotifyMargin</string>
+	<key>mediaqueryCount</key>
+	<string>yieldlistview</string>
+	<key>optimizeraction</key>
+	<string>sequentialTable</string>
+</dict>
+</plist>

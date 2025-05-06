@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immediateevaluation</key>
+	<string>promiseRotation</string>
+	<key>relationalbordervelocity</key>
+	<string>beginnerisolate</string>
+	<key>resizableFilter</key>
+	<string>divideAwait</string>
+	<key>responsiveAnimatedContainer</key>
+	<string>semanticDetector</string>
+	<key>shouldSetStateTransition</key>
+	<string>pendingBullet</string>
+	<key>stampsound</key>
+	<string>activatedResolver</string>
+	<key>temporaryDistinction</key>
+	<string>disconnectindicator</string>
+	<key>unbindmanager</key>
+	<string>shouldTransitionScale</string>
+</dict>
+</plist>

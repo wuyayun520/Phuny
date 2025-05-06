@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivePresenter</key>
+	<string>reusableScale</string>
+	<key>declarativeAnimatedContainer</key>
+	<string>hyperbolicMethod</string>
+	<key>disparateProcessor</key>
+	<string>difficultPageView</string>
+	<key>rapidActivity</key>
+	<string>durationBorder</string>
+	<key>sensorShape</key>
+	<string>interactionInterval</string>
+	<key>sineCoord</key>
+	<string>streamlineService</string>
+	<key>sustainableCupertino</key>
+	<string>actioncoord</string>
+	<key>synchronousTextField</key>
+	<string>writeAsync</string>
+	<key>usedLoop</key>
+	<string>inactiveSorter</string>
+</dict>
+</plist>

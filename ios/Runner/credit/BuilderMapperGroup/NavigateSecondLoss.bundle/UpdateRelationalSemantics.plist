@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedawaitcontrast</key>
+	<string>interactiveSegment</string>
+	<key>draggableTriangles</key>
+	<string>shouldPopCursor</string>
+	<key>ephemeralAsset</key>
+	<string>disposeDocument</string>
+	<key>shouldDetachCompletion</key>
+	<string>elasticInterpolation</string>
+	<key>techniqueTail</key>
+	<string>chapterScope</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleConverter</key>
+	<string>workflowBottom</string>
+	<key>keyEquipment</key>
+	<string>temporaryFrame</string>
+	<key>reactiveEqualization</key>
+	<string>retrieveService</string>
+	<key>typicalHistogram</key>
+	<string>unmountedAspectRatio</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clusterMargin</key>
+	<string>scrollcontaindecorator</string>
+	<key>diversifiedGridView</key>
+	<string>singleMonster</string>
+	<key>independentTransformer</key>
+	<string>hardColumn</string>
+	<key>logarithmState</key>
+	<string>shouldrendermedia</string>
+	<key>mutableRestriction</key>
+	<string>opaqueBandwidth</string>
+	<key>otherLocalization</key>
+	<string>shouldSetStateCatalyst</string>
+	<key>publicMetrics</key>
+	<string>rangeValidation</string>
+</dict>
+</plist>

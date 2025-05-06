@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableGate</key>
+	<string>hasMargin</string>
+	<key>numericalBaseline</key>
+	<string>durationvisibility</string>
+	<key>promisebridgekind</key>
+	<string>cycleInset</string>
+	<key>resourceofprototype</key>
+	<string>soundHead</string>
+	<key>routeskewx</key>
+	<string>shouldNavigateDescriptor</string>
+	<key>samplelevelright</key>
+	<string>retainedRole</string>
+	<key>sessionAcceleration</key>
+	<string>cursorstyleshape</string>
+	<key>shouldPersistCursor</key>
+	<string>semanticsSize</string>
+	<key>temporaryResult</key>
+	<string>dialogsflyweightopacity</string>
+</dict>
+</plist>

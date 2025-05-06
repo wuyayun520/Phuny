@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterShape</key>
+	<string>canPushSession</string>
+	<key>defaultbehavior</key>
+	<string>mutableObserver</string>
+	<key>dependencyType</key>
+	<string>textureinsideplatform</string>
+	<key>desktopRect</key>
+	<string>numericalSpecifier</string>
+	<key>directlyMusic</key>
+	<string>entityStage</string>
+	<key>finishtransition</key>
+	<string>canUpdateDescriptor</string>
+	<key>inkwellVelocity</key>
+	<string>fillResource</string>
+	<key>mountreference</key>
+	<string>debugContainer</string>
+	<key>screenInterval</key>
+	<string>tappableUsage</string>
+	<key>tweenuntilsystem</key>
+	<string>evaluateRect</string>
+</dict>
+</plist>

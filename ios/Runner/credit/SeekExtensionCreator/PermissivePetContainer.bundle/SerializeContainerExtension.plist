@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveConsumption</key>
+	<string>threadTask</string>
+	<key>defaultflex</key>
+	<string>checkboxTension</string>
+	<key>permanentReference</key>
+	<string>shouldnavigatetheme</string>
+	<key>timerKind</key>
+	<string>shouldDispatchSkirt</string>
+</dict>
+</plist>

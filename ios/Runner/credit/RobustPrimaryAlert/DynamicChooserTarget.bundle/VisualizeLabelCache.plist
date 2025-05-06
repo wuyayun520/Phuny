@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architecturepadding</key>
+	<string>resilientAlpha</string>
+	<key>arithmeticDelay</key>
+	<string>statefulTag</string>
+	<key>canvasAcceleration</key>
+	<string>callbackRotation</string>
+	<key>chapteraboutmethod</key>
+	<string>lastClipper</string>
+	<key>mainBatch</key>
+	<string>semanticaction</string>
+	<key>mainSpine</key>
+	<string>canvasOperation</string>
+	<key>missedChecklist</key>
+	<string>seamlesslocalizationinteraction</string>
+	<key>shouldMountAnimatedContainer</key>
+	<string>permissivedialogs</string>
+	<key>shouldUpdateCaption</key>
+	<string>constantSpacing</string>
+</dict>
+</plist>

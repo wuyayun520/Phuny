@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaalignment</key>
+	<string>navigationinterval</string>
+	<key>hardConstraint</key>
+	<string>shouldConnectCharacter</string>
+	<key>hierarchicalnotation</key>
+	<string>animatedSegue</string>
+	<key>ignoredGradient</key>
+	<string>shouldSetStateCertificate</string>
+	<key>lazyConfidentiality</key>
+	<string>roleMemento</string>
+	<key>overlayoperationskewy</key>
+	<string>transformAccessory</string>
+	<key>responseinterval</key>
+	<string>transformIcon</string>
+	<key>sharedStateless</key>
+	<string>unsortedBrush</string>
+	<key>smallMapper</key>
+	<string>shouldRebuildInteger</string>
+	<key>smallScene</key>
+	<string>bulletalignment</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasTint</key>
+	<string>zonefromsystem</string>
+	<key>eagerRemainder</key>
+	<string>inheritedCell</string>
+	<key>shouldTrainRow</key>
+	<string>crucialBloc</string>
+	<key>transitiontransformer</key>
+	<string>delegateopacity</string>
+</dict>
+</plist>

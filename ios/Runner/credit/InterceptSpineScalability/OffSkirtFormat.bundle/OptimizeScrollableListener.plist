@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedMesh</key>
+	<string>allocatoraroundobserver</string>
+	<key>consultativeTicker</key>
+	<string>constantBrightness</string>
+	<key>desktopOffset</key>
+	<string>persistBatch</string>
+	<key>evaluationFlags</key>
+	<string>mediumRoute</string>
+	<key>imageStatus</key>
+	<string>animatedcontainerOffset</string>
+	<key>missedheap</key>
+	<string>canResumeMember</string>
+	<key>paralleltabbarname</key>
+	<string>originalContainer</string>
+	<key>resilientSpecifier</key>
+	<string>cosineDistance</string>
+	<key>sophisticatedPager</key>
+	<string>sessionSkewY</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderstrategybound</key>
+	<string>bufferkind</string>
+	<key>draggableMerger</key>
+	<string>gesturenotation</string>
+	<key>shouldSetStateDimension</key>
+	<string>semanticradiusstate</string>
+	<key>streamfrequency</key>
+	<string>statetempletop</string>
+	<key>timerHead</key>
+	<string>canLayoutBoxShadow</string>
+	<key>updateradius</key>
+	<string>granularBloc</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerstate</key>
+	<string>desktopFinder</string>
+	<key>cubitVisibility</key>
+	<string>interactiveRecursion</string>
+	<key>delegatecommandstatus</key>
+	<string>poplistener</string>
+	<key>popupEdge</key>
+	<string>shouldDispatchSegment</string>
+	<key>secondprogressbartype</key>
+	<string>notificationPattern</string>
+	<key>shouldEmitRoute</key>
+	<string>blocinsidecycle</string>
+	<key>shouldTransformMultiplication</key>
+	<string>linkerRate</string>
+	<key>tabviewStyle</key>
+	<string>smartBaseline</string>
+	<key>unactivatedGrid</key>
+	<string>linkerOrigin</string>
+</dict>
+</plist>

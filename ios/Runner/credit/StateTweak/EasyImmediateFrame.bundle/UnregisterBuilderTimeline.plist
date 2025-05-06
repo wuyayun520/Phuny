@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicsingleton</key>
+	<string>baselineName</string>
+	<key>ignoredAspect</key>
+	<string>canLoadRoute</string>
+	<key>nativeMesh</key>
+	<string>pivotalTraversal</string>
+	<key>nodeStyle</key>
+	<string>rotateGrid</string>
+	<key>shouldObserveEffect</key>
+	<string>mediaqueryColor</string>
+	<key>shouldPersistExponent</key>
+	<string>shouldpersistsubpixel</string>
+	<key>strokeTail</key>
+	<string>directProcessor</string>
+	<key>unsortedcontroller</key>
+	<string>unlockConstraint</string>
+</dict>
+</plist>

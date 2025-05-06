@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architectureHead</key>
+	<string>iterativeOperation</string>
+	<key>gridviewreceiver</key>
+	<string>gridviewColor</string>
+	<key>rangeAcceleration</key>
+	<string>dynamicTextField</string>
+	<key>selectedbutton</key>
+	<string>timelineIndex</string>
+	<key>shouldFetchNavigator</key>
+	<string>interpolateCallback</string>
+</dict>
+</plist>

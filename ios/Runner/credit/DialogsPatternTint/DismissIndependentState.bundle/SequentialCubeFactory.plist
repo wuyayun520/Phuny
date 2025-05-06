@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>emitplayback</key>
+	<string>dataState</string>
+	<key>lazyCycle</key>
+	<string>unactivatedDependency</string>
+	<key>prismaticChart</key>
+	<string>semanticisolateinterval</string>
+	<key>providerbehavior</key>
+	<string>canPersistSign</string>
+	<key>symbolawayproxy</key>
+	<string>dismissView</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanPlayback</key>
+	<string>shouldAnimateGridView</string>
+	<key>gemDelay</key>
+	<string>saveSwift</string>
+	<key>materializermargin</key>
+	<string>staticmaterial</string>
+	<key>priorRichText</key>
+	<string>usedOverlay</string>
+	<key>resilientChart</key>
+	<string>playProgressBar</string>
+	<key>semanticPositioned</key>
+	<string>keyBitrate</string>
+	<key>shouldNotifyMomentum</key>
+	<string>conformCompleter</string>
+	<key>unactivatedmediaqueryskewy</key>
+	<string>groupschema</string>
+</dict>
+</plist>

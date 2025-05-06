@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationcompositespacing</key>
+	<string>hierarchicalMomentum</string>
+	<key>bindfactory</key>
+	<string>prevQuaternion</string>
+	<key>cupertinoReducer</key>
+	<string>shouldDeserializeBinary</string>
+	<key>replicaDelay</key>
+	<string>shouldunmountternary</string>
+	<key>routeuntillevel</key>
+	<string>factoryatsystem</string>
+	<key>scrollableInterface</key>
+	<string>transformVariant</string>
+	<key>shouldAttachContraction</key>
+	<string>canLayoutMonster</string>
+	<key>shouldCacheFlex</key>
+	<string>canMountedTheme</string>
+	<key>shouldSerializeListView</key>
+	<string>paintMediaQuery</string>
+	<key>wrapperOpacity</key>
+	<string>subtleNotifier</string>
+</dict>
+</plist>

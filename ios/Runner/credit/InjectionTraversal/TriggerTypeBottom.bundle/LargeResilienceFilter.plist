@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatoragainstform</key>
+	<string>missedGram</string>
+	<key>denseCatalyst</key>
+	<string>impactTransparency</string>
+	<key>explicitLoss</key>
+	<string>canNavigateLabel</string>
+	<key>fusedElement</key>
+	<string>responsiveCompletion</string>
+	<key>granularCard</key>
+	<string>movementLocation</string>
+	<key>lazyGridView</key>
+	<string>richtextstate</string>
+	<key>linkerBound</key>
+	<string>interpolateMethod</string>
+	<key>shouldAttachTask</key>
+	<string>canDismissAlert</string>
+	<key>shouldFormatKernel</key>
+	<string>brushPattern</string>
+	<key>singleGraph</key>
+	<string>aspectratiobandwidth</string>
+</dict>
+</plist>

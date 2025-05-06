@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedGraph</key>
+	<string>prevParticle</string>
+	<key>explicitMatrix</key>
+	<string>pagertransparency</string>
+	<key>intuitiveProvider</key>
+	<string>cupertinoDelay</string>
+	<key>keyappbarrotation</key>
+	<string>advancedBitrate</string>
+	<key>secondSwitch</key>
+	<string>dispatchalignment</string>
+	<key>viewopacity</key>
+	<string>ignoredThroughput</string>
+</dict>
+</plist>

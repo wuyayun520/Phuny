@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalBinder</key>
+	<string>shouldPersistMap</string>
+	<key>controllercurve</key>
+	<string>canInflateSensor</string>
+	<key>cyclelinker</key>
+	<string>canSubscribeExtension</string>
+	<key>polygonpadding</key>
+	<string>prevTimeline</string>
+	<key>sampleAppearance</key>
+	<string>taskFunction</string>
+</dict>
+</plist>

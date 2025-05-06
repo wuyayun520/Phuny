@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperversustask</key>
+	<string>borderLocation</string>
+	<key>diffableCapsule</key>
+	<string>dedicatedTransition</string>
+	<key>shouldAttachBox</key>
+	<string>functionaldocument</string>
+	<key>shouldFetchPainter</key>
+	<string>shouldshowcapsule</string>
+	<key>shouldProcessRadio</key>
+	<string>sessionlayout</string>
+</dict>
+</plist>

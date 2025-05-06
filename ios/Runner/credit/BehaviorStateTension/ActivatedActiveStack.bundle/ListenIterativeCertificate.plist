@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityMargin</key>
+	<string>minPlayback</string>
+	<key>injectionactivitymode</key>
+	<string>similarRole</string>
+	<key>shouldReplaceTextField</key>
+	<string>ternaryMomentum</string>
+	<key>traversalTransparency</key>
+	<string>reactiveawait</string>
+	<key>volumeOpacity</key>
+	<string>canSkipModal</string>
+	<key>webConsumer</key>
+	<string>parallelPreview</string>
+</dict>
+</plist>

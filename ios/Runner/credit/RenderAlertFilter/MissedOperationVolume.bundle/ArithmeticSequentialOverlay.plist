@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryLeft</key>
+	<string>permissiveview</string>
+	<key>delegatelevelfrequency</key>
+	<string>paintCatalyst</string>
+	<key>fusedNavigator</key>
+	<string>sustainableCallback</string>
+	<key>pointcycledepth</key>
+	<string>processOption</string>
+</dict>
+</plist>

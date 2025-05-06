@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialSubscriber</key>
+	<string>resolverinteraction</string>
+	<key>desktopbuttonspeed</key>
+	<string>missionCommand</string>
+	<key>nativeDetector</key>
+	<string>mixinDecoration</string>
+	<key>pageviewstrength</key>
+	<string>unscheduleMenu</string>
+	<key>priorConvolution</key>
+	<string>frameMediator</string>
+	<key>provideinterface</key>
+	<string>transitionvelocity</string>
+	<key>remainderDelay</key>
+	<string>loaderInterval</string>
+	<key>reusableTheme</key>
+	<string>oldElasticity</string>
+	<key>sessionSpacing</key>
+	<string>particleframeworkcenter</string>
+	<key>tappableInfo</key>
+	<string>shouldAttachInkWell</string>
+</dict>
+</plist>

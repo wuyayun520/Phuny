@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedTechnique</key>
+	<string>robustEquipment</string>
+	<key>canvasresource</key>
+	<string>alphaParameter</string>
+	<key>draggableRouter</key>
+	<string>greatProtocol</string>
+	<key>graphMargin</key>
+	<string>indicatorTail</string>
+	<key>inactiveMetadata</key>
+	<string>accordionOption</string>
+	<key>iterativeAppBar</key>
+	<string>canFinishCheckbox</string>
+	<key>mediocrePainter</key>
+	<string>callbackJob</string>
+	<key>musicbottom</key>
+	<string>canKeepSample</string>
+	<key>navigatorDelay</key>
+	<string>canSetStateGradient</string>
+</dict>
+</plist>

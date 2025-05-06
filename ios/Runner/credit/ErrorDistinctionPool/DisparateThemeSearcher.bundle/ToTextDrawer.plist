@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerinsidestate</key>
+	<string>notifierLevel</string>
+	<key>factoryInset</key>
+	<string>toleranceRotation</string>
+	<key>iterativebinder</key>
+	<string>overrideSink</string>
+	<key>pivotalSession</key>
+	<string>drawCurve</string>
+	<key>publisherTransparency</key>
+	<string>sizedboxPadding</string>
+</dict>
+</plist>

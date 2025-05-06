@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianwidget</key>
+	<string>reusableAspect</string>
+	<key>projectPressure</key>
+	<string>canEncodeDecoration</string>
+	<key>requiredScalability</key>
+	<string>shouldStreamSegue</string>
+	<key>shouldFinishMultiplication</key>
+	<string>attachLoop</string>
+	<key>singletonbufferborder</key>
+	<string>shouldCreateOverlay</string>
+	<key>tappableTolerance</key>
+	<string>customizedHandler</string>
+</dict>
+</plist>

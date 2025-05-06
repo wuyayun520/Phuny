@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedSymbol</key>
+	<string>animatedcontainerTail</string>
+	<key>deferredSubpixel</key>
+	<string>metadataDuration</string>
+	<key>hasconstraint</key>
+	<string>persistexponent</string>
+	<key>priorFinder</key>
+	<string>promiseStructure</string>
+	<key>shouldSetStateCanvas</key>
+	<string>semanticAnimation</string>
+</dict>
+</plist>

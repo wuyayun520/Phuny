@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyIcon</key>
+	<string>enabledGram</string>
+	<key>easyPromise</key>
+	<string>startEqualization</string>
+	<key>effectAlignment</key>
+	<string>autometadata</string>
+	<key>explicitService</key>
+	<string>extensionForm</string>
+	<key>liteBox</key>
+	<string>performchapter</string>
+	<key>persistentMetrics</key>
+	<string>consumedelegate</string>
+	<key>radioIndex</key>
+	<string>permanentPet</string>
+	<key>shouldRestartKernel</key>
+	<string>skinStyle</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheSize</key>
+	<string>canRebuildRichText</string>
+	<key>decodesubscription</key>
+	<string>fusedBase</string>
+	<key>expandedAlignment</key>
+	<string>hardSingleton</string>
+	<key>fusedFinder</key>
+	<string>radioVisitor</string>
+	<key>greatAnalyzer</key>
+	<string>sinecontainer</string>
+	<key>immutablesample</key>
+	<string>canPushBuilder</string>
+	<key>independentposition</key>
+	<string>canMountedRichText</string>
+	<key>otherPromise</key>
+	<string>canDisconnectMomentum</string>
+	<key>transpilerepository</key>
+	<string>canPushWorkflow</string>
+</dict>
+</plist>

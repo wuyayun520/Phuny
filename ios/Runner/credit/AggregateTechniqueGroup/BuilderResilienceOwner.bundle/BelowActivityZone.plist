@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dispatchvector</key>
+	<string>storyboardkindborder</string>
+	<key>interpolatestep</key>
+	<string>mutableInkWell</string>
+	<key>menuVisibility</key>
+	<string>desktopAccessory</string>
+	<key>reductionPressure</key>
+	<string>interactiveSearcher</string>
+	<key>shouldbuildresource</key>
+	<string>crudenavigationtension</string>
+</dict>
+</plist>

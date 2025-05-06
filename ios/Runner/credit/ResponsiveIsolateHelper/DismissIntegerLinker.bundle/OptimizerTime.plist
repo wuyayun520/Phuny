@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistandadapter</key>
+	<string>intermediateEquivalent</string>
+	<key>evolutionTransparency</key>
+	<string>allocatePresenter</string>
+	<key>formatview</key>
+	<string>materialEquivalent</string>
+	<key>ignoredAction</key>
+	<string>setstateClipper</string>
+	<key>intensitysingletonstate</key>
+	<string>searcherColor</string>
+	<key>labelsorter</key>
+	<string>cartesianModel</string>
+	<key>mediumAnchor</key>
+	<string>richtextEnvironment</string>
+	<key>textwithoutsystem</key>
+	<string>draggableentity</string>
+	<key>usedMaterializer</key>
+	<string>bundleIsolate</string>
+</dict>
+</plist>

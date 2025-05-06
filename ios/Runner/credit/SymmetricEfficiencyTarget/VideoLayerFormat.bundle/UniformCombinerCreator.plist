@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatortempletheme</key>
+	<string>locateHandler</string>
+	<key>enabledIntensity</key>
+	<string>findScene</string>
+	<key>multiMenu</key>
+	<string>filterTint</string>
+	<key>relationalSession</key>
+	<string>shouldrestartdrawer</string>
+</dict>
+</plist>

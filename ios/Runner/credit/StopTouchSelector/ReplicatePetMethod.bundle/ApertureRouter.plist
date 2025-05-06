@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitratePadding</key>
+	<string>singleModel</string>
+	<key>cosineHead</key>
+	<string>difficultFilter</string>
+	<key>disabledSkin</key>
+	<string>shouldAnimateStamp</string>
+	<key>frameBottom</key>
+	<string>asynchronousAlpha</string>
+	<key>permanentKernel</key>
+	<string>cycleequivalent</string>
+	<key>pinchableShader</key>
+	<string>crudeThread</string>
+	<key>shouldCancelMultiplication</key>
+	<string>buttonEdge</string>
+</dict>
+</plist>

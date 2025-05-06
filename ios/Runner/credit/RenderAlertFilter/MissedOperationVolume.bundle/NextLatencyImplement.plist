@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoMetadata</key>
+	<string>preparetimer</string>
+	<key>binaryEdge</key>
+	<string>quitResource</string>
+	<key>concreteColumn</key>
+	<string>paralleloperationduration</string>
+	<key>criticalCharacteristic</key>
+	<string>collectionFunction</string>
+	<key>currentLayout</key>
+	<string>shouldUnmountNib</string>
+	<key>dependencyLocation</key>
+	<string>shouldEndGraphic</string>
+	<key>numericalTabView</key>
+	<string>adjustSink</string>
+	<key>oldsession</key>
+	<string>compositionInterval</string>
+	<key>seamlessController</key>
+	<string>shearVector</string>
+	<key>shouldBindSubpixel</key>
+	<string>notifymultiplication</string>
+</dict>
+</plist>

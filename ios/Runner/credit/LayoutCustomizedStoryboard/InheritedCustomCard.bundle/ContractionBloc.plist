@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleMedia</key>
+	<string>emittertail</string>
+	<key>captionOpacity</key>
+	<string>holdscale</string>
+	<key>factoryCenter</key>
+	<string>accessoryatinterpreter</string>
+	<key>gesturechart</key>
+	<string>propagateprojection</string>
+	<key>navigatorcompleter</key>
+	<string>semanticProgressBar</string>
+	<key>reactiveaudio</key>
+	<string>searchmenu</string>
+	<key>scopeIndex</key>
+	<string>threadRight</string>
+	<key>shouldCreateTextField</key>
+	<string>prevProject</string>
+	<key>shouldSubscribeHeap</key>
+	<string>binaryeffect</string>
+	<key>standalonemodelhue</key>
+	<string>yieldBorder</string>
+</dict>
+</plist>

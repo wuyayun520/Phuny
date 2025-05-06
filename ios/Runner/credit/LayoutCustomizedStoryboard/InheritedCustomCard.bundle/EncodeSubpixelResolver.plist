@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerIndex</key>
+	<string>errorVisitor</string>
+	<key>cupertinoStatus</key>
+	<string>bindCustomPaint</string>
+	<key>customMethod</key>
+	<string>animatedShader</string>
+	<key>declarativeCurve</key>
+	<string>indicatorCount</string>
+	<key>durationVelocity</key>
+	<string>globalRenderer</string>
+	<key>formatDensity</key>
+	<string>startbutton</string>
+	<key>graphlikefacade</key>
+	<string>elasticTheme</string>
+	<key>sophisticatedInfrastructure</key>
+	<string>statelessefficiency</string>
+	<key>trianglesSaturation</key>
+	<string>hardHandler</string>
+</dict>
+</plist>

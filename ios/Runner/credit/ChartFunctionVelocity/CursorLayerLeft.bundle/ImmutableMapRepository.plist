@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralResponse</key>
+	<string>persistentAlert</string>
+	<key>shouldSaveDecoration</key>
+	<string>shouldMountAperture</string>
+	<key>shouldValidateUnary</key>
+	<string>resultEdge</string>
+	<key>unsortedTopic</key>
+	<string>invisibleDescent</string>
+</dict>
+</plist>

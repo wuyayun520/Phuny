@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mutableScenario</key>
+	<string>configureObserver</string>
+	<key>originalEfficiency</key>
+	<string>videoTail</string>
+	<key>permissiveBase</key>
+	<string>connectZone</string>
+	<key>pointBorder</key>
+	<string>channelContrast</string>
+	<key>resilientQueue</key>
+	<string>webAxis</string>
+	<key>shouldNavigateWidget</key>
+	<string>prevTransformer</string>
+	<key>shouldSubscribeObserver</key>
+	<string>nativeTransition</string>
+	<key>transitionproxykind</key>
+	<string>associatedscene</string>
+</dict>
+</plist>

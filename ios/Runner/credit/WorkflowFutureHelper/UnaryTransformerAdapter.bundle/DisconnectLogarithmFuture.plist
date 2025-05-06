@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintvalidation</key>
+	<string>accessibleoptimizer</string>
+	<key>delicatescene</key>
+	<string>temporaryStoryboard</string>
+	<key>finishactivity</key>
+	<string>dedicatedIntegration</string>
+	<key>keyFrame</key>
+	<string>resizeInjection</string>
+	<key>nodeinteraction</key>
+	<string>markbuilder</string>
+	<key>originalTechnique</key>
+	<string>cursorOpacity</string>
+	<key>shouldEncodeOption</key>
+	<string>connectorColor</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorAppearance</key>
+	<string>chooserBorder</string>
+	<key>disparateOperation</key>
+	<string>awaitAction</string>
+	<key>eventCoord</key>
+	<string>listenerStyle</string>
+	<key>hardSlider</key>
+	<string>statusappearance</string>
+	<key>invisibleMaterial</key>
+	<string>inflateButton</string>
+	<key>shouldSetStateSymbol</key>
+	<string>timelineShape</string>
+	<key>uniformImpression</key>
+	<string>disconnectIcon</string>
+</dict>
+</plist>

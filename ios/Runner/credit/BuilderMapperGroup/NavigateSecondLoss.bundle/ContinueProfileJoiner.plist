@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactiveOption</key>
+	<string>stampObserver</string>
+	<key>keycheckboxoffset</key>
+	<string>scrollableInteraction</string>
+	<key>localScreen</key>
+	<string>statictaskdistance</string>
+	<key>rowfinder</key>
+	<string>connectSymbol</string>
+	<key>shouldAnimatePoint</key>
+	<string>shouldKeepPlayback</string>
+	<key>shouldunmountedrole</key>
+	<string>uniformInterpolation</string>
+	<key>subscribealert</key>
+	<string>clipTransition</string>
+	<key>synchronousLocalization</key>
+	<string>protocolMemento</string>
+</dict>
+</plist>

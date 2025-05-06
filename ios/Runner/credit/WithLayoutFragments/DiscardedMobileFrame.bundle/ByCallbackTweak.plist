@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedCursor</key>
+	<string>aperturetint</string>
+	<key>displayableTexture</key>
+	<string>dimensiondespiteproxy</string>
+	<key>draggableTheme</key>
+	<string>missedcurve</string>
+	<key>enabledEmitter</key>
+	<string>graphduringlevel</string>
+	<key>exponentVelocity</key>
+	<string>sizeEnvironment</string>
+	<key>materialRectangle</key>
+	<string>momentumShape</string>
+	<key>protocolSpeed</key>
+	<string>mediaScale</string>
+	<key>publicAxis</key>
+	<string>sequentialData</string>
+	<key>shouldLoadVariant</key>
+	<string>canStreamCatalyst</string>
+</dict>
+</plist>

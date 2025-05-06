@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorRotation</key>
+	<string>subscriptionleft</string>
+	<key>commonStoryboard</key>
+	<string>permissiveProvider</string>
+	<key>iterativeVertex</key>
+	<string>threaddecoratororientation</string>
+	<key>projectmodecolor</key>
+	<string>crudespritecenter</string>
+	<key>reductionInset</key>
+	<string>smartelement</string>
+	<key>relationalScalability</key>
+	<string>canRebuildSubpixel</string>
+	<key>repositoryEdge</key>
+	<string>canDetachRichText</string>
+	<key>seamlessBoxShadow</key>
+	<string>storePrototype</string>
+	<key>singleDocument</key>
+	<string>constraintduration</string>
+	<key>symmetricInjection</key>
+	<string>gemhandler</string>
+</dict>
+</plist>

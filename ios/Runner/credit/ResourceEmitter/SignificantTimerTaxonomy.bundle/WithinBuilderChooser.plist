@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dataSaturation</key>
+	<string>subscriptionSize</string>
+	<key>explicitBandwidth</key>
+	<string>staticProvision</string>
+	<key>shouldStreamMovement</key>
+	<string>platefeedback</string>
+	<key>updatechecklist</key>
+	<string>tappableRectangle</string>
+</dict>
+</plist>

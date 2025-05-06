@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frameofstate</key>
+	<string>protectedController</string>
+	<key>hardReduction</key>
+	<string>backwardsign</string>
+	<key>pivotalAnalogy</key>
+	<string>animateTexture</string>
+	<key>renderertail</key>
+	<string>temporaryStorage</string>
+	<key>scrollerTransparency</key>
+	<string>webSound</string>
+	<key>shouldParseSession</key>
+	<string>finishBox</string>
+	<key>sortedCube</key>
+	<string>desktopCycle</string>
+</dict>
+</plist>

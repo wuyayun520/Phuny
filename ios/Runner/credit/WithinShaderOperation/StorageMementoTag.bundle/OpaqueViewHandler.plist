@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deserializemanager</key>
+	<string>keyTabBar</string>
+	<key>draggableMesh</key>
+	<string>segueValue</string>
+	<key>localAsset</key>
+	<string>euclideanAmortization</string>
+	<key>materialBase</key>
+	<string>oldmobileopacity</string>
+	<key>seguebeyondbridge</key>
+	<string>relationalConsumption</string>
+	<key>selectorCenter</key>
+	<string>canAnimateCheckbox</string>
+	<key>shouldPrepareStateful</key>
+	<string>numericalGroup</string>
+	<key>uniqueFinder</key>
+	<string>shouldLayoutLayout</string>
+</dict>
+</plist>

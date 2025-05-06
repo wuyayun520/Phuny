@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>isolateevent</key>
+	<string>pivotalDescent</string>
+	<key>materialpressure</key>
+	<string>usedActivity</string>
+	<key>nextRestriction</key>
+	<string>grayscalethanlevel</string>
+	<key>shouldDecodeMission</key>
+	<string>triggerTail</string>
+	<key>shouldMountedDrawer</key>
+	<string>customizedFeature</string>
+	<key>slashbutton</key>
+	<string>gestureEnvironment</string>
+	<key>stepShade</key>
+	<string>dropdownbuttonTag</string>
+	<key>tappableAllocator</key>
+	<string>shouldDetachEntropy</string>
+</dict>
+</plist>

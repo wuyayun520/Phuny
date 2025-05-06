@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedFeature</key>
+	<string>frameFormat</string>
+	<key>extendlogarithm</key>
+	<string>finishCapsule</string>
+	<key>globalMonster</key>
+	<string>shouldRouteStateful</string>
+	<key>meshTheme</key>
+	<string>canPopLayout</string>
+	<key>permanentSchema</key>
+	<string>timeFrequency</string>
+	<key>shouldTransformDuration</key>
+	<string>lastStateful</string>
+</dict>
+</plist>

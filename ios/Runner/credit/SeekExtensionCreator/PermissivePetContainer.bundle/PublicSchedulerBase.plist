@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartorigin</key>
+	<string>savegraph</string>
+	<key>crucialFragment</key>
+	<string>locateBuilder</string>
+	<key>firstChart</key>
+	<string>disabledReduction</string>
+	<key>hardVideo</key>
+	<string>documentRate</string>
+	<key>intensitylayerdensity</key>
+	<string>shouldShowOption</string>
+	<key>rendernotification</key>
+	<string>canObserveConvolution</string>
+	<key>repositoryTension</key>
+	<string>textureVisitor</string>
+	<key>singleInterface</key>
+	<string>mediocreManager</string>
+	<key>statefulAction</key>
+	<string>canFetchSymbol</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteReplica</key>
+	<string>particlebound</string>
+	<key>crudeAppBar</key>
+	<string>cursorascent</string>
+	<key>diffableInteger</key>
+	<string>shouldEndCursor</string>
+	<key>retainedCapsule</key>
+	<string>rowAcceleration</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocvalidation</key>
+	<string>statefulAudio</string>
+	<key>fusedRecursion</key>
+	<string>directLayout</string>
+	<key>independentEvent</key>
+	<string>nativeLifecycle</string>
+	<key>managerDistance</key>
+	<string>eagerCache</string>
+	<key>richtextinsideparameter</key>
+	<string>resolverInterval</string>
+	<key>spineSkewY</key>
+	<string>finishsemantics</string>
+</dict>
+</plist>

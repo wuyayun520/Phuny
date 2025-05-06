@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonBound</key>
+	<string>globalThread</string>
+	<key>compilehandler</key>
+	<string>informationBound</string>
+	<key>connectorTail</key>
+	<string>resizableGridView</string>
+	<key>fixedRectangle</key>
+	<string>petContrast</string>
+	<key>integerFormat</key>
+	<string>shouldAttachMission</string>
+	<key>methodtaxonomy</key>
+	<string>shearFrame</string>
+	<key>mountedcoordinator</key>
+	<string>heapDepth</string>
+	<key>multiStep</key>
+	<string>canDispatchProtocol</string>
+	<key>navigationResponse</key>
+	<string>divideRequest</string>
+	<key>visualizecapacities</key>
+	<string>fragmentParam</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratiomaterializer</key>
+	<string>shouldStreamAppBar</string>
+	<key>bloctexture</key>
+	<string>dedicatedRadius</string>
+	<key>deferredAnchor</key>
+	<string>effectvalidation</string>
+	<key>displayableImpression</key>
+	<string>polyfillcolor</string>
+	<key>heroRotation</key>
+	<string>smallStateless</string>
+	<key>opaqueSchema</key>
+	<string>intensityStyle</string>
+	<key>pinchablerecursion</key>
+	<string>mediocreRemainder</string>
+	<key>schedulerBehavior</key>
+	<string>originalProvider</string>
+	<key>selectedBloc</key>
+	<string>shouldRenderCosine</string>
+	<key>similaroptimizerfrequency</key>
+	<string>indicatorrate</string>
+</dict>
+</plist>

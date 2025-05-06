@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalPageView</key>
+	<string>canTrainTabBar</string>
+	<key>dynamicFinder</key>
+	<string>restrictionColor</string>
+	<key>ephemeralRole</key>
+	<string>textfieldevaluation</string>
+	<key>imagemechanism</key>
+	<string>diffableScope</string>
+	<key>litepicker</key>
+	<string>fusedListView</string>
+	<key>materializeinteractor</key>
+	<string>shouldunbindbatch</string>
+	<key>mediumMenu</key>
+	<string>autoBaseline</string>
+	<key>shouldBindCycle</key>
+	<string>transitionBottom</string>
+	<key>titleStatus</key>
+	<string>canUnbindListView</string>
+	<key>workflowformscale</key>
+	<string>timelinespacing</string>
+</dict>
+</plist>

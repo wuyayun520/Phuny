@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateFormat</key>
+	<string>canCancelAxis</string>
+	<key>resizableTexture</key>
+	<string>directlyModal</string>
+	<key>responderTint</key>
+	<string>viewfrommethod</string>
+	<key>shouldAttachPet</key>
+	<string>independentProgressBar</string>
+</dict>
+</plist>

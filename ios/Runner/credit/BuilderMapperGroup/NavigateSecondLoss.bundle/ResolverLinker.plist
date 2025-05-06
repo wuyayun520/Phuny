@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveTrigger</key>
+	<string>themeResponse</string>
+	<key>buildoptimizer</key>
+	<string>routeChannels</string>
+	<key>clusterdensity</key>
+	<string>shouldSkipScaffold</string>
+	<key>debugaperture</key>
+	<string>equalizationflags</string>
+	<key>mediocreGrayscale</key>
+	<string>providerPressure</string>
+	<key>operationOrigin</key>
+	<string>reducerFeedback</string>
+	<key>resilientAlert</key>
+	<string>canSkipSwitch</string>
+	<key>scrollTheme</key>
+	<string>timeCenter</string>
+</dict>
+</plist>

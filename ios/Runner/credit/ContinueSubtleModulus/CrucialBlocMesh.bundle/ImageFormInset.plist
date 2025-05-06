@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellPosition</key>
+	<string>granularSearcher</string>
+	<key>consultativeGestureDetector</key>
+	<string>canEncodeExpanded</string>
+	<key>discardedListener</key>
+	<string>registerpainter</string>
+	<key>gramhash</key>
+	<string>emitRequest</string>
+	<key>grouploader</key>
+	<string>shouldSkipWorkflow</string>
+	<key>mobileTransformer</key>
+	<string>locatePresenter</string>
+	<key>modalTension</key>
+	<string>missedgrayscale</string>
+	<key>precisionframeworkshape</key>
+	<string>substantialEffect</string>
+</dict>
+</plist>

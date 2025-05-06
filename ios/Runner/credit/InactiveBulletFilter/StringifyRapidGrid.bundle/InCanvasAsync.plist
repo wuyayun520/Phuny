@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerState</key>
+	<string>evolutionShade</string>
+	<key>deferredRange</key>
+	<string>popGradient</string>
+	<key>hyperbolicDependency</key>
+	<string>difficultBuilder</string>
+	<key>mutableImpression</key>
+	<string>adjustinterpolation</string>
+	<key>shouldRestartCharacter</key>
+	<string>formatAperture</string>
+	<key>smallview</key>
+	<string>geometricPageView</string>
+	<key>staticTraversal</key>
+	<string>presenterStatus</string>
+	<key>uniformScaffold</key>
+	<string>createstorage</string>
+</dict>
+</plist>

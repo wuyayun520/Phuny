@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterview</key>
+	<string>canPopLoss</string>
+	<key>cupertinoSpecifier</key>
+	<string>diversifieddropdownbuttonmode</string>
+	<key>defaultFragment</key>
+	<string>textfieldStage</string>
+	<key>granularReplica</key>
+	<string>referenceStage</string>
+	<key>iterativeTexture</key>
+	<string>hasMultiplication</string>
+	<key>modelcontrast</key>
+	<string>shouldCacheDuration</string>
+	<key>shouldRebuildSkin</key>
+	<string>restoreLayer</string>
+	<key>significantTopic</key>
+	<string>boxLeft</string>
+	<key>singleEvaluation</key>
+	<string>immutableAnimatedContainer</string>
+</dict>
+</plist>

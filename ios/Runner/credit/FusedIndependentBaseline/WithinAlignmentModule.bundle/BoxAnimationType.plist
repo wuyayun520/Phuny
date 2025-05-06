@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>indicatorVelocity</key>
+	<string>oldcubitstyle</string>
+	<key>pinchableReducer</key>
+	<string>provisionBound</string>
+	<key>shouldHandleGift</key>
+	<string>displayablequeue</string>
+	<key>singletontint</key>
+	<string>canSetStateNavigation</string>
+</dict>
+</plist>

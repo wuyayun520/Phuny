@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedCharacter</key>
+	<string>criticalmedia</string>
+	<key>bitrateDensity</key>
+	<string>publicStoryboard</string>
+	<key>declarativePadding</key>
+	<string>beginnerTicker</string>
+	<key>fixedRestriction</key>
+	<string>executeRouter</string>
+	<key>scrolleralignment</key>
+	<string>primaryFeature</string>
+	<key>shaderVisible</key>
+	<string>canPopUsage</string>
+	<key>timerBrightness</key>
+	<string>animateAction</string>
+</dict>
+</plist>

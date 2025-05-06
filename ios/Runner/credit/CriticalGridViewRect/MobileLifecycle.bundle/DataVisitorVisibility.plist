@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredvariant</key>
+	<string>canMountDocument</string>
+	<key>greatTolerance</key>
+	<string>isaxis</string>
+	<key>heapagainstproxy</key>
+	<string>canReplaceDrawer</string>
+	<key>isolateFlags</key>
+	<string>desktopTask</string>
+	<key>mutableStroke</key>
+	<string>tensorOffset</string>
+	<key>radioMargin</key>
+	<string>accessibleSemantics</string>
+	<key>shouldEmitAspect</key>
+	<string>keyDrawer</string>
+	<key>widgettransformer</key>
+	<string>monsterVelocity</string>
+</dict>
+</plist>

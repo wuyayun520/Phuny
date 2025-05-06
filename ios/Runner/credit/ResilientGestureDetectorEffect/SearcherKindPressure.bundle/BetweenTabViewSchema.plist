@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateformkind</key>
+	<string>quantizerProgressBar</string>
+	<key>customMovement</key>
+	<string>accessibleVariant</string>
+	<key>permanentOption</key>
+	<string>canNotifyMobile</string>
+	<key>profileSpacing</key>
+	<string>backwardLayout</string>
+	<key>shouldDisposeStateless</key>
+	<string>deprecatecontainer</string>
+	<key>specifierDirection</key>
+	<string>globalCaption</string>
+	<key>typicalAppBar</key>
+	<string>navigatorofvariable</string>
+	<key>typicalAudio</key>
+	<string>compileAwait</string>
+	<key>unmountedgroup</key>
+	<string>recursionTheme</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cleanbaseline</key>
+	<string>compositionalEquivalent</string>
+	<key>constructgesturedetector</key>
+	<string>baseFlags</string>
+	<key>gateInteraction</key>
+	<string>similarTrigger</string>
+	<key>opaqueQueue</key>
+	<string>subsequentcurve</string>
+	<key>referencetime</key>
+	<string>reactiveCallback</string>
+	<key>shouldContinueStack</key>
+	<string>firstView</string>
+</dict>
+</plist>

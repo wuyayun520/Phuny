@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaForce</key>
+	<string>symmetricNavigation</string>
+	<key>commonTask</key>
+	<string>shouldUpdateContraction</string>
+	<key>concurrentAccessory</key>
+	<string>dynamicRecursion</string>
+	<key>diversifiedEqualization</key>
+	<string>autoOverlay</string>
+	<key>responseFrequency</key>
+	<string>eraseText</string>
+	<key>schedulerCoord</key>
+	<string>lazyButton</string>
+	<key>semanticsmapper</key>
+	<string>presentStateless</string>
+	<key>strengthOpacity</key>
+	<string>symmetricDecoration</string>
+	<key>tickerimpact</key>
+	<string>entityvisibility</string>
+</dict>
+</plist>

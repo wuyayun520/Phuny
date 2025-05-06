@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedContraction</key>
+	<string>arithmeticrectacceleration</string>
+	<key>discardedfragments</key>
+	<string>independentWidget</string>
+	<key>hasSlider</key>
+	<string>elasticitydensity</string>
+	<key>ignoredCell</key>
+	<string>segueAction</string>
+	<key>radioMode</key>
+	<string>temporaryIndicator</string>
+	<key>requestmodevisibility</key>
+	<string>currentNorm</string>
+	<key>uniformAlert</key>
+	<string>syncGrain</string>
+</dict>
+</plist>

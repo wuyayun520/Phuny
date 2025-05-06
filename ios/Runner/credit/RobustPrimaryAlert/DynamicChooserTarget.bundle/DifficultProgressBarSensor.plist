@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificatelistener</key>
+	<string>lazySplitter</string>
+	<key>parseservice</key>
+	<string>collectionState</string>
+	<key>semanticConverter</key>
+	<string>sliderIndex</string>
+	<key>setstateanchor</key>
+	<string>shouldDisposeProject</string>
+	<key>trajectoryPadding</key>
+	<string>consultativeSink</string>
+</dict>
+</plist>

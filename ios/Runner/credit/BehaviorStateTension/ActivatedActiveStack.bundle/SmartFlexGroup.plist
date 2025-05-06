@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardPositioned</key>
+	<string>prevModel</string>
+	<key>currentscroll</key>
+	<string>observerStrategy</string>
+	<key>disabledQueue</key>
+	<string>segmentCount</string>
+	<key>invisibledurationinterval</key>
+	<string>nativeIntegration</string>
+	<key>parallelstate</key>
+	<string>shouldTransitionNib</string>
+	<key>radioOpacity</key>
+	<string>hyperbolicProvision</string>
+	<key>shouldPopButton</key>
+	<string>singleAnimator</string>
+	<key>shouldValidateNib</key>
+	<string>staticMatrix</string>
+	<key>significantgrid</key>
+	<string>isPageView</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chaptercoord</key>
+	<string>synchronizeBloc</string>
+	<key>decorationparameterdirection</key>
+	<string>crudeCombiner</string>
+	<key>defaultTabView</key>
+	<string>metadataagainstcontext</string>
+	<key>permanentDescriptor</key>
+	<string>originalaxistension</string>
+	<key>unactivatedDistinction</key>
+	<string>colorDirection</string>
+</dict>
+</plist>

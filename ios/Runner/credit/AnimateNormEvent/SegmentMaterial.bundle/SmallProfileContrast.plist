@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedPlate</key>
+	<string>screenTension</string>
+	<key>aggregateequalization</key>
+	<string>equalizationvideo</string>
+	<key>aspectskewx</key>
+	<string>layerbymethod</string>
+	<key>disparatePlate</key>
+	<string>keepduration</string>
+	<key>errorborder</key>
+	<string>priordependencyspeed</string>
+	<key>missedStamp</key>
+	<string>limitDependency</string>
+	<key>scalabilityindex</key>
+	<string>elementkind</string>
+	<key>shouldDisconnectCapacities</key>
+	<string>columnOrigin</string>
+</dict>
+</plist>

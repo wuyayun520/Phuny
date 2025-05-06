@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousfactory</key>
+	<string>graphBorder</string>
+	<key>brushtypeskewx</key>
+	<string>mediaqueryEdge</string>
+	<key>crudePresenter</key>
+	<string>functionalButton</string>
+	<key>numericalRemainder</key>
+	<string>canLoadBase</string>
+	<key>tappableMend</key>
+	<string>transitionStructure</string>
+</dict>
+</plist>

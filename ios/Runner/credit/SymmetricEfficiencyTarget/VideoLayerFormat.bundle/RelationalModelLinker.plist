@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateduringparam</key>
+	<string>canRenderSine</string>
+	<key>directSensor</key>
+	<string>mediumDrawer</string>
+	<key>fusedTask</key>
+	<string>marshalText</string>
+	<key>normalNorm</key>
+	<string>performRouter</string>
+	<key>observespot</key>
+	<string>topicvisitorinterval</string>
+	<key>projectdetail</key>
+	<string>liteAnchor</string>
+	<key>shouldInflateGram</key>
+	<string>entropyMethod</string>
+</dict>
+</plist>

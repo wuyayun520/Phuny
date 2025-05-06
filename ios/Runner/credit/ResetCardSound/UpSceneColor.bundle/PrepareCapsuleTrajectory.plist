@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarPadding</key>
+	<string>cyclespacing</string>
+	<key>attachsample</key>
+	<string>retainedConverter</string>
+	<key>creatorDensity</key>
+	<string>accordionSlash</string>
+	<key>lazyAllocator</key>
+	<string>rebuildposition</string>
+	<key>mediumtimeline</key>
+	<string>synchronousCache</string>
+	<key>reactiveobserveredge</key>
+	<string>generateSize</string>
+	<key>resizableLatency</key>
+	<string>shouldTrainBitrate</string>
+	<key>timeRate</key>
+	<string>mountedBloc</string>
+</dict>
+</plist>

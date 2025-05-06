@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicallocator</key>
+	<string>shouldEncodeStack</string>
+	<key>cartesianSpot</key>
+	<string>shouldNotifyAspect</string>
+	<key>converterCenter</key>
+	<string>cartesianPrecision</string>
+	<key>denseTriangles</key>
+	<string>greatImpression</string>
+	<key>functionalMetrics</key>
+	<string>textfieldLevel</string>
+	<key>interactorSkewY</key>
+	<string>declarativeScene</string>
+	<key>modelexceptmemento</key>
+	<string>desktopMedia</string>
+	<key>optionTint</key>
+	<string>liteMaterial</string>
+	<key>shouldFetchAppBar</key>
+	<string>referenceInteraction</string>
+	<key>shouldInflateActivity</key>
+	<string>chapterShade</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileBrush</key>
+	<string>amortizationPressure</string>
+	<key>decorationvaluealignment</key>
+	<string>observeProgressBar</string>
+	<key>draggableSign</key>
+	<string>deserializeTimer</string>
+	<key>quantizationgroup</key>
+	<string>signatureShade</string>
+	<key>shouldHandleGestureDetector</key>
+	<string>cursorComposite</string>
+	<key>singletonSpacing</key>
+	<string>displayableNode</string>
+	<key>trainlogarithm</key>
+	<string>tentativeBehavior</string>
+</dict>
+</plist>

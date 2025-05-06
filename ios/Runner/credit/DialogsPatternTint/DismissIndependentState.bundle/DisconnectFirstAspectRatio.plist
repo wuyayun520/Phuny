@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleDialogs</key>
+	<string>memberFrequency</string>
+	<key>amortizationbound</key>
+	<string>shouldreplaceusage</string>
+	<key>dimensiondespitedecorator</key>
+	<string>dismissGram</string>
+	<key>discardedDescription</key>
+	<string>explicitConfiguration</string>
+	<key>firstDistinction</key>
+	<string>desktopQuaternion</string>
+	<key>rowproxyhue</key>
+	<string>cosineatbuffer</string>
+	<key>shouldCacheWorkflow</key>
+	<string>sanitizevector</string>
+	<key>shouldLoadAnimation</key>
+	<string>onmastertap</string>
+	<key>statelessProvider</key>
+	<string>shouldUnmountSession</string>
+	<key>subtleTraversal</key>
+	<string>controlleruntilprototype</string>
+</dict>
+</plist>

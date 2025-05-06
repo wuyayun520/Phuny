@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesLeft</key>
+	<string>geometricTabView</string>
+	<key>findscaffold</key>
+	<string>vectorizeState</string>
+	<key>lostCollection</key>
+	<string>liteTabView</string>
+	<key>protocolTint</key>
+	<string>storeContrast</string>
+	<key>shouldCreateStoryboard</key>
+	<string>canSkipResource</string>
+	<key>touchtimeline</key>
+	<string>decodeActivity</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>conformloop</key>
+	<string>handleProvider</string>
+	<key>factoryPosition</key>
+	<string>amortizationDistance</string>
+	<key>pivotalawaitpadding</key>
+	<string>shouldPrepareNotification</string>
+	<key>shouldDecodeSlider</key>
+	<string>videoVisible</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultConsumption</key>
+	<string>shouldTransitionMatrix</string>
+	<key>metadataResponse</key>
+	<string>invisibleRadio</string>
+	<key>nextText</key>
+	<string>loaderDirection</string>
+	<key>vertexDelay</key>
+	<string>shouldEncodePadding</string>
+</dict>
+</plist>

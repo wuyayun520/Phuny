@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoFinder</key>
+	<string>specifyController</string>
+	<key>injectionstrength</key>
+	<string>bindProject</string>
+	<key>sharedunaryformat</key>
+	<string>exitCompleter</string>
+	<key>shouldPresentExponent</key>
+	<string>schemaOrigin</string>
+	<key>stampLeft</key>
+	<string>presenterresponse</string>
+	<key>statelessScroll</key>
+	<string>mutableStateless</string>
+	<key>storyboardKind</key>
+	<string>staticPainter</string>
+	<key>tensorcubit</key>
+	<string>elasticListView</string>
+	<key>unaryresponse</key>
+	<string>shouldEmitAnchor</string>
+</dict>
+</plist>

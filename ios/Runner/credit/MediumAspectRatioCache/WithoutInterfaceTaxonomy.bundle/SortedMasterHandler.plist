@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableAperture</key>
+	<string>discardedSkirt</string>
+	<key>shouldCreatePlayback</key>
+	<string>parallelBinary</string>
+	<key>statefulHue</key>
+	<string>notifiertween</string>
+	<key>statefulcontrast</key>
+	<string>renameFuture</string>
+	<key>synchronousAnchor</key>
+	<string>canTransformCard</string>
+</dict>
+</plist>

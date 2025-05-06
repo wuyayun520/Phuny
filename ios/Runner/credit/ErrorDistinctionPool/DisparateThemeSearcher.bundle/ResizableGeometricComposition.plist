@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disclaimerPosition</key>
+	<string>animateCompletion</string>
+	<key>hardDescriptor</key>
+	<string>grainSpeed</string>
+	<key>independentslider</key>
+	<string>shouldObserveText</string>
+	<key>mediocreVolume</key>
+	<string>themeframeworktag</string>
+	<key>polygonResponse</key>
+	<string>completedCurve</string>
+	<key>prismaticTrajectory</key>
+	<string>canBindCompletion</string>
+	<key>robustOption</key>
+	<string>custompaintColor</string>
+	<key>usageEdge</key>
+	<string>topicDepth</string>
+</dict>
+</plist>

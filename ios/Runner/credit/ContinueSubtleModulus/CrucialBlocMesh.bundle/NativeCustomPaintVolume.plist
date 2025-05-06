@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicPager</key>
+	<string>usedConnector</string>
+	<key>cartesianEvaluation</key>
+	<string>shouldStartBloc</string>
+	<key>injectionstatus</key>
+	<string>flexSingleton</string>
+	<key>largeCache</key>
+	<string>otherEffect</string>
+	<key>processindicator</key>
+	<string>queueDensity</string>
+	<key>retainedObserver</key>
+	<string>interceptsubpixel</string>
+	<key>shouldLayoutCurve</key>
+	<string>monsterRight</string>
+	<key>sortedLocalization</key>
+	<string>reducerObserver</string>
+</dict>
+</plist>

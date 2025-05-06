@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowState</key>
+	<string>cacheObserver</string>
+	<key>contractionborder</key>
+	<string>aspectratiovariablemargin</string>
+	<key>gestureTheme</key>
+	<string>mobileVelocity</string>
+	<key>normalInterface</key>
+	<string>activateGrain</string>
+	<key>progressbarawayprototype</key>
+	<string>shouldDecodeLabel</string>
+	<key>shouldListenReduction</key>
+	<string>enhanceService</string>
+	<key>shouldResumeNib</key>
+	<string>connectSign</string>
+	<key>singleShape</key>
+	<string>shouldpushrichtext</string>
+</dict>
+</plist>

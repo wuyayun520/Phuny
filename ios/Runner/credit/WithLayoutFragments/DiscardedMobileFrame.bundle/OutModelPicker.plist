@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableSelector</key>
+	<string>diversifiedReceiver</string>
+	<key>resizableTopic</key>
+	<string>transformerflags</string>
+	<key>semanticAction</key>
+	<string>unbindBitrate</string>
+	<key>shouldSetStateSpine</key>
+	<string>curveSkewX</string>
+	<key>shouldpoptext</key>
+	<string>shouldValidateGram</string>
+	<key>similarAxis</key>
+	<string>desktopLabel</string>
+	<key>storeinaction</key>
+	<string>fixedScope</string>
+	<key>tweenFlags</key>
+	<string>concurrentInformation</string>
+</dict>
+</plist>

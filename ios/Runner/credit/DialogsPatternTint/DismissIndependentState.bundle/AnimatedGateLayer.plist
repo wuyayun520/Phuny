@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentMediaQuery</key>
+	<string>canFetchIcon</string>
+	<key>geometricCell</key>
+	<string>protectedInjection</string>
+	<key>notifyconstraint</key>
+	<string>extensionProcess</string>
+	<key>originalRadio</key>
+	<string>localAllocator</string>
+	<key>originalscreen</key>
+	<string>durationorstate</string>
+	<key>presenterOpacity</key>
+	<string>interceptBuilder</string>
+	<key>scopeTension</key>
+	<string>gateLeft</string>
+	<key>secondCapacities</key>
+	<string>taskSpacing</string>
+	<key>shouldpersisttransition</key>
+	<string>tweakInterval</string>
+</dict>
+</plist>

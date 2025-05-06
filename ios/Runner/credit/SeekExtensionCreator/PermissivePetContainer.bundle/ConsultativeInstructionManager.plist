@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentmedia</key>
+	<string>restrictionvisible</string>
+	<key>encodemanager</key>
+	<string>pushIsolate</string>
+	<key>platebehavior</key>
+	<string>pageviewPrototype</string>
+	<key>shouldConnectLoss</key>
+	<string>factoryDensity</string>
+	<key>singleCharacter</key>
+	<string>convertDescription</string>
+	<key>subpixelTint</key>
+	<string>usedMission</string>
+	<key>uniformThroughput</key>
+	<string>symmetricCurve</string>
+	<key>volumeShape</key>
+	<string>buildtransformer</string>
+</dict>
+</plist>

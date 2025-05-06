@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateConverter</key>
+	<string>optimizermediatorsaturation</string>
+	<key>integrationBorder</key>
+	<string>singleCharacteristic</string>
+	<key>processorRotation</key>
+	<string>shouldInflateMedia</string>
+	<key>resizezone</key>
+	<string>listenhandler</string>
+	<key>synchronousUtil</key>
+	<string>visiblecombiner</string>
+</dict>
+</plist>

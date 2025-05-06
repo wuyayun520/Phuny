@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryInterval</key>
+	<string>maintainZone</string>
+	<key>directRequest</key>
+	<string>semanticInteger</string>
+	<key>resultvolume</key>
+	<string>unmarshalVector</string>
+	<key>robustTangent</key>
+	<string>shouldStreamMaster</string>
+	<key>shouldFormatAspect</key>
+	<string>shouldKeepGestureDetector</string>
+	<key>storeaudio</key>
+	<string>linkeralignment</string>
+	<key>tickerformborder</key>
+	<string>eagerContrast</string>
+	<key>toleranceSpeed</key>
+	<string>publicBandwidth</string>
+	<key>usagetempleinset</key>
+	<string>canAttachAnchor</string>
+</dict>
+</plist>

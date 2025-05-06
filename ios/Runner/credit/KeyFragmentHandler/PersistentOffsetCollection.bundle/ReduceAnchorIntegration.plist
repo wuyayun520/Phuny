@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerCollection</key>
+	<string>canInflatePadding</string>
+	<key>ephemeralScreen</key>
+	<string>hassample</string>
+	<key>injectionhead</key>
+	<string>animatedSlider</string>
+	<key>shouldDisconnectTheme</key>
+	<string>nextArithmetic</string>
+	<key>shoulddismissobserver</key>
+	<string>mediumStack</string>
+	<key>skirtContrast</key>
+	<string>seamlessCompleter</string>
+	<key>smallInkWell</key>
+	<string>radioDirection</string>
+	<key>spinanimation</key>
+	<string>materialChannels</string>
+	<key>timeForce</key>
+	<string>shearRect</string>
+	<key>volumeskewy</key>
+	<string>activatedInteraction</string>
+</dict>
+</plist>

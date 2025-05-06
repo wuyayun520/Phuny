@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedRadio</key>
+	<string>subpixelTag</string>
+	<key>currentheap</key>
+	<string>fixedPositioned</string>
+	<key>disabledQueue</key>
+	<string>moduleRotation</string>
+	<key>lifecycleCenter</key>
+	<string>resilientConfiguration</string>
+	<key>listentext</key>
+	<string>lossVisitor</string>
+	<key>pinchableNorm</key>
+	<string>handlerHue</string>
+	<key>sophisticatedGesture</key>
+	<string>tangentDuration</string>
+	<key>tappabletask</key>
+	<string>intuitiveException</string>
+</dict>
+</plist>

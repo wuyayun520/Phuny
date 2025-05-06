@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredScenario</key>
+	<string>canShowBehavior</string>
+	<key>diversifiedAnalogy</key>
+	<string>navigatortheme</string>
+	<key>managerpatternduration</key>
+	<string>refreshStorage</string>
+	<key>maptrajectory</key>
+	<string>iterativeUnary</string>
+	<key>opaquePublisher</key>
+	<string>splitterresponse</string>
+	<key>primaryListener</key>
+	<string>inactiveUseCase</string>
+	<key>shearoverlay</key>
+	<string>fixedFeature</string>
+	<key>shouldPopLogarithm</key>
+	<string>keyMapper</string>
+	<key>variantSkewX</key>
+	<string>descriptorRotation</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumptionFormat</key>
+	<string>captionMemento</string>
+	<key>reactiveDimension</key>
+	<string>switchTask</string>
+	<key>rectangleLocation</key>
+	<string>statescale</string>
+	<key>secondScope</key>
+	<string>extensionColor</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableConnector</key>
+	<string>onradiochanged</string>
+	<key>euclideanAllocator</key>
+	<string>eagerTimeline</string>
+	<key>intermediateContrast</key>
+	<string>spinbuilder</string>
+	<key>layeroffset</key>
+	<string>defaulttext</string>
+	<key>nodeFeedback</key>
+	<string>pageviewMemento</string>
+	<key>providermetrics</key>
+	<string>blocForm</string>
+	<key>shouldSkipEntropy</key>
+	<string>sizedboxValidation</string>
+	<key>sizedboxtint</key>
+	<string>granularRichText</string>
+	<key>splitteropacity</key>
+	<string>oldScalability</string>
+</dict>
+</plist>

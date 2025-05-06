@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderaudio</key>
+	<string>scaffoldAction</string>
+	<key>columnborder</key>
+	<string>canRebuildRoute</string>
+	<key>completervertex</key>
+	<string>shouldAttachNib</string>
+	<key>concurrentProvision</key>
+	<string>canCancelStamp</string>
+	<key>documentforce</key>
+	<string>prismaticStorage</string>
+	<key>materialMargin</key>
+	<string>boxshadowLeft</string>
+	<key>otherIntensity</key>
+	<string>persistentVariant</string>
+	<key>tensorMetadata</key>
+	<string>currentGestureDetector</string>
+	<key>usecaselayerfrequency</key>
+	<string>easymultiplication</string>
+</dict>
+</plist>

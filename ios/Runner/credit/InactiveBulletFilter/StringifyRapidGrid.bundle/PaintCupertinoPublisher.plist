@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>evaluationdirection</key>
+	<string>streamGrayscale</string>
+	<key>greattrigger</key>
+	<string>consultativeNorm</string>
+	<key>iconForce</key>
+	<string>functionalSearcher</string>
+	<key>interfaceDelay</key>
+	<string>specifyOccasion</string>
+	<key>permissiveSprite</key>
+	<string>coordinatorVisitor</string>
+	<key>shouldPaintInteger</key>
+	<string>logarithmSingleton</string>
+	<key>shouldSaveEntropy</key>
+	<string>markParticle</string>
+	<key>shouldtraindialogs</key>
+	<string>priorInteractor</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellVisible</key>
+	<string>explicitUseCase</string>
+	<key>currentMobile</key>
+	<string>soundContrast</string>
+	<key>delegatewithouttier</key>
+	<string>shouldMountCharacter</string>
+	<key>diffableProjection</key>
+	<string>segueinteraction</string>
+	<key>graphicAlignment</key>
+	<string>elasticityOrigin</string>
+	<key>notificationHead</key>
+	<string>alphaMode</string>
+	<key>radiuspressure</key>
+	<string>permissiveActivity</string>
+	<key>routematerializer</key>
+	<string>canObserveSubpixel</string>
+	<key>sequentialPreview</key>
+	<string>missedPublisher</string>
+</dict>
+</plist>

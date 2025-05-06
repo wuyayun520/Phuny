@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionRenderer</key>
+	<string>consumerlistener</string>
+	<key>buttonpermutation</key>
+	<string>asyncspeed</string>
+	<key>completermementosize</key>
+	<string>radioEdge</string>
+	<key>comprehensivechapter</key>
+	<string>lastStateful</string>
+	<key>currentbrush</key>
+	<string>awaitwithoutadapter</string>
+	<key>shouldSkipAppBar</key>
+	<string>sinkObserver</string>
+</dict>
+</plist>

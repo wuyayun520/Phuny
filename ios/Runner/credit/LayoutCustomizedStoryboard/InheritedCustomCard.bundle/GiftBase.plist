@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzervisibility</key>
+	<string>animatedcontainerLevel</string>
+	<key>declarativeAction</key>
+	<string>slashtint</string>
+	<key>lastCharacteristic</key>
+	<string>lazyTransition</string>
+	<key>movementprototypevisible</key>
+	<string>executeGrid</string>
+	<key>respectiveProcessor</key>
+	<string>missionContext</string>
+	<key>shouldTransformMobile</key>
+	<string>liteImpact</string>
+	<key>shouldlayouttangent</key>
+	<string>restoreBuilder</string>
+	<key>symbolDuration</key>
+	<string>elasticScreen</string>
+</dict>
+</plist>

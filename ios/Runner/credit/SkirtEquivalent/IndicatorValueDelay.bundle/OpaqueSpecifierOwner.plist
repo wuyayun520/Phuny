@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channellayertheme</key>
+	<string>standaloneTriangles</string>
+	<key>controllerbesideparam</key>
+	<string>moveText</string>
+	<key>entityIndex</key>
+	<string>fetchPlayback</string>
+	<key>localBaseline</key>
+	<string>constructFrame</string>
+	<key>paintdialogs</key>
+	<string>holdController</string>
+	<key>poolcompletion</key>
+	<string>shouldSaveDrawer</string>
+	<key>remainderTail</key>
+	<string>customBehavior</string>
+</dict>
+</plist>

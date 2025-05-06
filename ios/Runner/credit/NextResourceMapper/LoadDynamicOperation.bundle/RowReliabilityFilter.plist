@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>augmentcupertino</key>
+	<string>customGridView</string>
+	<key>clipperhead</key>
+	<string>shouldDisconnectGesture</string>
+	<key>newestEmitter</key>
+	<string>mobileRect</string>
+	<key>resilientTriangles</key>
+	<string>modulusrate</string>
+	<key>shouldFormatPrecision</key>
+	<string>selectedstoryboard</string>
+	<key>shouldInflateSpecifier</key>
+	<string>shouldpresentactivity</string>
+	<key>subsequentVideo</key>
+	<string>pivotalShape</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackvarduration</key>
+	<string>aspectdependency</string>
+	<key>invisibleTernary</key>
+	<string>dialogstint</string>
+	<key>listviewAlignment</key>
+	<string>fixedRow</string>
+	<key>usedRestriction</key>
+	<string>unmountModal</string>
+</dict>
+</plist>

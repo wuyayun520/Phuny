@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultScreen</key>
+	<string>currentConsumption</string>
+	<key>indicatorSkewY</key>
+	<string>isBase</string>
+	<key>liteprecisioncenter</key>
+	<string>parallelSorter</string>
+	<key>permanentMerger</key>
+	<string>responseTension</string>
+	<key>routeBrightness</key>
+	<string>markDescription</string>
+	<key>shouldNavigateBaseline</key>
+	<string>invisibleObject</string>
+	<key>shouldPrepareScreen</key>
+	<string>scaleProcess</string>
+	<key>shouldobserveequipment</key>
+	<string>sessionComposite</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>augmentrouter</key>
+	<string>alphaComposite</string>
+	<key>fixedlayer</key>
+	<string>activeSubscriber</string>
+	<key>granularTransformer</key>
+	<string>stepPressure</string>
+	<key>permanentCurve</key>
+	<string>significantScroll</string>
+	<key>pivotalAwait</key>
+	<string>discardedEmitter</string>
+	<key>respectivegrayscale</key>
+	<string>deferredAppBar</string>
+	<key>shouldDecodeOperation</key>
+	<string>navigatorAppearance</string>
+	<key>zoneFlags</key>
+	<string>dynamicTimeline</string>
+</dict>
+</plist>

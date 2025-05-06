@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graphEdge</key>
+	<string>spotEnvironment</string>
+	<key>iterativeStamp</key>
+	<string>buildProtocol</string>
+	<key>kernelMargin</key>
+	<string>opaqueObject</string>
+	<key>notifyvector</key>
+	<string>creatorVisible</string>
+	<key>parallelGesture</key>
+	<string>imperativeReduction</string>
+	<key>presenterparametertype</key>
+	<string>canRenderController</string>
+	<key>servicebehavior</key>
+	<string>responsiveChannel</string>
+	<key>specifierContrast</key>
+	<string>factoryFunction</string>
+</dict>
+</plist>

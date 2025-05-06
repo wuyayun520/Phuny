@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonaspect</key>
+	<string>mastermargin</string>
+	<key>diversifiedSlider</key>
+	<string>fetchConsumer</string>
+	<key>latencyVisible</key>
+	<string>textureDirection</string>
+	<key>queuedelay</key>
+	<string>saveTransition</string>
+</dict>
+</plist>

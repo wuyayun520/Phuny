@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonBorder</key>
+	<string>lastIndicator</string>
+	<key>consumerRight</key>
+	<string>ignoredqueueshade</string>
+	<key>contractionlayervisibility</key>
+	<string>embraceFeature</string>
+	<key>inheritedTabBar</key>
+	<string>shouldDecodeExpanded</string>
+	<key>mediumMediaQuery</key>
+	<string>threadTension</string>
+	<key>prevFeature</key>
+	<string>margindirection</string>
+	<key>robustModal</key>
+	<string>animationRight</string>
+</dict>
+</plist>

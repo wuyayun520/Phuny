@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>addbehavior</key>
+	<string>restartIcon</string>
+	<key>directDetail</key>
+	<string>canDecodeDialogs</string>
+	<key>fetchtopic</key>
+	<string>canSubscribeMultiplication</string>
+	<key>firstexponent</key>
+	<string>canStreamMission</string>
+	<key>independentTrigger</key>
+	<string>weboptioncolor</string>
+	<key>lazyExtension</key>
+	<string>canKeepAspect</string>
+	<key>pickerFrequency</key>
+	<string>herostate</string>
+	<key>shouldPresentSwift</key>
+	<string>progressbarcluster</string>
+	<key>synchronousRemainder</key>
+	<string>groupFramework</string>
+</dict>
+</plist>

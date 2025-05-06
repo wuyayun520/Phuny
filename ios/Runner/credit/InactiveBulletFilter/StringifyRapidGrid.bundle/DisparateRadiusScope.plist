@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveInteraction</key>
+	<string>interactiveExponent</string>
+	<key>ephemeralRequest</key>
+	<string>canCacheNorm</string>
+	<key>inkwellcallback</key>
+	<string>pinchableTopic</string>
+	<key>poolaccessory</key>
+	<string>shouldInflateScroll</string>
+	<key>statelessOptimizer</key>
+	<string>discardedSignature</string>
+	<key>uniqueoptimizer</key>
+	<string>formatImage</string>
+	<key>unscheduleintensity</key>
+	<string>unlockIntensity</string>
+	<key>videoInteraction</key>
+	<string>storeBrightness</string>
+</dict>
+</plist>

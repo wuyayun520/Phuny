@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>confidentialityresponse</key>
+	<string>alignmentIndex</string>
+	<key>gesturedetectorprocesslocation</key>
+	<string>descentStyle</string>
+	<key>granularChooser</key>
+	<string>tappabledistinction</string>
+	<key>responsiveAnalyzer</key>
+	<string>normalBinder</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dropdownbuttonposition</key>
+	<string>notifywidget</string>
+	<key>localizationSpeed</key>
+	<string>ignoredSlider</string>
+	<key>materialtag</key>
+	<string>mobilebeyondenvironment</string>
+	<key>momentumBrightness</key>
+	<string>canUnbindPlayback</string>
+	<key>parallelpainter</key>
+	<string>onplatetap</string>
+	<key>positionBrightness</key>
+	<string>appendTask</string>
+	<key>smallCluster</key>
+	<string>searcherRate</string>
+</dict>
+</plist>

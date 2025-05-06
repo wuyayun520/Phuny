@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticVideo</key>
+	<string>sharedPosition</string>
+	<key>materialStamp</key>
+	<string>cloneTitle</string>
+	<key>mechanismskewy</key>
+	<string>analyzersize</string>
+	<key>movementBehavior</key>
+	<string>shouldParseDescriptor</string>
+	<key>rapidPreview</key>
+	<string>bulletHue</string>
+	<key>respectivematerial</key>
+	<string>lastRepository</string>
+	<key>shouldInflateEffect</key>
+	<string>deferredRadius</string>
+	<key>shouldRouteOperation</key>
+	<string>repositoryParam</string>
+	<key>webGraph</key>
+	<string>widgetAlignment</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineFlags</key>
+	<string>canTrainSymbol</string>
+	<key>compilebuffer</key>
+	<string>screenOpacity</string>
+	<key>compositionalShader</key>
+	<string>accordionTween</string>
+	<key>desktopCatalyst</key>
+	<string>shouldskiphero</string>
+	<key>desktopFinder</key>
+	<string>associatedsampledirection</string>
+	<key>fetchgroup</key>
+	<string>keyPositioned</string>
+	<key>mobileKind</key>
+	<string>listenRadio</string>
+	<key>shouldBindSignature</key>
+	<string>similarGraph</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gestureInteraction</key>
+	<string>canRouteView</string>
+	<key>lossskewy</key>
+	<string>scaleState</string>
+	<key>rectangleAcceleration</key>
+	<string>emitterBound</string>
+	<key>shouldNotifyExtension</key>
+	<string>embedDuration</string>
+	<key>shouldPresentAperture</key>
+	<string>viewsubscription</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedCallback</key>
+	<string>comprehensiveentropycoord</string>
+	<key>currentGestureDetector</key>
+	<string>heapreducer</string>
+	<key>permissiveCycle</key>
+	<string>parsestorage</string>
+	<key>regulateresolver</key>
+	<string>sustainableAlert</string>
+	<key>standaloneReliability</key>
+	<string>positionedpresenter</string>
+	<key>statelessviastage</key>
+	<string>detachLoop</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveBinary</key>
+	<string>cacheGestureDetector</string>
+	<key>denseDelegate</key>
+	<string>requiredBoxShadow</string>
+	<key>layoutHead</key>
+	<string>chartperphase</string>
+	<key>radioTint</key>
+	<string>shouldTransitionSwift</string>
+	<key>resilientHeap</key>
+	<string>quantizationAllocator</string>
+	<key>resumepageview</key>
+	<string>routemode</string>
+	<key>rowequivalent</key>
+	<string>typicalCycle</string>
+	<key>shouldRebuildModulus</key>
+	<string>imperativeCompletion</string>
+</dict>
+</plist>

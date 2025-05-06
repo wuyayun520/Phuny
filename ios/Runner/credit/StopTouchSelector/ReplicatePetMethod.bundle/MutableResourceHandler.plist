@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryContrast</key>
+	<string>topicTemple</string>
+	<key>chooserTint</key>
+	<string>shouldPopListView</string>
+	<key>commonPriority</key>
+	<string>usecaseTint</string>
+	<key>creatorHead</key>
+	<string>animatedSchema</string>
+	<key>curvefacadeflags</key>
+	<string>bulletVisitor</string>
+	<key>pinchableAsset</key>
+	<string>canShowController</string>
+	<key>uniformProvider</key>
+	<string>nativeGrayscale</string>
+</dict>
+</plist>

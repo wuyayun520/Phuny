@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveMechanism</key>
+	<string>exitGrain</string>
+	<key>columnrate</key>
+	<string>navigateTechnique</string>
+	<key>notificationvolume</key>
+	<string>basicSine</string>
+	<key>progressbarCenter</key>
+	<string>specifyentity</string>
+	<key>providertexture</key>
+	<string>poolProgressBar</string>
+</dict>
+</plist>

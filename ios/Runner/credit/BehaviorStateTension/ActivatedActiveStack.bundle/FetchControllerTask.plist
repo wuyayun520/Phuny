@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deactivatecell</key>
+	<string>shouldLoadExpanded</string>
+	<key>quaternionOffset</key>
+	<string>transformindicator</string>
+	<key>resilientAlpha</key>
+	<string>resolverNumber</string>
+	<key>shouldAnimateConsumer</key>
+	<string>mobilePrototype</string>
+	<key>shouldBuildAspectRatio</key>
+	<string>graphicparametersize</string>
+	<key>shouldDispatchModulus</key>
+	<string>coordinatorPosition</string>
+	<key>statefulexceptionpressure</key>
+	<string>restartOption</string>
+	<key>unactivatedText</key>
+	<string>canEmitCell</string>
+</dict>
+</plist>

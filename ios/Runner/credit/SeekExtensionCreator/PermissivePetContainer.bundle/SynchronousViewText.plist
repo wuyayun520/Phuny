@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionDepth</key>
+	<string>benchmarkoffset</string>
+	<key>advancedAnimator</key>
+	<string>pushSample</string>
+	<key>documentmodemargin</key>
+	<string>normalGift</string>
+	<key>listenroute</key>
+	<string>transitionForce</string>
+	<key>resolverhue</key>
+	<string>statefulutil</string>
+	<key>retrievegraph</key>
+	<string>permissiveMesh</string>
+	<key>shouldParseHeap</key>
+	<string>uniqueBehavior</string>
+</dict>
+</plist>

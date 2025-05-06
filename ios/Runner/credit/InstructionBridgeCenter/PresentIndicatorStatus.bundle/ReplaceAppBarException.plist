@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equalizationpermutation</key>
+	<string>accessoryefficiency</string>
+	<key>finderDelay</key>
+	<string>nativePriority</string>
+	<key>hierarchicalConsumer</key>
+	<string>staticConnector</string>
+	<key>independentAspect</key>
+	<string>showGestureDetector</string>
+	<key>usecasesystemvisible</key>
+	<string>shoulddetachgradient</string>
+	<key>wrapperFlags</key>
+	<string>navigatorprototypename</string>
+</dict>
+</plist>

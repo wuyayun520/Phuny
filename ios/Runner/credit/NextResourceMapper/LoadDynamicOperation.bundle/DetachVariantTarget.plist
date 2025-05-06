@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryinformation</key>
+	<string>responsivescroll</string>
+	<key>gesturedetectortype</key>
+	<string>notifyCycle</string>
+	<key>intuitiveDistinction</key>
+	<string>desktopTool</string>
+	<key>loadername</key>
+	<string>canRenderLabel</string>
+	<key>loadticker</key>
+	<string>optimizerFlyweight</string>
+	<key>reusableresult</key>
+	<string>difficultTolerance</string>
+	<key>scrollContrast</key>
+	<string>detectorInset</string>
+	<key>scrollMode</key>
+	<string>specifyProvider</string>
+	<key>specifyLinker</key>
+	<string>mobileTopic</string>
+	<key>timeTransparency</key>
+	<string>fixedTechnique</string>
+</dict>
+</plist>

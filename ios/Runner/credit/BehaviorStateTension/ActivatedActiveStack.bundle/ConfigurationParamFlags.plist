@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystTop</key>
+	<string>tappableactionmomentum</string>
+	<key>latencyLeft</key>
+	<string>disabledLatency</string>
+	<key>prevCursor</key>
+	<string>unbindSubpixel</string>
+	<key>providerbottom</key>
+	<string>reusableSpot</string>
+	<key>richtextName</key>
+	<string>toleranceName</string>
+	<key>shouldProcessWidget</key>
+	<string>clearAsync</string>
+	<key>similarCoordinator</key>
+	<string>spotPlatform</string>
+	<key>stackTail</key>
+	<string>substantialrange</string>
+	<key>statefulBoxShadow</key>
+	<string>readChart</string>
+	<key>subsequentElasticity</key>
+	<string>stackandmode</string>
+</dict>
+</plist>

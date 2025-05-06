@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionvalidation</key>
+	<string>transformerChain</string>
+	<key>managerasenvironment</key>
+	<string>formatTabBar</string>
+	<key>mutableLoss</key>
+	<string>buttonqueue</string>
+	<key>notificationInteraction</key>
+	<string>mutableSwift</string>
+	<key>respectiveMedia</key>
+	<string>unaryphaseformat</string>
+	<key>specifyMember</key>
+	<string>functionalListener</string>
+	<key>tweakKind</key>
+	<string>nextTriangles</string>
+</dict>
+</plist>

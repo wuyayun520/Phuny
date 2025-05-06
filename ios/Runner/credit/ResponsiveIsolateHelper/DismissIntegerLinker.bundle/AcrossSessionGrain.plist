@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerPressure</key>
+	<string>subtleTriangles</string>
+	<key>currentCycle</key>
+	<string>ephemeralTimeline</string>
+	<key>disabledMargin</key>
+	<string>memberDuration</string>
+	<key>shouldSetStateGridView</key>
+	<string>primaryPolygon</string>
+	<key>stackSpeed</key>
+	<string>granularKernel</string>
+	<key>statefulPositioned</key>
+	<string>cupertinoindex</string>
+	<key>visibleProcessor</key>
+	<string>canCacheBaseline</string>
+</dict>
+</plist>

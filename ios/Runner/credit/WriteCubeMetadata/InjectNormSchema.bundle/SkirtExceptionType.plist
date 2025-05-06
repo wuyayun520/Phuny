@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheframe</key>
+	<string>interactiveSchema</string>
+	<key>holdstorage</key>
+	<string>entitytaskborder</string>
+	<key>interpolationtail</key>
+	<string>modalForm</string>
+	<key>kernelfilter</key>
+	<string>quantizationLabel</string>
+	<key>prevWidget</key>
+	<string>inflateScale</string>
+	<key>protectedSubpixel</key>
+	<string>formatTernary</string>
+	<key>shouldRestartSensor</key>
+	<string>canDisconnectGem</string>
+	<key>shouldValidateAxis</key>
+	<string>overlayBottom</string>
+	<key>temporaryMerger</key>
+	<string>crudeRectangle</string>
+</dict>
+</plist>

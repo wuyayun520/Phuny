@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>creatorMode</key>
+	<string>gemFormat</string>
+	<key>endentropy</key>
+	<string>canBindMaster</string>
+	<key>locatesprite</key>
+	<string>smartSorter</string>
+	<key>shouldPushSpecifier</key>
+	<string>mediocrePlayback</string>
+	<key>skirtrect</key>
+	<string>bufferscopeposition</string>
+	<key>smallBinder</key>
+	<string>standaloneContainer</string>
+</dict>
+</plist>

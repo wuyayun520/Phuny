@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleResult</key>
+	<string>canRenderConsumer</string>
+	<key>disabledmediaquerystyle</key>
+	<string>referencelistener</string>
+	<key>indicatorRate</key>
+	<string>presenterDuration</string>
+	<key>oldExponent</key>
+	<string>effectJob</string>
+	<key>shouldPrepareMultiplication</key>
+	<string>newestFeature</string>
+	<key>timelineFlags</key>
+	<string>granularDescriptor</string>
+</dict>
+</plist>

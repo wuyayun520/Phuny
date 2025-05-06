@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedNotation</key>
+	<string>canHandleObserver</string>
+	<key>aperturelayer</key>
+	<string>canPopWorkflow</string>
+	<key>aperturestagevisible</key>
+	<string>usedanalyzer</string>
+	<key>commonRestriction</key>
+	<string>canObserveInstruction</string>
+	<key>denseStep</key>
+	<string>shouldRebuildKernel</string>
+	<key>dimensionStyle</key>
+	<string>parallelWidget</string>
+	<key>impressiontheme</key>
+	<string>sizeSize</string>
+	<key>mainContraction</key>
+	<string>descriptorFormat</string>
+	<key>sizedboxPosition</key>
+	<string>canAttachGate</string>
+	<key>spotRotation</key>
+	<string>statelessAnalogy</string>
+</dict>
+</plist>

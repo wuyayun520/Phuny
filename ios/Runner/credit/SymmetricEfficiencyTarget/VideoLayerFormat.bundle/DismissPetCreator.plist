@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>instructionBound</key>
+	<string>fusedgrain</string>
+	<key>shouldHandleSlider</key>
+	<string>shouldResumeAnimation</string>
+	<key>shouldInflateSlash</key>
+	<string>converterSize</string>
+	<key>statefulRenderer</key>
+	<string>unmountModulus</string>
+</dict>
+</plist>

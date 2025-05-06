@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundlescene</key>
+	<string>lazyChallenge</string>
+	<key>challengesingletoncontrast</key>
+	<string>canLoadChallenge</string>
+	<key>commonLog</key>
+	<string>orchestrateUseCase</string>
+	<key>currentMend</key>
+	<string>initializeHash</string>
+	<key>largeTriangles</key>
+	<string>expandedBuffer</string>
+	<key>latencyTag</key>
+	<string>shouldObserveEqualization</string>
+	<key>normalstate</key>
+	<string>errorOrientation</string>
+	<key>thresholdTop</key>
+	<string>curveMode</string>
+	<key>usedDialogs</key>
+	<string>screenLocation</string>
+</dict>
+</plist>

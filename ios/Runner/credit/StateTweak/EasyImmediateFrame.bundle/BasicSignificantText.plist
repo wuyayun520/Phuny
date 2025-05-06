@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chooseroffset</key>
+	<string>animateGraphic</string>
+	<key>gradientawaynumber</key>
+	<string>normconstant</string>
+	<key>imperativeRadio</key>
+	<string>stopOptimizer</string>
+	<key>sequentialRequest</key>
+	<string>materialException</string>
+	<key>stackAppearance</key>
+	<string>otherButton</string>
+	<key>statefulImage</key>
+	<string>staticRemainder</string>
+	<key>subsequentEntropy</key>
+	<string>singletonMemento</string>
+</dict>
+</plist>

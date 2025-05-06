@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultLabel</key>
+	<string>confidentialityLeft</string>
+	<key>desktopscene</key>
+	<string>filterTransparency</string>
+	<key>draggableMesh</key>
+	<string>batchWork</string>
+	<key>hierarchicalAudio</key>
+	<string>embraceMetadata</string>
+	<key>resilientScroll</key>
+	<string>responsiveCubit</string>
+	<key>shouldPaintRow</key>
+	<string>graphTheme</string>
+	<key>smartoverlay</key>
+	<string>accessoryedge</string>
+</dict>
+</plist>

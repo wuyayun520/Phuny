@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cachereducer</key>
+	<string>reactiveanimatedcontainerpadding</string>
+	<key>concurrentanalogy</key>
+	<string>updatePageView</string>
+	<key>crudeOverlay</key>
+	<string>shouldCreateDescriptor</string>
+	<key>instructionshape</key>
+	<string>shouldPublishThread</string>
+	<key>responsebinder</key>
+	<string>deferredBullet</string>
+	<key>servicecontrast</key>
+	<string>associatedNode</string>
+</dict>
+</plist>

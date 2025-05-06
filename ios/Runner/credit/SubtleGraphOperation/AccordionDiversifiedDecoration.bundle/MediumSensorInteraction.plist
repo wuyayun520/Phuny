@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopAwait</key>
+	<string>mobileSingleton</string>
+	<key>infrastructureinterval</key>
+	<string>numericalStamp</string>
+	<key>receiverState</key>
+	<string>reliabilityColor</string>
+	<key>shouldPresentFragment</key>
+	<string>notifierBottom</string>
+	<key>significantContainer</key>
+	<string>completerOrigin</string>
+	<key>sophisticatedPresenter</key>
+	<string>animatedCursor</string>
+	<key>subscriberSkewX</key>
+	<string>histogramProcess</string>
+	<key>thresholdSize</key>
+	<string>textfieldPrototype</string>
+	<key>unaryStyle</key>
+	<string>containerAdapter</string>
+</dict>
+</plist>

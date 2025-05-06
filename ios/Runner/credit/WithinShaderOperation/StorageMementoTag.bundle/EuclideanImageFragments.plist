@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleVariant</key>
+	<string>integrationLocation</string>
+	<key>borderIndex</key>
+	<string>hashTint</string>
+	<key>commonGridView</key>
+	<string>prepareInkWell</string>
+	<key>criticalMap</key>
+	<string>trainscaffold</string>
+	<key>diversifiedBase</key>
+	<string>serializeGroup</string>
+	<key>flexibleDetail</key>
+	<string>responsePadding</string>
+	<key>selectedhistogram</key>
+	<string>displayableAnalogy</string>
+	<key>shouldDismissNotification</key>
+	<string>synchronousGrayscale</string>
+</dict>
+</plist>

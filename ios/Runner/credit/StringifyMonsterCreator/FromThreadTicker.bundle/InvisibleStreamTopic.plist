@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentuntilflyweight</key>
+	<string>pivotalNotation</string>
+	<key>constraintFlags</key>
+	<string>intuitiveobserver</string>
+	<key>equipmentPosition</key>
+	<string>layoutTag</string>
+	<key>euclideanConverter</key>
+	<string>queuestructureacceleration</string>
+	<key>retainedTexture</key>
+	<string>managermediatordelay</string>
+	<key>singlelayeroffset</key>
+	<string>crucialChapter</string>
+	<key>touchpreview</key>
+	<string>mobilePreview</string>
+	<key>unsortedDialogs</key>
+	<string>remainderinteraction</string>
+</dict>
+</plist>

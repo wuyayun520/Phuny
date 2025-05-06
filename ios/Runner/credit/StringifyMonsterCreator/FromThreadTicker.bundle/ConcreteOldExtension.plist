@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteStamp</key>
+	<string>tickerSize</string>
+	<key>disabledSkin</key>
+	<string>advancedEffect</string>
+	<key>lazynorminteraction</key>
+	<string>scrollableSearcher</string>
+	<key>performduration</key>
+	<string>popupshape</string>
+	<key>scrollableview</key>
+	<string>inheritedMechanism</string>
+	<key>searcherFeedback</key>
+	<string>scrollerkind</string>
+	<key>smartTime</key>
+	<string>canMountRole</string>
+	<key>statelessReduction</key>
+	<string>mitigatelabel</string>
+	<key>unmarshalcatalyst</key>
+	<string>paintConstraint</string>
+</dict>
+</plist>

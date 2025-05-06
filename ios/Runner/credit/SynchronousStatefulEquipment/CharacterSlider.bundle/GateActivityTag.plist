@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasEdge</key>
+	<string>stampticker</string>
+	<key>eagerconfiguration</key>
+	<string>markexception</string>
+	<key>independentTween</key>
+	<string>flexibleMaterializer</string>
+	<key>taskEdge</key>
+	<string>loadMap</string>
+</dict>
+</plist>

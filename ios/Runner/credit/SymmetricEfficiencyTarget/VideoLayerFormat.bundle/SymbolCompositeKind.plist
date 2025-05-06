@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitpolyfill</key>
+	<string>arithmeticStage</string>
+	<key>cupertinoGridView</key>
+	<string>frametheme</string>
+	<key>dedicatedNotation</key>
+	<string>sustainableTweak</string>
+	<key>filterLeft</key>
+	<string>extendchecklist</string>
+	<key>gateName</key>
+	<string>borderComposite</string>
+	<key>shouldCancelDropdownButton</key>
+	<string>activityFlags</string>
+	<key>shouldunmountedpet</key>
+	<string>completedMomentum</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalChecklist</key>
+	<string>behaviorFlags</string>
+	<key>inheritedScenario</key>
+	<string>mediumEffect</string>
+	<key>limitgrain</key>
+	<string>publicstream</string>
+	<key>shouldCancelEqualization</key>
+	<string>compositionalAnchor</string>
+	<key>sineTop</key>
+	<string>standaloneEqualization</string>
+	<key>sustainableInfo</key>
+	<string>difficultPriority</string>
+</dict>
+</plist>

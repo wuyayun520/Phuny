@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dispatchaspect</key>
+	<string>shoulddispatchstream</string>
+	<key>rectangleFeedback</key>
+	<string>synchronousStamp</string>
+	<key>saveallocator</key>
+	<string>entityBottom</string>
+	<key>usageState</key>
+	<string>interactiveStep</string>
+</dict>
+</plist>

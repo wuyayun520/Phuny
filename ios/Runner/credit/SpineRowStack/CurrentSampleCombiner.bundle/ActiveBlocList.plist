@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedDependency</key>
+	<string>displayableAudio</string>
+	<key>radiusResponse</key>
+	<string>largeView</string>
+	<key>reflectalpha</key>
+	<string>advancedSelector</string>
+	<key>semanticCustomPaint</key>
+	<string>intuitiveScope</string>
+	<key>smartMaterial</key>
+	<string>shouldNotifyRemainder</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constantEdge</key>
+	<string>shouldUnbindSignature</string>
+	<key>kernelbykind</key>
+	<string>decodeGate</string>
+	<key>newestStack</key>
+	<string>navigationNumber</string>
+	<key>permissiveSubscriber</key>
+	<string>robustviewforce</string>
+	<key>shouldInflateHistogram</key>
+	<string>entityBridge</string>
+</dict>
+</plist>

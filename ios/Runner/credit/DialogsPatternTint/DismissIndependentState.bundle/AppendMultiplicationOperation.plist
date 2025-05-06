@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveBinary</key>
+	<string>invisibleTransformer</string>
+	<key>composableElement</key>
+	<string>draggablePicker</string>
+	<key>composableState</key>
+	<string>inheritedStack</string>
+	<key>hyperbolicExtension</key>
+	<string>concurrentfuture</string>
+	<key>momentumrate</key>
+	<string>capacitiesPosition</string>
+	<key>mutableStream</key>
+	<string>primaryState</string>
+	<key>objectLeft</key>
+	<string>disabledBullet</string>
+	<key>prevRequest</key>
+	<string>remainderSingleton</string>
+	<key>shouldUnmountedFlex</key>
+	<string>scaleColor</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianCollection</key>
+	<string>ignoredobserver</string>
+	<key>copycapacities</key>
+	<string>holdZone</string>
+	<key>dynamicAlpha</key>
+	<string>localEvolution</string>
+	<key>eagerCluster</key>
+	<string>progressbarTier</string>
+	<key>invisibleText</key>
+	<string>seekTopic</string>
+	<key>methodinsideform</key>
+	<string>largeUtil</string>
+	<key>opaqueScenario</key>
+	<string>shouldParseVariant</string>
+	<key>pointpressure</key>
+	<string>popalignment</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>kernelTop</key>
+	<string>shouldPrepareAnimation</string>
+	<key>lazyLinker</key>
+	<string>customResource</string>
+	<key>missedcontainercoord</key>
+	<string>robustPermutation</string>
+	<key>mobileProvider</key>
+	<string>oldScroller</string>
+	<key>permanentBox</key>
+	<string>shouldPresentStack</string>
+	<key>shouldEmitObserver</key>
+	<string>activatedFinder</string>
+	<key>subscriberBorder</key>
+	<string>invokeStorage</string>
+	<key>trianglesShade</key>
+	<string>sliderdescription</string>
+	<key>viewformborder</key>
+	<string>unaryVariable</string>
+</dict>
+</plist>

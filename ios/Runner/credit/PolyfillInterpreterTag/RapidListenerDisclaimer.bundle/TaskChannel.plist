@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorinterpretertail</key>
+	<string>nextNavigator</string>
+	<key>delegatePressure</key>
+	<string>transitionVisitor</string>
+	<key>displayableVariant</key>
+	<string>observeColumn</string>
+	<key>shouldAttachMaterial</key>
+	<string>canConnectGrayscale</string>
+	<key>shouldSkipGradient</key>
+	<string>unregisterspine</string>
+</dict>
+</plist>

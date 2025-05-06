@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>localEvolution</key>
+	<string>canPresentColumn</string>
+	<key>skinsincesingleton</key>
+	<string>disparateNavigator</string>
+	<key>sortedFlex</key>
+	<string>descriptorSpacing</string>
+	<key>uniqueLatency</key>
+	<string>materialtop</string>
+</dict>
+</plist>

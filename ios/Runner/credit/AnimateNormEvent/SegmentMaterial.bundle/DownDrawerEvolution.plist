@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>layouttierbound</key>
+	<string>displayableMethod</string>
+	<key>mobileTriangles</key>
+	<string>deferredcompletion</string>
+	<key>nativeHandler</key>
+	<string>notationResponse</string>
+	<key>nextMultiplication</key>
+	<string>shouldKeepContainer</string>
+	<key>observerscopestyle</key>
+	<string>inactiveOverlay</string>
+	<key>scrollerInset</key>
+	<string>otherLayout</string>
+	<key>shouldLoadCupertino</key>
+	<string>skintaxonomy</string>
+	<key>visibleProgressBar</key>
+	<string>uniformpager</string>
+</dict>
+</plist>

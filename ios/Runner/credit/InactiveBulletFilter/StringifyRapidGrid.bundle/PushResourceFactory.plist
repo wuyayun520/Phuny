@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascentHue</key>
+	<string>loaderMargin</string>
+	<key>draggableEqualization</key>
+	<string>adaptiveNotification</string>
+	<key>equivalentType</key>
+	<string>createSlash</string>
+	<key>eventOrigin</key>
+	<string>seamlessAppBar</string>
+	<key>lazyController</key>
+	<string>transpileController</string>
+	<key>playobserver</key>
+	<string>entropymementokind</string>
+	<key>responsiveMenu</key>
+	<string>robustLabel</string>
+	<key>shouldKeepMedia</key>
+	<string>updateSingleton</string>
+	<key>shouldPublishMediaQuery</key>
+	<string>tickerDepth</string>
+</dict>
+</plist>

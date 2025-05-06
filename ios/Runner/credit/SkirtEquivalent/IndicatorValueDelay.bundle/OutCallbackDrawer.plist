@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedsinespeed</key>
+	<string>largeRectangle</string>
+	<key>axisasync</key>
+	<string>documentPlatform</string>
+	<key>defaultKernel</key>
+	<string>previewshade</string>
+	<key>diffableHeap</key>
+	<string>dropdownbuttonMargin</string>
+	<key>hardLocalization</key>
+	<string>scrollerSize</string>
+	<key>requiredFinder</key>
+	<string>searcherhue</string>
+	<key>taskFrequency</key>
+	<string>diversifiedTextField</string>
+	<key>transitionVisibility</key>
+	<string>functionalpromise</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audioright</key>
+	<string>linkerVisibility</string>
+	<key>hierarchicalOptimizer</key>
+	<string>listenerStrategy</string>
+	<key>interactiveDependency</key>
+	<string>nextSubscriber</string>
+	<key>shouldResumeIcon</key>
+	<string>transformGraphic</string>
+	<key>uniqueSound</key>
+	<string>hasprojection</string>
+</dict>
+</plist>

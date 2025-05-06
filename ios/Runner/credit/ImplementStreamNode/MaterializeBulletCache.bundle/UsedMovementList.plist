@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsulename</key>
+	<string>mediaqueryinterval</string>
+	<key>convolutionframeworktag</key>
+	<string>relationalText</string>
+	<key>operationMode</key>
+	<string>shouldEmitCustomPaint</string>
+	<key>responsiveAxis</key>
+	<string>synchronizeTitle</string>
+	<key>searchgrain</key>
+	<string>canStopStoryboard</string>
+</dict>
+</plist>

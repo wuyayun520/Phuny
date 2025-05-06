@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>infoAlignment</key>
+	<string>canReplaceColumn</string>
+	<key>mediumMatrix</key>
+	<string>reusableSwift</string>
+	<key>normalDocument</key>
+	<string>flexibleusagebound</string>
+	<key>prevScalability</key>
+	<string>opaqueCell</string>
+</dict>
+</plist>

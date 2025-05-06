@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerinteraction</key>
+	<string>samplerect</string>
+	<key>asynchronousCharacteristic</key>
+	<string>permanentCard</string>
+	<key>densePromise</key>
+	<string>cellDecorator</string>
+	<key>directTouch</key>
+	<string>fusedConverter</string>
+	<key>interpolationInterval</key>
+	<string>scrollableSpecifier</string>
+	<key>largeNavigator</key>
+	<string>challengeFlyweight</string>
+	<key>listviewShape</key>
+	<string>dedicatedSubscription</string>
+	<key>opaqueSubpixel</key>
+	<string>minConstraint</string>
+	<key>positionedservice</key>
+	<string>canTransitionRole</string>
+	<key>shouldtrainactivity</key>
+	<string>diversifiedBuffer</string>
+</dict>
+</plist>

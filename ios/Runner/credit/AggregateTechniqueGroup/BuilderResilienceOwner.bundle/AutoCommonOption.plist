@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedPager</key>
+	<string>activatedBaseline</string>
+	<key>backwardnotifiertail</key>
+	<string>descriptionSaturation</string>
+	<key>enumeratetabview</key>
+	<string>dropoutInterface</string>
+	<key>functionalRange</key>
+	<string>draggableSpot</string>
+	<key>mechanismtype</key>
+	<string>retrieveresult</string>
+	<key>permanentChooser</key>
+	<string>desktoppoint</string>
+	<key>shouldCreateAppBar</key>
+	<string>overlayMemento</string>
+	<key>textureBorder</key>
+	<string>shouldFinishTable</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>keyFeature</key>
+	<string>granularGrain</string>
+	<key>segueaboutaction</key>
+	<string>controllerScope</string>
+	<key>shouldHandleMaster</key>
+	<string>pinchableHash</string>
+	<key>shouldListenRichText</key>
+	<string>popPopup</string>
+	<key>similarExtension</key>
+	<string>futureedge</string>
+	<key>singleBullet</key>
+	<string>marginScope</string>
+	<key>sizedboxdepth</key>
+	<string>transpilenotifier</string>
+	<key>vectorizetouch</key>
+	<string>independentCatalyst</string>
+</dict>
+</plist>

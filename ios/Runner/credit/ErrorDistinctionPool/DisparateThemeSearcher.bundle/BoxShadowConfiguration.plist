@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedSink</key>
+	<string>checkboxStatus</string>
+	<key>cachelayout</key>
+	<string>schedulechannel</string>
+	<key>concurrentTable</key>
+	<string>shouldProcessScale</string>
+	<key>diversifiedbrush</key>
+	<string>signatureContrast</string>
+	<key>handlerHue</key>
+	<string>shouldFinishAspect</string>
+	<key>heroscopetag</key>
+	<string>disconnectbloc</string>
+	<key>resolverRotation</key>
+	<string>allocateslider</string>
+	<key>shouldRebuildNorm</key>
+	<string>compileGrid</string>
+	<key>substantialCapsule</key>
+	<string>touchOpacity</string>
+	<key>trainhandler</key>
+	<string>accordionDetail</string>
+</dict>
+</plist>

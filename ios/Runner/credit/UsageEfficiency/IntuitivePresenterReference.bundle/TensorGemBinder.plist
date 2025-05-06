@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseactivity</key>
+	<string>consumemap</string>
+	<key>eagerElasticity</key>
+	<string>desktopRichText</string>
+	<key>interactiveCurve</key>
+	<string>unmountedPageView</string>
+	<key>resolverskewx</key>
+	<string>currentSkirt</string>
+	<key>routechannel</key>
+	<string>exponentProcess</string>
+</dict>
+</plist>

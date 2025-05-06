@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>formatTheme</key>
+	<string>shouldUnbindMember</string>
+	<key>pickerPressure</key>
+	<string>othermenu</string>
+	<key>rendererVisible</key>
+	<string>shouldShowController</string>
+	<key>shouldTransformScaffold</key>
+	<string>inheritedButton</string>
+	<key>shouldreplaceswift</key>
+	<string>hasSegment</string>
+	<key>statusDensity</key>
+	<string>sortedSelector</string>
+	<key>switchCenter</key>
+	<string>listviewMediator</string>
+	<key>texturesincemode</key>
+	<string>activatedZone</string>
+</dict>
+</plist>

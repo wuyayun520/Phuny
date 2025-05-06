@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>metadataCount</key>
+	<string>opaqueTextField</string>
+	<key>nextLayer</key>
+	<string>seamlessAwait</string>
+	<key>permanentPicker</key>
+	<string>shouldDismissPainter</string>
+	<key>stateSaturation</key>
+	<string>localizationLocation</string>
+	<key>subscriptionBottom</key>
+	<string>batchComposite</string>
+</dict>
+</plist>

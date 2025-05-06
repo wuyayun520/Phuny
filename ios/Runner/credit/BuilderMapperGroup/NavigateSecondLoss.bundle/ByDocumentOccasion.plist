@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedCallback</key>
+	<string>nativeInjection</string>
+	<key>replacegift</key>
+	<string>sequentialscope</string>
+	<key>respectiveexceptioncontrast</key>
+	<string>mobilestackvelocity</string>
+	<key>standalonePromise</key>
+	<string>shouldUnbindContainer</string>
+	<key>strengthtail</key>
+	<string>exceptionvalidation</string>
+	<key>subtleProcessor</key>
+	<string>deserializeresolver</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeMomentum</key>
+	<string>intermediateoperation</string>
+	<key>discardedOptimizer</key>
+	<string>responsiveThroughput</string>
+	<key>listenloop</key>
+	<string>hardTextField</string>
+	<key>nativeSkin</key>
+	<string>diversifiedTicker</string>
+	<key>quaternionOffset</key>
+	<string>cartesianMusic</string>
+	<key>resilientPermutation</key>
+	<string>canMountedSkin</string>
+	<key>scalabilityedge</key>
+	<string>stopAlpha</string>
+	<key>shouldSaveStateful</key>
+	<string>temporaryLatency</string>
+</dict>
+</plist>

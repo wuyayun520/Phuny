@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintstyle</key>
+	<string>slashBottom</string>
+	<key>gesturedetectorBehavior</key>
+	<string>discoverAwait</string>
+	<key>globalTheme</key>
+	<string>retainedMenu</string>
+	<key>shouldUpdateComposition</key>
+	<string>parallelDuration</string>
+	<key>significantElement</key>
+	<string>showmedia</string>
+	<key>smartOperation</key>
+	<string>fillservice</string>
+</dict>
+</plist>

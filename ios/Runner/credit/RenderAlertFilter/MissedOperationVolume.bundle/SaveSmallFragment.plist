@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deactivatehistogram</key>
+	<string>shouldSkipMap</string>
+	<key>declarativeGrayscale</key>
+	<string>prevIntensity</string>
+	<key>deferredOccasion</key>
+	<string>mapOperation</string>
+	<key>descriptionquaternion</key>
+	<string>behaviorMediator</string>
+	<key>mediacompositedistance</key>
+	<string>topicFacade</string>
+	<key>mobilehashappearance</key>
+	<string>defaultCube</string>
+	<key>significantThread</key>
+	<string>initializeGrain</string>
+	<key>skipgrid</key>
+	<string>hyperbolicDimension</string>
+</dict>
+</plist>

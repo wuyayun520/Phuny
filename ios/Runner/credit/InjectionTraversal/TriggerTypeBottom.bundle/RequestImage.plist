@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentGem</key>
+	<string>reactiveGestureDetector</string>
+	<key>resilientBandwidth</key>
+	<string>navigationRate</string>
+	<key>secondEquivalent</key>
+	<string>dialogsMode</string>
+	<key>shouldAnimateAxis</key>
+	<string>completerDelay</string>
+	<key>specifyAccessory</key>
+	<string>canDisconnectBloc</string>
+</dict>
+</plist>

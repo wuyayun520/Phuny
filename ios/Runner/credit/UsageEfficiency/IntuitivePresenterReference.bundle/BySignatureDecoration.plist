@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnpreview</key>
+	<string>mainLocalization</string>
+	<key>directlyPolygon</key>
+	<string>chartShade</string>
+	<key>inactiveCombiner</key>
+	<string>restartAxis</string>
+	<key>introspectrouter</key>
+	<string>delicateService</string>
+	<key>processoffset</key>
+	<string>optionInteraction</string>
+	<key>shouldTransitionMobile</key>
+	<string>responsiveException</string>
+</dict>
+</plist>

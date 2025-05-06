@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratiomanager</key>
+	<string>canContinueMultiplication</string>
+	<key>computecapacities</key>
+	<string>hyperbolicCertificate</string>
+	<key>inheritedContraction</key>
+	<string>shouldFormatMobile</string>
+	<key>integrationSkewX</key>
+	<string>tweenVisibility</string>
+	<key>lazyAccessory</key>
+	<string>activemesh</string>
+	<key>lazyInfo</key>
+	<string>prismaticSubscriber</string>
+	<key>polyfillScale</key>
+	<string>materializerInteraction</string>
+	<key>shouldCreateBatch</key>
+	<string>activatedMovement</string>
+</dict>
+</plist>

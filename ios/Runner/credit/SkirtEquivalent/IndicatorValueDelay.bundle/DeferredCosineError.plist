@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>errorincludecycle</key>
+	<string>equalManager</string>
+	<key>heroVisible</key>
+	<string>streamForm</string>
+	<key>seamlessProvider</key>
+	<string>canTrainCollection</string>
+	<key>shouldDispatchPositioned</key>
+	<string>resultMode</string>
+	<key>smallDetector</key>
+	<string>gateType</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalGem</key>
+	<string>reactiveVector</string>
+	<key>destroymovement</key>
+	<string>setstateCheckbox</string>
+	<key>ontabviewtap</key>
+	<string>uniformHeap</string>
+	<key>shouldYieldTangent</key>
+	<string>localDisclaimer</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderacceleration</key>
+	<string>processGrain</string>
+	<key>columnresolver</key>
+	<string>strokeDepth</string>
+	<key>concreteview</key>
+	<string>canPresentObserver</string>
+	<key>deferredScalability</key>
+	<string>tensorSpot</string>
+	<key>directGate</key>
+	<string>poolobserver</string>
+	<key>modalName</key>
+	<string>concatenateManager</string>
+	<key>semanticHeap</key>
+	<string>lostLoader</string>
+	<key>shouldPersistStream</key>
+	<string>contractionKind</string>
+</dict>
+</plist>

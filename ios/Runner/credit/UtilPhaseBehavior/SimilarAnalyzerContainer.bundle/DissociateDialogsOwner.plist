@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalResult</key>
+	<string>mainStoryboard</string>
+	<key>diffableRole</key>
+	<string>modalSystem</string>
+	<key>optimizerVisible</key>
+	<string>notificationScope</string>
+	<key>sinedescription</key>
+	<string>tabletierhead</string>
+</dict>
+</plist>

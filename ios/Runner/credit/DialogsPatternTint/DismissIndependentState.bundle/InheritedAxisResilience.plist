@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonExpanded</key>
+	<string>completedCache</string>
+	<key>dependencyType</key>
+	<string>sortedPreview</string>
+	<key>opaqueOption</key>
+	<string>dismissRow</string>
+	<key>rangeEdge</key>
+	<string>sortedcheckbox</string>
+	<key>receiverCenter</key>
+	<string>pointFacade</string>
+	<key>requiredAxis</key>
+	<string>encodeCupertino</string>
+	<key>subtlebinder</key>
+	<string>transitiontempletransparency</string>
+	<key>typicalScaffold</key>
+	<string>hyperbolicFrame</string>
+</dict>
+</plist>

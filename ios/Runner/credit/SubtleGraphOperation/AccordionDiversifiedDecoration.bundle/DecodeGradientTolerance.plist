@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonQuaternion</key>
+	<string>prismaticCapacity</string>
+	<key>defaultSample</key>
+	<string>independentStateful</string>
+	<key>errorRate</key>
+	<string>shouldTrainCard</string>
+	<key>invisibleAxis</key>
+	<string>missedCosine</string>
+	<key>latencyinset</key>
+	<string>expandedContext</string>
+	<key>objectFrequency</key>
+	<string>timerTransparency</string>
+	<key>responderFrequency</key>
+	<string>contractionPressure</string>
+	<key>sessionVisibility</key>
+	<string>gesturedetectorFunction</string>
+	<key>touchCenter</key>
+	<string>prepareMomentum</string>
+</dict>
+</plist>

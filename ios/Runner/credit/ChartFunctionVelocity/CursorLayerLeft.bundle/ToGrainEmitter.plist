@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultfinder</key>
+	<string>robustRadio</string>
+	<key>dimensionFeedback</key>
+	<string>rotateIntensity</string>
+	<key>drawercontroller</key>
+	<string>moduleBound</string>
+	<key>invisibleCallback</key>
+	<string>continuebox</string>
+	<key>isolateColor</key>
+	<string>apertureright</string>
+	<key>kernelcount</key>
+	<string>accessibleReplica</string>
+	<key>mountreducer</key>
+	<string>readTimer</string>
+	<key>receivetitle</key>
+	<string>responsiveStoryboard</string>
+	<key>reusableMesh</key>
+	<string>dissociateTask</string>
+	<key>shouldvalidatedrawer</key>
+	<string>immediateUtil</string>
+</dict>
+</plist>

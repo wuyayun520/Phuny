@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionbound</key>
+	<string>clonesizedbox</string>
+	<key>controllerLocation</key>
+	<string>platebutton</string>
+	<key>diffablecellcenter</key>
+	<string>canKeepMargin</string>
+	<key>mediaqueryintegration</key>
+	<string>undertakeSprite</string>
+	<key>mediumMember</key>
+	<string>hierarchicalIndicator</string>
+	<key>nativeMusic</key>
+	<string>interactiveScheduler</string>
+	<key>remediationdirection</key>
+	<string>routerInterpreter</string>
+	<key>robustArchitecture</key>
+	<string>boxshadowCount</string>
+	<key>subtleMission</key>
+	<string>declarativeAxis</string>
+</dict>
+</plist>

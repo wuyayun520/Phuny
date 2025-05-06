@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentviaproxy</key>
+	<string>crucialMovement</string>
+	<key>animatedcontainerdescription</key>
+	<string>isrichtext</string>
+	<key>graphicstate</key>
+	<string>poolLayer</string>
+	<key>keysemantics</key>
+	<string>captionPressure</string>
+	<key>presenteropacity</key>
+	<string>canPublishDocument</string>
+	<key>scaffoldDuration</key>
+	<string>canPrepareSession</string>
+	<key>shouldFetchContraction</key>
+	<string>tappableReceiver</string>
+	<key>soundType</key>
+	<string>pagerShade</string>
+	<key>subsequentTween</key>
+	<string>instantiateIsolate</string>
+	<key>usedView</key>
+	<string>unmountedStateless</string>
+</dict>
+</plist>

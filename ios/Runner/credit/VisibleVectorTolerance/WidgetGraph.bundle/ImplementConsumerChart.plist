@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionShade</key>
+	<string>canUpdateDialogs</string>
+	<key>draggablePresenter</key>
+	<string>shouldloadmedia</string>
+	<key>embracechart</key>
+	<string>shouldObserveBoxShadow</string>
+	<key>ephemeralStep</key>
+	<string>subsequentDispatcher</string>
+	<key>lastPolyfill</key>
+	<string>semanticLogarithm</string>
+	<key>providerinterval</key>
+	<string>kernelFrequency</string>
+	<key>queuethreshold</key>
+	<string>easyElasticity</string>
+</dict>
+</plist>

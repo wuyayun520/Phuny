@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleRecursion</key>
+	<string>chooserDelay</string>
+	<key>chapterreceiver</key>
+	<string>streamspacing</string>
+	<key>dimensionRotation</key>
+	<string>transformAlert</string>
+	<key>mutableCursor</key>
+	<string>asynchronousBase</string>
+	<key>providerjobhead</key>
+	<string>significantreduction</string>
+	<key>rapidBullet</key>
+	<string>pendingSpot</string>
+	<key>soundLocation</key>
+	<string>pushbatch</string>
+	<key>webShape</key>
+	<string>alertStrategy</string>
+</dict>
+</plist>

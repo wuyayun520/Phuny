@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentawaitskewy</key>
+	<string>capacitiesInteraction</string>
+	<key>cursorSkewY</key>
+	<string>sensorresilience</string>
+	<key>gesturesingleton</key>
+	<string>infrastructureFeedback</string>
+	<key>mobileManager</key>
+	<string>mainCosine</string>
+	<key>opaqueIndicator</key>
+	<string>zoneShade</string>
+	<key>permissiveSensor</key>
+	<string>crudechartsize</string>
+	<key>provideroffset</key>
+	<string>fusedAllocator</string>
+	<key>shouldEncodeTabBar</key>
+	<string>requiredPicker</string>
+	<key>widgetconnector</key>
+	<string>pendingNavigator</string>
+</dict>
+</plist>

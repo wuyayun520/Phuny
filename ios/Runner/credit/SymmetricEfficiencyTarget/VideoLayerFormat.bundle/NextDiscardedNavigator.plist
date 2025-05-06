@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileSorter</key>
+	<string>offsetAllocator</string>
+	<key>dimensionShape</key>
+	<string>pushTouch</string>
+	<key>flexTail</key>
+	<string>actionkinddelay</string>
+	<key>hasentropy</key>
+	<string>tableduringcontext</string>
+	<key>similarHash</key>
+	<string>ternaryduration</string>
+	<key>uniformFactory</key>
+	<string>persistentTraversal</string>
+</dict>
+</plist>

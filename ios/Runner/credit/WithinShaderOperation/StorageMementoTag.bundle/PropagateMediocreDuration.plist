@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicsound</key>
+	<string>updateProvider</string>
+	<key>chapterBehavior</key>
+	<string>resultMargin</string>
+	<key>deferredusecase</key>
+	<string>canCacheProtocol</string>
+	<key>dispatchmultiplication</key>
+	<string>stateatframework</string>
+	<key>globalstorage</key>
+	<string>indicatorInterpreter</string>
+	<key>lostStroke</key>
+	<string>shouldTrainController</string>
+	<key>mutableFeature</key>
+	<string>showmanager</string>
+	<key>observerOffset</key>
+	<string>animateTopic</string>
+	<key>shouldPaintProject</key>
+	<string>formatTangent</string>
+</dict>
+</plist>

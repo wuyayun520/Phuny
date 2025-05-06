@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeMethod</key>
+	<string>shouldMountEffect</string>
+	<key>cellvisitordensity</key>
+	<string>textureAlignment</string>
+	<key>completionOffset</key>
+	<string>discardedDependency</string>
+	<key>replicaLocation</key>
+	<string>denseSubpixel</string>
+	<key>scaffoldHead</key>
+	<string>interactorVisibility</string>
+	<key>shouldDispatchHeap</key>
+	<string>shouldStreamStream</string>
+	<key>shouldListenIndicator</key>
+	<string>deferredDispatcher</string>
+	<key>undertakestateful</key>
+	<string>alignmentSpeed</string>
+</dict>
+</plist>

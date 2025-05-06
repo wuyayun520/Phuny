@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveResource</key>
+	<string>standaloneTernary</string>
+	<key>creatorInset</key>
+	<string>shouldPrepareMaster</string>
+	<key>disabledPet</key>
+	<string>radioprovider</string>
+	<key>filterBound</key>
+	<string>transformOverlay</string>
+	<key>shouldStopScale</key>
+	<string>usedHash</string>
+</dict>
+</plist>

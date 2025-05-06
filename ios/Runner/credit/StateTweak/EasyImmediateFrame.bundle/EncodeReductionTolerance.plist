@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combinerMomentum</key>
+	<string>completedDelegate</string>
+	<key>dedicatedBrush</key>
+	<string>transitionformat</string>
+	<key>dependencysound</key>
+	<string>connectsprite</string>
+	<key>elementDepth</key>
+	<string>screenlayer</string>
+	<key>litepresenterfeedback</key>
+	<string>cartesianNavigation</string>
+	<key>smalldata</key>
+	<string>triggerMode</string>
+</dict>
+</plist>

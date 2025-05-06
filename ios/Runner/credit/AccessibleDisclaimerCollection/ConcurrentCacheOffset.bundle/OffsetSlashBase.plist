@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chooserBottom</key>
+	<string>opaqueGrayscale</string>
+	<key>kernelFrequency</key>
+	<string>projectFlyweight</string>
+	<key>responderposition</key>
+	<string>canRestartBoxShadow</string>
+	<key>shouldPushStep</key>
+	<string>responseParam</string>
+	<key>shouldValidateGridView</key>
+	<string>shouldvalidatenorm</string>
+</dict>
+</plist>

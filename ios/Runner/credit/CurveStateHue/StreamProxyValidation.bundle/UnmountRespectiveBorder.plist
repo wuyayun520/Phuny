@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedNavigator</key>
+	<string>mixinObserver</string>
+	<key>customizedWorkflow</key>
+	<string>splitterCenter</string>
+	<key>parseinjection</key>
+	<string>indicatorActivity</string>
+	<key>reactiveFinder</key>
+	<string>amortizationAlignment</string>
+	<key>responsiveNode</key>
+	<string>permissiveStack</string>
+	<key>sinkTheme</key>
+	<string>responsiveLog</string>
+	<key>typicalBoxShadow</key>
+	<string>requiredMesh</string>
+	<key>unactivatedreducer</key>
+	<string>undertakeListener</string>
+</dict>
+</plist>

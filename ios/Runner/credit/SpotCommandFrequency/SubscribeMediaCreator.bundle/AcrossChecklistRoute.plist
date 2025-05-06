@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialSprite</key>
+	<string>permissiveConvolution</string>
+	<key>deferredAxis</key>
+	<string>statelessRoute</string>
+	<key>pinchableLinker</key>
+	<string>shouldStartExtension</string>
+	<key>taskefficiency</key>
+	<string>shouldContinueAnimation</string>
+	<key>ternaryisolate</key>
+	<string>gemmode</string>
+	<key>unmountedsubscription</key>
+	<string>amortizationappearance</string>
+</dict>
+</plist>

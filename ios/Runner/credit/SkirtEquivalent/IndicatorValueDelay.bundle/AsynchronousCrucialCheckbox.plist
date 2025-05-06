@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveUtil</key>
+	<string>refactorRoute</string>
+	<key>delegateTheme</key>
+	<string>easyTimeline</string>
+	<key>diffableCursor</key>
+	<string>disabledPromise</string>
+	<key>euclideanselector</key>
+	<string>ignoredConnector</string>
+	<key>intermediateInkWell</key>
+	<string>cancelSample</string>
+	<key>logOrientation</key>
+	<string>allocatorShade</string>
+	<key>newestIcon</key>
+	<string>scrollableExtension</string>
+	<key>spotDuration</key>
+	<string>constantShape</string>
+	<key>statesystemsaturation</key>
+	<string>ignoredScene</string>
+</dict>
+</plist>

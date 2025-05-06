@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicScroll</key>
+	<string>previewProxy</string>
+	<key>ephemeralVariant</key>
+	<string>detachComposition</string>
+	<key>listviewSize</key>
+	<string>disconnectview</string>
+	<key>originalanimation</key>
+	<string>serviceState</string>
+	<key>shouldConnectBatch</key>
+	<string>mediocreTransition</string>
+	<key>shouldLoadTransition</key>
+	<string>primarypreviewpressure</string>
+	<key>stampMode</key>
+	<string>canNotifySpot</string>
+</dict>
+</plist>

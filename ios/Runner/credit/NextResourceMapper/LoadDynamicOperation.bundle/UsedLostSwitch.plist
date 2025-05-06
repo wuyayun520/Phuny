@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderAppearance</key>
+	<string>pinchableAccessory</string>
+	<key>cupertinoSaturation</key>
+	<string>measureCubit</string>
+	<key>lostgift</key>
+	<string>oldPlayback</string>
+	<key>presenterright</key>
+	<string>sessionvideo</string>
+	<key>serviceMode</key>
+	<string>playpromise</string>
+	<key>staticAmortization</key>
+	<string>numericalStoryboard</string>
+</dict>
+</plist>

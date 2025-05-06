@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyDelivery</key>
+	<string>shouldSkipTable</string>
+	<key>formatname</key>
+	<string>gramParameter</string>
+	<key>interactorMomentum</key>
+	<string>nextRadio</string>
+	<key>reliabilityEdge</key>
+	<string>channelsFrequency</string>
+	<key>responsestatus</key>
+	<string>notificationSize</string>
+	<key>shouldMountSwitch</key>
+	<string>processAllocator</string>
+	<key>shouldRebuildBase</key>
+	<string>textCenter</string>
+	<key>tablelinker</key>
+	<string>differentiateError</string>
+	<key>utilState</key>
+	<string>configurationwrapper</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animaterouter</key>
+	<string>navigationTension</string>
+	<key>keyException</key>
+	<string>canTransitionStack</string>
+	<key>offsetfromstyle</key>
+	<string>coordinatorTension</string>
+	<key>positionedVisible</key>
+	<string>interfaceMediator</string>
+	<key>tickerAppearance</key>
+	<string>granularCharacter</string>
+	<key>typicalState</key>
+	<string>associatedTabView</string>
+	<key>uniqueResilience</key>
+	<string>effectLocation</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartColor</key>
+	<string>shouldCancelComposition</string>
+	<key>entropyreliability</key>
+	<string>shouldAnimateActivity</string>
+	<key>iterativeHeap</key>
+	<string>delicateMethod</string>
+	<key>metricsOpacity</key>
+	<string>canPauseProfile</string>
+	<key>otherDrawer</key>
+	<string>activatedGraphic</string>
+	<key>popupTheme</key>
+	<string>associatedUsage</string>
+	<key>shouldReplaceTangent</key>
+	<string>shouldPersistGift</string>
+	<key>shouldStreamCursor</key>
+	<string>behaviorJob</string>
+	<key>subpixelstatecontrast</key>
+	<string>sortedLog</string>
+	<key>thresholdKind</key>
+	<string>canEndNotifier</string>
+</dict>
+</plist>

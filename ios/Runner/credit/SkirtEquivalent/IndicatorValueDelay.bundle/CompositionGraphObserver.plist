@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopButton</key>
+	<string>groupAction</string>
+	<key>paintusage</key>
+	<string>columnSpeed</string>
+	<key>polygonVelocity</key>
+	<string>tensorPicker</string>
+	<key>shouldDecodeCheckbox</key>
+	<string>canObserveExtension</string>
+	<key>shouldNavigateCapsule</key>
+	<string>euclideanFlex</string>
+	<key>touchDensity</key>
+	<string>transitionMargin</string>
+	<key>usedSpecifier</key>
+	<string>singleChecklist</string>
+</dict>
+</plist>

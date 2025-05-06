@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerduringactivity</key>
+	<string>canLayoutBatch</string>
+	<key>currentEntity</key>
+	<string>reliabilityRotation</string>
+	<key>deserializealignment</key>
+	<string>detachGem</string>
+	<key>fragmentsOffset</key>
+	<string>transitionoffset</string>
+	<key>functionalModule</key>
+	<string>retainedScale</string>
+	<key>usageMode</key>
+	<string>behaviorshape</string>
+</dict>
+</plist>

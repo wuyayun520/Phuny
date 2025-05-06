@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascentValidation</key>
+	<string>compositionalListener</string>
+	<key>asynchronousskirtname</key>
+	<string>screenDensity</string>
+	<key>cupertinorotation</key>
+	<string>staticNib</string>
+	<key>cyclewidget</key>
+	<string>factoryRight</string>
+	<key>equipmentmediatorresponse</key>
+	<string>cartesianGraph</string>
+	<key>firstResponder</key>
+	<string>asynchronousnotification</string>
+	<key>multiplicationCount</key>
+	<string>localloader</string>
+	<key>radiusPressure</key>
+	<string>symbolstream</string>
+	<key>secondData</key>
+	<string>animatedcontainerDirection</string>
+	<key>shouldDecodeCheckbox</key>
+	<string>previewPadding</string>
+</dict>
+</plist>

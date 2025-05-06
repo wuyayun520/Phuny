@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredConverter</key>
+	<string>backwardAmortization</string>
+	<key>mergerSkewY</key>
+	<string>scaleFunction</string>
+	<key>pinchableFinder</key>
+	<string>offsetCallback</string>
+	<key>shouldBindGift</key>
+	<string>deprecateAlignment</string>
+	<key>shouldBuildCompletion</key>
+	<string>dropdownbuttonmend</string>
+	<key>shouldTrainArithmetic</key>
+	<string>unmounteddecoration</string>
+	<key>sineInset</key>
+	<string>fixedResult</string>
+	<key>touchInterval</key>
+	<string>publicAnimatedContainer</string>
+	<key>wrapperSaturation</key>
+	<string>canBuildScroll</string>
+</dict>
+</plist>

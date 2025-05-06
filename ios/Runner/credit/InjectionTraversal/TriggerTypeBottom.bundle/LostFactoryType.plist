@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalStorage</key>
+	<string>displayablemanager</string>
+	<key>euclideanExtension</key>
+	<string>shouldProcessTabView</string>
+	<key>mainGraphic</key>
+	<string>buttontweak</string>
+	<key>shouldTransformSpecifier</key>
+	<string>protectedPermutation</string>
+</dict>
+</plist>

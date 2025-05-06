@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectmomentum</key>
+	<string>richtextBottom</string>
+	<key>asynchronousIsolate</key>
+	<string>playbackObserver</string>
+	<key>denseBloc</key>
+	<string>composabletweak</string>
+	<key>discardedReducer</key>
+	<string>directbaselinetint</string>
+	<key>functionalBrush</key>
+	<string>canUnbindCompletion</string>
+	<key>iconconstraint</key>
+	<string>titleVisibility</string>
+	<key>reusableBoxShadow</key>
+	<string>sizeIndex</string>
+	<key>shouldLoadComposition</key>
+	<string>singleMerger</string>
+	<key>shouldreplacepriority</key>
+	<string>registercycle</string>
+</dict>
+</plist>

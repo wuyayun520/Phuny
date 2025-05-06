@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>charactershade</key>
+	<string>intuitivePositioned</string>
+	<key>mediocreEvent</key>
+	<string>materialInterval</string>
+	<key>nextPopup</key>
+	<string>denseTextField</string>
+	<key>optimizerShape</key>
+	<string>paddingBorder</string>
+	<key>shouldPrepareStack</key>
+	<string>visittool</string>
+	<key>shouldUnbindMovement</key>
+	<string>mediocreHeap</string>
+	<key>temporarySchema</key>
+	<string>layoutVar</string>
+	<key>textleft</key>
+	<string>taskTransparency</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopSchema</key>
+	<string>statefulCoord</string>
+	<key>dialogsmodestyle</key>
+	<string>inflateDimension</string>
+	<key>pagerForce</key>
+	<string>writeWidget</string>
+	<key>rotateframe</key>
+	<string>canStreamSine</string>
+	<key>shouldHandleSpot</key>
+	<string>stackStrategy</string>
+</dict>
+</plist>

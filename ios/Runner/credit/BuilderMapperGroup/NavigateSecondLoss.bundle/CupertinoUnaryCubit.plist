@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableRecursion</key>
+	<string>serviceAdapter</string>
+	<key>finderborder</key>
+	<string>mobileResponder</string>
+	<key>iterativeBinder</key>
+	<string>staticProvider</string>
+	<key>listenerState</key>
+	<string>singleTable</string>
+	<key>mediocreImpact</key>
+	<string>shouldAnimateSlider</string>
+	<key>prismaticbasepadding</key>
+	<string>liteEvolution</string>
+	<key>shouldMountCheckbox</key>
+	<string>radioDistance</string>
+	<key>shouldSerializeDecoration</key>
+	<string>refactorparticle</string>
+	<key>shouldYieldController</key>
+	<string>delegateEvent</string>
+	<key>yieldduration</key>
+	<string>movementofproxy</string>
+</dict>
+</plist>

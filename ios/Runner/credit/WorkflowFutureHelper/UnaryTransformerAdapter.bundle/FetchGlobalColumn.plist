@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerpercomposite</key>
+	<string>lazyPopup</string>
+	<key>cupertinoProjection</key>
+	<string>resolveObserver</string>
+	<key>descriptionbottom</key>
+	<string>seamlessSound</string>
+	<key>grainshape</key>
+	<string>basicPositioned</string>
+	<key>intermediateCapacities</key>
+	<string>transitionCard</string>
+	<key>standaloneProtocol</key>
+	<string>mapFeedback</string>
+	<key>textallocator</key>
+	<string>canMountedTabBar</string>
+	<key>timeroperation</key>
+	<string>diversifiedEvent</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disclaimerAppearance</key>
+	<string>layoutMobile</string>
+	<key>grouptiermode</key>
+	<string>usecaseLevel</string>
+	<key>hardOverlay</key>
+	<string>momentumMemento</string>
+	<key>layoutstorage</key>
+	<string>canHandleLoss</string>
+	<key>lazychannelbottom</key>
+	<string>constructDependency</string>
+	<key>ontooltap</key>
+	<string>dimensionMomentum</string>
+	<key>requestasset</key>
+	<string>deserializeStorage</string>
+	<key>subscriptionorigin</key>
+	<string>drawResource</string>
+</dict>
+</plist>

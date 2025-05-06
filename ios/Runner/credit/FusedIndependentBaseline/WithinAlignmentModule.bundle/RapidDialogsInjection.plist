@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocMode</key>
+	<string>inkwellPattern</string>
+	<key>hierarchicalStateless</key>
+	<string>shouldPresentStamp</string>
+	<key>originalQueue</key>
+	<string>immutablePoint</string>
+	<key>registerparticle</key>
+	<string>axisLocation</string>
+	<key>shouldDeserializePlate</key>
+	<string>tangentCount</string>
+	<key>shouldSubscribeSemantics</key>
+	<string>transformCallback</string>
+	<key>signDelay</key>
+	<string>intensityValue</string>
+</dict>
+</plist>

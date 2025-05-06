@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryshade</key>
+	<string>shouldDispatchMediaQuery</string>
+	<key>factoryStatus</key>
+	<string>borderchannel</string>
+	<key>intermediateCanvas</key>
+	<string>overlayVisible</string>
+	<key>navigatorscope</key>
+	<string>findGrain</string>
+	<key>secondScroller</key>
+	<string>canPrepareComposition</string>
+</dict>
+</plist>

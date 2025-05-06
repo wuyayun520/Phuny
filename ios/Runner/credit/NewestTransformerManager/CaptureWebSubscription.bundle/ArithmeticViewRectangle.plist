@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combinecurve</key>
+	<string>rowDuration</string>
+	<key>descriptorSize</key>
+	<string>shouldValidateAnchor</string>
+	<key>directnavigator</key>
+	<string>protectedButton</string>
+	<key>informationrate</key>
+	<string>fetchOptimizer</string>
+	<key>serializetopic</key>
+	<string>deferredScroller</string>
+	<key>setstatecoordinator</key>
+	<string>chartParameter</string>
+	<key>sustainableAnimator</key>
+	<string>shouldReplaceStoryboard</string>
+</dict>
+</plist>

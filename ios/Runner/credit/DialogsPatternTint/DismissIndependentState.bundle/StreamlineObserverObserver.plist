@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorstyle</key>
+	<string>gradienttransparency</string>
+	<key>invisibleresourcecontrast</key>
+	<string>independentImpact</string>
+	<key>kerneltheme</key>
+	<string>secondImpression</string>
+	<key>smallSchema</key>
+	<string>keyRadius</string>
+	<key>synckernel</key>
+	<string>newestPromise</string>
+</dict>
+</plist>

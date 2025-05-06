@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileGrid</key>
+	<string>completedListView</string>
+	<key>assetmodebrightness</key>
+	<string>strengthContrast</string>
+	<key>disabledCubit</key>
+	<string>shouldParseStamp</string>
+	<key>enhanceboxshadow</key>
+	<string>selectorType</string>
+	<key>hyperbolicReliability</key>
+	<string>crudeTolerance</string>
+	<key>inheritedBaseline</key>
+	<string>canFinishAccessory</string>
+	<key>largeVector</key>
+	<string>scrollerFormat</string>
+	<key>numericalGradient</key>
+	<string>precisionscene</string>
+	<key>previewintegration</key>
+	<string>serializeCheckbox</string>
+	<key>sharedcontroller</key>
+	<string>timerBuffer</string>
+</dict>
+</plist>

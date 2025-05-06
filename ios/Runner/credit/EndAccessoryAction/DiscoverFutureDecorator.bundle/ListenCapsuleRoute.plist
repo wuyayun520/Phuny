@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>augmenttextfield</key>
+	<string>isskin</string>
+	<key>gemTheme</key>
+	<string>encodeTitle</string>
+	<key>iterativeConsumer</key>
+	<string>isolateTint</string>
+	<key>mobileGraph</key>
+	<string>mediaVisitor</string>
+	<key>slashinteraction</key>
+	<string>primaryAwait</string>
+	<key>sortedMechanism</key>
+	<string>upgradeTween</string>
+	<key>storageOpacity</key>
+	<string>monsterstorage</string>
+	<key>streamlinecatalyst</key>
+	<string>shouldPublishDialogs</string>
+	<key>visibleMediaQuery</key>
+	<string>constructcoordinator</string>
+</dict>
+</plist>

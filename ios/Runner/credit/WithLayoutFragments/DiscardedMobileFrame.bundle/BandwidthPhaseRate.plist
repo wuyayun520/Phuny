@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bordercommandcount</key>
+	<string>transitionSpeed</string>
+	<key>consultativeTangent</key>
+	<string>activatedSlash</string>
+	<key>customizedobserver</key>
+	<string>canYieldSlash</string>
+	<key>draggablegrid</key>
+	<string>wrapperStyle</string>
+	<key>globalBorder</key>
+	<string>freeMetadata</string>
+	<key>scalebesidestage</key>
+	<string>densemend</string>
+	<key>shouldDetachSpot</key>
+	<string>sizeComposite</string>
+	<key>shouldHandleEntropy</key>
+	<string>backwardReliability</string>
+	<key>shouldUpdateSkin</key>
+	<string>queuebound</string>
+</dict>
+</plist>

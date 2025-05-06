@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengelabel</key>
+	<string>calculateProvider</string>
+	<key>cupertinogate</key>
+	<string>persistBitrate</string>
+	<key>defaultController</key>
+	<string>pivotalMonster</string>
+	<key>gridviewTail</key>
+	<string>chartinteraction</string>
+	<key>prevLifecycle</key>
+	<string>progressbarright</string>
+	<key>tableframe</key>
+	<string>canSerializeCapsule</string>
+	<key>taskduringstrategy</key>
+	<string>referenceIndex</string>
+</dict>
+</plist>

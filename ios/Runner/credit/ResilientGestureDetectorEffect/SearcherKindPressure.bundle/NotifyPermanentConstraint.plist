@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inflateprovider</key>
+	<string>contractionTheme</string>
+	<key>memberlayertype</key>
+	<string>semanticsreceiver</string>
+	<key>otherPlayback</key>
+	<string>disclaimerSkewX</string>
+	<key>resultvalidation</key>
+	<string>shouldBuildGrayscale</string>
+	<key>secondDependency</key>
+	<string>completedExtension</string>
+	<key>spinePosition</key>
+	<string>adjustTimer</string>
+	<key>syncstate</key>
+	<string>shouldObserveProjection</string>
+</dict>
+</plist>

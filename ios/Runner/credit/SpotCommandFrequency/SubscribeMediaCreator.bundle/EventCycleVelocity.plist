@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticasset</key>
+	<string>activatedBox</string>
+	<key>crucialusage</key>
+	<string>requestformat</string>
+	<key>globalAudio</key>
+	<string>mediumSignature</string>
+	<key>introspectoffset</key>
+	<string>flexibleManager</string>
+	<key>mobileCollection</key>
+	<string>statelessTouch</string>
+	<key>shouldLoadMobile</key>
+	<string>prismaticTexture</string>
+	<key>shouldPushTouch</key>
+	<string>tabbardespitestage</string>
+	<key>smallEqualization</key>
+	<string>sizedboxBound</string>
+	<key>workflowmetrics</key>
+	<string>transitionvideo</string>
+</dict>
+</plist>

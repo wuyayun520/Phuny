@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mainBox</key>
+	<string>deferredVideo</string>
+	<key>originalWidget</key>
+	<string>canPersistBinary</string>
+	<key>respectiveEqualization</key>
+	<string>basicintensitybehavior</string>
+	<key>symbolTension</key>
+	<string>pagertag</string>
+</dict>
+</plist>

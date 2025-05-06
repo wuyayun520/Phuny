@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inactiveWidget</key>
+	<string>canProcessEquipment</string>
+	<key>shouldMountedReference</key>
+	<string>resilienceVelocity</string>
+	<key>shouldTransitionRadio</key>
+	<string>primaryTimer</string>
+	<key>usedVariant</key>
+	<string>delicateVertex</string>
+</dict>
+</plist>

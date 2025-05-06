@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderoftype</key>
+	<string>interfaceParameter</string>
+	<key>exitresponse</key>
+	<string>canCacheNib</string>
+	<key>nativeConsumption</key>
+	<string>shouldResumeLog</string>
+	<key>onboxtap</key>
+	<string>eventFacade</string>
+	<key>rapidCupertino</key>
+	<string>rectPrototype</string>
+	<key>shouldValidateGridView</key>
+	<string>permissiveLayout</string>
+	<key>symmetricdecoration</key>
+	<string>lostCatalyst</string>
+	<key>webVideo</key>
+	<string>offsetTicker</string>
+</dict>
+</plist>

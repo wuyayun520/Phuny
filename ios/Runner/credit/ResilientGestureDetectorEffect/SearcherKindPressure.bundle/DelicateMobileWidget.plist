@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonFeature</key>
+	<string>storyboardFunction</string>
+	<key>immediategrid</key>
+	<string>textureOrientation</string>
+	<key>oldAnimatedContainer</key>
+	<string>protectedSpot</string>
+	<key>tensorScene</key>
+	<string>elasticProtocol</string>
+</dict>
+</plist>

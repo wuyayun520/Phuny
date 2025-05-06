@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationsaturation</key>
+	<string>routeMonster</string>
+	<key>dedicatedTicker</key>
+	<string>prevRadius</string>
+	<key>ephemeralCurve</key>
+	<string>handlerInset</string>
+	<key>fixedCollection</key>
+	<string>inflatePreview</string>
+	<key>gesturedetectorforlayer</key>
+	<string>positionedFeedback</string>
+	<key>nativePopup</key>
+	<string>shouldAnimateSlider</string>
+	<key>shouldNotifyAccessory</key>
+	<string>shouldCreateBinary</string>
+	<key>uniqueMechanism</key>
+	<string>mastercurve</string>
+	<key>usedDimension</key>
+	<string>euclideanCard</string>
+</dict>
+</plist>

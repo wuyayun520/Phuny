@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lastMerger</key>
+	<string>showPlate</string>
+	<key>mobileswift</key>
+	<string>streamTabView</string>
+	<key>resilientAlignment</key>
+	<string>canPersistBatch</string>
+	<key>rowmediatorvelocity</key>
+	<string>smallproviderspeed</string>
+	<key>singlenavigator</key>
+	<string>shouldUnbindCard</string>
+	<key>texturevisibility</key>
+	<string>canCacheSession</string>
+</dict>
+</plist>

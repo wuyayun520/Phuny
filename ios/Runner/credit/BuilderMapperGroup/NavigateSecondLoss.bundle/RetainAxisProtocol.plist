@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengetweak</key>
+	<string>animatedFinder</string>
+	<key>futureprocessvalidation</key>
+	<string>beginnerPlate</string>
+	<key>lazyDescriptor</key>
+	<string>sampleBuffer</string>
+	<key>rapidView</key>
+	<string>resourceindex</string>
+	<key>strengthpadding</key>
+	<string>axisSkewY</string>
+	<key>viewBound</key>
+	<string>shouldInflateMusic</string>
+	<key>writedescriptor</key>
+	<string>firstWorkflow</string>
+</dict>
+</plist>

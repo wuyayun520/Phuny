@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderinwork</key>
+	<string>projectelement</string>
+	<key>bufferAcceleration</key>
+	<string>arithmeticTween</string>
+	<key>criticalqueuehead</key>
+	<string>copyText</string>
+	<key>dynamicCombiner</key>
+	<string>canAttachCosine</string>
+	<key>geometricMusic</key>
+	<string>transitionDirection</string>
+	<key>nativeExtension</key>
+	<string>shouldSubscribeDelegate</string>
+	<key>offsetfilter</key>
+	<string>permanentStorage</string>
+	<key>shouldAttachComposition</key>
+	<string>euclideantopicacceleration</string>
+</dict>
+</plist>

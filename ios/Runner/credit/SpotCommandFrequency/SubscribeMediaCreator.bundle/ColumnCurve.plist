@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystBottom</key>
+	<string>canSerializeNib</string>
+	<key>discardedBaseline</key>
+	<string>crudeMerger</string>
+	<key>easyRenderer</key>
+	<string>lazycellbound</string>
+	<key>flexibletasktype</key>
+	<string>inkwellPrototype</string>
+	<key>ignoredVolume</key>
+	<string>denseInfrastructure</string>
+	<key>intensityduration</key>
+	<string>sensortaskbottom</string>
+	<key>metadatametrics</key>
+	<string>shouldSkipCanvas</string>
+	<key>serializerect</key>
+	<string>projectionMomentum</string>
+	<key>shouldRouteBitrate</key>
+	<string>configureStream</string>
+	<key>temporaryStorage</key>
+	<string>boxshadowsubscription</string>
+</dict>
+</plist>

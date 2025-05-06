@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeAspectRatio</key>
+	<string>keyInteractor</string>
+	<key>fetchmenu</key>
+	<string>similarSensor</string>
+	<key>rendererState</key>
+	<string>masterduringadapter</string>
+</dict>
+</plist>

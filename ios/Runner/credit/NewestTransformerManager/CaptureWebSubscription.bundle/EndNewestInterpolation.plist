@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleMethod</key>
+	<string>sophisticatedRoute</string>
+	<key>constantbound</key>
+	<string>missedSprite</string>
+	<key>gateInset</key>
+	<string>dropoutBuffer</string>
+	<key>geometricGroup</key>
+	<string>sequentialOffset</string>
+	<key>mobiletolerance</key>
+	<string>defaultCaption</string>
+	<key>rapidInteractor</key>
+	<string>canListenScroll</string>
+</dict>
+</plist>

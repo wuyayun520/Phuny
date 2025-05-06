@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferimpact</key>
+	<string>copyTween</string>
+	<key>coloroffset</key>
+	<string>radiusFacade</string>
+	<key>diffableStore</key>
+	<string>shouldLoadAlpha</string>
+	<key>featureSkewY</key>
+	<string>curvehue</string>
+	<key>missedScroller</key>
+	<string>diffableThread</string>
+	<key>semanticModel</key>
+	<string>disparateMerger</string>
+	<key>shouldProcessProvider</key>
+	<string>draggablePresenter</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerCatalyst</key>
+	<string>immediateTransformer</string>
+	<key>interactorOrigin</key>
+	<string>significantProvider</string>
+	<key>intermediatechapter</key>
+	<string>binderSkewY</string>
+	<key>kernelBehavior</key>
+	<string>loadCustomPaint</string>
+	<key>managerFormat</key>
+	<string>nextIsolate</string>
+	<key>scrollableborder</key>
+	<string>typicalCheckbox</string>
+	<key>transformertaskoffset</key>
+	<string>canDisposePositioned</string>
+</dict>
+</plist>

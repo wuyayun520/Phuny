@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowtype</key>
+	<string>detailFormat</string>
+	<key>canvasfrequency</key>
+	<string>routeCenter</string>
+	<key>lastIntegration</key>
+	<string>popDecoration</string>
+	<key>rendercontroller</key>
+	<string>cacheScreen</string>
+	<key>shouldYieldPositioned</key>
+	<string>rapidSwitch</string>
+	<key>singleRequest</key>
+	<string>graphicBottom</string>
+	<key>unactivatedDelegate</key>
+	<string>sizeDecorator</string>
+</dict>
+</plist>

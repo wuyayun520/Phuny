@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncdirection</key>
+	<string>transformerSaturation</string>
+	<key>customizedevent</key>
+	<string>dedicatedcurve</string>
+	<key>lastPromise</key>
+	<string>canDisposeNib</string>
+	<key>marginType</key>
+	<string>optimizehandler</string>
+	<key>temporaryError</key>
+	<string>setstateSemantics</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartVisibility</key>
+	<string>immediateTouch</string>
+	<key>pageviewtolerance</key>
+	<string>cellDensity</string>
+	<key>semantictasktag</key>
+	<string>marginForce</string>
+	<key>transitionbesidework</key>
+	<string>layoutvisitorborder</string>
+	<key>uniqueLayer</key>
+	<string>shouldTransformCosine</string>
+</dict>
+</plist>

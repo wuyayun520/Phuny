@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectBorder</key>
+	<string>publishCursor</string>
+	<key>interfacetraversal</key>
+	<string>showFeature</string>
+	<key>opaqueactivityappearance</key>
+	<string>pageviewEdge</string>
+	<key>playbackdensity</key>
+	<string>symmetricDocument</string>
+	<key>shouldBindExponent</key>
+	<string>resetUseCase</string>
+</dict>
+</plist>

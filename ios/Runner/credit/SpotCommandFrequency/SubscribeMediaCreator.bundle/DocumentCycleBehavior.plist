@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableChapter</key>
+	<string>equalizationParameter</string>
+	<key>draggableDetector</key>
+	<string>dismissGrain</string>
+	<key>flexibleCustomPaint</key>
+	<string>listenStateless</string>
+	<key>logSize</key>
+	<string>accessibleProject</string>
+	<key>missionFrequency</key>
+	<string>hierarchicalGroup</string>
+	<key>multiCompleter</key>
+	<string>shouldSetStateRadio</string>
+	<key>shouldObserveKernel</key>
+	<string>baseTier</string>
+	<key>slashEdge</key>
+	<string>shouldUpdateGrayscale</string>
+	<key>taxonomySize</key>
+	<string>shouldEncodeGrayscale</string>
+</dict>
+</plist>

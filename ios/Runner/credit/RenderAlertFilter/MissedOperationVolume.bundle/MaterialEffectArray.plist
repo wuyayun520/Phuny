@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gestureOrigin</key>
+	<string>disabledSkin</string>
+	<key>immediateReceiver</key>
+	<string>imperativeRecursion</string>
+	<key>interpolationsaturation</key>
+	<string>touchfromparam</string>
+	<key>missedNavigator</key>
+	<string>resetCompleter</string>
+	<key>notifierBehavior</key>
+	<string>rectangleFeedback</string>
+	<key>primarycaptionduration</key>
+	<string>refactorConstraint</string>
+	<key>publicSubscriber</key>
+	<string>cacheCube</string>
+	<key>seamlessFinder</key>
+	<string>interactiveMultiplication</string>
+</dict>
+</plist>

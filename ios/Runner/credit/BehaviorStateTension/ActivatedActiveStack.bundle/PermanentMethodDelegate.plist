@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptioncenter</key>
+	<string>shouldEmitClipper</string>
+	<key>freeequipment</key>
+	<string>permanentExpanded</string>
+	<key>gridspacing</key>
+	<string>cupertinoReliability</string>
+	<key>imperativeAwait</key>
+	<string>ignoredScheduler</string>
+	<key>nativeLoss</key>
+	<string>activePopup</string>
+	<key>resultnearcycle</key>
+	<string>releaseLabel</string>
+	<key>roleinteractor</key>
+	<string>constraintchaintype</string>
+	<key>shouldStreamBatch</key>
+	<string>shouldrebuildgraphic</string>
+	<key>strokeFrequency</key>
+	<string>sorterSaturation</string>
+	<key>typicalCustomPaint</key>
+	<string>customizedgem</string>
+</dict>
+</plist>

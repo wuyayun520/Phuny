@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mediocreStateful</key>
+	<string>dispatchLog</string>
+	<key>semanticScheduler</key>
+	<string>marginduration</string>
+	<key>shouldInflateButton</key>
+	<string>scrollablePicker</string>
+	<key>shouldSubscribeEntropy</key>
+	<string>factoryWork</string>
+	<key>trianglesBound</key>
+	<string>canSubscribeRoute</string>
+</dict>
+</plist>

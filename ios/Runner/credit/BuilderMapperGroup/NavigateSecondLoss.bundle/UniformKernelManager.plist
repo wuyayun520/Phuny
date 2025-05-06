@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agilePolyfill</key>
+	<string>presenterimpact</string>
+	<key>arithmeticReducer</key>
+	<string>trainreducer</string>
+	<key>awaitcolor</key>
+	<string>capsulefromkind</string>
+	<key>completerscale</key>
+	<string>concatenateRouter</string>
+	<key>displayableReplica</key>
+	<string>compositionaspect</string>
+	<key>mainMatrix</key>
+	<string>statefulImpression</string>
+	<key>materializerSpeed</key>
+	<string>playbackcubit</string>
+	<key>processappbar</key>
+	<string>listviewTheme</string>
+	<key>scalestate</key>
+	<string>readIsolate</string>
+	<key>smartModal</key>
+	<string>variantMomentum</string>
+</dict>
+</plist>

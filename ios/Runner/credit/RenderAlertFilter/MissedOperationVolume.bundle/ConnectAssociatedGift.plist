@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblecurve</key>
+	<string>stepObserver</string>
+	<key>disabledMaster</key>
+	<string>dismissStore</string>
+	<key>equivalentOrigin</key>
+	<string>regulateDependency</string>
+	<key>pickername</key>
+	<string>disabledWrapper</string>
+	<key>pinchableStorage</key>
+	<string>respectiveFeature</string>
+	<key>promiserenderer</key>
+	<string>sineJob</string>
+	<key>resolverOrientation</key>
+	<string>shouldBuildComposition</string>
+	<key>secondCaption</key>
+	<string>captionTier</string>
+</dict>
+</plist>

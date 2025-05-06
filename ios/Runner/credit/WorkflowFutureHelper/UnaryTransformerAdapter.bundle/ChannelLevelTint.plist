@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveUnary</key>
+	<string>bufferlinker</string>
+	<key>firstBullet</key>
+	<string>permanentLifecycle</string>
+	<key>sequentialColor</key>
+	<string>canAnimateListView</string>
+	<key>shouldAnimateResource</key>
+	<string>localSlash</string>
+</dict>
+</plist>

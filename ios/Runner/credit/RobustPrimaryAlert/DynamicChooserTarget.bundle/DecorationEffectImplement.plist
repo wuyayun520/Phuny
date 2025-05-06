@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderFormat</key>
+	<string>yieldWidget</string>
+	<key>newestTabView</key>
+	<string>bundleTween</string>
+	<key>painterposition</key>
+	<string>promisePadding</string>
+	<key>resizemission</key>
+	<string>smallListView</string>
+	<key>shouldFetchBox</key>
+	<string>shouldInflateBox</string>
+	<key>shouldSerializeClipper</key>
+	<string>logarithmMomentum</string>
+	<key>unsortedLocalization</key>
+	<string>yieldCurve</string>
+</dict>
+</plist>

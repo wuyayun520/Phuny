@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintDensity</key>
+	<string>rectangleForce</string>
+	<key>deliveryStyle</key>
+	<string>gramTint</string>
+	<key>rectangleFrequency</key>
+	<string>rectWork</string>
+	<key>statelessSample</key>
+	<string>fetchRadio</string>
+</dict>
+</plist>

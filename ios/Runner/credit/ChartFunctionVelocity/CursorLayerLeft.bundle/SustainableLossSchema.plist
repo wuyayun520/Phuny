@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>durationResponse</key>
+	<string>allocateAsset</string>
+	<key>polyfillFormat</key>
+	<string>defaultModulus</string>
+	<key>reducerconfidentiality</key>
+	<string>shouldRouteProfile</string>
+	<key>selectedMobile</key>
+	<string>mediumGraph</string>
+	<key>shouldEmitReduction</key>
+	<string>signLocation</string>
+	<key>statusfeedback</key>
+	<string>sharedModulus</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptorCenter</key>
+	<string>largeSchema</string>
+	<key>dispatcherRight</key>
+	<string>shouldanimatecurve</string>
+	<key>draggableSpot</key>
+	<string>unmountActivity</string>
+	<key>grainBound</key>
+	<string>smarthashrate</string>
+	<key>grayscaleMode</key>
+	<string>selectedSkin</string>
+	<key>receiverVelocity</key>
+	<string>canNotifyMultiplication</string>
+	<key>shouldReplacePositioned</key>
+	<string>decodebuffer</string>
+	<key>stepScale</key>
+	<string>texturescroller</string>
+	<key>transitioninformation</key>
+	<string>shouldRenderAnimation</string>
+</dict>
+</plist>

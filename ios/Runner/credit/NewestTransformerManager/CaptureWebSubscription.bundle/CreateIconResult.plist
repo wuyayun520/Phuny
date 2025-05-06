@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationscopestyle</key>
+	<string>basecenter</string>
+	<key>asynchronousBoxShadow</key>
+	<string>draggableCursor</string>
+	<key>currentallocator</key>
+	<string>obtainZone</string>
+	<key>modalShape</key>
+	<string>groupdecoratorsaturation</string>
+	<key>processorInterval</key>
+	<string>clipConfiguration</string>
+	<key>streamsinceprocess</key>
+	<string>subscribePromise</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bindgridview</key>
+	<string>hierarchicalDelegate</string>
+	<key>enabledCompletion</key>
+	<string>canProcessMaterial</string>
+	<key>imageMode</key>
+	<string>loadPageView</string>
+	<key>invisibleSubpixel</key>
+	<string>interceptLocalization</string>
+	<key>protectedTabView</key>
+	<string>notifierbuffer</string>
+	<key>setstategraph</key>
+	<string>shouldMountedChallenge</string>
+	<key>shouldLayoutEqualization</key>
+	<string>customIsolate</string>
+	<key>shouldroutebox</key>
+	<string>routeTouch</string>
+	<key>sortedRect</key>
+	<string>embedRow</string>
+</dict>
+</plist>

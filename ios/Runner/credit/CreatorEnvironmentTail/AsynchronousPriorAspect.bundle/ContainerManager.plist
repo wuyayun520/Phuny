@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalAudio</key>
+	<string>delegatecommandindex</string>
+	<key>disabledTabBar</key>
+	<string>maxProvider</string>
+	<key>gesturedetectorEdge</key>
+	<string>mapForce</string>
+	<key>managerbottom</key>
+	<string>firstAnchor</string>
+	<key>materialRouter</key>
+	<string>pushsingleton</string>
+	<key>newestMobile</key>
+	<string>touchShade</string>
+	<key>reconcileloss</key>
+	<string>symmetricimage</string>
+	<key>retainedStep</key>
+	<string>queueContrast</string>
+	<key>shouldPopAppBar</key>
+	<string>canStreamCube</string>
+	<key>uniqueRestriction</key>
+	<string>emitPromise</string>
+</dict>
+</plist>

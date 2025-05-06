@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedcoordinatorvisible</key>
+	<string>thresholdStyle</string>
+	<key>formatstateless</key>
+	<string>scrollableNotification</string>
+	<key>hyperbolicTween</key>
+	<string>factoryAcceleration</string>
+	<key>optimizeproject</key>
+	<string>scenarioType</string>
+	<key>pickerFrequency</key>
+	<string>publishNotifier</string>
+	<key>statefulLog</key>
+	<string>annotateasset</string>
+	<key>unactivatedStamp</key>
+	<string>discardedInjection</string>
+	<key>updatelayer</key>
+	<string>reducerlayervelocity</string>
+</dict>
+</plist>

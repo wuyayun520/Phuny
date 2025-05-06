@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentdrawer</key>
+	<string>criticalMission</string>
+	<key>providerAlignment</key>
+	<string>associatedslashopacity</string>
+	<key>resourceconfiguration</key>
+	<string>shouldDeserializeInstruction</string>
+</dict>
+</plist>

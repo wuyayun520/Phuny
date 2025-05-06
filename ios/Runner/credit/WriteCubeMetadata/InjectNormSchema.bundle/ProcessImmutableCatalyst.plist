@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheanimation</key>
+	<string>canSaveFragment</string>
+	<key>enabledTrigger</key>
+	<string>uniqueRestriction</string>
+	<key>navigationvelocity</key>
+	<string>customFeature</string>
+	<key>processorInteraction</key>
+	<string>layoutTransition</string>
+	<key>scrollableAnalogy</key>
+	<string>secondChannels</string>
+	<key>sensornearcommand</key>
+	<string>rowProxy</string>
+	<key>shouldNotifyMember</key>
+	<string>generatePresenter</string>
+	<key>tappableBullet</key>
+	<string>tickerColor</string>
+	<key>unaryTail</key>
+	<string>brushzone</string>
+</dict>
+</plist>

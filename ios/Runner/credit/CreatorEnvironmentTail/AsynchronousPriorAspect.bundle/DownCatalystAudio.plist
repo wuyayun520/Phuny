@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>emittershape</key>
+	<string>fusedUtil</string>
+	<key>interpolationkind</key>
+	<string>usecaseCenter</string>
+	<key>otherstatestatus</key>
+	<string>connectCaption</string>
+	<key>rectdistance</key>
+	<string>canReplaceIcon</string>
+	<key>responsivePicker</key>
+	<string>priorOccasion</string>
+	<key>scaffoldvisibility</key>
+	<string>pauseScale</string>
+	<key>shouldDeserializeSubpixel</key>
+	<string>storeBloc</string>
+	<key>shouldProcessExponent</key>
+	<string>canFetchGestureDetector</string>
+	<key>smartLayout</key>
+	<string>substantialInformation</string>
+	<key>spotBound</key>
+	<string>rebuildCompletion</string>
+</dict>
+</plist>

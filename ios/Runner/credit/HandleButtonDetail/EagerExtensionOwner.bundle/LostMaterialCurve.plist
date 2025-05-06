@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentSkewX</key>
+	<string>buttonlifecycle</string>
+	<key>interpolationStyle</key>
+	<string>validateProjection</string>
+	<key>lastshape</key>
+	<string>workflowSkewY</string>
+	<key>musicinterval</key>
+	<string>fusedConsumption</string>
+	<key>oldInfo</key>
+	<string>directlyFlex</string>
+	<key>persistentScaffold</key>
+	<string>fragmentsFrequency</string>
+	<key>shouldHandleBase</key>
+	<string>unaryEnvironment</string>
+	<key>specifyPermutation</key>
+	<string>sequentialTheme</string>
+	<key>titlearoundmode</key>
+	<string>eagerCallback</string>
+	<key>viewsubscription</key>
+	<string>positioneddensity</string>
+</dict>
+</plist>

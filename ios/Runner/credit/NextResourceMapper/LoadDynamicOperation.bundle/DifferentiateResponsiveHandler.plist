@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianGrid</key>
+	<string>lazyFragment</string>
+	<key>convolutionpager</key>
+	<string>transformerposition</string>
+	<key>linkerSize</key>
+	<string>hardThreshold</string>
+	<key>onfuturechanged</key>
+	<string>momentumfacaderesponse</string>
+	<key>opaqueQuaternion</key>
+	<string>scheduleDecoration</string>
+	<key>protectedLoader</key>
+	<string>sequentialMapper</string>
+</dict>
+</plist>

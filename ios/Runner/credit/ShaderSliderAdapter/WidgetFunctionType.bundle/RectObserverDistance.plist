@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronoustolerance</key>
+	<string>delicatespecifier</string>
+	<key>lostTask</key>
+	<string>accordionTransition</string>
+	<key>shouldSetStateMap</key>
+	<string>fillresource</string>
+	<key>shouldTransformRemainder</key>
+	<string>statefulSystem</string>
+	<key>statefulRestriction</key>
+	<string>chaptervaluecenter</string>
+</dict>
+</plist>

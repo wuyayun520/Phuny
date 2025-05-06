@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dataStyle</key>
+	<string>mediaquerycolor</string>
+	<key>desktoparchitecture</key>
+	<string>shouldPersistAccessory</string>
+	<key>exponentTint</key>
+	<string>rapidCaption</string>
+	<key>methodformforce</key>
+	<string>integerschema</string>
+	<key>multiAppBar</key>
+	<string>navigatormargin</string>
+	<key>navigationDepth</key>
+	<string>constantMomentum</string>
+	<key>tensorAlignment</key>
+	<string>shouldStreamBinary</string>
+	<key>textvelocity</key>
+	<string>isolateLevel</string>
+</dict>
+</plist>

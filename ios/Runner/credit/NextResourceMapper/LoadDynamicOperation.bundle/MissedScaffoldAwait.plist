@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>granularMethod</key>
+	<string>imageexceptcomposite</string>
+	<key>locatecanvas</key>
+	<string>unbindMobile</string>
+	<key>masterAppearance</key>
+	<string>custompaintComposite</string>
+	<key>rapidBoxShadow</key>
+	<string>canSetStateSemantics</string>
+	<key>shouldPrepareLogarithm</key>
+	<string>fusedGradient</string>
+</dict>
+</plist>

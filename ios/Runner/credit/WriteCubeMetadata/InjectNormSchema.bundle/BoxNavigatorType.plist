@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystmethod</key>
+	<string>unsortedSelector</string>
+	<key>concurrentRadius</key>
+	<string>animatedcontainerdelay</string>
+	<key>constantInset</key>
+	<string>vertexInset</string>
+	<key>fusedCurve</key>
+	<string>infrastructureTop</string>
+	<key>rendererMomentum</key>
+	<string>augmentError</string>
+</dict>
+</plist>

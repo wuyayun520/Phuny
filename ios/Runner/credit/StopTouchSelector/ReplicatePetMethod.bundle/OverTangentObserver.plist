@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hardMatrix</key>
+	<string>multiefficiency</string>
+	<key>labelsincelayer</key>
+	<string>crudeCustomPaint</string>
+	<key>numericalslash</key>
+	<string>canEmitGrayscale</string>
+	<key>pinchableMaster</key>
+	<string>shouldnotifyternary</string>
+	<key>rebuildasync</key>
+	<string>canPublishCell</string>
+	<key>resizableslider</key>
+	<string>unactivatedCache</string>
+	<key>semanticintegration</key>
+	<string>canUnmountedOption</string>
+	<key>shoulddismissgradient</key>
+	<string>emitshader</string>
+	<key>similarEntropy</key>
+	<string>parallelFragments</string>
+</dict>
+</plist>

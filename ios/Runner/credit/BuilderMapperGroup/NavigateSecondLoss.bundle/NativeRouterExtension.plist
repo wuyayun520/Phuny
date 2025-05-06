@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialprogressbarleft</key>
+	<string>readcertificate</string>
+	<key>pageviewMode</key>
+	<string>awaitAppearance</string>
+	<key>shouldAnimateBullet</key>
+	<string>sceneNumber</string>
+	<key>statelessSkirt</key>
+	<string>significantClipper</string>
+</dict>
+</plist>

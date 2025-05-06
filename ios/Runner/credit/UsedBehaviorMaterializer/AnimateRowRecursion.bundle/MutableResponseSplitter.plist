@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonScenario</key>
+	<string>canDeserializeSwitch</string>
+	<key>logLocation</key>
+	<string>canFinishCompletion</string>
+	<key>missedGesture</key>
+	<string>normalMenu</string>
+	<key>quaternionstyle</key>
+	<string>methodappearance</string>
+	<key>relationalOffset</key>
+	<string>keepchart</string>
+	<key>statefulscreen</key>
+	<string>listenState</string>
+	<key>sustainablescope</key>
+	<string>activeBinary</string>
+</dict>
+</plist>

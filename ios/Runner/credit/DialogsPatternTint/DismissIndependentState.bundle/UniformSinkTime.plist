@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleLog</key>
+	<string>intensitystylehead</string>
+	<key>denseQueue</key>
+	<string>monsterPlatform</string>
+	<key>exponentborder</key>
+	<string>canRenderView</string>
+	<key>sampleDirection</key>
+	<string>hardtabbar</string>
+	<key>semanticSignature</key>
+	<string>statefulRole</string>
+	<key>stackcontrast</key>
+	<string>shouldmounttransition</string>
+	<key>subsequentNotification</key>
+	<string>loaderLocation</string>
+</dict>
+</plist>

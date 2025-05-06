@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agilePoint</key>
+	<string>scrollableEntropy</string>
+	<key>destroycache</key>
+	<string>deserializeSink</string>
+	<key>globalScenario</key>
+	<string>synchronizeCubit</string>
+	<key>graintail</key>
+	<string>infrastructureStatus</string>
+	<key>ignoredDialogs</key>
+	<string>numericalPosition</string>
+	<key>imperativeTernary</key>
+	<string>shouldTransformGestureDetector</string>
+	<key>mediocreAnalyzer</key>
+	<string>celltag</string>
+	<key>protectedBloc</key>
+	<string>canDismissThread</string>
+</dict>
+</plist>

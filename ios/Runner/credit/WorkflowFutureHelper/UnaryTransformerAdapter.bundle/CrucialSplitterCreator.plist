@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cachegrid</key>
+	<string>texturelevelspeed</string>
+	<key>hyperbolicheapresponse</key>
+	<string>routeBuffer</string>
+	<key>materialTechnique</key>
+	<string>conformPopup</string>
+	<key>otherGrain</key>
+	<string>encodeView</string>
+	<key>segmentusecase</key>
+	<string>widgetrecursion</string>
+</dict>
+</plist>

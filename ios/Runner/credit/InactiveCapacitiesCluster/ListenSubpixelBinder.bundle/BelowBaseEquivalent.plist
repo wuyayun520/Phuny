@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaFormat</key>
+	<string>cosineSpacing</string>
+	<key>fixedarithmeticorigin</key>
+	<string>deflateAwait</string>
+	<key>missedprovision</key>
+	<string>persistrequest</string>
+	<key>normvideo</key>
+	<string>fusedDescriptor</string>
+	<key>smallRecursion</key>
+	<string>backwardContainer</string>
+	<key>subtleStamp</key>
+	<string>shouldResumeDimension</string>
+</dict>
+</plist>

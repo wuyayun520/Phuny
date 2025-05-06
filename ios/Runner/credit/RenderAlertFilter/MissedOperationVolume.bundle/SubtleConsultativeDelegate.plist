@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agilestate</key>
+	<string>interactorAdapter</string>
+	<key>eventalignment</key>
+	<string>holdPresenter</string>
+	<key>globalsliderappearance</key>
+	<string>disabledComponent</string>
+	<key>nativeTransformer</key>
+	<string>sequentialGraph</string>
+	<key>newestReducer</key>
+	<string>actionadaptercenter</string>
+	<key>shouldAnimateTernary</key>
+	<string>cacheoffset</string>
+	<key>shouldMountInstruction</key>
+	<string>usageLayer</string>
+	<key>statebound</key>
+	<string>significantScene</string>
+</dict>
+</plist>

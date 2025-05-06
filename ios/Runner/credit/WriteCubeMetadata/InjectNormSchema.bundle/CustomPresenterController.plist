@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessorySpeed</key>
+	<string>shouldDeserializeGrayscale</string>
+	<key>animatedplate</key>
+	<string>visibleGraph</string>
+	<key>aperturetop</key>
+	<string>keepScaffold</string>
+	<key>declarativeEfficiency</key>
+	<string>vectorizeIsolate</string>
+	<key>mediumStorage</key>
+	<string>errorSingleton</string>
+	<key>pushalignment</key>
+	<string>presenterfacadestate</string>
+</dict>
+</plist>

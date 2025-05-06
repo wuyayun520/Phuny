@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>benchmarktimer</key>
+	<string>mediumTransformer</string>
+	<key>elasticitySpeed</key>
+	<string>disabledBase</string>
+	<key>interactivereducerresponse</key>
+	<string>canLayoutPet</string>
+	<key>lastLatency</key>
+	<string>appendResponse</string>
+	<key>lastSkirt</key>
+	<string>independentNode</string>
+	<key>moduleFrequency</key>
+	<string>previewsincetype</string>
+	<key>shouldFinishTabBar</key>
+	<string>semanticChecklist</string>
+	<key>webEquivalent</key>
+	<string>loaderDirection</string>
+</dict>
+</plist>

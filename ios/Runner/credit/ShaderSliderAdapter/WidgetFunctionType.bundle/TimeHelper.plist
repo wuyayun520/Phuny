@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableCoordinator</key>
+	<string>concurrentRect</string>
+	<key>heapincludevar</key>
+	<string>canTrainThread</string>
+	<key>isPageView</key>
+	<string>priorLayout</string>
+	<key>routetask</key>
+	<string>sophisticatedhash</string>
+	<key>typicalLatency</key>
+	<string>canRestartRadio</string>
+</dict>
+</plist>

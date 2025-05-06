@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directutilorientation</key>
+	<string>pivotalProfile</string>
+	<key>inkwelldistance</key>
+	<string>multiSize</string>
+	<key>lifecycleRate</key>
+	<string>processbloc</string>
+	<key>navigatorbrightness</key>
+	<string>activatedMember</string>
+	<key>navigatorlayerformat</key>
+	<string>shouldDecodeText</string>
+	<key>pointtint</key>
+	<string>originalchartappearance</string>
+	<key>protectedController</key>
+	<string>cellMemento</string>
+	<key>respectiveEquivalent</key>
+	<string>baselineSkewY</string>
+	<key>tweaklocation</key>
+	<string>autoCard</string>
+</dict>
+</plist>

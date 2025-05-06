@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerKind</key>
+	<string>releaseReducer</string>
+	<key>criticalMedia</key>
+	<string>ignoredTextField</string>
+	<key>gateSpeed</key>
+	<string>minMargin</string>
+	<key>inactiveTimeline</key>
+	<string>visitPresenter</string>
+	<key>interpolationfromfunction</key>
+	<string>permutationspeed</string>
+	<key>observespecifier</key>
+	<string>rebuildPageView</string>
+	<key>requiredRecursion</key>
+	<string>dimensionlikework</string>
+	<key>tangentDistance</key>
+	<string>modelbrightness</string>
+	<key>touchLeft</key>
+	<string>disposeBehavior</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basedelegate</key>
+	<string>popmission</string>
+	<key>materialMusic</key>
+	<string>shouldDisconnectMaster</string>
+	<key>nextBase</key>
+	<string>schemaState</string>
+	<key>positionSpeed</key>
+	<string>queueStyle</string>
+	<key>scrollablevariantappearance</key>
+	<string>directModule</string>
+	<key>triggerInset</key>
+	<string>enumerateDescription</string>
+	<key>utilreliability</key>
+	<string>asynchronousFragment</string>
+</dict>
+</plist>

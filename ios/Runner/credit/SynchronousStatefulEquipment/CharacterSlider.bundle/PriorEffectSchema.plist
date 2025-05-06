@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>geometricGraphic</key>
+	<string>beginnerProvider</string>
+	<key>lastreduction</key>
+	<string>transitionGraphic</string>
+	<key>otherDimension</key>
+	<string>canListenActivity</string>
+	<key>requiredCompletion</key>
+	<string>skipTechnique</string>
+	<key>reusableRange</key>
+	<string>appendConstraint</string>
+	<key>shouldCreateGraphic</key>
+	<string>visitConstraint</string>
+	<key>singleLinker</key>
+	<string>exponentzone</string>
+</dict>
+</plist>

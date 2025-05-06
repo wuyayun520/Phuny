@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivemission</key>
+	<string>animatedBitrate</string>
+	<key>gemMomentum</key>
+	<string>repositorytime</string>
+	<key>singleBaseline</key>
+	<string>popError</string>
+	<key>traversalPadding</key>
+	<string>operationAction</string>
+</dict>
+</plist>

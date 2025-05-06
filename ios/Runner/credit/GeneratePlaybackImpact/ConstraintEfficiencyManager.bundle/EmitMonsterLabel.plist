@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleLatency</key>
+	<string>timelineInset</string>
+	<key>backwardNavigator</key>
+	<string>titleleft</string>
+	<key>capacityDistance</key>
+	<string>canResumeCoordinator</string>
+	<key>consumeborder</key>
+	<string>fixedGrayscale</string>
+	<key>explicitPolyfill</key>
+	<string>vertexFeedback</string>
+	<key>interactiveAnimator</key>
+	<string>holdCurve</string>
+	<key>providerInset</key>
+	<string>canStopListView</string>
+	<key>serviceagainstparameter</key>
+	<string>skinTop</string>
+	<key>shouldStartConsumer</key>
+	<string>shouldUpdateMovement</string>
+	<key>temporaryMargin</key>
+	<string>parsedecoration</string>
+</dict>
+</plist>

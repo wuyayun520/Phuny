@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultAnchor</key>
+	<string>fusedCaption</string>
+	<key>intermediateLoss</key>
+	<string>cursorRight</string>
+	<key>nativeInfrastructure</key>
+	<string>monsterbyvar</string>
+	<key>positionprocessor</key>
+	<string>shouldPublishRole</string>
+	<key>rapidBox</key>
+	<string>cosineVisibility</string>
+	<key>shouldStartFragment</key>
+	<string>canBindStamp</string>
+	<key>shouldTransformCanvas</key>
+	<string>subsequentrenderer</string>
+	<key>stepSaturation</key>
+	<string>buildPositioned</string>
+</dict>
+</plist>

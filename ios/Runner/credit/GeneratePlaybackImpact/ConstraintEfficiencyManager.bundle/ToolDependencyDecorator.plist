@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletFeedback</key>
+	<string>accessibleDocument</string>
+	<key>inkwellMargin</key>
+	<string>entropycurve</string>
+	<key>repositorybyenvironment</key>
+	<string>missionVisitor</string>
+	<key>resolverbridgefeedback</key>
+	<string>serializeTool</string>
+	<key>shouldnotifybinary</key>
+	<string>statelessFlyweight</string>
+	<key>streamLeft</key>
+	<string>entityVisitor</string>
+	<key>uniqueText</key>
+	<string>cursornotation</string>
+</dict>
+</plist>

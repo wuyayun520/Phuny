@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsvariablespeed</key>
+	<string>customProvider</string>
+	<key>customSpecifier</key>
+	<string>widgetkind</string>
+	<key>largeThroughput</key>
+	<string>measureError</string>
+	<key>semanticSegment</key>
+	<string>emitterSkewX</string>
+	<key>shouldPopChecklist</key>
+	<string>requiredHandler</string>
+	<key>shouldSkipAppBar</key>
+	<string>utilrestriction</string>
+	<key>videomode</key>
+	<string>handlecollection</string>
+</dict>
+</plist>

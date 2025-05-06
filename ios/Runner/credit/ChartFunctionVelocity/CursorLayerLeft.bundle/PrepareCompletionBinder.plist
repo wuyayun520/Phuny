@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultmultiplication</key>
+	<string>processHeap</string>
+	<key>futureallocator</key>
+	<string>functionalScalability</string>
+	<key>nativeInteractor</key>
+	<string>canTrainArithmetic</string>
+	<key>opaqueCursor</key>
+	<string>checklistFlyweight</string>
+	<key>respectiveview</key>
+	<string>combinerState</string>
+</dict>
+</plist>

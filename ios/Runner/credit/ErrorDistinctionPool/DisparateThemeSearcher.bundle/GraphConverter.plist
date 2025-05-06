@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>pagerPadding</key>
+	<string>injectthread</string>
+	<key>presenterFeedback</key>
+	<string>opaqueBuffer</string>
+	<key>relationalPolyfill</key>
+	<string>concurrentMission</string>
+	<key>shouldparsedescriptor</key>
+	<string>coordinatorPosition</string>
+	<key>usedintegerscale</key>
+	<string>specifierCommand</string>
+</dict>
+</plist>

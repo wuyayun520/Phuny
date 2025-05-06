@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedTriangles</key>
+	<string>canTrainDescriptor</string>
+	<key>animationappearance</key>
+	<string>shouldLoadBrush</string>
+	<key>compositionalgridviewcontrast</key>
+	<string>declarativeFrame</string>
+	<key>controllerdirection</key>
+	<string>inflateGesture</string>
+	<key>handlesink</key>
+	<string>completionContext</string>
+	<key>opaqueInstruction</key>
+	<string>shouldInflateTernary</string>
+	<key>popdimension</key>
+	<string>shouldHandleMission</string>
+	<key>shouldMountedNorm</key>
+	<string>canBindClipper</string>
+	<key>streamcapacities</key>
+	<string>formatPlate</string>
+	<key>visibleAspectRatio</key>
+	<string>accordionSingleton</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hardRole</key>
+	<string>routebesidevariable</string>
+	<key>liteMechanism</key>
+	<string>thresholdTop</string>
+	<key>navigatorspeed</key>
+	<string>volumeShade</string>
+	<key>shouldFetchIcon</key>
+	<string>canDecodeAnchor</string>
+	<key>shouldLoadAppBar</key>
+	<string>resourceStage</string>
+	<key>shouldSaveLayout</key>
+	<string>paddingdirection</string>
+	<key>tableRotation</key>
+	<string>opaquesymbolhead</string>
+</dict>
+</plist>

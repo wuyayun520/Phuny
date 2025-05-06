@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorSkewY</key>
+	<string>shouldPrepareProtocol</string>
+	<key>currentprotocol</key>
+	<string>shouldSaveIndicator</string>
+	<key>keepsession</key>
+	<string>canRebuildMusic</string>
+	<key>mitigatescaffold</key>
+	<string>nativeMedia</string>
+	<key>resultvalidation</key>
+	<string>reactiveReducer</string>
+	<key>reusableQueue</key>
+	<string>spineParameter</string>
+	<key>shouldAnimateMusic</key>
+	<string>dedicatedRestriction</string>
+	<key>substantialFinder</key>
+	<string>overlayFramework</string>
+</dict>
+</plist>

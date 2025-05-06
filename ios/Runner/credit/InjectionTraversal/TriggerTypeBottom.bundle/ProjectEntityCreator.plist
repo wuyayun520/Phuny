@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorResponse</key>
+	<string>parseUsage</string>
+	<key>combinerContrast</key>
+	<string>previewvaluesize</string>
+	<key>richtextBehavior</key>
+	<string>ephemeralRequest</string>
+	<key>semanticStoryboard</key>
+	<string>shouldDisconnectBullet</string>
+	<key>symmetricZone</key>
+	<string>disparateDispatcher</string>
+</dict>
+</plist>

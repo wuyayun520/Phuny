@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columntweak</key>
+	<string>metadataDistance</string>
+	<key>dynamicDrawer</key>
+	<string>sliderMethod</string>
+	<key>exponentBrightness</key>
+	<string>backwardBuilder</string>
+	<key>poprow</key>
+	<string>fixedBase</string>
+	<key>publicCompleter</key>
+	<string>binderDepth</string>
+	<key>scaffoldprogressbar</key>
+	<string>borderSystem</string>
+	<key>scrollableInfo</key>
+	<string>extensionOffset</string>
+	<key>shouldValidateCheckbox</key>
+	<string>resizeSubscription</string>
+	<key>yieldlayout</key>
+	<string>rapidprovider</string>
+</dict>
+</plist>

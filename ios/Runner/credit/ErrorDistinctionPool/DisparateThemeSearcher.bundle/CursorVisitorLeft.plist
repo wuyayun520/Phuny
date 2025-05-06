@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>confidentialitySaturation</key>
+	<string>pausenode</string>
+	<key>configurationtag</key>
+	<string>otherDelivery</string>
+	<key>dynamicdescent</key>
+	<string>removeChart</string>
+	<key>hyperbolicRouter</key>
+	<string>canYieldAlert</string>
+	<key>resolveroffset</key>
+	<string>augmentModel</string>
+	<key>serviceBottom</key>
+	<string>fusedDimension</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsTop</key>
+	<string>debugChart</string>
+	<key>concurrentscaffolddensity</key>
+	<string>resultTask</string>
+	<key>curvecount</key>
+	<string>shouldpausebatch</string>
+	<key>directlydescent</key>
+	<string>crucialCompletion</string>
+	<key>objectpressure</key>
+	<string>dynamicPageView</string>
+	<key>parallelinfo</key>
+	<string>signVisitor</string>
+	<key>routerAppearance</key>
+	<string>concurrentOptimizer</string>
+	<key>tasktriangles</key>
+	<string>canValidateOverlay</string>
+</dict>
+</plist>

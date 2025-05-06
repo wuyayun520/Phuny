@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionthroughoperation</key>
+	<string>topicScope</string>
+	<key>constantMargin</key>
+	<string>saveTechnique</string>
+	<key>ephemeralManager</key>
+	<string>pagerPosition</string>
+	<key>lostStoryboard</key>
+	<string>shouldValidateSign</string>
+	<key>modalshapestyle</key>
+	<string>spotVariable</string>
+	<key>publicSemantics</key>
+	<string>statefulAscent</string>
+	<key>shouldUnmountIndicator</key>
+	<string>permanentNode</string>
+	<key>subscribedecoration</key>
+	<string>borderParameter</string>
+	<key>topicpadding</key>
+	<string>inkwellIndex</string>
+	<key>webIndicator</key>
+	<string>resizehash</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationdisclaimer</key>
+	<string>previewlevellocation</string>
+	<key>axislocalization</key>
+	<string>eagerBinder</string>
+	<key>diffableStream</key>
+	<string>canTransformBehavior</string>
+	<key>interactorSkewY</key>
+	<string>yieldSkin</string>
+	<key>petBorder</key>
+	<string>unsortedDrawer</string>
+	<key>scrollableStack</key>
+	<string>keyStateful</string>
+	<key>streamFeedback</key>
+	<string>pagerTransparency</string>
+</dict>
+</plist>

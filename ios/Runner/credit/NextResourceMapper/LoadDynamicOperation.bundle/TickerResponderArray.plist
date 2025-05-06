@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedAudio</key>
+	<string>canRestartComposition</string>
+	<key>materialPrecision</key>
+	<string>deprecateTimer</string>
+	<key>opaqueResult</key>
+	<string>grouppicker</string>
+	<key>subsequentsessionstatus</key>
+	<string>canParseDescriptor</string>
+	<key>uniformMargin</key>
+	<string>workflowDepth</string>
+</dict>
+</plist>

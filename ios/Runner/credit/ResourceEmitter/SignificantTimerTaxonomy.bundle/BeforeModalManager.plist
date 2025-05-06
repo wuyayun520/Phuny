@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptorcontaincycle</key>
+	<string>missedPublisher</string>
+	<key>layoutmodule</key>
+	<string>dynamicController</string>
+	<key>nibinterpreterbottom</key>
+	<string>discoverHandler</string>
+	<key>replacerequest</key>
+	<string>completerduringvar</string>
+	<key>shouldpublishspot</key>
+	<string>ephemeralCallback</string>
+	<key>themeormemento</key>
+	<string>shouldPrepareMonster</string>
+</dict>
+</plist>

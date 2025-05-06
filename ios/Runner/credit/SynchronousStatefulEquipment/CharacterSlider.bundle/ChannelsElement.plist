@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselinecount</key>
+	<string>activeNavigation</string>
+	<key>layoutbrightness</key>
+	<string>synchronousTask</string>
+	<key>pickerStatus</key>
+	<string>canUnmountedGridView</string>
+	<key>respectiveDependency</key>
+	<string>fragmentsindex</string>
+</dict>
+</plist>

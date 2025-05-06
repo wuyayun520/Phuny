@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteFormat</key>
+	<string>arithmeticCell</string>
+	<key>lostCheckbox</key>
+	<string>flexibleCreator</string>
+	<key>movementDuration</key>
+	<string>activestore</string>
+	<key>mutableExtension</key>
+	<string>observerFeedback</string>
+	<key>navigatormementodelay</key>
+	<string>persistentView</string>
+	<key>offsetDelay</key>
+	<string>formatBinary</string>
+	<key>prevTweak</key>
+	<string>pinchableconfidentiality</string>
+	<key>shouldListenContraction</key>
+	<string>sortedGesture</string>
+</dict>
+</plist>

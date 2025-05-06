@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelVisible</key>
+	<string>delicateRoute</string>
+	<key>cleanintensity</key>
+	<string>significantThroughput</string>
+	<key>crudePicker</key>
+	<string>greatVertex</string>
+	<key>fusedaction</key>
+	<string>publicOptimizer</string>
+	<key>profileOffset</key>
+	<string>precisionValidation</string>
+	<key>projectionFeedback</key>
+	<string>canPauseProject</string>
+	<key>streamsize</key>
+	<string>capsuleCommand</string>
+</dict>
+</plist>

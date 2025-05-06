@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseFlex</key>
+	<string>repositoryname</string>
+	<key>euclideanLoader</key>
+	<string>independentTimeline</string>
+	<key>heroBorder</key>
+	<string>columnEnvironment</string>
+	<key>shouldUnbindAnchor</key>
+	<string>gramDelay</string>
+	<key>sineparampadding</key>
+	<string>imperativeImage</string>
+	<key>slidertasktension</key>
+	<string>mediumMethod</string>
+	<key>temporaryEvent</key>
+	<string>rowtypeposition</string>
+</dict>
+</plist>

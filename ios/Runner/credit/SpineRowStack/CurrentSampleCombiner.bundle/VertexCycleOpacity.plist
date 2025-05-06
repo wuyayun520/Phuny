@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeSignature</key>
+	<string>declarativeConfidentiality</string>
+	<key>clippertag</key>
+	<string>tabviewstate</string>
+	<key>ignoredItem</key>
+	<string>criticalAwait</string>
+	<key>localizationAppearance</key>
+	<string>sliderObserver</string>
+	<key>mechanismstatus</key>
+	<string>canYieldConstraint</string>
+	<key>opaqueTernary</key>
+	<string>multiplicationRight</string>
+	<key>providerthanstrategy</key>
+	<string>consultativeAscent</string>
+	<key>reducerdepth</key>
+	<string>hasAnchor</string>
+	<key>statusVelocity</key>
+	<string>rapidCard</string>
+</dict>
+</plist>

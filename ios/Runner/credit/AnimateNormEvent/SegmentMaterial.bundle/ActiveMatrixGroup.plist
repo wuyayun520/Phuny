@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clonemobile</key>
+	<string>timeramongcontext</string>
+	<key>executechart</key>
+	<string>canSetStateStack</string>
+	<key>inheritedVolume</key>
+	<string>originalreplica</string>
+	<key>inheritedbitrate</key>
+	<string>recursiondelay</string>
+	<key>interactiveMember</key>
+	<string>intensityinset</string>
+	<key>oldStep</key>
+	<string>shouldUnmountedContraction</string>
+	<key>routebehavior</key>
+	<string>ephemeralBinder</string>
+	<key>shouldSetStateGate</key>
+	<string>eagerPreview</string>
+	<key>shouldUpdateExtension</key>
+	<string>customizedTween</string>
+	<key>topicBound</key>
+	<string>functionalBehavior</string>
+</dict>
+</plist>

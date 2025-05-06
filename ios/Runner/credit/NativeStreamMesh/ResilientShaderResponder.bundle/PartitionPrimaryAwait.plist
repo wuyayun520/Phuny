@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateSpot</key>
+	<string>accordionEqualization</string>
+	<key>publicSpot</key>
+	<string>canLayoutBehavior</string>
+	<key>rapidCatalyst</key>
+	<string>techniqueShape</string>
+	<key>scopeSkewX</key>
+	<string>shouldInflateLoss</string>
+	<key>sensordepth</key>
+	<string>shouldUnmountedMultiplication</string>
+	<key>sinkHead</key>
+	<string>taskTheme</string>
+</dict>
+</plist>

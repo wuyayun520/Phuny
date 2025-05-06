@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicBaseline</key>
+	<string>notifierStyle</string>
+	<key>delegatetheme</key>
+	<string>resumeMargin</string>
+	<key>directlyFragments</key>
+	<string>skinChain</string>
+	<key>fusedAsset</key>
+	<string>observeAction</string>
+	<key>gesturemesh</key>
+	<string>rebuildNotifier</string>
+	<key>intuitiveBitrate</key>
+	<string>interceptResolver</string>
+	<key>shouldTransitionKernel</key>
+	<string>layerduringjob</string>
+	<key>singleSymbol</key>
+	<string>makeHash</string>
+	<key>upgradeintensity</key>
+	<string>mutableObserver</string>
+</dict>
+</plist>

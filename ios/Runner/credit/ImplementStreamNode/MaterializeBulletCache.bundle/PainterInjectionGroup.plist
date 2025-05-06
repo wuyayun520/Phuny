@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarHead</key>
+	<string>sustainablemesh</string>
+	<key>defaultCursor</key>
+	<string>accordionGestureDetector</string>
+	<key>easyrouter</key>
+	<string>concurrentinjection</string>
+	<key>newestInstruction</key>
+	<string>canDeserializeProtocol</string>
+	<key>scalabilityBrightness</key>
+	<string>immediateScroller</string>
+	<key>shouldRestartInteger</key>
+	<string>pickerPadding</string>
+</dict>
+</plist>

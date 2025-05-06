@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonFactory</key>
+	<string>asynchronousPositioned</string>
+	<key>futureTransparency</key>
+	<string>nextRouter</string>
+	<key>mapSaturation</key>
+	<string>directlyConstant</string>
+	<key>shouldBuildPrecision</key>
+	<string>staticDelegate</string>
+	<key>sortedfeaturevelocity</key>
+	<string>clusterTint</string>
+</dict>
+</plist>

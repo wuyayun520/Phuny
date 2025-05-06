@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryvisible</key>
+	<string>charthue</string>
+	<key>crucialAllocator</key>
+	<string>lostAspectRatio</string>
+	<key>curvedelegate</key>
+	<string>canObserveVariant</string>
+	<key>routeshape</key>
+	<string>eagerCompletion</string>
+	<key>selectedLayout</key>
+	<string>shouldSubscribeNavigation</string>
+</dict>
+</plist>

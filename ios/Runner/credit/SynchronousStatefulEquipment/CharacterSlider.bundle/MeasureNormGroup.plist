@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>operationresponse</key>
+	<string>shouldMountCursor</string>
+	<key>originalContrast</key>
+	<string>unmountedSpot</string>
+	<key>rapidMediaQuery</key>
+	<string>shouldInflateInteger</string>
+	<key>sceneSize</key>
+	<string>canPersistSlider</string>
+	<key>selectedNotifier</key>
+	<string>processorFrequency</string>
+	<key>standaloneLatency</key>
+	<string>stringifySubscription</string>
+</dict>
+</plist>

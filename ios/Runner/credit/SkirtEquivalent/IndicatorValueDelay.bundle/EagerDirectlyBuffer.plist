@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonPainter</key>
+	<string>shouldShowCaption</string>
+	<key>crucialZone</key>
+	<string>canFetchCursor</string>
+	<key>navigationname</key>
+	<string>animatedcontainerBehavior</string>
+	<key>referenceName</key>
+	<string>quantizerGrain</string>
+	<key>resourcemetrics</key>
+	<string>rebuildEffect</string>
+	<key>sinkvariablelocation</key>
+	<string>visibleMatrix</string>
+	<key>timeScale</key>
+	<string>rangeHue</string>
+</dict>
+</plist>

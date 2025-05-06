@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionresponse</key>
+	<string>unmountGift</string>
+	<key>enabledheap</key>
+	<string>bindAspect</string>
+	<key>integerBrightness</key>
+	<string>hierarchicalPromise</string>
+	<key>persistentHeap</key>
+	<string>tabbarflags</string>
+	<key>reactivePicker</key>
+	<string>captureTimer</string>
+</dict>
+</plist>

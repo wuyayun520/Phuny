@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedProvision</key>
+	<string>uniqueconfiguration</string>
+	<key>alertResponse</key>
+	<string>meshMode</string>
+	<key>beginnerPicker</key>
+	<string>shouldPrepareOperation</string>
+	<key>enabledassetbrightness</key>
+	<string>crucialEquipment</string>
+	<key>iterativeGradient</key>
+	<string>immutableOperation</string>
+	<key>remediationRate</key>
+	<string>equipmentamongsingleton</string>
+</dict>
+</plist>

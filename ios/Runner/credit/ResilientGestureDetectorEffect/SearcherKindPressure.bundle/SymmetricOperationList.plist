@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncTail</key>
+	<string>radioResponse</string>
+	<key>consultativeResponse</key>
+	<string>cosineValue</string>
+	<key>converttext</key>
+	<string>mediumdecorationshape</string>
+	<key>easyRole</key>
+	<string>dedicatedReceiver</string>
+	<key>gestureOrientation</key>
+	<string>medialocation</string>
+	<key>presenterscenario</key>
+	<string>wrapService</string>
+	<key>significantAlert</key>
+	<string>enabledHash</string>
+</dict>
+</plist>

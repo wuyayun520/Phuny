@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterfrequency</key>
+	<string>grainStage</string>
+	<key>clippercomponent</key>
+	<string>introspectcard</string>
+	<key>commonOperation</key>
+	<string>curveName</string>
+	<key>directMaterializer</key>
+	<string>validateTechnique</string>
+	<key>elasticReceiver</key>
+	<string>cancelCheckbox</string>
+	<key>errorCoord</key>
+	<string>mediocreAnimator</string>
+	<key>euclideananimation</key>
+	<string>containerOrigin</string>
+	<key>subpixelFlags</key>
+	<string>positionDecorator</string>
+	<key>subsequentactivity</key>
+	<string>canFormatSine</string>
+	<key>symmetricInteractor</key>
+	<string>wrapSingleton</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mastersprite</key>
+	<string>propagateLoop</string>
+	<key>scenarioRight</key>
+	<string>calculateCurve</string>
+	<key>storeduration</key>
+	<string>beginnerChooser</string>
+	<key>usedDispatcher</key>
+	<string>sophisticatedalignment</string>
+</dict>
+</plist>

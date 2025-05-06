@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletskewx</key>
+	<string>globalResilience</string>
+	<key>currentAnalogy</key>
+	<string>recursionDistance</string>
+	<key>gestureInset</key>
+	<string>firstVector</string>
+	<key>isRow</key>
+	<string>inactiveGrain</string>
+	<key>shouldAnimateSlash</key>
+	<string>shouldInflateMediaQuery</string>
+	<key>shouldTransitionNavigation</key>
+	<string>controllerversusinterpreter</string>
+	<key>streamTail</key>
+	<string>shouldunmountcapsule</string>
+	<key>visibleSchema</key>
+	<string>shouldShowHistogram</string>
+</dict>
+</plist>

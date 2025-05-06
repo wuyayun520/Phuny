@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorcontrast</key>
+	<string>renameAlignment</string>
+	<key>progressbarquaternion</key>
+	<string>ascentHead</string>
+	<key>usedConsumption</key>
+	<string>shouldTransformSpine</string>
+</dict>
+</plist>

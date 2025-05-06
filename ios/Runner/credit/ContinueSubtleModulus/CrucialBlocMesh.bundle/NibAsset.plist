@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascentPadding</key>
+	<string>inflateAnimatedContainer</string>
+	<key>greatResilience</key>
+	<string>shouldDisposeNavigator</string>
+	<key>hasLog</key>
+	<string>graphicScope</string>
+	<key>lostpriorityrate</key>
+	<string>shouldHandleKernel</string>
+	<key>mediawithoutcommand</key>
+	<string>canProcessText</string>
+	<key>sequentialAnalyzer</key>
+	<string>makeanimation</string>
+	<key>touchprototypedelay</key>
+	<string>timeDistance</string>
+</dict>
+</plist>

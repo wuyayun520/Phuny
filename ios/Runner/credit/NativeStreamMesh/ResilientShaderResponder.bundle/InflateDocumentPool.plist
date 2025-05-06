@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleCapacity</key>
+	<string>shouldSetStateCache</string>
+	<key>customizedDimension</key>
+	<string>crudeCubit</string>
+	<key>extensionOrientation</key>
+	<string>shouldskipconsumer</string>
+	<key>pushservice</key>
+	<string>shouldrendercanvas</string>
+	<key>skirtSize</key>
+	<string>functionalBandwidth</string>
+</dict>
+</plist>

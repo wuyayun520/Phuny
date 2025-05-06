@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>datainset</key>
+	<string>optionShade</string>
+	<key>featureMode</key>
+	<string>mountSignature</string>
+	<key>lastMetrics</key>
+	<string>checkequalization</string>
+	<key>painterBorder</key>
+	<string>inheritedFragment</string>
+	<key>providerformat</key>
+	<string>customizedConfiguration</string>
+	<key>shouldYieldRow</key>
+	<string>canStreamWorkflow</string>
+	<key>uniformexception</key>
+	<string>sustainableAllocator</string>
+	<key>viewdelivery</key>
+	<string>textureskewy</string>
+</dict>
+</plist>

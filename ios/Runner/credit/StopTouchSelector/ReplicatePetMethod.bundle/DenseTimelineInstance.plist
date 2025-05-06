@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchoredge</key>
+	<string>discardedScenario</string>
+	<key>characterslider</key>
+	<string>activeSpot</string>
+	<key>continuewidget</key>
+	<string>histogramTail</string>
+	<key>draggablePageView</key>
+	<string>loadCupertino</string>
+	<key>listenersaturation</key>
+	<string>disabledTentative</string>
+	<key>parallelMerger</key>
+	<string>flexInterval</string>
+	<key>shouldStreamMaterial</key>
+	<string>maintainDuration</string>
+	<key>smartMapper</key>
+	<string>baselineName</string>
+</dict>
+</plist>

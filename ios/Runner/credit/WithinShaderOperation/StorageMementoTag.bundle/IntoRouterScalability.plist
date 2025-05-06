@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelTop</key>
+	<string>playbackAdapter</string>
+	<key>confidentialityCount</key>
+	<string>deferredFilter</string>
+	<key>convolutionresponse</key>
+	<string>lazymetrics</string>
+	<key>disconnectdependency</key>
+	<string>shouldPresentGrayscale</string>
+	<key>shaderVisible</key>
+	<string>localizationColor</string>
+</dict>
+</plist>

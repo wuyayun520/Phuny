@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customMonster</key>
+	<string>tensorGesture</string>
+	<key>discardedDependency</key>
+	<string>continuedelegate</string>
+	<key>histogramBehavior</key>
+	<string>usedFilter</string>
+	<key>particleenvironmentstate</key>
+	<string>listenerShape</string>
+	<key>subpixelconfidentiality</key>
+	<string>apertureMode</string>
+</dict>
+</plist>

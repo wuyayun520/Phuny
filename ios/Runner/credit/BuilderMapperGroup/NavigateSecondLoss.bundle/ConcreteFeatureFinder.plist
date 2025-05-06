@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedTransition</key>
+	<string>iconInterval</string>
+	<key>fusedMetrics</key>
+	<string>localLatency</string>
+	<key>performdelegate</key>
+	<string>adaptiveModel</string>
+	<key>resizableScreen</key>
+	<string>cancelframe</string>
+	<key>responsiveTexture</key>
+	<string>allocatoratvar</string>
+	<key>segmentposition</key>
+	<string>unsortedGroup</string>
+	<key>smallnavigator</key>
+	<string>protectedScaffold</string>
+	<key>tappableDelivery</key>
+	<string>shouldResumeObserver</string>
+	<key>temporarySkin</key>
+	<string>dialogsInterpreter</string>
+</dict>
+</plist>

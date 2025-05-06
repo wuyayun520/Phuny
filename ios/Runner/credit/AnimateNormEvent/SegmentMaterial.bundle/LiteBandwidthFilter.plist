@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedDetail</key>
+	<string>discardedexpanded</string>
+	<key>permanenttextfieldtop</key>
+	<string>statefulVisible</string>
+	<key>permissiveHistogram</key>
+	<string>batchFlags</string>
+	<key>prevGrayscale</key>
+	<string>coordinatorBottom</string>
+	<key>robustPublisher</key>
+	<string>canDismissSymbol</string>
+</dict>
+</plist>

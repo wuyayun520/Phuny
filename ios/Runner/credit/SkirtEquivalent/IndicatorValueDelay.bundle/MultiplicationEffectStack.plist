@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disclaimerTail</key>
+	<string>primarySubpixel</string>
+	<key>easylatency</key>
+	<string>canFetchMaster</string>
+	<key>imperativePicker</key>
+	<string>configureException</string>
+	<key>indicatortop</key>
+	<string>dialogsFlyweight</string>
+	<key>prismaticMetadata</key>
+	<string>displayableDuration</string>
+	<key>relationalStack</key>
+	<string>normalpainter</string>
+	<key>shouldFetchLog</key>
+	<string>wrapLayout</string>
+	<key>uniformThreshold</key>
+	<string>quantizerMetadata</string>
+</dict>
+</plist>

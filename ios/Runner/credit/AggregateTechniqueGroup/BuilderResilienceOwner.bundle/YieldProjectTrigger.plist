@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentTechnique</key>
+	<string>unactivatedentropy</string>
+	<key>connectrow</key>
+	<string>criticalChooser</string>
+	<key>evaluationTint</key>
+	<string>handlerVisible</string>
+	<key>independentResource</key>
+	<string>screenHue</string>
+	<key>largeStream</key>
+	<string>skinCoord</string>
+	<key>lostCache</key>
+	<string>intermediateAnchor</string>
+	<key>sceneLocation</key>
+	<string>adaptiveOperation</string>
+	<key>yieldrow</key>
+	<string>handleSkirt</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascentRate</key>
+	<string>triggerVisibility</string>
+	<key>awaitdistance</key>
+	<string>canMountChecklist</string>
+	<key>composableRequest</key>
+	<string>positionPrototype</string>
+	<key>filterLocation</key>
+	<string>analyzeTimer</string>
+	<key>mediaquerySkewY</key>
+	<string>mediaTask</string>
+	<key>resettool</key>
+	<string>gramFlags</string>
+</dict>
+</plist>

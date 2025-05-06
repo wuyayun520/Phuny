@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeBottom</key>
+	<string>mediaPrototype</string>
+	<key>effectbuilder</key>
+	<string>mediaContrast</string>
+	<key>keySign</key>
+	<string>errorshapeedge</string>
+	<key>profileBorder</key>
+	<string>mixinView</string>
+	<key>similarEqualization</key>
+	<string>mapPressure</string>
+	<key>subtleDelivery</key>
+	<string>validateSubpixel</string>
+	<key>uniformImage</key>
+	<string>uniformProtocol</string>
+</dict>
+</plist>

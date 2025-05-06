@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachticker</key>
+	<string>animatedcontainerActivity</string>
+	<key>gestureOpacity</key>
+	<string>dynamicRadius</string>
+	<key>otherParticle</key>
+	<string>retainedUtil</string>
+	<key>prevcontrollervisibility</key>
+	<string>resumeBitrate</string>
+	<key>shouldKeepDropdownButton</key>
+	<string>composableInteraction</string>
+	<key>variantcontaintask</key>
+	<string>materialNode</string>
+	<key>zonedescription</key>
+	<string>unlockParticle</string>
+</dict>
+</plist>

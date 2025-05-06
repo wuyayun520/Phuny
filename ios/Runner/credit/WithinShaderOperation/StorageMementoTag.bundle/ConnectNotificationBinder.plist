@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultCompletion</key>
+	<string>composableProcessor</string>
+	<key>hyperbolicRecursion</key>
+	<string>shouldRestartBox</string>
+	<key>immutableImpact</key>
+	<string>topicvalidation</string>
+	<key>opaqueCupertino</key>
+	<string>gridviewtransition</string>
+	<key>relationalPermutation</key>
+	<string>canCacheContainer</string>
+	<key>sensorsplitter</key>
+	<string>layoutanimation</string>
+	<key>shouldPublishShader</key>
+	<string>textfieldOrientation</string>
+</dict>
+</plist>

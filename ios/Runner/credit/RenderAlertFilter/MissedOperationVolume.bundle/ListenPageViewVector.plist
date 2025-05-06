@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>confidentialityInteraction</key>
+	<string>usedFuture</string>
+	<key>customInfrastructure</key>
+	<string>onboxshadowchanged</string>
+	<key>customProtocol</key>
+	<string>converterInset</string>
+	<key>difficultAsset</key>
+	<string>synchronousProvider</string>
+	<key>disabledCube</key>
+	<string>canNavigateSwift</string>
+	<key>ephemeralGesture</key>
+	<string>vertexCount</string>
+	<key>permanentFilter</key>
+	<string>displayableTrigger</string>
+	<key>resilientPopup</key>
+	<string>immediateImage</string>
+	<key>singletonwithoutchain</key>
+	<string>constraintmode</string>
+</dict>
+</plist>

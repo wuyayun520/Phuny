@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableModal</key>
+	<string>pivotalShader</string>
+	<key>errorinpattern</key>
+	<string>markText</string>
+	<key>gesturedetail</key>
+	<string>localizationPattern</string>
+	<key>mutableElasticity</key>
+	<string>sustainablemesh</string>
+	<key>touchvertex</key>
+	<string>immediateUseCase</string>
+	<key>unsortedInteractor</key>
+	<string>relationalMultiplication</string>
+</dict>
+</plist>

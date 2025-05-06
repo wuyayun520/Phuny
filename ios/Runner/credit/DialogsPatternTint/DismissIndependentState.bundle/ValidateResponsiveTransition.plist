@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineForce</key>
+	<string>discardedsearcher</string>
+	<key>certificatecallback</key>
+	<string>sizedboxForce</string>
+	<key>disconnectboxshadow</key>
+	<string>restartEntropy</string>
+	<key>imperativeMetadata</key>
+	<string>shouldContinueText</string>
+	<key>interactiveVideo</key>
+	<string>fetchSkin</string>
+	<key>maintaininjection</key>
+	<string>inflatetexture</string>
+	<key>shouldDisposeCursor</key>
+	<string>rowspeed</string>
+	<key>unactivatedColor</key>
+	<string>shouldLoadAlpha</string>
+</dict>
+</plist>

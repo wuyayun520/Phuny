@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoEntity</key>
+	<string>tappableCapacities</string>
+	<key>beginnerChooser</key>
+	<string>encodeGestureDetector</string>
+	<key>borderIndex</key>
+	<string>canEndComposition</string>
+	<key>diversifiedOption</key>
+	<string>hyperbolicInterpolation</string>
+	<key>newestReduction</key>
+	<string>priorityValidation</string>
+	<key>parallelStateful</key>
+	<string>appendUseCase</string>
+	<key>permanentgraph</key>
+	<string>trainMember</string>
+	<key>responseimpression</key>
+	<string>itemSaturation</string>
+	<key>shouldListenPoint</key>
+	<string>rapidWidget</string>
+	<key>shouldStartModulus</key>
+	<string>canSubscribeSubpixel</string>
+</dict>
+</plist>

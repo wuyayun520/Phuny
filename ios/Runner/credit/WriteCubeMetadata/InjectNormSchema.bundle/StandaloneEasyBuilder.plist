@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesFrequency</key>
+	<string>exponentLeft</string>
+	<key>diversifiedSpecifier</key>
+	<string>renameCurve</string>
+	<key>iconelement</key>
+	<string>difficultcompletioncount</string>
+	<key>intensityShape</key>
+	<string>ephemeralAnimatedContainer</string>
+	<key>musicpressure</key>
+	<string>shouldDisconnectMovement</string>
+	<key>seamlessScroller</key>
+	<string>shouldstopgift</string>
+	<key>shouldLayoutCupertino</key>
+	<string>usedBehavior</string>
+	<key>shouldfinishsign</key>
+	<string>layoutTension</string>
+</dict>
+</plist>

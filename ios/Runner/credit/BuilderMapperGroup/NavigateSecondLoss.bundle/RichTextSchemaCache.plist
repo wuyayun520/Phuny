@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardMatrix</key>
+	<string>hashOpacity</string>
+	<key>denseSubscriber</key>
+	<string>trainButton</string>
+	<key>directQuaternion</key>
+	<string>intuitiveAnalyzer</string>
+	<key>eagerNotifier</key>
+	<string>dismissBaseline</string>
+	<key>histogramcontextstate</key>
+	<string>allocatorphasemomentum</string>
+	<key>lastCustomPaint</key>
+	<string>persistBuilder</string>
+	<key>opaqueReducer</key>
+	<string>protectedPreview</string>
+	<key>relationallistenersaturation</key>
+	<string>storageSkewX</string>
+</dict>
+</plist>

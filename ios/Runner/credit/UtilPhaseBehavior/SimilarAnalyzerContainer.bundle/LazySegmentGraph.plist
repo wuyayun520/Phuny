@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessorytexture</key>
+	<string>variantJob</string>
+	<key>currentButton</key>
+	<string>shouldPaintStateful</string>
+	<key>cursorCount</key>
+	<string>storeOrientation</string>
+	<key>persistentQueue</key>
+	<string>navigationResponse</string>
+	<key>threadorigin</key>
+	<string>cursorDepth</string>
+</dict>
+</plist>

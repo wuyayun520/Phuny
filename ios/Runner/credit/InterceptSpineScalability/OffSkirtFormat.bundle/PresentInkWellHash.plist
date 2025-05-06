@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintforcommand</key>
+	<string>poolAsync</string>
+	<key>directarithmeticfrequency</key>
+	<string>decorationbybridge</string>
+	<key>loopduringtype</key>
+	<string>shouldUpdateChecklist</string>
+	<key>nextReduction</key>
+	<string>shouldPrepareBatch</string>
+	<key>resourceSkewX</key>
+	<string>vectorizeRoute</string>
+	<key>taxonomyFrequency</key>
+	<string>compareRouter</string>
+	<key>unsortedGrid</key>
+	<string>backwardUseCase</string>
+	<key>viewAcceleration</key>
+	<string>flexCommand</string>
+</dict>
+</plist>

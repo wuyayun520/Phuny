@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableData</key>
+	<string>canCreateContainer</string>
+	<key>invisibleEqualization</key>
+	<string>aggregateStore</string>
+	<key>isView</key>
+	<string>aspectCoord</string>
+	<key>mainCapacity</key>
+	<string>animatedcontainerbufferbehavior</string>
+	<key>petCenter</key>
+	<string>positionedNumber</string>
+</dict>
+</plist>

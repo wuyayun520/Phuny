@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleReceiver</key>
+	<string>canConnectMultiplication</string>
+	<key>advancedTolerance</key>
+	<string>normalConstraint</string>
+	<key>customizedBrush</key>
+	<string>freeInteractor</string>
+	<key>hasSizedBox</key>
+	<string>unbindAnimatedContainer</string>
+	<key>radioparticle</key>
+	<string>lazyRepository</string>
+	<key>secondBinder</key>
+	<string>intuitiveNotification</string>
+	<key>shouldObserveBox</key>
+	<string>immediatebloc</string>
+	<key>shouldProcessWidget</key>
+	<string>offsetmethod</string>
+	<key>shouldpresentlistview</key>
+	<string>providertypeoffset</string>
+	<key>standaloneMenu</key>
+	<string>canSubscribeDrawer</string>
+</dict>
+</plist>

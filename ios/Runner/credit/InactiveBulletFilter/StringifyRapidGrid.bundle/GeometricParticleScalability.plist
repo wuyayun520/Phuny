@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectTag</key>
+	<string>seamlessSubpixel</string>
+	<key>entityEdge</key>
+	<string>popupplatformtransparency</string>
+	<key>groupInset</key>
+	<string>normalSize</string>
+	<key>hashOpacity</key>
+	<string>holdFactory</string>
+	<key>interfacelikeproxy</key>
+	<string>unsortedprovider</string>
+	<key>mobilerow</key>
+	<string>challengeFeedback</string>
+	<key>previewbeyondactivity</key>
+	<string>fragmentsBehavior</string>
+	<key>shouldStreamGift</key>
+	<string>declarativeBinary</string>
+	<key>subscriptionCenter</key>
+	<string>unregisterAwait</string>
+</dict>
+</plist>

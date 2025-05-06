@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackbound</key>
+	<string>shouldLayoutDrawer</string>
+	<key>customizedEquivalent</key>
+	<string>encodeSymbol</string>
+	<key>draggableMap</key>
+	<string>routerSingleton</string>
+	<key>inheritedExpanded</key>
+	<string>callbackParameter</string>
+	<key>newestAsync</key>
+	<string>signatureTier</string>
+	<key>semanticDisclaimer</key>
+	<string>materialInset</string>
+	<key>shouldPersistPet</key>
+	<string>discoverStream</string>
+	<key>skiptechnique</key>
+	<string>canMountedSession</string>
+	<key>tappableLoop</key>
+	<string>canYieldKernel</string>
+	<key>vectorversuscommand</key>
+	<string>lazyAlert</string>
+</dict>
+</plist>

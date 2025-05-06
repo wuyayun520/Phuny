@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticmetadata</key>
+	<string>routerStyle</string>
+	<key>baselineInterval</key>
+	<string>restrictionFeedback</string>
+	<key>chartviajob</key>
+	<string>pageviewpresenter</string>
+	<key>customChart</key>
+	<string>isolateForm</string>
+	<key>shouldTrainCharacter</key>
+	<string>canShowSymbol</string>
+	<key>sortedRectangle</key>
+	<string>delegatehandler</string>
+	<key>stackconsumer</key>
+	<string>sortedReducer</string>
+	<key>unlockstream</key>
+	<string>permissiveView</string>
+</dict>
+</plist>

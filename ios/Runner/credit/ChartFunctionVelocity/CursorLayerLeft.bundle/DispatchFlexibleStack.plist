@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticconsumer</key>
+	<string>refactorAlignment</string>
+	<key>canvasfrequency</key>
+	<string>usedMetadata</string>
+	<key>collectionactivityright</key>
+	<string>lazycycle</string>
+	<key>constantcenter</key>
+	<string>canContinueTabBar</string>
+	<key>mediocreWidget</key>
+	<string>samplespacing</string>
+	<key>radiusinterval</key>
+	<string>standalonemodalspeed</string>
+	<key>shaderRate</key>
+	<string>cloneclipper</string>
+	<key>shouldRebuildKernel</key>
+	<string>ternaryappearance</string>
+	<key>temporaryGraph</key>
+	<string>substantialnavigationskewx</string>
+</dict>
+</plist>

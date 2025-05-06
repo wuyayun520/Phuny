@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentindicator</key>
+	<string>futurewithoutmode</string>
+	<key>dedicatedRoute</key>
+	<string>collectionDepth</string>
+	<key>explicitGrayscale</key>
+	<string>shouldMountSlider</string>
+	<key>granularIndicator</key>
+	<string>capsuleOpacity</string>
+	<key>mapperShade</key>
+	<string>skinTransparency</string>
+	<key>onunarychanged</key>
+	<string>shouldPauseFragment</string>
+	<key>resultSkewY</key>
+	<string>spineFeedback</string>
+	<key>sizeawaystate</key>
+	<string>preparePageView</string>
+	<key>tabviewColor</key>
+	<string>clipperSpeed</string>
+	<key>tensorMend</key>
+	<string>gradientAction</string>
+</dict>
+</plist>

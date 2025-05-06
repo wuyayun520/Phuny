@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveRotation</key>
+	<string>subsequentcompletion</string>
+	<key>encodecatalyst</key>
+	<string>enumerateroute</string>
+	<key>layoutflags</key>
+	<string>shoulddisposestream</string>
+	<key>lazySession</key>
+	<string>consultativeSpot</string>
+	<key>listviewbesidelayer</key>
+	<string>globalgridview</string>
+	<key>mergerPressure</key>
+	<string>lostConfiguration</string>
+	<key>otherTransition</key>
+	<string>dedicatedAppBar</string>
+	<key>pinchablePicker</key>
+	<string>respondAllocator</string>
+	<key>protectedBitrate</key>
+	<string>propagateHash</string>
+	<key>publicAxis</key>
+	<string>synchronousLatency</string>
+</dict>
+</plist>

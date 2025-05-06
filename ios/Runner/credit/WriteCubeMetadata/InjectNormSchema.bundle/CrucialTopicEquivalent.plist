@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentOptimizer</key>
+	<string>explicitVector</string>
+	<key>globalTransformer</key>
+	<string>shouldAttachMission</string>
+	<key>globalinjectionformat</key>
+	<string>shouldTransitionNavigator</string>
+	<key>ignoredGraph</key>
+	<string>frameTemple</string>
+	<key>imperativeImage</key>
+	<string>draggableManager</string>
+	<key>publicQueue</key>
+	<string>resultrectangle</string>
+	<key>sortedLocalization</key>
+	<string>canYieldSymbol</string>
+	<key>symmetricLogarithm</key>
+	<string>draggableScalability</string>
+	<key>visiblepainter</key>
+	<string>descriptionPressure</string>
+</dict>
+</plist>

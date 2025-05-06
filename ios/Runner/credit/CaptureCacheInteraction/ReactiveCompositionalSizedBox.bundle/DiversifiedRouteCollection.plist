@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesaudio</key>
+	<string>multiActivity</string>
+	<key>creatorPressure</key>
+	<string>movementPhase</string>
+	<key>detectorDirection</key>
+	<string>methoddirection</string>
+	<key>durationenvironmentshade</key>
+	<string>statelessExtension</string>
+	<key>globalIntegration</key>
+	<string>declarativebloc</string>
+	<key>meshOrigin</key>
+	<string>serviceCount</string>
+	<key>requestdensity</key>
+	<string>keyGradient</string>
+	<key>shouldNotifyMonster</key>
+	<string>shouldTransformGram</string>
+	<key>statelessConfidentiality</key>
+	<string>configurationaction</string>
+</dict>
+</plist>

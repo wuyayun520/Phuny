@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>filterHue</key>
+	<string>generateboxshadow</string>
+	<key>materialWidget</key>
+	<string>canRebuildArithmetic</string>
+	<key>missedView</key>
+	<string>buttoninteraction</string>
+	<key>robustInjection</key>
+	<string>paddingskewx</string>
+	<key>scrollableConnector</key>
+	<string>storyboardsearcher</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseviaframework</key>
+	<string>streamSlash</string>
+	<key>customizedCell</key>
+	<string>seamlessCycle</string>
+	<key>elasticView</key>
+	<string>smallTransition</string>
+	<key>logarithmShape</key>
+	<string>serializeScene</string>
+	<key>managerdetail</key>
+	<string>temporaryColor</string>
+	<key>responseVelocity</key>
+	<string>delicateEvolution</string>
+	<key>retainedaccessory</key>
+	<string>observeHandler</string>
+</dict>
+</plist>

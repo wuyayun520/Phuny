@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chooserMomentum</key>
+	<string>mobilePopup</string>
+	<key>elasticLoader</key>
+	<string>adaptiveGrain</string>
+	<key>fixedtextright</key>
+	<string>inactiveState</string>
+	<key>infrastructureSpeed</key>
+	<string>loopMethod</string>
+	<key>progressbardepth</key>
+	<string>shouldDispatchAlpha</string>
+	<key>shouldCacheSample</key>
+	<string>canSkipNorm</string>
+	<key>unactivatedTitle</key>
+	<string>pivotalAsync</string>
+</dict>
+</plist>

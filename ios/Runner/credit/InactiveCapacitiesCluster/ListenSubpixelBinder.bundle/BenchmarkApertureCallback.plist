@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bindboxshadow</key>
+	<string>resizableFrame</string>
+	<key>completerInterval</key>
+	<string>activatedFrame</string>
+	<key>debugalert</key>
+	<string>hierarchicalRemainder</string>
+	<key>mediumconstrainthue</key>
+	<string>stampAppearance</string>
+	<key>responsewithoutaction</key>
+	<string>independentEffect</string>
+	<key>restartsegue</key>
+	<string>canLoadBox</string>
+	<key>shouldAttachSwift</key>
+	<string>connectCupertino</string>
+	<key>shouldMountedFuture</key>
+	<string>currentInterpolation</string>
+	<key>symbolTop</key>
+	<string>playBuilder</string>
+	<key>wrapperBottom</key>
+	<string>quantizationCompleter</string>
+</dict>
+</plist>

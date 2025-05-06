@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inheritedResilience</key>
+	<string>enabledConvolution</string>
+	<key>keyBitrate</key>
+	<string>featureTail</string>
+	<key>processcubit</key>
+	<string>robustObject</string>
+	<key>shouldFetchSession</key>
+	<string>rapidRecursion</string>
+</dict>
+</plist>

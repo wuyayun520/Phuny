@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerTraversal</key>
+	<string>dialogsObserver</string>
+	<key>controllerDepth</key>
+	<string>anchorHue</string>
+	<key>localRenderer</key>
+	<string>dispatchUsage</string>
+	<key>rapidGestureDetector</key>
+	<string>shouldRestartConvolution</string>
+	<key>shouldPauseShader</key>
+	<string>ispadding</string>
+	<key>specifyFragments</key>
+	<string>shouldFormatContraction</string>
+	<key>traversalshape</key>
+	<string>disabledPlayback</string>
+</dict>
+</plist>

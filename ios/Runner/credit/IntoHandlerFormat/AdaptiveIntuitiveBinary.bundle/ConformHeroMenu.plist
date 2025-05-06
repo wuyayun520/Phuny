@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureScale</key>
+	<string>symmetricDocument</string>
+	<key>associatedbuffer</key>
+	<string>setstateGesture</string>
+	<key>basicNib</key>
+	<string>protectedNode</string>
+	<key>mediumShader</key>
+	<string>shouldHandleTangent</string>
+	<key>threadBottom</key>
+	<string>stringifyTitle</string>
+</dict>
+</plist>

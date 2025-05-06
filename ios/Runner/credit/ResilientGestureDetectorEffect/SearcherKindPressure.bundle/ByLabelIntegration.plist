@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferInterval</key>
+	<string>fusedlabel</string>
+	<key>deferredOperation</key>
+	<string>cupertinoQueue</string>
+	<key>entityEdge</key>
+	<string>resilientCombiner</string>
+	<key>litePicker</key>
+	<string>canPauseGesture</string>
+	<key>loaderAppearance</key>
+	<string>observeBuilder</string>
+	<key>momentumcubit</key>
+	<string>exceptionprocessspacing</string>
+	<key>relationalNotification</key>
+	<string>shouldDeserializeBrush</string>
+	<key>shouldrenderbehavior</key>
+	<string>multiBorder</string>
+	<key>tensorProject</key>
+	<string>consumeDependency</string>
+</dict>
+</plist>

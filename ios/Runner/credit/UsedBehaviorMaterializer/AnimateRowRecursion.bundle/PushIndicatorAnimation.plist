@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentlifecycle</key>
+	<string>pivotalPoint</string>
+	<key>backwardCapacities</key>
+	<string>multiRecursion</string>
+	<key>crudeTentative</key>
+	<string>enabledCollection</string>
+	<key>materialNib</key>
+	<string>crudePriority</string>
+	<key>shouldContinueEffect</key>
+	<string>rapidTimeline</string>
+	<key>transitionamonglayer</key>
+	<string>materialTopic</string>
+	<key>widgetparambehavior</key>
+	<string>subscribemap</string>
+</dict>
+</plist>

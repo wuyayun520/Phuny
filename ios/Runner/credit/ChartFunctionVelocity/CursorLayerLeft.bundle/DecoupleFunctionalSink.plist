@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardTitle</key>
+	<string>appendDelegate</string>
+	<key>detectordepth</key>
+	<string>composablegesturedetectorresponse</string>
+	<key>modalmetrics</key>
+	<string>shouldSaveSwift</string>
+	<key>pivotalTheme</key>
+	<string>primaryAxis</string>
+	<key>replacecertificate</key>
+	<string>criticalDelegate</string>
+	<key>seamlessDisclaimer</key>
+	<string>shouldDisposeCheckbox</string>
+	<key>shouldYieldSpecifier</key>
+	<string>shouldMountedContainer</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentSprite</key>
+	<string>keepaccessory</string>
+	<key>encodegroup</key>
+	<string>tabbarOrientation</string>
+	<key>handlerchainstate</key>
+	<string>offsetlayerduration</string>
+	<key>pushgraph</key>
+	<string>loadHistogram</string>
+	<key>tensorCell</key>
+	<string>respectiveDescent</string>
+	<key>touchofphase</key>
+	<string>quitWidget</string>
+</dict>
+</plist>

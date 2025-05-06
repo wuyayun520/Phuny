@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentPadding</key>
+	<string>endCurve</string>
+	<key>durationName</key>
+	<string>momentumTail</string>
+	<key>ephemeralSorter</key>
+	<string>textfieldFramework</string>
+	<key>fusedcursoredge</key>
+	<string>diversifiedResult</string>
+	<key>iterativeapertureinteraction</key>
+	<string>canUnmountDialogs</string>
+	<key>labelkindflags</key>
+	<string>batchSkewY</string>
+	<key>screenHue</key>
+	<string>memberMode</string>
+	<key>shouldPausePositioned</key>
+	<string>notifierOrientation</string>
+	<key>standaloneSingleton</key>
+	<string>emitterFormat</string>
+</dict>
+</plist>

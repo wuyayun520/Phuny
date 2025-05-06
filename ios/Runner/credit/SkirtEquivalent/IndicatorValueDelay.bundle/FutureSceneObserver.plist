@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerValidation</key>
+	<string>equivalentSkewY</string>
+	<key>missedProvision</key>
+	<string>shouldCacheReference</string>
+	<key>screenrouter</key>
+	<string>borderFramework</string>
+	<key>shouldEmitBuilder</key>
+	<string>uniformButton</string>
+	<key>shouldPushRemainder</key>
+	<string>arithmeticPlatform</string>
+	<key>shouldSubscribeTransition</key>
+	<string>createPriority</string>
+	<key>singletonpressure</key>
+	<string>equalizationCenter</string>
+	<key>usedTween</key>
+	<string>plateRotation</string>
+</dict>
+</plist>

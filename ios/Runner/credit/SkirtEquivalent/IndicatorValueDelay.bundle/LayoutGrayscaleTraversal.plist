@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completernumberappearance</key>
+	<string>visitPosition</string>
+	<key>intuitiveCache</key>
+	<string>standaloneActivity</string>
+	<key>reactiveGrain</key>
+	<string>serializeResponse</string>
+	<key>recursionSize</key>
+	<string>requestVisible</string>
+	<key>unactivatedView</key>
+	<string>diversifiedCupertino</string>
+</dict>
+</plist>

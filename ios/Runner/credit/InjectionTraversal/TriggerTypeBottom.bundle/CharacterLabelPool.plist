@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveGestureDetector</key>
+	<string>serviceDuration</string>
+	<key>descentOpacity</key>
+	<string>exceptionAppearance</string>
+	<key>gemType</key>
+	<string>discardedTexture</string>
+	<key>granularCharacter</key>
+	<string>bitrateContext</string>
+	<key>intermediateEvent</key>
+	<string>composableproviderorigin</string>
+	<key>localCurve</key>
+	<string>cartesianRenderer</string>
+	<key>missedCurve</key>
+	<string>shouldConnectLoss</string>
+	<key>touchadapteralignment</key>
+	<string>maxStamp</string>
+	<key>viewaroundvar</key>
+	<string>popuporientation</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>filterMargin</key>
+	<string>preparescroll</string>
+	<key>shaderindex</key>
+	<string>graphBorder</string>
+	<key>thresholdTag</key>
+	<string>missionCycle</string>
+	<key>unsortedTrajectory</key>
+	<string>canFetchTangent</string>
+</dict>
+</plist>

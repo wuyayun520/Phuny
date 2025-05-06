@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleLinker</key>
+	<string>cartesiantouchsize</string>
+	<key>cliputil</key>
+	<string>arithmeticNib</string>
+	<key>containerframe</key>
+	<string>crudeListView</string>
+	<key>declarativeDependency</key>
+	<string>immutablealertleft</string>
+	<key>repositorytrigger</key>
+	<string>immediateHandler</string>
+	<key>selectedusage</key>
+	<string>canUnmountedChallenge</string>
+	<key>shouldDeserializeStack</key>
+	<string>specifySlider</string>
+	<key>shouldEmitCapsule</key>
+	<string>basicPageView</string>
+	<key>stackmargin</key>
+	<string>associateChart</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleGridView</key>
+	<string>canTransformLogarithm</string>
+	<key>adaptiveresolver</key>
+	<string>metricsDistance</string>
+	<key>dedicatedframelocation</key>
+	<string>dismissTheme</string>
+	<key>detailVisible</key>
+	<string>filterstatus</string>
+	<key>materialBrush</key>
+	<string>spotTier</string>
+	<key>matrixresponse</key>
+	<string>setupResource</string>
+	<key>musiczone</key>
+	<string>reconcileAction</string>
+	<key>publicrow</key>
+	<string>shouldCreateCatalyst</string>
+	<key>shouldSetStateSession</key>
+	<string>layersensor</string>
+	<key>skipsprite</key>
+	<string>mechanismfrequency</string>
+</dict>
+</plist>

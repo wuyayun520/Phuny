@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedresultfeedback</key>
+	<string>canUnmountRole</string>
+	<key>commonGraph</key>
+	<string>infrastructureContrast</string>
+	<key>cosinedecoration</key>
+	<string>consultativeBorder</string>
+	<key>indicatorSpacing</key>
+	<string>canPushWidget</string>
+	<key>intuitiveProject</key>
+	<string>iconVisible</string>
+	<key>pickerpressure</key>
+	<string>sizedboxFeedback</string>
+	<key>sequentialCapacity</key>
+	<string>pickerbottom</string>
+	<key>staticInteger</key>
+	<string>checkRadius</string>
+</dict>
+</plist>

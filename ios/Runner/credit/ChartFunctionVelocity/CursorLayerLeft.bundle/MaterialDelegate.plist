@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalSensor</key>
+	<string>shouldCreateExpanded</string>
+	<key>entityfrequency</key>
+	<string>operationSystem</string>
+	<key>framePadding</key>
+	<string>basicinstruction</string>
+	<key>gridviewsincelayer</key>
+	<string>firstReplica</string>
+	<key>shouldListenStateful</key>
+	<string>protectedTopic</string>
+	<key>shouldTransitionView</key>
+	<string>interactionresponse</string>
+</dict>
+</plist>

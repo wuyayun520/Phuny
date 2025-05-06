@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableCard</key>
+	<string>constantMargin</string>
+	<key>liteSorter</key>
+	<string>ongesturechanged</string>
+	<key>matrixForce</key>
+	<string>inactiveTriangles</string>
+	<key>publicActivity</key>
+	<string>sessionType</string>
+	<key>shouldParseThread</key>
+	<string>pophandler</string>
+	<key>shouldcontinueconstraint</key>
+	<string>mergerFlags</string>
+	<key>similarComposition</key>
+	<string>shouldShowBrush</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianCard</key>
+	<string>animateusecase</string>
+	<key>menupainter</key>
+	<string>concreteAnalogy</string>
+	<key>primaryDecoration</key>
+	<string>requestBloc</string>
+	<key>shouldEncodeCupertino</key>
+	<string>canUnmountedFragment</string>
+	<key>unsortedEfficiency</key>
+	<string>dynamiclocalizationinterval</string>
+</dict>
+</plist>

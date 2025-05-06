@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoelement</key>
+	<string>sizecommandorigin</string>
+	<key>detachaspect</key>
+	<string>clipperSingleton</string>
+	<key>dynamicscenestatus</key>
+	<string>resizableTaxonomy</string>
+	<key>invisibleConnector</key>
+	<string>canSetStateTextField</string>
+	<key>uniformAmortization</key>
+	<string>keyElement</string>
+	<key>usedPopup</key>
+	<string>dropdownbuttonStage</string>
+</dict>
+</plist>

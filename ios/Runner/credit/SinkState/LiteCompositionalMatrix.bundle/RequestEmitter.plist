@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushBound</key>
+	<string>detailDensity</string>
+	<key>characteristicValidation</key>
+	<string>notifyProtocol</string>
+	<key>customizedPlayback</key>
+	<string>addFuture</string>
+	<key>graphicValidation</key>
+	<string>mediocreRole</string>
+	<key>isBox</key>
+	<string>desktopExpanded</string>
+	<key>lostdelegatedirection</key>
+	<string>shouldLayoutConsumer</string>
+	<key>requiredEqualization</key>
+	<string>shouldpreparecurve</string>
+	<key>routerinterpreteralignment</key>
+	<string>rendererLocation</string>
+	<key>webexception</key>
+	<string>alphaBorder</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubemapper</key>
+	<string>numericalThreshold</string>
+	<key>draggableTangent</key>
+	<string>expandedSystem</string>
+	<key>interactiveAxis</key>
+	<string>arithmeticStrategy</string>
+	<key>nextScheduler</key>
+	<string>primaryTabView</string>
+	<key>parallelStream</key>
+	<string>discardedDelivery</string>
+	<key>splitterIndex</key>
+	<string>backwardDisclaimer</string>
+	<key>symbolBound</key>
+	<string>monsterDuration</string>
+</dict>
+</plist>

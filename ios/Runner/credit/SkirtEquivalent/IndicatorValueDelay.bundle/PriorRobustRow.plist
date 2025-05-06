@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>nodestructureinterval</key>
+	<string>isolatecenter</string>
+	<key>reductionColor</key>
+	<string>hasmargin</string>
+	<key>shouldobservepadding</key>
+	<string>routerscopecoord</string>
+	<key>singlePublisher</key>
+	<string>ignoredEfficiency</string>
+</dict>
+</plist>

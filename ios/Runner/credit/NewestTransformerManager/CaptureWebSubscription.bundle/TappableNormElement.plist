@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeGrid</key>
+	<string>sessionInterpreter</string>
+	<key>delicateGraph</key>
+	<string>featureOperation</string>
+	<key>dispatchgesturedetector</key>
+	<string>componentScale</string>
+	<key>mobileduringstructure</key>
+	<string>checklistelement</string>
+	<key>resourceright</key>
+	<string>shouldNavigateBatch</string>
+	<key>retainedGestureDetector</key>
+	<string>playBuffer</string>
+	<key>rotatebuffer</key>
+	<string>firstResolver</string>
+	<key>scrollableStatus</key>
+	<string>canPrepareOverlay</string>
+	<key>shouldNavigatePlate</key>
+	<string>precisionState</string>
+	<key>shouldrebuildstep</key>
+	<string>extendLayout</string>
+</dict>
+</plist>

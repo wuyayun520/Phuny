@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inheritedAspect</key>
+	<string>disparateChooser</string>
+	<key>intuitiverequest</key>
+	<string>radiodetector</string>
+	<key>mediaSkewX</key>
+	<string>smallHeap</string>
+	<key>responderStyle</key>
+	<string>symmetricMargin</string>
+	<key>semanticTime</key>
+	<string>radiusstate</string>
+	<key>similarCharacteristic</key>
+	<string>loopShape</string>
+</dict>
+</plist>

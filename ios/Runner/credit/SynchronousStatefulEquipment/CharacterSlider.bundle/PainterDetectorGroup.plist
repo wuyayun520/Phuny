@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionframeworkbrightness</key>
+	<string>comprehensiveSensor</string>
+	<key>decoderesult</key>
+	<string>autoSession</string>
+	<key>heroBound</key>
+	<string>managerSkewY</string>
+	<key>reflectprovider</key>
+	<string>shouldNotifyCycle</string>
+	<key>robustBehavior</key>
+	<string>channelSkewY</string>
+	<key>screencontainer</key>
+	<string>independentTexture</string>
+	<key>shouldHandleController</key>
+	<string>deserializeCapsule</string>
+	<key>shouldcontinueextension</key>
+	<string>revisitlog</string>
+	<key>storetransition</key>
+	<string>comprehensivesteptint</string>
+</dict>
+</plist>

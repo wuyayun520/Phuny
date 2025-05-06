@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchtimer</key>
+	<string>isolateduration</string>
+	<key>gridbound</key>
+	<string>fusedStorage</string>
+	<key>modulusplatformtransparency</key>
+	<string>hierarchicalConvolution</string>
+	<key>retainedExpanded</key>
+	<string>webCache</string>
+	<key>shoulddisposeskirt</key>
+	<string>easyOverlay</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedShader</key>
+	<string>specifieralongmediator</string>
+	<key>axisOffset</key>
+	<string>conformCubit</string>
+	<key>discardedRouter</key>
+	<string>flexiblebutton</string>
+	<key>euclideanNotification</key>
+	<string>staticCapacity</string>
+	<key>independentConverter</key>
+	<string>progressbarortier</string>
+	<key>invokearithmetic</key>
+	<string>arithmeticCommand</string>
+	<key>matrixtimer</key>
+	<string>shouldConnectTouch</string>
+	<key>parallelCache</key>
+	<string>marginObserver</string>
+	<key>scrollableReplica</key>
+	<string>remaindernode</string>
+</dict>
+</plist>

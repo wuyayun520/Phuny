@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatestoryboard</key>
+	<string>pauseDecoration</string>
+	<key>draggableRequest</key>
+	<string>interactoralongactivity</string>
+	<key>grayscaletail</key>
+	<string>smallReduction</string>
+	<key>labelOrientation</key>
+	<string>canDispatchPadding</string>
+	<key>largeTween</key>
+	<string>storechannel</string>
+	<key>notifydropdownbutton</key>
+	<string>inactiveFrame</string>
+	<key>publicAspect</key>
+	<string>litejoiner</string>
+	<key>setstatetechnique</key>
+	<string>chapterTail</string>
+	<key>shouldAttachArithmetic</key>
+	<string>dedicatedBehavior</string>
+	<key>statefulDuration</key>
+	<string>emitterTag</string>
+</dict>
+</plist>

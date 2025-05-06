@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackResponse</key>
+	<string>liteHistogram</string>
+	<key>clipperagainstobserver</key>
+	<string>unactivatedlabel</string>
+	<key>protectedInterpolation</key>
+	<string>canCancelUnary</string>
+	<key>receiverForce</key>
+	<string>segueStructure</string>
+	<key>routerRight</key>
+	<string>findCurve</string>
+	<key>viewForce</key>
+	<string>promiseCenter</string>
+	<key>visibleChecklist</key>
+	<string>shouldInflateGesture</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoFinder</key>
+	<string>localTrajectory</string>
+	<key>backwardCharacteristic</key>
+	<string>isNavigator</string>
+	<key>comprehensivemetadata</key>
+	<string>durationwithvariable</string>
+	<key>ignoreddropdownbutton</key>
+	<string>chartJob</string>
+	<key>integerSpacing</key>
+	<string>resizablePlate</string>
+	<key>missiondetail</key>
+	<string>discoverLoop</string>
+	<key>newestChannel</key>
+	<string>encodehero</string>
+	<key>sizedboxoccasion</key>
+	<string>canPushChallenge</string>
+	<key>stepmediatorlocation</key>
+	<string>shouldPauseCharacter</string>
+	<key>unsortedAspect</key>
+	<string>dismissRouter</string>
+</dict>
+</plist>

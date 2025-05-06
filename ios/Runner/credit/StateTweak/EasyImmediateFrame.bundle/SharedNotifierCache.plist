@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonelasticity</key>
+	<string>interactiveentityorientation</string>
+	<key>deliveryInterval</key>
+	<string>scaffoldtitle</string>
+	<key>disabledHandler</key>
+	<string>radiusphaseindex</string>
+	<key>inactiveTexture</key>
+	<string>permissiveSize</string>
+	<key>navigationtop</key>
+	<string>denseItem</string>
+	<key>numericalSine</key>
+	<string>resultLocation</string>
+	<key>otherQuaternion</key>
+	<string>grayscaleNumber</string>
+	<key>shouldSerializeGate</key>
+	<string>intuitiveCapacities</string>
+	<key>transformercount</key>
+	<string>sanitizeTicker</string>
+	<key>visibleConfidentiality</key>
+	<string>canTrainSkin</string>
+</dict>
+</plist>

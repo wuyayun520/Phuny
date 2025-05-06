@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaResponse</key>
+	<string>requiredCompletion</string>
+	<key>cubitatphase</key>
+	<string>capacityBound</string>
+	<key>dependencyprocessor</key>
+	<string>canFinishWidget</string>
+	<key>elasticSchema</key>
+	<string>cancelSensor</string>
+	<key>explicitParticle</key>
+	<string>introspectRouter</string>
+	<key>viewSkewX</key>
+	<string>constantalignment</string>
+</dict>
+</plist>

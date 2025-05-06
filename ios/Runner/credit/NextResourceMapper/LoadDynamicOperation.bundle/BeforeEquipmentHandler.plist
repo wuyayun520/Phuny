@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllermediatorsaturation</key>
+	<string>lostPlate</string>
+	<key>dedicatedScheduler</key>
+	<string>configurebase</string>
+	<key>managertrigger</key>
+	<string>mediumMovement</string>
+	<key>pethandler</key>
+	<string>firstMechanism</string>
+	<key>relationalmodulus</key>
+	<string>loopCount</string>
+	<key>responsivePager</key>
+	<string>substantialTriangles</string>
+	<key>shouldCancelInteger</key>
+	<string>futureFrequency</string>
+	<key>shouldResumeCanvas</key>
+	<string>lastvideo</string>
+	<key>similarNavigator</key>
+	<string>curveVelocity</string>
+</dict>
+</plist>

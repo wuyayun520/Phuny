@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncScale</key>
+	<string>pausePriority</string>
+	<key>chapterOrientation</key>
+	<string>symmetricTool</string>
+	<key>cupertinoBandwidth</key>
+	<string>obtainaspectratio</string>
+	<key>debuggrid</key>
+	<string>canEncodeSample</string>
+	<key>imperativeSine</key>
+	<string>curveexceptcommand</string>
+	<key>nibhandler</key>
+	<string>eagerAnchor</string>
+	<key>reducerTag</key>
+	<string>constraintCoord</string>
+	<key>respectiveBox</key>
+	<string>optimizeResponse</string>
+	<key>sequentialresult</key>
+	<string>advancedSelector</string>
+</dict>
+</plist>

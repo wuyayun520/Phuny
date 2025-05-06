@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedMenu</key>
+	<string>activeRenderer</string>
+	<key>handlershape</key>
+	<string>unsortedStrength</string>
+	<key>largeLocalization</key>
+	<string>canRenderInteger</string>
+	<key>mapawaystate</key>
+	<string>granularMovement</string>
+	<key>parallelcollectionrotation</key>
+	<string>overridegram</string>
+	<key>resourcenavigator</key>
+	<string>handleDrawer</string>
+	<key>reusableChannel</key>
+	<string>mobileLocalization</string>
+	<key>scopeFormat</key>
+	<string>painterinterval</string>
+	<key>secondSign</key>
+	<string>requiredSize</string>
+	<key>unscheduleoption</key>
+	<string>unbindConvolution</string>
+</dict>
+</plist>

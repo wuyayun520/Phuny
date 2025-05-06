@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryContrast</key>
+	<string>normBorder</string>
+	<key>chooserscale</key>
+	<string>greatCollection</string>
+	<key>lastMonster</key>
+	<string>eventVelocity</string>
+	<key>mediocreLayer</key>
+	<string>shouldPaintLogarithm</string>
+	<key>responsiveDescent</key>
+	<string>interactiveUtil</string>
+</dict>
+</plist>

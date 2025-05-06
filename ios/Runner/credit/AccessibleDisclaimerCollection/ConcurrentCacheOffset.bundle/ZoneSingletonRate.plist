@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachmodel</key>
+	<string>sortedsinkname</string>
+	<key>customEntity</key>
+	<string>publishScaffold</string>
+	<key>dynamicNavigation</key>
+	<string>exceptionInteraction</string>
+	<key>inheritedmodel</key>
+	<string>borderBound</string>
+	<key>lossthroughmethod</key>
+	<string>roleFunction</string>
+	<key>parallelProjection</key>
+	<string>cycleWork</string>
+</dict>
+</plist>

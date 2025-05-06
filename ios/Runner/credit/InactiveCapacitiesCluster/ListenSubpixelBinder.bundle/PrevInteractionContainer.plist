@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audioSkewX</key>
+	<string>standaloneUnary</string>
+	<key>criticalTicker</key>
+	<string>greatProfile</string>
+	<key>detailborder</key>
+	<string>intermediateMapper</string>
+	<key>pickerState</key>
+	<string>transformReference</string>
+	<key>semanticSorter</key>
+	<string>densecursorresponse</string>
+	<key>shouldYieldOverlay</key>
+	<string>invisibleProfile</string>
+	<key>tableconfiguration</key>
+	<string>webMaster</string>
+</dict>
+</plist>

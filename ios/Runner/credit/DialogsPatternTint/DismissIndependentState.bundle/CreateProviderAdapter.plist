@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileFragment</key>
+	<string>localInjection</string>
+	<key>disparateScheduler</key>
+	<string>processDescription</string>
+	<key>documentRotation</key>
+	<string>dispatchCursor</string>
+	<key>operationdelay</key>
+	<string>nextDescent</string>
+	<key>repositoryAppearance</key>
+	<string>selectedButton</string>
+</dict>
+</plist>

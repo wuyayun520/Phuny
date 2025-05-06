@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopSchema</key>
+	<string>shouldSkipCustomPaint</string>
+	<key>groupBrightness</key>
+	<string>popEquipment</string>
+	<key>materialNotation</key>
+	<string>independentOperation</string>
+	<key>pageviewdepth</key>
+	<string>shouldProcessSensor</string>
+	<key>shouldDecodeTechnique</key>
+	<string>comparetransformer</string>
+	<key>symmetricDimension</key>
+	<string>shouldInflatePlate</string>
+</dict>
+</plist>

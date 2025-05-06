@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstActivity</key>
+	<string>canPrepareInterpolation</string>
+	<key>immediaterow</key>
+	<string>modalResponse</string>
+	<key>shouldPresentChannels</key>
+	<string>protectedFeature</string>
+	<key>shouldSkipBorder</key>
+	<string>petPressure</string>
+</dict>
+</plist>

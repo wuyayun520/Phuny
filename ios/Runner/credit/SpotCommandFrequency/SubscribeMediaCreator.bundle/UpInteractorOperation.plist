@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>publishobserver</key>
+	<string>sinkSpeed</string>
+	<key>rowAlignment</key>
+	<string>makeEntity</string>
+	<key>segmentTransparency</key>
+	<string>injectionSystem</string>
+	<key>shouldFetchAlert</key>
+	<string>statefulRichText</string>
+	<key>tensordrawerlocation</key>
+	<string>completedPadding</string>
+	<key>timeMomentum</key>
+	<string>enumerateIntensity</string>
+</dict>
+</plist>

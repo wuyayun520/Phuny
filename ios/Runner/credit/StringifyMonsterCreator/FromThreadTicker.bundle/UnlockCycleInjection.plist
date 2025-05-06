@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultcardshade</key>
+	<string>boxshadowOperation</string>
+	<key>extensionframe</key>
+	<string>routeLayer</string>
+	<key>particleTension</key>
+	<string>animationtypedensity</string>
+	<key>priorSlider</key>
+	<string>emitInteractor</string>
+	<key>scrollableScroller</key>
+	<string>overrideService</string>
+	<key>shouldConnectCanvas</key>
+	<string>shouldSetStateCheckbox</string>
+	<key>startpadding</key>
+	<string>onresourcetap</string>
+</dict>
+</plist>

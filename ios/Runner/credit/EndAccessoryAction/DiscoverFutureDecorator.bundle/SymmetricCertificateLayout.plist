@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>impactSpeed</key>
+	<string>inflateCube</string>
+	<key>normalNode</key>
+	<string>sequentialSprite</string>
+	<key>radiusFeedback</key>
+	<string>customizedbox</string>
+	<key>secondRouter</key>
+	<string>interactiveAmortization</string>
+	<key>shouldConnectEqualization</key>
+	<string>shouldTrainBoxShadow</string>
+</dict>
+</plist>

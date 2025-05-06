@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleDuration</key>
+	<string>hardRectangle</string>
+	<key>gesturedetectorMargin</key>
+	<string>catalystStructure</string>
+	<key>immediateCollection</key>
+	<string>reduceUseCase</string>
+	<key>immediateResolver</key>
+	<string>shouldContinueOperation</string>
+	<key>inactiveInteger</key>
+	<string>architectureopacity</string>
+</dict>
+</plist>

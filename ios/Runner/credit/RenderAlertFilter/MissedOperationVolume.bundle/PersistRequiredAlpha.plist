@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxTag</key>
+	<string>directlyFormat</string>
+	<key>dialogscompleter</key>
+	<string>cloneTopic</string>
+	<key>explicitTimeline</key>
+	<string>mediocreStateful</string>
+	<key>intensitySkewY</key>
+	<string>benchmarksink</string>
+	<key>shouldValidateLayout</key>
+	<string>originalProfile</string>
+	<key>smallNavigation</key>
+	<string>asynchronousMenu</string>
+	<key>standaloneLifecycle</key>
+	<string>canProcessCheckbox</string>
+	<key>unmarshalaspectratio</key>
+	<string>cycleState</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanNode</key>
+	<string>fragmentchainstyle</string>
+	<key>navigationuntilmediator</key>
+	<string>volumeOffset</string>
+	<key>oncompletiontap</key>
+	<string>shouldCancelFragment</string>
+	<key>screenBottom</key>
+	<string>aspectStatus</string>
+	<key>shouldPauseMaster</key>
+	<string>publicParticle</string>
+	<key>tensorFinder</key>
+	<string>unsortedReliability</string>
+	<key>touchHead</key>
+	<string>routerVisible</string>
+	<key>uniquepointdelay</key>
+	<string>tensorEmitter</string>
+</dict>
+</plist>

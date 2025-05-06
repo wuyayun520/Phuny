@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clearlistener</key>
+	<string>canConnectRadio</string>
+	<key>detectordirection</key>
+	<string>routeTool</string>
+	<key>fixedScroller</key>
+	<string>ignoredsizedboxforce</string>
+	<key>memberCount</key>
+	<string>beginnerTimeline</string>
+	<key>metricsSkewX</key>
+	<string>granularAwait</string>
+	<key>shapeDistance</key>
+	<string>futureFormat</string>
+</dict>
+</plist>

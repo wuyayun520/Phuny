@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dispatchhandler</key>
+	<string>allocatorParameter</string>
+	<key>immediateInteraction</key>
+	<string>propagateVector</string>
+	<key>maintaingradient</key>
+	<string>servicePlatform</string>
+	<key>resultEdge</key>
+	<string>explicitLinker</string>
+	<key>revisitdimension</key>
+	<string>platearoundparam</string>
+	<key>shouldParseBloc</key>
+	<string>mobileGridView</string>
+	<key>similarPadding</key>
+	<string>equipmentfilter</string>
+</dict>
+</plist>

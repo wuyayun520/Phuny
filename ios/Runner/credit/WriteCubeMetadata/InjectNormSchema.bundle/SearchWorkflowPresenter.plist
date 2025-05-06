@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxLocation</key>
+	<string>consultativeRect</string>
+	<key>boxshadowrotation</key>
+	<string>shouldValidateSubpixel</string>
+	<key>equivalentDelay</key>
+	<string>pauseNotification</string>
+	<key>fixedCoordinator</key>
+	<string>deserializestateful</string>
+	<key>geometricequalizationorientation</key>
+	<string>fixedStorage</string>
+	<key>persistentFragments</key>
+	<string>challengeStructure</string>
+	<key>positiondelivery</key>
+	<string>skipIcon</string>
+	<key>processorEdge</key>
+	<string>paintSlider</string>
+	<key>responsiveVideo</key>
+	<string>onspecifiertap</string>
+	<key>retrievecolumn</key>
+	<string>grayscaleLocation</string>
+</dict>
+</plist>

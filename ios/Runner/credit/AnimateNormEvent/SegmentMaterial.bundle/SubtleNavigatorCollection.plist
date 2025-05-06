@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeProcessor</key>
+	<string>canInflateScreen</string>
+	<key>dismisscollection</key>
+	<string>pushdescription</string>
+	<key>imperativeAnimator</key>
+	<string>disabledPager</string>
+	<key>intermediateButton</key>
+	<string>dedicatedHistogram</string>
+	<key>metadataobject</key>
+	<string>graphicActivity</string>
+	<key>rendererShade</key>
+	<string>inactiveCupertino</string>
+	<key>shouldEmitDecoration</key>
+	<string>crucialPresenter</string>
+</dict>
+</plist>

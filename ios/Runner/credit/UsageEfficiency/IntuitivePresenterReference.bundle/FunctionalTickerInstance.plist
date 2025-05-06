@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousAxis</key>
+	<string>finishLogarithm</string>
+	<key>shouldBindComposition</key>
+	<string>statefulTextField</string>
+	<key>shouldHandleOverlay</key>
+	<string>canStartReference</string>
+	<key>shouldPushStack</key>
+	<string>discoverTask</string>
+</dict>
+</plist>

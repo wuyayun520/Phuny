@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedQueue</key>
+	<string>responsiveSplitter</string>
+	<key>compositionalProtocol</key>
+	<string>canLayoutGridView</string>
+	<key>diffableTweak</key>
+	<string>canValidateSubpixel</string>
+	<key>easyInfrastructure</key>
+	<string>mediumVector</string>
+	<key>mediumSorter</key>
+	<string>granularLatency</string>
+	<key>shouldBindMultiplication</key>
+	<string>injectionformat</string>
+	<key>spineindex</key>
+	<string>computeScene</string>
+	<key>temporaryLoop</key>
+	<string>shouldsetstatenotifier</string>
+</dict>
+</plist>

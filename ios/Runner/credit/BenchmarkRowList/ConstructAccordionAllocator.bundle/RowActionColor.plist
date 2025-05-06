@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncTail</key>
+	<string>cosinesprite</string>
+	<key>batchOrigin</key>
+	<string>visibleBullet</string>
+	<key>denseSubpixel</key>
+	<string>resumeCell</string>
+	<key>inflateresult</key>
+	<string>baselineawayvar</string>
+	<key>replicateobserver</key>
+	<string>attachCatalyst</string>
+	<key>singleElasticity</key>
+	<string>canStopDialogs</string>
+	<key>textagainstobserver</key>
+	<string>shouldPauseEqualization</string>
+</dict>
+</plist>

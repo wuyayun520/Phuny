@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstInterpolation</key>
+	<string>configurationHue</string>
+	<key>ignoredBinder</key>
+	<string>activateclipper</string>
+	<key>membermapper</key>
+	<string>cellFacade</string>
+	<key>signaturezone</key>
+	<string>tentativebottom</string>
+	<key>tickerBound</key>
+	<string>dropdownbuttonMode</string>
+</dict>
+</plist>

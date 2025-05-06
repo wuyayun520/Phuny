@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedModule</key>
+	<string>webStoryboard</string>
+	<key>curvecontainvalue</key>
+	<string>primaryoperation</string>
+	<key>lazyBullet</key>
+	<string>easyDecoration</string>
+	<key>lostTable</key>
+	<string>fragmentsFrequency</string>
+	<key>pinchableDialogs</key>
+	<string>activeEfficiency</string>
+	<key>shouldStartTask</key>
+	<string>occasionShade</string>
+	<key>shouldvalidatecache</key>
+	<string>detachdescriptor</string>
+	<key>singlehandler</key>
+	<string>replacecosine</string>
+	<key>specifyScheduler</key>
+	<string>canDismissCycle</string>
+</dict>
+</plist>

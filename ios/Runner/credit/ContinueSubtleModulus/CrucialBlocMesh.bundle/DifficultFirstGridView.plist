@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachspot</key>
+	<string>thresholdHue</string>
+	<key>exceptionposition</key>
+	<string>explicitCoordinator</string>
+	<key>hasgradient</key>
+	<string>canPaintBinary</string>
+	<key>shouldPrepareStateful</key>
+	<string>canPublishBloc</string>
+	<key>shouldrebuildnotification</key>
+	<string>cacheTier</string>
+	<key>similarCell</key>
+	<string>shouldEmitMonster</string>
+	<key>swiftgraph</key>
+	<string>interactiveascent</string>
+	<key>texttypeforce</key>
+	<string>unaryOrigin</string>
+</dict>
+</plist>

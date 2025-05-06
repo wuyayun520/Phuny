@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binderAlignment</key>
+	<string>shouldValidateLayout</string>
+	<key>cancelloop</key>
+	<string>reconcileRow</string>
+	<key>kernelOrientation</key>
+	<string>strokeOffset</string>
+	<key>mobileforce</key>
+	<string>routeInteger</string>
+	<key>offsetandstate</key>
+	<string>displayableTable</string>
+	<key>shouldCacheExtension</key>
+	<string>symmetricEfficiency</string>
+	<key>taskuntilwork</key>
+	<string>explicitsinkcolor</string>
+	<key>vertexskewx</key>
+	<string>transpilecube</string>
+</dict>
+</plist>

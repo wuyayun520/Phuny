@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardAscent</key>
+	<string>canCancelIcon</string>
+	<key>criticalCharacteristic</key>
+	<string>crudeExpanded</string>
+	<key>criticalcustompaint</key>
+	<string>drawTransition</string>
+	<key>nativeoperationrotation</key>
+	<string>opaqueResource</string>
+	<key>shouldEndMomentum</key>
+	<string>originalReducer</string>
+</dict>
+</plist>

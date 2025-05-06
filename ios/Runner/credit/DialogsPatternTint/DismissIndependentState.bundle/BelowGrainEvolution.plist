@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicDecoration</key>
+	<string>dedicatedAlignment</string>
+	<key>customizedReceiver</key>
+	<string>prepareBox</string>
+	<key>multiShape</key>
+	<string>backwardSplitter</string>
+	<key>popupName</key>
+	<string>canUnbindMedia</string>
+	<key>semanticTitle</key>
+	<string>saveModal</string>
+	<key>shouldDisconnectLog</key>
+	<string>reduceController</string>
+	<key>smallDrawer</key>
+	<string>titleorigin</string>
+	<key>titlethroughmethod</key>
+	<string>integrityfrequency</string>
+</dict>
+</plist>

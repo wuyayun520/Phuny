@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directSegue</key>
+	<string>canDisposeTouch</string>
+	<key>functionalOptimizer</key>
+	<string>concurrentPlate</string>
+	<key>iterativeCapacities</key>
+	<string>workflowstyle</string>
+	<key>retainedRoute</key>
+	<string>completionPressure</string>
+	<key>shaderState</key>
+	<string>shouldDeserializeSensor</string>
+	<key>shouldSkipView</key>
+	<string>mediumpositionedorientation</string>
+	<key>timeroffset</key>
+	<string>cupertinoPager</string>
+	<key>uniformpointbehavior</key>
+	<string>overlaydensity</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentMechanism</key>
+	<string>routegrayscale</string>
+	<key>fragmentinteraction</key>
+	<string>cyclepolygon</string>
+	<key>inheritedlogarithmsaturation</key>
+	<string>symmetricChallenge</string>
+	<key>processorHead</key>
+	<string>statebeyondstate</string>
+	<key>reconcilenotification</key>
+	<string>shouldPublishDimension</string>
+	<key>semanticCell</key>
+	<string>normlikememento</string>
+	<key>tentativeResponse</key>
+	<string>symmetricHash</string>
+	<key>usedLayer</key>
+	<string>deploylocalization</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetcenter</key>
+	<string>consultativeIntegration</string>
+	<key>customGroup</key>
+	<string>statefulAction</string>
+	<key>mendMargin</key>
+	<string>unregisterRoute</string>
+	<key>overlayEdge</key>
+	<string>inheritedResolver</string>
+	<key>requiredVertex</key>
+	<string>shouldDecodeBinary</string>
+	<key>sampleStatus</key>
+	<string>localGestureDetector</string>
+	<key>shaderDelay</key>
+	<string>shouldSaveMission</string>
+	<key>shouldLoadPadding</key>
+	<string>concurrentDescent</string>
+	<key>taskprocessor</key>
+	<string>concreteprioritypressure</string>
+	<key>wrapperbrightness</key>
+	<string>liteConstant</string>
+</dict>
+</plist>

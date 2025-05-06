@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackValidation</key>
+	<string>pagerVisible</string>
+	<key>evaluatevariant</key>
+	<string>mapperPosition</string>
+	<key>shouldInflateProvider</key>
+	<string>ephemeralDrawer</string>
+	<key>visibleColumn</key>
+	<string>mutabletangenttop</string>
+</dict>
+</plist>

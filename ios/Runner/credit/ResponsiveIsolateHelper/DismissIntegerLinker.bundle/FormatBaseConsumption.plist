@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>annotatemusic</key>
+	<string>convolutionOrientation</string>
+	<key>asynchronousDetector</key>
+	<string>currentprovider</string>
+	<key>hastext</key>
+	<string>heapStage</string>
+	<key>infrastructureDepth</key>
+	<string>shouldattachthread</string>
+	<key>mediocreStroke</key>
+	<string>vectorfilter</string>
+	<key>multiScroller</key>
+	<string>showSubpixel</string>
+	<key>shouldPushStateless</key>
+	<string>webStoryboard</string>
+	<key>shouldStreamLabel</key>
+	<string>typicalTangent</string>
+</dict>
+</plist>

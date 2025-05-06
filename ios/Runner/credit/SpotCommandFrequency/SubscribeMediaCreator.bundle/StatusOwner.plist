@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combinerPosition</key>
+	<string>constantSpacing</string>
+	<key>customizedConverter</key>
+	<string>canBuildNavigation</string>
+	<key>inkwellschema</key>
+	<string>iconvalueleft</string>
+	<key>materialTail</key>
+	<string>priorBullet</string>
+	<key>responsiveProject</key>
+	<string>basicLabel</string>
+	<key>specifyMend</key>
+	<string>canKeepContainer</string>
+	<key>unactivatedGrayscale</key>
+	<string>factoryspeed</string>
+</dict>
+</plist>

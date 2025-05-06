@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createreference</key>
+	<string>dynamiccallbackright</string>
+	<key>multiAnimation</key>
+	<string>easyProcessor</string>
+	<key>nativeAlert</key>
+	<string>relationalrequestoffset</string>
+	<key>notationResponse</key>
+	<string>crucialNotification</string>
+	<key>previewBorder</key>
+	<string>shouldDetachDuration</string>
+	<key>seamlessAspectRatio</key>
+	<string>accessorytimer</string>
+	<key>shouldCancelNavigator</key>
+	<string>sharedFragment</string>
+	<key>ternarySkewX</key>
+	<string>radiusDistance</string>
+</dict>
+</plist>

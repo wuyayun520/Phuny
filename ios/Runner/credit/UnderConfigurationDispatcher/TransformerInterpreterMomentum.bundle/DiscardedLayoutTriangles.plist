@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binarysingleton</key>
+	<string>setupcompleter</string>
+	<key>globalcustompaintdelay</key>
+	<string>vectorFormat</string>
+	<key>mechanismHue</key>
+	<string>dynamiccallback</string>
+	<key>priorityroute</key>
+	<string>paralleltextfieldtype</string>
+	<key>reductionLocation</key>
+	<string>mediaqueryinjection</string>
+	<key>resultCount</key>
+	<string>sortedGrid</string>
+	<key>tappableProfile</key>
+	<string>remainderRate</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertdensity</key>
+	<string>canEndOverlay</string>
+	<key>enabledDispatcher</key>
+	<string>processEqualization</string>
+	<key>gridviewShade</key>
+	<string>reactiveIndicator</string>
+	<key>hierarchicalfactoryhead</key>
+	<string>canProcessContainer</string>
+	<key>linkerSpeed</key>
+	<string>shouldBindClipper</string>
+	<key>objectDelay</key>
+	<string>shouldSkipColumn</string>
+</dict>
+</plist>

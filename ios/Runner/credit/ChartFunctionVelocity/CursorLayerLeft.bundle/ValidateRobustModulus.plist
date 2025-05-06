@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaKind</key>
+	<string>canInflateTabBar</string>
+	<key>constraintStatus</key>
+	<string>parseStateless</string>
+	<key>disabledRestriction</key>
+	<string>reusableAlpha</string>
+	<key>observerShade</key>
+	<string>scaffoldfortask</string>
+	<key>projectFlags</key>
+	<string>shouldrebuildwidget</string>
+	<key>shouldEncodeObserver</key>
+	<string>attachtouch</string>
+	<key>statusinteraction</key>
+	<string>geometricBinary</string>
+	<key>usedScroller</key>
+	<string>animatedcontainerRotation</string>
+</dict>
+</plist>

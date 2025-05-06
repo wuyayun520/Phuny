@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equalizationmanager</key>
+	<string>significantScreen</string>
+	<key>independentOccasion</key>
+	<string>agileAppBar</string>
+	<key>playbackresult</key>
+	<string>originalShader</string>
+	<key>responseviaparam</key>
+	<string>chartfactory</string>
+	<key>schedulerOffset</key>
+	<string>canEndOptimizer</string>
+</dict>
+</plist>

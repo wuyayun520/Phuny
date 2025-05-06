@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffablefeaturecount</key>
+	<string>oldReduction</string>
+	<key>hasInstruction</key>
+	<string>checkAlignment</string>
+	<key>intermediateConstant</key>
+	<string>positionedAcceleration</string>
+	<key>shouldDeserializeReduction</key>
+	<string>routeSpine</string>
+	<key>shouldDisconnectCube</key>
+	<string>gestureTier</string>
+</dict>
+</plist>

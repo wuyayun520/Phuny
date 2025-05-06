@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedGridView</key>
+	<string>invisibleMerger</string>
+	<key>axisInteraction</key>
+	<string>transitionSlider</string>
+	<key>cubeSpeed</key>
+	<string>crudeInterface</string>
+	<key>discardedAction</key>
+	<string>appbarRotation</string>
+	<key>disclaimerSpacing</key>
+	<string>appenddelegate</string>
+	<key>imperativeTimeline</key>
+	<string>shouldDeserializeSkin</string>
+	<key>pivotalCompletion</key>
+	<string>sceneDensity</string>
+	<key>shouldHandleBitrate</key>
+	<string>disconnectIntensity</string>
+</dict>
+</plist>

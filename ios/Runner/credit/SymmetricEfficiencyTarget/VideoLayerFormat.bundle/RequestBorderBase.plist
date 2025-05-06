@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gradientallocator</key>
+	<string>asyncValidation</string>
+	<key>pivotalTween</key>
+	<string>canRenderPriority</string>
+	<key>semanticsliderforce</key>
+	<string>inflateCycle</string>
+	<key>shouldDeserializeResource</key>
+	<string>itemspeed</string>
+	<key>webChannels</key>
+	<string>consumefuture</string>
+</dict>
+</plist>

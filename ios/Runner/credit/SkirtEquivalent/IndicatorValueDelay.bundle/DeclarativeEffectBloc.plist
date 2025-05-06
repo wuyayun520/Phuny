@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerSkewX</key>
+	<string>seamlessIntegrity</string>
+	<key>elasticMargin</key>
+	<string>exitcollection</string>
+	<key>interactiveCanvas</key>
+	<string>canPrepareUnary</string>
+	<key>modalSpeed</key>
+	<string>presentScroll</string>
+	<key>shouldContinueSensor</key>
+	<string>cosineAdapter</string>
+	<key>subtleCluster</key>
+	<string>currentMediaQuery</string>
+	<key>webCurve</key>
+	<string>isConstraint</string>
+</dict>
+</plist>

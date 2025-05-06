@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopInformation</key>
+	<string>backwardCapacity</string>
+	<key>evolutionresponse</key>
+	<string>gridviewVelocity</string>
+	<key>shouldRouteText</key>
+	<string>streamlineChart</string>
+	<key>specifyStamp</key>
+	<string>smartCombiner</string>
+	<key>uniformRect</key>
+	<string>draggableIcon</string>
+	<key>usedEntropy</key>
+	<string>fetchController</string>
+</dict>
+</plist>

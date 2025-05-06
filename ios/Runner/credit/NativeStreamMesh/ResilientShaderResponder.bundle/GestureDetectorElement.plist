@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianDelegate</key>
+	<string>exponentAcceleration</string>
+	<key>draggableListView</key>
+	<string>canDisposeInkWell</string>
+	<key>immediateKernel</key>
+	<string>reusableCharacter</string>
+	<key>imperativeRenderer</key>
+	<string>hierarchicalTool</string>
+	<key>shouldKeepStack</key>
+	<string>unlockIsolate</string>
+</dict>
+</plist>

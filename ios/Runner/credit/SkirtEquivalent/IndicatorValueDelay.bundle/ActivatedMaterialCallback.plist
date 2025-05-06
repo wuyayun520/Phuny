@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>isThread</key>
+	<string>desktopRect</string>
+	<key>keyCheckbox</key>
+	<string>persistentDrawer</string>
+	<key>methodtheme</key>
+	<string>canContinueNavigation</string>
+	<key>numericalGift</key>
+	<string>staticClipper</string>
+	<key>robustGift</key>
+	<string>onstatefultap</string>
+	<key>taskbandwidth</key>
+	<string>permissiveColor</string>
+</dict>
+</plist>

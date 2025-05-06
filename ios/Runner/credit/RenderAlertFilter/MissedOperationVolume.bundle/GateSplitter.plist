@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencypainter</key>
+	<string>shouldtransformgrayscale</string>
+	<key>granularEqualization</key>
+	<string>connectscene</string>
+	<key>materializerspacing</key>
+	<string>mountDescriptor</string>
+	<key>rapidMission</key>
+	<string>entropyPosition</string>
+	<key>shouldSaveVariant</key>
+	<string>sortedColumn</string>
+	<key>sophisticatedVolume</key>
+	<string>canContinueRow</string>
+	<key>uniformFinder</key>
+	<string>custompaintDistance</string>
+</dict>
+</plist>

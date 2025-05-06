@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>globalExponent</key>
+	<string>advancedSwitch</string>
+	<key>newestfragment</key>
+	<string>isolatestatus</string>
+	<key>notifierdistance</key>
+	<string>resourceshapestate</string>
+	<key>startutil</key>
+	<string>shouldStopProfile</string>
+</dict>
+</plist>

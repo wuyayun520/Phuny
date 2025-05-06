@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelmethod</key>
+	<string>featureOffset</string>
+	<key>combineasset</key>
+	<string>eagerSlash</string>
+	<key>discardedMerger</key>
+	<string>arithmeticParam</string>
+	<key>shouldKeepMonster</key>
+	<string>grainformat</string>
+	<key>shouldReplaceSwift</key>
+	<string>immediatebuilder</string>
+	<key>sliderpicker</key>
+	<string>steporoperation</string>
+	<key>trianglesDensity</key>
+	<string>navigatorTier</string>
+</dict>
+</plist>

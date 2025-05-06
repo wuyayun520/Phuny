@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratiogrid</key>
+	<string>calculateEvent</string>
+	<key>challengevariablevalidation</key>
+	<string>canCreateExtension</string>
+	<key>convolutionOpacity</key>
+	<string>timelineTheme</string>
+	<key>cupertinoreducer</key>
+	<string>symbolmargin</string>
+	<key>nextKernel</key>
+	<string>textureAction</string>
+	<key>retaingraphic</key>
+	<string>updateButton</string>
+	<key>semanticTopic</key>
+	<string>directlyConfiguration</string>
+	<key>shouldPersistTabBar</key>
+	<string>emitStack</string>
+	<key>tabbarSkewX</key>
+	<string>shouldPopContraction</string>
+</dict>
+</plist>

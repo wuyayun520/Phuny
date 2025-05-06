@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorDensity</key>
+	<string>elasticEvaluation</string>
+	<key>bufferreducer</key>
+	<string>standaloneGesture</string>
+	<key>compositionalDelivery</key>
+	<string>declarativeBloc</string>
+	<key>mediocreScreen</key>
+	<string>canAnimateGem</string>
+	<key>profileShape</key>
+	<string>configureListener</string>
+	<key>relationalShape</key>
+	<string>imperativeCaption</string>
+	<key>shouldPresentCharacter</key>
+	<string>curveincludeoperation</string>
+	<key>shouldkeepdrawer</key>
+	<string>shouldRenderSubpixel</string>
+	<key>variantBrightness</key>
+	<string>momentumBound</string>
+</dict>
+</plist>

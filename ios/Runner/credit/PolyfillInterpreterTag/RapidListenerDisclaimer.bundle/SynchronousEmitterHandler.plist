@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bandwidthShade</key>
+	<string>discardedHandler</string>
+	<key>checkanchor</key>
+	<string>projectiontext</string>
+	<key>groupDirection</key>
+	<string>selectedrole</string>
+	<key>scrollableBullet</key>
+	<string>signFormat</string>
+	<key>segueuntillevel</key>
+	<string>poolcompleter</string>
+	<key>shouldpreparetechnique</key>
+	<string>multiComposition</string>
+	<key>sizeformat</key>
+	<string>associateParticle</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonState</key>
+	<string>enhanceLabel</string>
+	<key>hyperbolicticker</key>
+	<string>storetheme</string>
+	<key>loadusecase</key>
+	<string>selectedBase</string>
+	<key>missionCenter</key>
+	<string>richtextstructuremargin</string>
+	<key>primaryAnimation</key>
+	<string>unmarshalException</string>
+	<key>subtleAspectRatio</key>
+	<string>basicoptimizerpadding</string>
+	<key>subtleStoryboard</key>
+	<string>receiveFuture</string>
+</dict>
+</plist>

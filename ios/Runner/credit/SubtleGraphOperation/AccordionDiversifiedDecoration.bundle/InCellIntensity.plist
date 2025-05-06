@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushSize</key>
+	<string>draggablesensor</string>
+	<key>cardbyvisitor</key>
+	<string>arithmetictransformer</string>
+	<key>hierarchicalBloc</key>
+	<string>validateSensor</string>
+	<key>opaquePermutation</key>
+	<string>compareError</string>
+	<key>playbackLocation</key>
+	<string>pivotalAxis</string>
+	<key>selectedTextField</key>
+	<string>visibleState</string>
+	<key>sharedParticle</key>
+	<string>activeException</string>
+	<key>shouldSkipCursor</key>
+	<string>swiftviatier</string>
+	<key>shouldValidateMediaQuery</key>
+	<string>usecaseasvariable</string>
+</dict>
+</plist>

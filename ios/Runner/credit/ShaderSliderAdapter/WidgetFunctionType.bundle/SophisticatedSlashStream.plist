@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dropdownbuttonMode</key>
+	<string>optimizeRadius</string>
+	<key>equivalentLocation</key>
+	<string>smallMediaQuery</string>
+	<key>integerCount</key>
+	<string>significantdescriptorcolor</string>
+	<key>lostScene</key>
+	<string>semanticStatus</string>
+	<key>shouldAnimateController</key>
+	<string>hardoptionforce</string>
+	<key>shouldObserveLabel</key>
+	<string>providertaskright</string>
+	<key>visibleUsage</key>
+	<string>cardintensity</string>
+</dict>
+</plist>

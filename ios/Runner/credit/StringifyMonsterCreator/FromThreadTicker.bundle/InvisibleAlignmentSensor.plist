@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equalizationjoiner</key>
+	<string>mainTimer</string>
+	<key>hyperbolicShader</key>
+	<string>disconnectTool</string>
+	<key>mediumThroughput</key>
+	<string>converterAppearance</string>
+	<key>sharedcontroller</key>
+	<string>animationmerger</string>
+	<key>shouldInflateGate</key>
+	<string>fusedProvider</string>
+</dict>
+</plist>

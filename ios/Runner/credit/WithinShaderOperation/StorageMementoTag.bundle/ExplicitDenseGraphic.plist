@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleSingleton</key>
+	<string>deserializeService</string>
+	<key>buttonnearparam</key>
+	<string>shouldFetchCollection</string>
+	<key>fusedMesh</key>
+	<string>deactivateView</string>
+	<key>opaqueCell</key>
+	<string>popDelegate</string>
+	<key>persistentRole</key>
+	<string>equalobserver</string>
+	<key>shaderoutsideinterpreter</key>
+	<string>intensitycommandscale</string>
+	<key>visibleText</key>
+	<string>shouldpersistoption</string>
+</dict>
+</plist>

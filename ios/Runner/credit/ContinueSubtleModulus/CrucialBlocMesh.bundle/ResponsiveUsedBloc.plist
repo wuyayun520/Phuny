@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characteristicInset</key>
+	<string>synchronizeTask</string>
+	<key>deferredPolyfill</key>
+	<string>animatedcontainerdensity</string>
+	<key>efficiencyCount</key>
+	<string>maketext</string>
+	<key>granularHandler</key>
+	<string>oldLayout</string>
+	<key>notificationSkewX</key>
+	<string>deliveryTheme</string>
+	<key>positionedTransparency</key>
+	<string>itemTension</string>
+	<key>shouldContinuePadding</key>
+	<string>showSpot</string>
+	<key>similarElement</key>
+	<string>semanticscurve</string>
+	<key>singletonvaluename</key>
+	<string>positionstate</string>
+	<key>sortedAspect</key>
+	<string>baselineresult</string>
+</dict>
+</plist>

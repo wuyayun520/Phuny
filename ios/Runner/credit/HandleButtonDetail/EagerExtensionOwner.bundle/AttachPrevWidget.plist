@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionnumbertype</key>
+	<string>cursorFrequency</string>
+	<key>commonbuilder</key>
+	<string>controllerduringcycle</string>
+	<key>fetchpreview</key>
+	<string>shouldContinueDialogs</string>
+	<key>immutableIcon</key>
+	<string>canMountCard</string>
+	<key>intermediateBaseline</key>
+	<string>searchtimer</string>
+	<key>keepmobile</key>
+	<string>canDisposeBaseline</string>
+	<key>nibresponse</key>
+	<string>canDecodeCompletion</string>
+	<key>radiusHead</key>
+	<string>sortedFormat</string>
+	<key>richtextShade</key>
+	<string>taskplatformmode</string>
+	<key>shouldSetStateSlash</key>
+	<string>canRenderSpot</string>
+</dict>
+</plist>

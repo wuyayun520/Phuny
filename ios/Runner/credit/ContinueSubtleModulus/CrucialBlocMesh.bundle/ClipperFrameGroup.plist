@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>methodtransparency</key>
+	<string>agileAlignment</string>
+	<key>opaqueFactory</key>
+	<string>tableVisitor</string>
+	<key>precisionEdge</key>
+	<string>updateHeap</string>
+	<key>secondCube</key>
+	<string>usecaseBound</string>
+	<key>shouldAnimateKernel</key>
+	<string>deferredFinder</string>
+	<key>shouldDisposePadding</key>
+	<string>cancelskirt</string>
+	<key>shouldReplaceBoxShadow</key>
+	<string>mainVariant</string>
+	<key>shouldSaveOperation</key>
+	<string>shouldSerializeFuture</string>
+</dict>
+</plist>

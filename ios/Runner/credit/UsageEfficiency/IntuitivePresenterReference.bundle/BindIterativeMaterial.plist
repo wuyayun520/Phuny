@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchInterval</key>
+	<string>persistentAllocator</string>
+	<key>disclaimerAlignment</key>
+	<string>acceleratestream</string>
+	<key>heapSize</key>
+	<string>immediateinteractorinteraction</string>
+	<key>logRate</key>
+	<string>meshContrast</string>
+	<key>observerstatetension</key>
+	<string>embedScene</string>
+	<key>shouldResumeMonster</key>
+	<string>schemaFlags</string>
+	<key>shouldSerializeHero</key>
+	<string>menuMomentum</string>
+</dict>
+</plist>

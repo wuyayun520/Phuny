@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableExtension</key>
+	<string>choosertail</string>
+	<key>elasticLifecycle</key>
+	<string>robustComposition</string>
+	<key>euclideanColumn</key>
+	<string>standaloneMonster</string>
+	<key>mixintechnique</key>
+	<string>immediateSizedBox</string>
+	<key>nodeStatus</key>
+	<string>graphicPosition</string>
+	<key>significantResponder</key>
+	<string>canTransitionLabel</string>
+	<key>similarMomentum</key>
+	<string>shouldListenClipper</string>
+</dict>
+</plist>

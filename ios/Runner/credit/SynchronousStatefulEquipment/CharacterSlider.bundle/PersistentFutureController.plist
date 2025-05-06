@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarpolygon</key>
+	<string>displayableAlignment</string>
+	<key>contractionconsumer</key>
+	<string>replicateResponse</string>
+	<key>elementInteraction</key>
+	<string>robustInteractor</string>
+	<key>handlertension</key>
+	<string>materialCell</string>
+	<key>mediumDetail</key>
+	<string>navigateRoute</string>
+	<key>workflowname</key>
+	<string>tickerResponse</string>
+</dict>
+</plist>

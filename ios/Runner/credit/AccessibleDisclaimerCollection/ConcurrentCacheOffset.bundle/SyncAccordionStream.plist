@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerFuture</key>
+	<string>timelinePosition</string>
+	<key>enabledUsage</key>
+	<string>accessibleMember</string>
+	<key>loopscalability</key>
+	<string>primarymissionspacing</string>
+	<key>reactivePlayback</key>
+	<string>behaviorValidation</string>
+	<key>responsivePolygon</key>
+	<string>reusablecompletion</string>
+	<key>standaloneOperation</key>
+	<string>encodeStream</string>
+	<key>storetransparency</key>
+	<string>dropdownbuttonContrast</string>
+	<key>transformview</key>
+	<string>rectangleRotation</string>
+</dict>
+</plist>

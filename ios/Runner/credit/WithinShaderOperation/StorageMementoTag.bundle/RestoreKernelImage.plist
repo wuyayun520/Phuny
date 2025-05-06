@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystCount</key>
+	<string>canTransitionMediaQuery</string>
+	<key>missioninterface</key>
+	<string>equalizationInteraction</string>
+	<key>permanentTrigger</key>
+	<string>shouldDeserializeRemainder</string>
+	<key>sampleamongdecorator</key>
+	<string>graphicDelay</string>
+	<key>specifyGroup</key>
+	<string>shouldConnectDrawer</string>
+	<key>subsequentResponder</key>
+	<string>notifySample</string>
+</dict>
+</plist>

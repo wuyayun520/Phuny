@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>granularMerger</key>
+	<string>giftpopup</string>
+	<key>intermediateNavigator</key>
+	<string>widgetRight</string>
+	<key>keyRange</key>
+	<string>dispatcherPosition</string>
+	<key>layernumbercoord</key>
+	<string>customFlex</string>
+	<key>resolverSkewY</key>
+	<string>managerparamtransparency</string>
+	<key>shouldDetachScale</key>
+	<string>dismissoverlay</string>
+	<key>subscriberindex</key>
+	<string>accessibletaskopacity</string>
+</dict>
+</plist>

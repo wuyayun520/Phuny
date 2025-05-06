@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeSorter</key>
+	<string>taskForce</string>
+	<key>eventmerger</key>
+	<string>unlockDuration</string>
+	<key>formatbottom</key>
+	<string>shouldSkipClipper</string>
+	<key>functionalhandler</key>
+	<string>shouldpresentcharacter</string>
+	<key>navigatedelegate</key>
+	<string>lockcupertino</string>
+	<key>sequentialCompleter</key>
+	<string>mountCycle</string>
+</dict>
+</plist>

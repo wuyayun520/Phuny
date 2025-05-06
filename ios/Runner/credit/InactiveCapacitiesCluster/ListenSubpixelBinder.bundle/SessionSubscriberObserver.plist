@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dropdownbuttonSkewY</key>
+	<string>dropdownbuttonCoord</string>
+	<key>intensityvelocity</key>
+	<string>equipmentFlags</string>
+	<key>resilienceLocation</key>
+	<string>ephemeralMaster</string>
+	<key>shouldNotifyMember</key>
+	<string>interactorAction</string>
+	<key>singleScroller</key>
+	<string>primaryEntropy</string>
+	<key>smallSkin</key>
+	<string>mobileExponent</string>
+	<key>spinmovement</key>
+	<string>updateException</string>
+	<key>unactivatedSign</key>
+	<string>differentiateAsync</string>
+</dict>
+</plist>

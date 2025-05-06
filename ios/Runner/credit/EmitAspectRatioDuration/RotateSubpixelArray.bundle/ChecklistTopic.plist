@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerVolume</key>
+	<string>blocobject</string>
+	<key>enabledDescriptor</key>
+	<string>techniqueVisible</string>
+	<key>polyfillMode</key>
+	<string>similarUsage</string>
+	<key>primaryLayout</key>
+	<string>awaitshape</string>
+	<key>shouldMountScreen</key>
+	<string>techniqueLocation</string>
+	<key>shouldSaveTernary</key>
+	<string>actionScale</string>
+	<key>shouldTransformBoxShadow</key>
+	<string>shouldNotifyBox</string>
+</dict>
+</plist>

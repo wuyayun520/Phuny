@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adjustresolver</key>
+	<string>canDecodeSkirt</string>
+	<key>capsuleplatforminteraction</key>
+	<string>shouldSaveBaseline</string>
+	<key>consumptionVisible</key>
+	<string>currentLayer</string>
+	<key>inheritedConstant</key>
+	<string>imageParam</string>
+	<key>petformat</key>
+	<string>divideSink</string>
+	<key>primaryShape</key>
+	<string>globalSink</string>
+	<key>shouldPrepareBox</key>
+	<string>canPushBullet</string>
+	<key>singleConnector</key>
+	<string>durationFunction</string>
+	<key>sophisticatedStore</key>
+	<string>parseGram</string>
+	<key>storethanvisitor</key>
+	<string>shouldPublishPageView</string>
+</dict>
+</plist>

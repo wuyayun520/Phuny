@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationaboutfunction</key>
+	<string>shouldObserveSymbol</string>
+	<key>destroyprogressbar</key>
+	<string>denseTool</string>
+	<key>discardedwidget</key>
+	<string>autoChart</string>
+	<key>hashfrommethod</key>
+	<string>canStreamGridView</string>
+	<key>independentRadio</key>
+	<string>mainConsumption</string>
+	<key>intermediateScene</key>
+	<string>continueNib</string>
+	<key>mediocreFactory</key>
+	<string>curvetaskleft</string>
+	<key>memberbesideshape</key>
+	<string>navigationinfrastructure</string>
+	<key>relationalrange</key>
+	<string>deferredContainer</string>
+	<key>sortedModule</key>
+	<string>allocatoropacity</string>
+</dict>
+</plist>

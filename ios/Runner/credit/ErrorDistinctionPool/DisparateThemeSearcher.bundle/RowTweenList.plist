@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedReference</key>
+	<string>analogyBorder</string>
+	<key>borderbinder</key>
+	<string>seguenode</string>
+	<key>comprehensiveNavigation</key>
+	<string>moveInterface</string>
+	<key>emitterresponse</key>
+	<string>iskernel</string>
+	<key>ignoredtexture</key>
+	<string>parallelContraction</string>
+	<key>materialSprite</key>
+	<string>maxImage</string>
+	<key>mediocreWrapper</key>
+	<string>scrollableAccessory</string>
+	<key>shouldProcessMedia</key>
+	<string>subsequentResult</string>
+	<key>subscriptionDuration</key>
+	<string>diffableReference</string>
+</dict>
+</plist>

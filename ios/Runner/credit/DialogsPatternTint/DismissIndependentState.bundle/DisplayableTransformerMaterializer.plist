@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertBorder</key>
+	<string>canUnbindSubpixel</string>
+	<key>buttonLocation</key>
+	<string>storearoundcomposite</string>
+	<key>desktopMission</key>
+	<string>axisFlags</string>
+	<key>priorityposition</key>
+	<string>batchthroughbuffer</string>
+	<key>promiseContrast</key>
+	<string>deferredGift</string>
+	<key>shouldPopPromise</key>
+	<string>discardedsound</string>
+</dict>
+</plist>

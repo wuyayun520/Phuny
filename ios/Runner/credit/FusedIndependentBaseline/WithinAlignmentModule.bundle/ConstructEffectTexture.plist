@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerMode</key>
+	<string>scalabilityTag</string>
+	<key>polygonTension</key>
+	<string>augmentZone</string>
+	<key>sortedAspect</key>
+	<string>movementinset</string>
+	<key>subtleCell</key>
+	<string>shouldContinueContraction</string>
+</dict>
+</plist>

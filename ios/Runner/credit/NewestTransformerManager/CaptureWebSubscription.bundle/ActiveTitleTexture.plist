@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxuntilscope</key>
+	<string>mediumStep</string>
+	<key>consumercapacity</key>
+	<string>scheduleTicker</string>
+	<key>dynamicConnector</key>
+	<string>canAnimateDialogs</string>
+	<key>lossBorder</key>
+	<string>activityalignment</string>
+	<key>shouldPresentInteger</key>
+	<string>nativeLocalization</string>
+	<key>staticPlayback</key>
+	<string>pauseExponent</string>
+</dict>
+</plist>

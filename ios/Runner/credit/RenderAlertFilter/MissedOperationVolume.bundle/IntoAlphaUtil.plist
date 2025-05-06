@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveElement</key>
+	<string>shouldUnmountedDocument</string>
+	<key>bindoperation</key>
+	<string>createmovement</string>
+	<key>cubitprovider</key>
+	<string>declarativechaptertag</string>
+	<key>curveDirection</key>
+	<string>flexRotation</string>
+	<key>injectionForce</key>
+	<string>sessiontaxonomy</string>
+	<key>shouldcreatepriority</key>
+	<string>shouldCancelMap</string>
+	<key>temporaryprovidersize</key>
+	<string>curvelatency</string>
+	<key>typicalCertificate</key>
+	<string>eagertransitioninteraction</string>
+</dict>
+</plist>

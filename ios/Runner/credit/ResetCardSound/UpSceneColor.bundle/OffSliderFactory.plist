@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveRotation</key>
+	<string>wrapBuffer</string>
+	<key>discardedWorkflow</key>
+	<string>shouldAnimatePrecision</string>
+	<key>greatMobile</key>
+	<string>callbackstrength</string>
+	<key>mapperindex</key>
+	<string>symmetricBitrate</string>
+	<key>mediumButton</key>
+	<string>bufferFormat</string>
+	<key>nativeentity</key>
+	<string>thresholdflags</string>
+	<key>permanentLog</key>
+	<string>unlockswift</string>
+	<key>tensorspritesize</key>
+	<string>makelocalization</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>celllabel</key>
+	<string>descriptionTension</string>
+	<key>challengeactivitytension</key>
+	<string>multiGrid</string>
+	<key>ephemeralLoop</key>
+	<string>mapevent</string>
+	<key>providerBrightness</key>
+	<string>displayableTransformer</string>
+	<key>secondiconfeedback</key>
+	<string>immutablePresenter</string>
+	<key>shouldDecodeBrush</key>
+	<string>canRestartAperture</string>
+	<key>spriteTail</key>
+	<string>pushScreen</string>
+</dict>
+</plist>

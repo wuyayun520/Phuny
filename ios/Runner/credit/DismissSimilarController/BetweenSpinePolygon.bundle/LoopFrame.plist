@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascentInset</key>
+	<string>materialAspect</string>
+	<key>associatedRange</key>
+	<string>encapsulateAnimation</string>
+	<key>cartesianAscent</key>
+	<string>keyReference</string>
+	<key>intuitiveSplitter</key>
+	<string>relationalActivity</string>
+	<key>sessiondirection</key>
+	<string>arithmeticsize</string>
+	<key>singlePermutation</key>
+	<string>expandedname</string>
+	<key>spinheap</key>
+	<string>rowdirection</string>
+	<key>toolVisibility</key>
+	<string>canRenderMediaQuery</string>
+</dict>
+</plist>

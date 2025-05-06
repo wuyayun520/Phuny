@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileMesh</key>
+	<string>encapsulateSink</string>
+	<key>elasticAnalogy</key>
+	<string>semanticsSkewY</string>
+	<key>liteLayer</key>
+	<string>showAction</string>
+	<key>litePolygon</key>
+	<string>eagerCollection</string>
+	<key>searcherRight</key>
+	<string>secondReduction</string>
+	<key>smallimpact</key>
+	<string>coordinatorCommand</string>
+	<key>taxonomySaturation</key>
+	<string>brushSystem</string>
+	<key>viewexceptcommand</key>
+	<string>mediumThroughput</string>
+</dict>
+</plist>

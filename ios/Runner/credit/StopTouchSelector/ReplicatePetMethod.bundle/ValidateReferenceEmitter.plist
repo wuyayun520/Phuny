@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedConverter</key>
+	<string>axishead</string>
+	<key>normalMap</key>
+	<string>factoryForm</string>
+	<key>prevItem</key>
+	<string>globalPadding</string>
+	<key>shouldConnectModal</key>
+	<string>stringifyProvider</string>
+	<key>strengthName</key>
+	<string>shoulddecodecertificate</string>
+</dict>
+</plist>

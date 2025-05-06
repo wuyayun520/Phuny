@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicCycle</key>
+	<string>finishStoryboard</string>
+	<key>discardedSearcher</key>
+	<string>processSizedBox</string>
+	<key>parallelStoryboard</key>
+	<string>resizableGram</string>
+	<key>positionedOrientation</key>
+	<string>keyOptimizer</string>
+	<key>protocolrequest</key>
+	<string>singleMetadata</string>
+	<key>tappableascent</key>
+	<string>declarativeConstraint</string>
+</dict>
+</plist>

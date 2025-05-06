@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellCoord</key>
+	<string>seguelocation</string>
+	<key>extenddropdownbutton</key>
+	<string>chapterscenario</string>
+	<key>memberstylelocation</key>
+	<string>shouldBindSkirt</string>
+	<key>newestInterface</key>
+	<string>navigateprofile</string>
+	<key>sequentialData</key>
+	<string>modelSystem</string>
+	<key>stackwithcontext</key>
+	<string>tableRight</string>
+	<key>storyboardAppearance</key>
+	<string>routerStage</string>
+</dict>
+</plist>

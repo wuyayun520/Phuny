@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorappearance</key>
+	<string>serviceSize</string>
+	<key>brushactivityoffset</key>
+	<string>unactivatedProject</string>
+	<key>flexiblesorter</key>
+	<string>consultativeSchema</string>
+	<key>momentumCoord</key>
+	<string>concatenateDelegate</string>
+	<key>publiclocalization</key>
+	<string>normInterval</string>
+	<key>responseInteraction</key>
+	<string>shouldTransitionNib</string>
+	<key>sliderpicker</key>
+	<string>canPauseSignature</string>
+	<key>specifyScreen</key>
+	<string>instantiateException</string>
+	<key>sustainableDescription</key>
+	<string>embracetitle</string>
+	<key>tensorRadio</key>
+	<string>sliderscopefeedback</string>
+</dict>
+</plist>

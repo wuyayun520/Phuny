@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedChooser</key>
+	<string>canNavigateView</string>
+	<key>assetbehavior</key>
+	<string>pivotalAspect</string>
+	<key>audioShade</key>
+	<string>usedDropdownButton</string>
+	<key>clusterContrast</key>
+	<string>scrollableNib</string>
+	<key>granularConverter</key>
+	<string>disabledtexture</string>
+	<key>hardTitle</key>
+	<string>renameevent</string>
+	<key>mutableStateful</key>
+	<string>tickerSkewY</string>
+	<key>publicAlpha</key>
+	<string>responsearounddecorator</string>
+	<key>screenValidation</key>
+	<string>commonDuration</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratiobound</key>
+	<string>inflateText</string>
+	<key>directSearcher</key>
+	<string>staticEquivalent</string>
+	<key>metricsContrast</key>
+	<string>sortedCustomPaint</string>
+	<key>normalEvent</key>
+	<string>particleShade</string>
+	<key>numericalModel</key>
+	<string>canUnbindView</string>
+	<key>shouldDeserializeKernel</key>
+	<string>shouldMountGestureDetector</string>
+	<key>temporarychallenge</key>
+	<string>semanticsinfo</string>
+</dict>
+</plist>

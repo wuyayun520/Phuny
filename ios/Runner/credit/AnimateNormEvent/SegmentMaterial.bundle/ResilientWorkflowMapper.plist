@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customRole</key>
+	<string>locateRect</string>
+	<key>matrixEdge</key>
+	<string>thresholdSpacing</string>
+	<key>shouldDecodeCard</key>
+	<string>compositionalLatency</string>
+	<key>shouldHandleSizedBox</key>
+	<string>sustainablecallbackacceleration</string>
+	<key>smartRect</key>
+	<string>equalizationvariablesize</string>
+</dict>
+</plist>

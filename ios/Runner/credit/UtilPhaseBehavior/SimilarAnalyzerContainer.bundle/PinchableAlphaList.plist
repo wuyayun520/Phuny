@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>creatorForce</key>
+	<string>releaseResource</string>
+	<key>deserializecaption</key>
+	<string>createPopup</string>
+	<key>difficultPresenter</key>
+	<string>significantNib</string>
+	<key>finderTheme</key>
+	<string>lazySubscription</string>
+	<key>grayscaleDirection</key>
+	<string>independentExponent</string>
+	<key>sustainableFactory</key>
+	<string>canDeserializeSpine</string>
+</dict>
+</plist>

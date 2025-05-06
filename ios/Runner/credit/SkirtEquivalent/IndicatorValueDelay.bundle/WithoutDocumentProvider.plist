@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerText</key>
+	<string>inheritedModal</string>
+	<key>granularBinder</key>
+	<string>unaryAdapter</string>
+	<key>invisibleBase</key>
+	<string>holdGraph</string>
+	<key>mainSwift</key>
+	<string>unmountWidget</string>
+	<key>queuestructurespacing</key>
+	<string>finishscroll</string>
+	<key>responsiveReplica</key>
+	<string>shaderflags</string>
+	<key>shouldValidateLog</key>
+	<string>webWidget</string>
+	<key>synchronousQuaternion</key>
+	<string>rapidPlayback</string>
+</dict>
+</plist>

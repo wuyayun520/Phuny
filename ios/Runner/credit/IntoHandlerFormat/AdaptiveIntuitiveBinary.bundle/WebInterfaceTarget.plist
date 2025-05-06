@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachbutton</key>
+	<string>prevMetrics</string>
+	<key>discardedCosine</key>
+	<string>observermetrics</string>
+	<key>requestlayerstyle</key>
+	<string>mountedAspect</string>
+	<key>sampledescent</key>
+	<string>eagerBase</string>
+	<key>shouldUnmountedStep</key>
+	<string>advancedAudio</string>
+	<key>statefulStamp</key>
+	<string>easyAudio</string>
+</dict>
+</plist>

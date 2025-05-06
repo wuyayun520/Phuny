@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colorFrequency</key>
+	<string>normaltechniqueformat</string>
+	<key>draggableResponder</key>
+	<string>evaluateEvent</string>
+	<key>signresponse</key>
+	<string>fixedExtension</string>
+	<key>visibleRectangle</key>
+	<string>marginHue</string>
+</dict>
+</plist>

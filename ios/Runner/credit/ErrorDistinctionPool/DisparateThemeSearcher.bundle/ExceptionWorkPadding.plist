@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationscheduler</key>
+	<string>canDisconnectEffect</string>
+	<key>architectureSkewX</key>
+	<string>interactorJob</string>
+	<key>diffableGraphic</key>
+	<string>notifyMenu</string>
+	<key>gridviewscopesize</key>
+	<string>delicategate</string>
+	<key>immutableItem</key>
+	<string>canTransformLoss</string>
+	<key>mainPromise</key>
+	<string>pendingAlpha</string>
+	<key>movementmomentum</key>
+	<string>canPersistStack</string>
+</dict>
+</plist>

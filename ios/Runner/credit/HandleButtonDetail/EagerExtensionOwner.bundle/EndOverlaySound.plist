@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>globalTransformer</key>
+	<string>processPreview</string>
+	<key>intuitiveDescriptor</key>
+	<string>shouldHandleTable</string>
+	<key>paddingelasticity</key>
+	<string>shouldFetchCursor</string>
+	<key>scheduletext</key>
+	<string>customizedBinder</string>
+	<key>shouldContinueCard</key>
+	<string>euclideanLifecycle</string>
+	<key>transitionutil</key>
+	<string>specifierexception</string>
+</dict>
+</plist>

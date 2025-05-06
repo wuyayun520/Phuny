@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggablebuildermode</key>
+	<string>easyConstraint</string>
+	<key>expandedInterval</key>
+	<string>tweenCoord</string>
+	<key>missedVertex</key>
+	<string>quantizerBuilder</string>
+	<key>mobileflags</key>
+	<string>criticalActivity</string>
+	<key>resumefactory</key>
+	<string>canEmitSubpixel</string>
+	<key>substantialStrength</key>
+	<string>cloneHash</string>
+</dict>
+</plist>

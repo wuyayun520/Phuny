@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarFormat</key>
+	<string>renderButton</string>
+	<key>criticalAnalyzer</key>
+	<string>currentstep</string>
+	<key>flexibleAnimation</key>
+	<string>hashColor</string>
+	<key>notifiertriangles</key>
+	<string>draggableStateless</string>
+	<key>numericalTransition</key>
+	<string>capacityTag</string>
+	<key>shouldSubscribeRole</key>
+	<string>cosineTemple</string>
+	<key>taskcolor</key>
+	<string>tensorEmitter</string>
+	<key>traversalSaturation</key>
+	<string>shouldEmitExpanded</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleSizedBox</key>
+	<string>hascharacter</string>
+	<key>chooserAcceleration</key>
+	<string>baselineFlyweight</string>
+	<key>persistentSpine</key>
+	<string>saveCatalyst</string>
+	<key>resilientDistinction</key>
+	<string>canEndLog</string>
+	<key>specifyPager</key>
+	<string>modulusKind</string>
+	<key>streamgrayscale</key>
+	<string>allocatorLevel</string>
+	<key>sustainableDropdownButton</key>
+	<string>shouldPersistPriority</string>
+</dict>
+</plist>

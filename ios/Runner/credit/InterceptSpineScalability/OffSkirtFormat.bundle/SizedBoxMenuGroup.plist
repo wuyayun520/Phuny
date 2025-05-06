@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityRotation</key>
+	<string>tableTier</string>
+	<key>alignmenttime</key>
+	<string>videoSkewX</string>
+	<key>globalCompletion</key>
+	<string>ephemeralSpecifier</string>
+	<key>loadusecase</key>
+	<string>usedStream</string>
+	<key>resourcefrequency</key>
+	<string>resumeConstraint</string>
+	<key>sceneduringdecorator</key>
+	<string>repositoryFrequency</string>
+	<key>scrollableEfficiency</key>
+	<string>shouldFormatBinary</string>
+	<key>shouldCancelBehavior</key>
+	<string>associatedPicker</string>
+	<key>tableTheme</key>
+	<string>shouldShowBuilder</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionhandler</key>
+	<string>remediationTint</string>
+	<key>analyzerContrast</key>
+	<string>shouldMountCatalyst</string>
+	<key>entropyOrigin</key>
+	<string>lossedge</string>
+	<key>granularButton</key>
+	<string>intermediateMultiplication</string>
+	<key>interpolationlinker</key>
+	<string>draggableWrapper</string>
+	<key>intuitiveReference</key>
+	<string>destroyController</string>
+	<key>publicrenderer</key>
+	<string>shouldlayoutcosine</string>
+	<key>statefulConfiguration</key>
+	<string>accessibleMedia</string>
+	<key>switchTop</key>
+	<string>deactivateTask</string>
+	<key>tappableListView</key>
+	<string>observeasset</string>
+</dict>
+</plist>

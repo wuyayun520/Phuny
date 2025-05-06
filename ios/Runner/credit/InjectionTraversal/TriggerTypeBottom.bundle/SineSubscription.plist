@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>encodehash</key>
+	<string>statefulelasticity</string>
+	<key>intermediateCallback</key>
+	<string>autobuffer</string>
+	<key>keyCell</key>
+	<string>reconcileAwait</string>
+	<key>requiredMusic</key>
+	<string>directlyScroll</string>
+	<key>resizableImage</key>
+	<string>searcherMode</string>
+	<key>singleLoop</key>
+	<string>diffablecaptionleft</string>
+</dict>
+</plist>

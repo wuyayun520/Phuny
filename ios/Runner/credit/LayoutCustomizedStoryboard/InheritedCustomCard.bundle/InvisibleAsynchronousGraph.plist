@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialhash</key>
+	<string>isshader</string>
+	<key>customizedExponent</key>
+	<string>canStreamMember</string>
+	<key>dispatchentropy</key>
+	<string>animationscheduler</string>
+	<key>hyperbolicIsolate</key>
+	<string>finderDepth</string>
+	<key>intuitiveImage</key>
+	<string>interactiveResult</string>
+	<key>persistentUtil</key>
+	<string>shouldMountCurve</string>
+	<key>shouldPaintDescriptor</key>
+	<string>textureOrientation</string>
+	<key>specifyInjection</key>
+	<string>fillProgressBar</string>
+</dict>
+</plist>

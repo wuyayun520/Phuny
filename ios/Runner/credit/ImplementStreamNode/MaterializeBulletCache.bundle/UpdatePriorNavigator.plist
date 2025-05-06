@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicResource</key>
+	<string>injectEntity</string>
+	<key>deferredGroup</key>
+	<string>invisibleService</string>
+	<key>immutableBaseline</key>
+	<string>hardEffect</string>
+	<key>mergerColor</key>
+	<string>euclideanhandlerinset</string>
+	<key>shouldUnmountedMap</key>
+	<string>restrictionDirection</string>
+	<key>sustainableDropdownButton</key>
+	<string>alertcoord</string>
+</dict>
+</plist>

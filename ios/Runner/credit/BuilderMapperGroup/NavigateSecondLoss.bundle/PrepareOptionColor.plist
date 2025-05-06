@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryAlignment</key>
+	<string>euclideancard</string>
+	<key>ignoredContrast</key>
+	<string>newestCompleter</string>
+	<key>infoTail</key>
+	<string>rectcount</string>
+	<key>invisiblechecklist</key>
+	<string>compositionalDescription</string>
+</dict>
+</plist>

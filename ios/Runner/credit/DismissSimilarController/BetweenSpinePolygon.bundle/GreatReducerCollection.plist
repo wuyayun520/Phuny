@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableInteractor</key>
+	<string>multiplicationResponse</string>
+	<key>directlyPolyfill</key>
+	<string>evaluationShade</string>
+	<key>hardConstraint</key>
+	<string>stateResponse</string>
+	<key>imagebehavior</key>
+	<string>skirtSaturation</string>
+	<key>normSkewX</key>
+	<string>backwardResponder</string>
+	<key>shouldPushGesture</key>
+	<string>dynamicCubit</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticNorm</key>
+	<string>multiInjection</string>
+	<key>dependencyactioncontrast</key>
+	<string>optimizeracceleration</string>
+	<key>particleFrequency</key>
+	<string>disabledSchema</string>
+	<key>shouldParseDecoration</key>
+	<string>shouldFetchBuilder</string>
+	<key>standaloneOptimizer</key>
+	<string>ephemeralresolver</string>
+</dict>
+</plist>

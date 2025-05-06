@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalMapper</key>
+	<string>clipperSingleton</string>
+	<key>normalInterpolation</key>
+	<string>injectUseCase</string>
+	<key>observeraroundlayer</key>
+	<string>priorityvelocity</string>
+	<key>permissivePlate</key>
+	<string>singleProgressBar</string>
+	<key>responseequivalent</key>
+	<string>canYieldScaffold</string>
+	<key>sequentialAnimator</key>
+	<string>cosineTail</string>
+</dict>
+</plist>

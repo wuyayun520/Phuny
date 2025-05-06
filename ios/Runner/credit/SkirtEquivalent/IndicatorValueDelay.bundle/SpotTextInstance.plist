@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoSegue</key>
+	<string>dropoutParticle</string>
+	<key>emitmember</key>
+	<string>graphicContrast</string>
+	<key>hardRange</key>
+	<string>paintPromise</string>
+	<key>inkwellborder</key>
+	<string>customizedGram</string>
+	<key>layerfeedback</key>
+	<string>rowBuffer</string>
+	<key>previewlatency</key>
+	<string>ignoredChallenge</string>
+	<key>secondSession</key>
+	<string>propagateconstraint</string>
+	<key>tasktemplemomentum</key>
+	<string>enabledCompleter</string>
+</dict>
+</plist>

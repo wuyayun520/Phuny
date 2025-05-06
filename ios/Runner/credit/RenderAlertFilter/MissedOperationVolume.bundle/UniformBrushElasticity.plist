@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionType</key>
+	<string>singletonSaturation</string>
+	<key>asynchronousGradient</key>
+	<string>enabledRichText</string>
+	<key>eventfilter</key>
+	<string>finishbuilder</string>
+	<key>histogramdirection</key>
+	<string>gemState</string>
+	<key>intermediateChallenge</key>
+	<string>scrollresponse</string>
+	<key>keyconfidentiality</key>
+	<string>streamMobile</string>
+	<key>primarystreamcount</key>
+	<string>canStopProvider</string>
+	<key>shapeColor</key>
+	<string>shouldDecodeAspect</string>
+	<key>shouldobservebitrate</key>
+	<string>shouldDeserializeOperation</string>
+	<key>shouldpaintprojection</key>
+	<string>mediumGrain</string>
+</dict>
+</plist>

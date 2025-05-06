@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>encodecanvas</key>
+	<string>constraintSingleton</string>
+	<key>flexinterval</key>
+	<string>notifyStateful</string>
+	<key>shouldPresentScreen</key>
+	<string>inflateDocument</string>
+	<key>sophisticatedEffect</key>
+	<string>sineBound</string>
+	<key>sustainablePadding</key>
+	<string>disclaimerLeft</string>
+</dict>
+</plist>

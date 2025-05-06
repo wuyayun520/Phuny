@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entityaswork</key>
+	<string>trianglesCenter</string>
+	<key>intermediateremediation</key>
+	<string>canListenThread</string>
+	<key>shouldCreateScale</key>
+	<string>reusableSizedBox</string>
+	<key>shouldDisposeCupertino</key>
+	<string>layoutnode</string>
+	<key>significantMapper</key>
+	<string>normalDispatcher</string>
+</dict>
+</plist>

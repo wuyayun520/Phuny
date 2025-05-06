@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptorlistener</key>
+	<string>statelessDensity</string>
+	<key>filterFrequency</key>
+	<string>spritethanaction</string>
+	<key>managerName</key>
+	<string>canReplaceCupertino</string>
+	<key>mutableVector</key>
+	<string>restartcubit</string>
+	<key>overlaykindrotation</key>
+	<string>tensorSegment</string>
+	<key>plateScale</key>
+	<string>selectedEquipment</string>
+	<key>rowinteraction</key>
+	<string>fetchSine</string>
+	<key>shouldSaveAlpha</key>
+	<string>customBox</string>
+</dict>
+</plist>

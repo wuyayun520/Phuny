@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayablePager</key>
+	<string>shouldEncodeMargin</string>
+	<key>metricsVelocity</key>
+	<string>dispatchInteger</string>
+	<key>shouldObserveGridView</key>
+	<string>deserializeAppBar</string>
+	<key>shouldPublishLabel</key>
+	<string>publishSample</string>
+	<key>toolversusenvironment</key>
+	<string>inactivePlayback</string>
+</dict>
+</plist>

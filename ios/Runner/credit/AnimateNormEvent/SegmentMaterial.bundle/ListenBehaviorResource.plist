@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cachepresenter</key>
+	<string>invokeAsync</string>
+	<key>marginroute</key>
+	<string>replicateStore</string>
+	<key>optimizecell</key>
+	<string>filterbound</string>
+	<key>sharedstate</key>
+	<string>robustinkwell</string>
+	<key>shouldBuildSpecifier</key>
+	<string>mountContainer</string>
+</dict>
+</plist>

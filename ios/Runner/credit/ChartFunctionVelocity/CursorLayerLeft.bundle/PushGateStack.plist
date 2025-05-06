@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatortheme</key>
+	<string>declarativePolyfill</string>
+	<key>denseskirtleft</key>
+	<string>deflateTopic</string>
+	<key>invisibleDecoration</key>
+	<string>sortedHeap</string>
+	<key>localCatalyst</key>
+	<string>globalDetail</string>
+	<key>missedExpanded</key>
+	<string>shouldEndDelegate</string>
+	<key>responderOrigin</key>
+	<string>addTopic</string>
+	<key>shouldNotifyEquipment</key>
+	<string>cartesianCombiner</string>
+	<key>shouldSetStateSpot</key>
+	<string>mobilePressure</string>
+	<key>specifyextension</key>
+	<string>callbackJob</string>
+	<key>tappableModal</key>
+	<string>canDisposeHistogram</string>
+</dict>
+</plist>

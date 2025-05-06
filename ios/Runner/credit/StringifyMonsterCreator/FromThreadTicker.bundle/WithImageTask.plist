@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>imageKind</key>
+	<string>reusableEmitter</string>
+	<key>priorSplitter</key>
+	<string>consumertension</string>
+	<key>shouldDisposeController</key>
+	<string>confidentialityEdge</string>
+</dict>
+</plist>

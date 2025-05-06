@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitBrightness</key>
+	<string>contrastHead</string>
+	<key>callbackStatus</key>
+	<string>iterativeProgressBar</string>
+	<key>largeFlex</key>
+	<string>mediaoftype</string>
+	<key>shouldUpdateProtocol</key>
+	<string>independentScenario</string>
+	<key>videoInterval</key>
+	<string>retainedContrast</string>
+</dict>
+</plist>

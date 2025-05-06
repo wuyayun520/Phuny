@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleColor</key>
+	<string>handlePadding</string>
+	<key>axisOrigin</key>
+	<string>webutilcontrast</string>
+	<key>crudeSymbol</key>
+	<string>shouldContinueSegment</string>
+	<key>ephemeralcompleter</key>
+	<string>shouldStopPoint</string>
+	<key>mutabledelivery</key>
+	<string>dropoutView</string>
+	<key>shouldTrainSlider</key>
+	<string>instructionBorder</string>
+	<key>significantResolver</key>
+	<string>dissociateContainer</string>
+	<key>smallCoordinator</key>
+	<string>sceneObserver</string>
+</dict>
+</plist>

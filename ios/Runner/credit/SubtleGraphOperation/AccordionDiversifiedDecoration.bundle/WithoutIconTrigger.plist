@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggablePolygon</key>
+	<string>relationalTopic</string>
+	<key>gesturedetectorgrid</key>
+	<string>paintAlert</string>
+	<key>persistentAscent</key>
+	<string>transitionaroundphase</string>
+	<key>resumeticker</key>
+	<string>entitytension</string>
+	<key>roleresilience</key>
+	<string>comprehensiveInteractor</string>
+	<key>serializesingleton</key>
+	<string>reactiveInteraction</string>
+	<key>singleCompleter</key>
+	<string>respondbaseline</string>
+	<key>topictail</key>
+	<string>shouldCancelChecklist</string>
+</dict>
+</plist>

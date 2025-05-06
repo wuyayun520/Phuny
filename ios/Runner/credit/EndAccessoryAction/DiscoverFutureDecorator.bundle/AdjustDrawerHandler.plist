@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>imperativeinterpolation</key>
+	<string>metadataBorder</string>
+	<key>prismaticReplica</key>
+	<string>skinPressure</string>
+	<key>resizableLoss</key>
+	<string>listviewVar</string>
+	<key>shouldDispatchSemantics</key>
+	<string>symmetricTransformer</string>
+</dict>
+</plist>

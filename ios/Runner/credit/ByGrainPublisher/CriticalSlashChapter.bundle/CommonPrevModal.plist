@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endtransition</key>
+	<string>deflatebuilder</string>
+	<key>isPainter</key>
+	<string>boxshadowLevel</string>
+	<key>onflextap</key>
+	<string>parseSession</string>
+	<key>reactiveButton</key>
+	<string>mapStyle</string>
+	<key>shouldMountedRole</key>
+	<string>asynchronousSchema</string>
+	<key>shouldRebuildInteger</key>
+	<string>gridviewDensity</string>
+	<key>sliderShape</key>
+	<string>processSpot</string>
+</dict>
+</plist>

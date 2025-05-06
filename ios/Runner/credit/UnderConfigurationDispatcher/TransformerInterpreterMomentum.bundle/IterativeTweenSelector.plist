@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationtimeline</key>
+	<string>fetchBuilder</string>
+	<key>draggableBinder</key>
+	<string>currentpageview</string>
+	<key>gestureSaturation</key>
+	<string>framesystemright</string>
+	<key>interactivetaskopacity</key>
+	<string>criticalCoordinator</string>
+	<key>missedFilter</key>
+	<string>imperativeoverlayoffset</string>
+	<key>observerversusproxy</key>
+	<string>curvehue</string>
+	<key>singleUseCase</key>
+	<string>diffableModal</string>
+	<key>validateutil</key>
+	<string>resizableSession</string>
+</dict>
+</plist>

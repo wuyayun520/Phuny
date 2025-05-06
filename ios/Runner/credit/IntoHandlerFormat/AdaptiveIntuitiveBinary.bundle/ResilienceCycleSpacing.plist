@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionScenario</key>
+	<string>immutableThreshold</string>
+	<key>borderMode</key>
+	<string>formatMedia</string>
+	<key>displayableScaffold</key>
+	<string>anchortransition</string>
+	<key>isgridview</key>
+	<string>transformvariant</string>
+	<key>spriteInteraction</key>
+	<string>custompresenterright</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activitystyletint</key>
+	<string>volumeappearance</string>
+	<key>displayableCallback</key>
+	<string>shouldStreamNib</string>
+	<key>ignoredStep</key>
+	<string>axisInteraction</string>
+	<key>mediumSchema</key>
+	<string>statelessTable</string>
+	<key>robustCell</key>
+	<string>canTransitionTransition</string>
+	<key>shouldDismissText</key>
+	<string>pinchablemenu</string>
+	<key>significantGraph</key>
+	<string>creatorPressure</string>
+	<key>sortedTrajectory</key>
+	<string>navigateSymbol</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileRectangle</key>
+	<string>completedNavigator</string>
+	<key>autoSink</key>
+	<string>startmodel</string>
+	<key>composableCurve</key>
+	<string>geometricSizedBox</string>
+	<key>containerrotation</key>
+	<string>radioMediator</string>
+	<key>missedTriangles</key>
+	<string>scopeTag</string>
+	<key>otherError</key>
+	<string>listviewVisibility</string>
+	<key>prevIsolate</key>
+	<string>nativelayoutdelay</string>
+	<key>priorTriangles</key>
+	<string>deferredCapsule</string>
+	<key>signaturedistance</key>
+	<string>canDeserializeChannels</string>
+	<key>usedCurve</key>
+	<string>infoAlignment</string>
+</dict>
+</plist>

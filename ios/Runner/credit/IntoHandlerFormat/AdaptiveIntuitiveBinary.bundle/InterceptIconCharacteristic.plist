@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileAnimation</key>
+	<string>canUnmountSlider</string>
+	<key>awaitasjob</key>
+	<string>cloneTimer</string>
+	<key>backwardKernel</key>
+	<string>mainDropdownButton</string>
+	<key>documentBehavior</key>
+	<string>serializeEqualization</string>
+	<key>elasticTool</key>
+	<string>bandwidthcenter</string>
+	<key>futureshape</key>
+	<string>canTransformAnimatedContainer</string>
+	<key>ignoredImpact</key>
+	<string>similarTextField</string>
+	<key>invisibleBinder</key>
+	<string>webSubscriber</string>
+	<key>responsiveCompletion</key>
+	<string>numericalPermutation</string>
+	<key>trainhash</key>
+	<string>destroyReducer</string>
+</dict>
+</plist>

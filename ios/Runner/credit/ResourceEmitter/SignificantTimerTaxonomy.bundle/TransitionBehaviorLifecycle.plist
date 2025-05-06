@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateLeft</key>
+	<string>segueAcceleration</string>
+	<key>certificatetag</key>
+	<string>opaqueChallenge</string>
+	<key>eagerVector</key>
+	<string>readTask</string>
+	<key>groupscope</key>
+	<string>holdDescription</string>
+	<key>shouldListenButton</key>
+	<string>shouldParseBinary</string>
+	<key>shouldProcessFragment</key>
+	<string>formatOpacity</string>
+	<key>tappableActivity</key>
+	<string>inheritedFormat</string>
+	<key>temporaryUnary</key>
+	<string>singletonbychain</string>
+</dict>
+</plist>

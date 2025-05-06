@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorRight</key>
+	<string>temporaryDecoration</string>
+	<key>behaviorSpeed</key>
+	<string>asyncTint</string>
+	<key>cartesianCapsule</key>
+	<string>listviewLeft</string>
+	<key>descentAlignment</key>
+	<string>dependencyaspect</string>
+	<key>integerName</key>
+	<string>shouldYieldCoordinator</string>
+	<key>statefulLayer</key>
+	<string>triggerInterval</string>
+</dict>
+</plist>

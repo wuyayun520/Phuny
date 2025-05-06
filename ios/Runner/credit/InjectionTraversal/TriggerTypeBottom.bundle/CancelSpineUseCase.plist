@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effecttype</key>
+	<string>alphaBorder</string>
+	<key>extensionvelocity</key>
+	<string>advancedReducer</string>
+	<key>pushdescription</key>
+	<string>uniqueGraphic</string>
+	<key>reusableMetadata</key>
+	<string>restoreRow</string>
+</dict>
+</plist>

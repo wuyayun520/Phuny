@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deliveryPosition</key>
+	<string>shouldpersistactivity</string>
+	<key>elasticAsset</key>
+	<string>nibSize</string>
+	<key>ignoredCollection</key>
+	<string>canSerializeCoordinator</string>
+	<key>permissiveSignature</key>
+	<string>vectorizeCallback</string>
+	<key>shouldSkipUnary</key>
+	<string>shouldBindDimension</string>
+	<key>strengthRate</key>
+	<string>cancelcharacter</string>
+	<key>subtleAspect</key>
+	<string>configurationAppearance</string>
+</dict>
+</plist>

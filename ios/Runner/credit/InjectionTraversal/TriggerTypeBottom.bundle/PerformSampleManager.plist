@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeAnimator</key>
+	<string>fixedInformation</string>
+	<key>lastTweak</key>
+	<string>positionInterpreter</string>
+	<key>missedBorder</key>
+	<string>shouldSetStateReduction</string>
+	<key>nativeCombiner</key>
+	<string>customEntity</string>
+	<key>shouldCreateSwitch</key>
+	<string>canValidateProfile</string>
+</dict>
+</plist>

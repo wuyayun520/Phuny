@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>latencystatus</key>
+	<string>shouldDisposeSpot</string>
+	<key>mainAppBar</key>
+	<string>presenterTheme</string>
+	<key>scrollableRemainder</key>
+	<string>canSetStateImage</string>
+	<key>sequentialBitrate</key>
+	<string>repositoryCoord</string>
+	<key>shouldEmitInstruction</key>
+	<string>alertRate</string>
+	<key>singleVector</key>
+	<string>oldStatus</string>
+</dict>
+</plist>

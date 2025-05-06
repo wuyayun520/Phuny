@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexgrid</key>
+	<string>staticProcessor</string>
+	<key>fragmentstop</key>
+	<string>interfaceTier</string>
+	<key>hashtentative</key>
+	<string>notifygem</string>
+	<key>interactiveRange</key>
+	<string>ignoredConstraint</string>
+	<key>shouldPaintSpine</key>
+	<string>sophisticatedLayer</string>
+	<key>shouldPresentWorkflow</key>
+	<string>switchStatus</string>
+	<key>singletonRotation</key>
+	<string>lostScalability</string>
+</dict>
+</plist>

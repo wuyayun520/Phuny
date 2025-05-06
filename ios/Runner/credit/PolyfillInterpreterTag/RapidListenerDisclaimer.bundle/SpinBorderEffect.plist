@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanCell</key>
+	<string>originalDispatcher</string>
+	<key>mountmobile</key>
+	<string>shouldUnbindShader</string>
+	<key>shouldRebuildPet</key>
+	<string>effectPlatform</string>
+</dict>
+</plist>

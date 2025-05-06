@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianInteractor</key>
+	<string>chapterInteraction</string>
+	<key>descriptorInteraction</key>
+	<string>concreteCanvas</string>
+	<key>displayableNib</key>
+	<string>momentumtransparency</string>
+	<key>invisibleslider</key>
+	<string>originalIndicator</string>
+	<key>resilientBase</key>
+	<string>respectiveItem</string>
+</dict>
+</plist>

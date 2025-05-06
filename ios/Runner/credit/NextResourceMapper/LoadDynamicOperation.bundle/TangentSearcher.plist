@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegatedependency</key>
+	<string>descriptionstate</string>
+	<key>dynamicTopic</key>
+	<string>tableFrequency</string>
+	<key>mainrouteroffset</key>
+	<string>labelMethod</string>
+	<key>mountcertificate</key>
+	<string>futureInteraction</string>
+	<key>optimizerRotation</key>
+	<string>shouldDetachModulus</string>
+	<key>registercallback</key>
+	<string>explicitBehavior</string>
+	<key>resultkindcenter</key>
+	<string>mountTouch</string>
+	<key>shouldstreamspine</key>
+	<string>modeldistance</string>
+</dict>
+</plist>

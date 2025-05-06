@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mediathroughstage</key>
+	<string>parsecharacter</string>
+	<key>operationborder</key>
+	<string>elementAlignment</string>
+	<key>resizableTentative</key>
+	<string>newestVertex</string>
+	<key>usedTime</key>
+	<string>awaitbandwidth</string>
+	<key>websizetension</key>
+	<string>retainindicator</string>
+</dict>
+</plist>

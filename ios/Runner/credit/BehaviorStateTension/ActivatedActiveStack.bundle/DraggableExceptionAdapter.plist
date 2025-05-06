@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultHero</key>
+	<string>completerparamcolor</string>
+	<key>draggableDescription</key>
+	<string>consumptionorientation</string>
+	<key>layerHue</key>
+	<string>finishroute</string>
+	<key>mediumlogarithmacceleration</key>
+	<string>missionCenter</string>
+	<key>progressbarAlignment</key>
+	<string>replicateController</string>
+	<key>rangeInset</key>
+	<string>contractionAction</string>
+	<key>shouldTrainWorkflow</key>
+	<string>visibleEfficiency</string>
+</dict>
+</plist>

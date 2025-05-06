@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerTabView</key>
+	<string>unlockRequest</string>
+	<key>gestureskewx</key>
+	<string>visitchallenge</string>
+	<key>sharedChart</key>
+	<string>trajectoryshade</string>
+	<key>shouldAnimateText</key>
+	<string>yieldcallback</string>
+	<key>visiblepopup</key>
+	<string>shouldEncodeCheckbox</string>
+</dict>
+</plist>

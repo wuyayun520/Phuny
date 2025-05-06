@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedcontainer</key>
+	<string>tickerVar</string>
+	<key>deferredComposition</key>
+	<string>functionalText</string>
+	<key>desktopThread</key>
+	<string>logDistance</string>
+	<key>finishgram</key>
+	<string>emitFrame</string>
+	<key>flexsplitter</key>
+	<string>textBrightness</string>
+	<key>lazyTimeline</key>
+	<string>sustainablethread</string>
+	<key>mainNavigation</key>
+	<string>rectPressure</string>
+	<key>tappableEqualization</key>
+	<string>materialMission</string>
+	<key>typicalInterpolation</key>
+	<string>deliveryKind</string>
+</dict>
+</plist>

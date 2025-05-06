@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedChart</key>
+	<string>pagerInterval</string>
+	<key>lazyAnchor</key>
+	<string>singletonversuscomposite</string>
+	<key>mainIntegrity</key>
+	<string>multiplicationDelay</string>
+	<key>parallelLifecycle</key>
+	<string>cupertinoMetrics</string>
+	<key>unmountrichtext</key>
+	<string>notifyPet</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableWrapper</key>
+	<string>inkwellCount</string>
+	<key>featureValidation</key>
+	<string>pivotalSubscriber</string>
+	<key>modelSize</key>
+	<string>appbarInterval</string>
+	<key>resilientNavigation</key>
+	<string>dropouttransformer</string>
+	<key>smartLifecycle</key>
+	<string>graphicinfo</string>
+</dict>
+</plist>

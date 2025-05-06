@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintEdge</key>
+	<string>liteFormat</string>
+	<key>cursorworktype</key>
+	<string>elasticityDelay</string>
+	<key>interactiveFilter</key>
+	<string>shouldUnmountLayout</string>
+	<key>respectiveBrush</key>
+	<string>functionalFactory</string>
+	<key>specifyResult</key>
+	<string>shouldConnectPet</string>
+	<key>spriteAlignment</key>
+	<string>resultScope</string>
+</dict>
+</plist>

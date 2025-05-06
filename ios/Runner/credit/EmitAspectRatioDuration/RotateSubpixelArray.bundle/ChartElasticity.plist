@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedAudio</key>
+	<string>strokeRight</string>
+	<key>associatedData</key>
+	<string>customNotifier</string>
+	<key>chooserSize</key>
+	<string>flexibleReliability</string>
+	<key>commonTweak</key>
+	<string>mergerInset</string>
+	<key>deliveryCount</key>
+	<string>shouldSkipMonster</string>
+	<key>playbackFlags</key>
+	<string>ephemeralZone</string>
+	<key>shouldDisposeInstruction</key>
+	<string>parallelMember</string>
+	<key>tweakTint</key>
+	<string>permissiveAllocator</string>
+	<key>widgetFeedback</key>
+	<string>discardedNotifier</string>
+</dict>
+</plist>

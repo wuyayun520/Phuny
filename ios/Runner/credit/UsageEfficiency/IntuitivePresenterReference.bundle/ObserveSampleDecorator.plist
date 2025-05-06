@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitType</key>
+	<string>opaqueData</string>
+	<key>ephemeralImage</key>
+	<string>easyTolerance</string>
+	<key>giftLocation</key>
+	<string>subpixelTheme</string>
+	<key>immutablePoint</key>
+	<string>singleSearcher</string>
+	<key>semanticseguecoord</key>
+	<string>mobileChain</string>
+	<key>tensorGestureDetector</key>
+	<string>tappableCycle</string>
+</dict>
+</plist>

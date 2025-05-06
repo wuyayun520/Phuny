@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessorydelegate</key>
+	<string>seamlessAnimator</string>
+	<key>adaptiveCombiner</key>
+	<string>custompaintforaction</string>
+	<key>descentfeedback</key>
+	<string>adaptiveRequest</string>
+	<key>eagerTimer</key>
+	<string>appbarJob</string>
+	<key>locaterequest</key>
+	<string>cellTag</string>
+	<key>notifierTheme</key>
+	<string>parallelSplitter</string>
+	<key>shouldTransformBehavior</key>
+	<string>dedicatedprotocol</string>
+	<key>transformdelegate</key>
+	<string>heroCenter</string>
+	<key>trianglesPressure</key>
+	<string>canFormatRow</string>
+</dict>
+</plist>

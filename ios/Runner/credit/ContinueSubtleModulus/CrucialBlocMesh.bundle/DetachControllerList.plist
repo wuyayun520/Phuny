@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationprovider</key>
+	<string>canUnmountBloc</string>
+	<key>loopCoord</key>
+	<string>contrastright</string>
+	<key>materialBinder</key>
+	<string>reducerForce</string>
+	<key>obtainposition</key>
+	<string>awaitTemple</string>
+	<key>serializetask</key>
+	<string>requestMargin</string>
+	<key>shouldNavigateOption</key>
+	<string>shouldProcessBuilder</string>
+	<key>shouldskipdocument</key>
+	<string>cubitDuration</string>
+	<key>usedcursortension</key>
+	<string>shouldKeepScreen</string>
+</dict>
+</plist>

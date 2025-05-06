@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveskewx</key>
+	<string>shouldTransformSignature</string>
+	<key>explicitManager</key>
+	<string>interactiveReducer</string>
+	<key>graphOrigin</key>
+	<string>widgetFacade</string>
+	<key>nativeCluster</key>
+	<string>elementResponse</string>
+	<key>resumegridview</key>
+	<string>retainedinterpolation</string>
+	<key>scrollableReduction</key>
+	<string>heapFramework</string>
+	<key>sequentialPageView</key>
+	<string>geometricConfidentiality</string>
+	<key>workflowacceleration</key>
+	<string>sinkcontextleft</string>
+</dict>
+</plist>

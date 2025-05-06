@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertVisibility</key>
+	<string>shouldPushCurve</string>
+	<key>channelskewy</key>
+	<string>cacheTail</string>
+	<key>checklistOrigin</key>
+	<string>notifyScale</string>
+	<key>constantStatus</key>
+	<string>shouldUnbindNotification</string>
+	<key>rapidcomponent</key>
+	<string>canYieldTangent</string>
+	<key>stackdetail</key>
+	<string>nativeChannel</string>
+</dict>
+</plist>

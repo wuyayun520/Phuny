@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contrastAcceleration</key>
+	<string>consultativeAlignment</string>
+	<key>graphicwithcontext</key>
+	<string>arithmeticgemleft</string>
+	<key>hardprotocoledge</key>
+	<string>initializeState</string>
+	<key>integrationOrientation</key>
+	<string>hardIcon</string>
+	<key>navigationInset</key>
+	<string>shouldUpdateTool</string>
+	<key>resilientIndicator</key>
+	<string>combinerDelay</string>
+	<key>shouldStreamAspect</key>
+	<string>sensorRotation</string>
+	<key>significanttweenlocation</key>
+	<string>swiftFlags</string>
+	<key>storyboardinteraction</key>
+	<string>shouldpaintcurve</string>
+</dict>
+</plist>

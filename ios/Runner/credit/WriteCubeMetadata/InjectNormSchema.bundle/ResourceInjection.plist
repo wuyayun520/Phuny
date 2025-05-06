@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledMobile</key>
+	<string>embedMethod</string>
+	<key>discardedJoiner</key>
+	<string>shouldSubscribeMission</string>
+	<key>graphCenter</key>
+	<string>storeDecorator</string>
+	<key>remainderactivitycenter</key>
+	<string>delegatePrototype</string>
+	<key>shouldReplaceOperation</key>
+	<string>shouldPushModal</string>
+	<key>sustainableReference</key>
+	<string>fragmentDuration</string>
+</dict>
+</plist>

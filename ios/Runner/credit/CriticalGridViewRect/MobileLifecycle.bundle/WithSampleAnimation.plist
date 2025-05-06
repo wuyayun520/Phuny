@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateFormat</key>
+	<string>logarithmMode</string>
+	<key>logBehavior</key>
+	<string>canDecodeProvider</string>
+	<key>mediawithoutenvironment</key>
+	<string>streamlayer</string>
+	<key>multicallbackcount</key>
+	<string>canDecodeNorm</string>
+	<key>shouldShowProvider</key>
+	<string>connectManager</string>
+	<key>undertakeslash</key>
+	<string>reflectLayout</string>
+</dict>
+</plist>

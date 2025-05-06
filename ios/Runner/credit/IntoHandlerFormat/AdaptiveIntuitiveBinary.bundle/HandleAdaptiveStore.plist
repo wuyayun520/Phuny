@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonTechnique</key>
+	<string>advancedDescriptor</string>
+	<key>otherpager</key>
+	<string>mediaqueryEnvironment</string>
+	<key>shouldtransformgift</key>
+	<string>shouldDisposeEffect</string>
+	<key>sizeshape</key>
+	<string>videoDensity</string>
+</dict>
+</plist>

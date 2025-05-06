@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionCharacteristic</key>
+	<string>groupFormat</string>
+	<key>decodecard</key>
+	<string>delegateresource</string>
+	<key>elasticLayer</key>
+	<string>timeFlags</string>
+	<key>functionalCustomPaint</key>
+	<string>canBindExtension</string>
+	<key>projectversusvalue</key>
+	<string>memberContext</string>
+	<key>shouldInflateCapsule</key>
+	<string>cupertinodurationcenter</string>
+	<key>shouldUnmountedScale</key>
+	<string>canPrepareHeap</string>
+</dict>
+</plist>

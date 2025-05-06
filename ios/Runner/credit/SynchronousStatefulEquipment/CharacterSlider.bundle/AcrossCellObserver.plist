@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equalizationInteraction</key>
+	<string>analyzeSink</string>
+	<key>extensionEdge</key>
+	<string>shouldTransitionTheme</string>
+	<key>protectedbuilder</key>
+	<string>extendNode</string>
+	<key>resizableBoxShadow</key>
+	<string>retainedBehavior</string>
+	<key>secondAnimation</key>
+	<string>positionedVar</string>
+	<key>singleCapacity</key>
+	<string>formatCurve</string>
+	<key>specifymodel</key>
+	<string>completedPrecision</string>
+</dict>
+</plist>

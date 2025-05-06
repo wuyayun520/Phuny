@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheloop</key>
+	<string>lostCycle</string>
+	<key>cupertinoRight</key>
+	<string>attachinterpolation</string>
+	<key>gatepressure</key>
+	<string>parallelSelector</string>
+	<key>opaqueinterfaceopacity</key>
+	<string>canFetchProfile</string>
+	<key>playbackOpacity</key>
+	<string>architectureHue</string>
+	<key>sophisticatedEffect</key>
+	<string>fixedBox</string>
+</dict>
+</plist>

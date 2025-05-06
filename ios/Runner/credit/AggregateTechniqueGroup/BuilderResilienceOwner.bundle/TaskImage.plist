@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitamortization</key>
+	<string>canListenMember</string>
+	<key>hasdocument</key>
+	<string>shouldHandleConstraint</string>
+	<key>shouldAttachImage</key>
+	<string>streamBrush</string>
+	<key>shouldRebuildSignature</key>
+	<string>originalrichtext</string>
+	<key>spriteimpression</key>
+	<string>shaderStructure</string>
+	<key>swiftBottom</key>
+	<string>regulateDependency</string>
+</dict>
+</plist>

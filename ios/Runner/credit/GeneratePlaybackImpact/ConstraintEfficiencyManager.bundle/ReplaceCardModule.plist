@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionstreamvisibility</key>
+	<string>logarithmTag</string>
+	<key>activatedcontroller</key>
+	<string>smallobserver</string>
+	<key>chapterValidation</key>
+	<string>dynamiceventdirection</string>
+	<key>heapreceiver</key>
+	<string>statelessFragment</string>
+	<key>mediocreTimer</key>
+	<string>shouldPublishProfile</string>
+	<key>shouldNavigateNib</key>
+	<string>executePosition</string>
+	<key>shouldStartBullet</key>
+	<string>borderTension</string>
+	<key>temporaryRemainder</key>
+	<string>shouldEmitHistogram</string>
+	<key>usedCallback</key>
+	<string>desktopLoss</string>
+</dict>
+</plist>

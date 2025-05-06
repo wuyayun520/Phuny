@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedTask</key>
+	<string>cartesianListener</string>
+	<key>draggableMaterializer</key>
+	<string>pivotalInterface</string>
+	<key>equipmentsearcher</key>
+	<string>compositionalCurve</string>
+	<key>previewwithplatform</key>
+	<string>shouldUpdateTask</string>
+	<key>promisetitle</key>
+	<string>screenBuffer</string>
+	<key>resumeservice</key>
+	<string>geometricProjection</string>
+	<key>screenInset</key>
+	<string>imperativeAnalyzer</string>
+	<key>shouldLoadReference</key>
+	<string>completerproxyhue</string>
+	<key>signaturespacing</key>
+	<string>asyncdrawer</string>
+	<key>specifyPopup</key>
+	<string>removeProvider</string>
+</dict>
+</plist>

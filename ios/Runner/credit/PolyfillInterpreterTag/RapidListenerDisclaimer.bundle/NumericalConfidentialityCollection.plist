@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentAlpha</key>
+	<string>attachMovement</string>
+	<key>discardedAudio</key>
+	<string>baselineMemento</string>
+	<key>hierarchicalLayout</key>
+	<string>diversifiedPlayback</string>
+	<key>relationalSymbol</key>
+	<string>canRouteConvolution</string>
+	<key>secondRole</key>
+	<string>positionFacade</string>
+	<key>shouldContinueMaster</key>
+	<string>repositorySkewX</string>
+	<key>trajectoryHead</key>
+	<string>shouldEncodeInteger</string>
+</dict>
+</plist>

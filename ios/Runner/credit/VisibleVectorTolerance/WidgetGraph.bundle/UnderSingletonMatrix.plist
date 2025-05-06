@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constantShape</key>
+	<string>resolverquaternion</string>
+	<key>difficultMaster</key>
+	<string>sceneVelocity</string>
+	<key>enabledobserver</key>
+	<string>scenarioDensity</string>
+	<key>entityDensity</key>
+	<string>integerType</string>
+	<key>labelAcceleration</key>
+	<string>iconprogressbar</string>
+	<key>sorterSaturation</key>
+	<string>destroyRequest</string>
+</dict>
+</plist>

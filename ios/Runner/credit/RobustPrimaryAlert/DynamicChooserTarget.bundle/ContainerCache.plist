@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>augmentactivity</key>
+	<string>animationresponse</string>
+	<key>granularpopupopacity</key>
+	<string>resilientNavigator</string>
+	<key>independentAppBar</key>
+	<string>associatedCapsule</string>
+	<key>mobileTimeline</key>
+	<string>showMenu</string>
+</dict>
+</plist>

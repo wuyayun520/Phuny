@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronouspreview</key>
+	<string>canTransformInteger</string>
+	<key>behaviortag</key>
+	<string>shouldFormatFuture</string>
+	<key>injectview</key>
+	<string>cupertinomode</string>
+	<key>originalSubscription</key>
+	<string>autoCubit</string>
+	<key>originaltask</key>
+	<string>shouldSkipIcon</string>
+	<key>parallelChart</key>
+	<string>cupertinoAllocator</string>
+	<key>shouldDispatchLogarithm</key>
+	<string>autoPosition</string>
+	<key>shouldpublishmusic</key>
+	<string>fixedSensor</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basespacing</key>
+	<string>statelessConfidentiality</string>
+	<key>ignoredController</key>
+	<string>canPersistProject</string>
+	<key>modeltiertint</key>
+	<string>adaptiveAspect</string>
+	<key>monsterTop</key>
+	<string>tabbarMethod</string>
+	<key>smartRole</key>
+	<string>chooserBound</string>
+	<key>symbolvisible</key>
+	<string>agilePolyfill</string>
+</dict>
+</plist>

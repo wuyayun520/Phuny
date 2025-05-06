@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleMobile</key>
+	<string>customizedQuaternion</string>
+	<key>descriptionkinddirection</key>
+	<string>canDisconnectMovement</string>
+	<key>disabledAspect</key>
+	<string>emitCell</string>
+	<key>listviewanimation</key>
+	<string>commonSensor</string>
+	<key>scopeMomentum</key>
+	<string>gradientCycle</string>
+	<key>shouldUnmountedListView</key>
+	<string>shouldLayoutTangent</string>
+</dict>
+</plist>

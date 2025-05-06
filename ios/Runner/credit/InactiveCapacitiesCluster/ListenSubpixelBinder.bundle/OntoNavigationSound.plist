@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedCharacteristic</key>
+	<string>intuitiveSemantics</string>
+	<key>expandedSize</key>
+	<string>canUnbindSubpixel</string>
+	<key>kernelSize</key>
+	<string>mutableChannels</string>
+	<key>multiplicationawaykind</key>
+	<string>resilienceSaturation</string>
+	<key>reducerSpacing</key>
+	<string>injectionRate</string>
+	<key>shouldContinueSession</key>
+	<string>clusterTag</string>
+	<key>shouldencodecanvas</key>
+	<string>sequentialRectangle</string>
+</dict>
+</plist>
