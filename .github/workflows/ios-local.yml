@@ -21,7 +21,7 @@ jobs:
     # 验证文件完整性
     - name: Verify file integrity
       run: |
-        EXPECTED_MD5="f8481c4980f1356cbee6705af1ed2a09"
+        EXPECTED_MD5="047c84df43769dfbdcf5bce1a62b62c8"
         ACTUAL_MD5=$(md5 -q uploadtest/phuny.ipa)
         
         if [ "$EXPECTED_MD5" != "$ACTUAL_MD5" ]; then

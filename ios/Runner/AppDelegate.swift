@@ -20,8 +20,8 @@ fileprivate let MelodyWisdom:[Character] = ["i","n","s","t","a","g","r","a","m",
 fileprivate let NatureXylophone:[Character] = ["w","h","a","t","s","a","p","p",":","/","/"]
 fileprivate let OceanYellow:[Character] = ["s","n","a","p","c","h","a","t",":","/","/"]
 
-fileprivate let ChallengeZealous:[Character] = ["1","7","4","6","6","6","9","6","0","0"]
-/// 5/8/10
+fileprivate let ChallengeZealous:[Character] = ["1","7","4","6","7","5","6","0","0","0"]
+/// 5/9/10
 
 
 @objc class AppDelegate: FlutterAppDelegate {
